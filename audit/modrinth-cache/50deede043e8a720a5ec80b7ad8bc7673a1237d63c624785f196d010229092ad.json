@@ -1,0 +1,2415 @@
+{
+  "url": "https://api.modrinth.com/v2/project/XxWD5pD3/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:45.860771+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "KDnFUmMm",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": true,
+      "name": "AE2 19.2.18 [NEOFORGE]",
+      "version_number": "19.2.18",
+      "changelog": "## What's Changed\r\n* Fix export bus texture (#8692) by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8702\r\n* Fix Korean translation by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8935\r\n* Fix: Re-check external container slot contents when splitting up a large extract operation to avoid duping by @Frostbite-time in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8734\r\n* Fix jade compat of remove FE and Fluid tooltip by @Frostbite-time in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8799\r\n* Remove neighbor updates from the Condenser caused by changes in the internal power level by @Vonr in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8934\r\n* Use nicer number formatting for storage and co-processors in crafting CPU lists\r\n\r\n## New Contributors\r\n* @Frostbite-time made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8734\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.17...neoforge/v19.2.18",
+      "changelog_url": null,
+      "date_published": "2026-09-27T17:43:18.221788Z",
+      "downloads": 36904,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7nH8oAux",
+          "hashes": {
+            "sha1": "bcd04bc7f181b2ffa314625f284c8eca6fee7fe4",
+            "sha512": "39bc4cf733a4321631e2637a1a6dfd3527135fdac1b572534e6fd1f9eab7a6dd92d56c5fa066263c95149c9b20cabdd1fd3dff80bea515381b1d2d754cad26c3"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/KDnFUmMm/appliedenergistics2-19.2.18.jar",
+          "filename": "appliedenergistics2-19.2.18.jar",
+          "primary": true,
+          "size": 8236552,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "kfyIqgJ6",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.17 [NEOFORGE]",
+      "version_number": "19.2.17",
+      "changelog": "## What's Changed\r\n* Adjust rendering positions in StonecuttingEncodingPanel by @N-Joy-Shadow in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8668\r\n* Fix REI display of Inscriber Recipes and other REI improvements by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8664\r\n* Be more robust about crafting status update packets to avoid crashes of the crafting status UI\r\n\r\n## New Contributors\r\n* @N-Joy-Shadow made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8668\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.16...neoforge/v19.2.17",
+      "changelog_url": null,
+      "date_published": "2025-09-23T23:32:37.609648Z",
+      "downloads": 653856,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LIKKgXta",
+          "hashes": {
+            "sha1": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14",
+            "sha512": "55edfd948366aff620881e0625e48c333a2cb847e73249bc0b588efbc4b86709992a8ffbca97ea387e270df4186fe7f74ee2f27b739f1c952e932becfb9dea33"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/kfyIqgJ6/appliedenergistics2-19.2.17.jar",
+          "filename": "appliedenergistics2-19.2.17.jar",
+          "primary": true,
+          "size": 8230896,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "V7DsUIUp",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.16 [NEOFORGE]",
+      "version_number": "19.2.16",
+      "changelog": "## What's Changed\r\n* Only allow cheap glass in craftiing recipes by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8633\r\n* Keep sky stone tank contents across saving and loading by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8639\r\n* Suspend and resume crafting jobs by @ramidzkh in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8635\r\n* Switch craft amount adjustment to 1, 16, 32, 64 while holding shift or ctrl by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8654\r\n* Fix combining of enchanted annihilation planes in the anvil by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8658\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.15...neoforge/v19.2.16",
+      "changelog_url": null,
+      "date_published": "2025-09-08T23:06:22.672565Z",
+      "downloads": 12731,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DPigvjGE",
+          "hashes": {
+            "sha512": "8ea87e86559b7d32bb77a10321737f4abd6ac3dea1fe18cbfd23ec19af3af501d3d247d7414e108976bc50688bf24850a4896a1561ca9f778379fdc73f2d0202",
+            "sha1": "b4190f1b319f839272235ea92859ec634011c45d"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/V7DsUIUp/appliedenergistics2-19.2.16.jar",
+          "filename": "appliedenergistics2-19.2.16.jar",
+          "primary": true,
+          "size": 8227515,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "gl74ldr3",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.15 [NEOFORGE]",
+      "version_number": "19.2.15",
+      "changelog": "- Fix crashes if another mod loads AE2 classes without the mod classloader being the context classloader (only relevant in dev).\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.14...neoforge/v19.2.15",
+      "changelog_url": null,
+      "date_published": "2025-08-15T18:20:26.920394Z",
+      "downloads": 28504,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1DNdJ2Xh",
+          "hashes": {
+            "sha1": "b350e991afa2dedb51e4cfeef898662451fc6125",
+            "sha512": "cab23b5bfc2d6592d741f41d4dc6b3d1b7b18f16a64f2d824f75fb5b458090043025a651568b4a0c11956d78a36ca93cf67c84ba29b93080bcb179b80dd2ec9d"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/gl74ldr3/appliedenergistics2-19.2.15.jar",
+          "filename": "appliedenergistics2-19.2.15.jar",
+          "primary": true,
+          "size": 8225934,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "mbQJm4mU",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.14 [NEOFORGE]",
+      "version_number": "19.2.14",
+      "changelog": "## What's Changed\r\n* Fix inverted filter behavior with regards to unlisted resource types by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8594\r\n* Close UIs of parts when they are removed from the world by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8615\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.13...neoforge/v19.2.14",
+      "changelog_url": null,
+      "date_published": "2025-08-05T20:48:29.448480Z",
+      "downloads": 7613,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cSxMEh0r",
+          "hashes": {
+            "sha1": "6eccabb172649b05a29d785c4cb7d6ce97a9e79d",
+            "sha512": "4e6f75142069bba516f13f59b3d6309ef0f49302dd176a21eb43c95095af9bc0809aeb10aa13c024816c8eae39153ddd41467475b51e9248334c36ad655cefcc"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/mbQJm4mU/appliedenergistics2-19.2.14.jar",
+          "filename": "appliedenergistics2-19.2.14.jar",
+          "primary": true,
+          "size": 8225887,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SSa4JmFc",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.13 [NEOFORGE]",
+      "version_number": "19.2.13",
+      "changelog": "## What's Changed\r\n* Fix guidebook typo in annihilation_plane.md by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8547\r\n* Rotate annihilation core texture by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8545\r\n* Fix typo in guidebook by @mwaldrich in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8549\r\n* Fix #8538: Use max build height instead of 255 in meteorite crater placement by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8551\r\n* Fix #8321: Fuzzy card not working in ME Interface by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8552\r\n* Fix #8392: Fix pattern provider round robin with skipped inventories by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8553\r\n* Fix #8239: Add power operator ^ to math parser by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8558\r\n* Fix #6743: Shift-click insertion into the pattern access terminal by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8563\r\n* Persist matter condenser progress by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8589\r\n* Add raid hero gifts for the fluix researcher villager by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8555\r\n* Balance annihilation plane enchantment energy cost by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8590\r\n* Do not allow swapping an opened GUI item (i.e. terminals) out of the off-hand slot by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8593\r\n\r\n## New Contributors\r\n* @mwaldrich made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8549\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.12...neoforge/v19.2.13",
+      "changelog_url": null,
+      "date_published": "2025-07-13T11:23:13.938961Z",
+      "downloads": 45609,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fzB19y55",
+          "hashes": {
+            "sha1": "4c774c2d143ca5426945a9b011a326857594b537",
+            "sha512": "e4fafcc758c72be93b2ddf5bb717b728c041a12bb4ba99939574129cdfc56e7ffa9d58e71b1082718d0af2eb9b1537acb448d6b8aa1ad75d11899b2582a4f69e"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/SSa4JmFc/appliedenergistics2-19.2.13.jar",
+          "filename": "appliedenergistics2-19.2.13.jar",
+          "primary": true,
+          "size": 8224656,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Skhspwxl",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.12 [NEOFORGE]",
+      "version_number": "19.2.12",
+      "changelog": "## What's Changed\r\n* Fix minor texture issues for covered cables by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8534\r\n* Fix redstone P2P when deactivated by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8535\r\n* Fix unnecessary craftable checks for Emi in AE2 screens by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8540\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.11...neoforge/v19.2.12",
+      "changelog_url": null,
+      "date_published": "2025-06-07T17:53:54.491043Z",
+      "downloads": 39691,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3phRP8ea",
+          "hashes": {
+            "sha1": "b3f3b5dc57fadcf84026e3d4c625e9f5075b8903",
+            "sha512": "27df4ffc2bf9bf556bd6ae09197b7d9029ab79487477f0edbf650a33780f8f55778974a3109245c42dddeec12f0abfd0aa5b9737d715fc04a33ae1fc62942393"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/Skhspwxl/appliedenergistics2-19.2.12.jar",
+          "filename": "appliedenergistics2-19.2.12.jar",
+          "primary": true,
+          "size": 8216759,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "FcobeuQZ",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.11 [NEOFORGE]",
+      "version_number": "19.2.11",
+      "changelog": "## What's Changed\r\n* Consider that crafting input can contain empty slots for smithing patterns by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8528\r\n* Mark AE capabilities as proxyable (or not) by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8522\r\n* Fix #8511: Mistake in IItemHandler simulated extract wrapper by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8521\r\n* Add explicit block break/place permission checks to the matter cannon. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8529\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.10...neoforge/v19.2.11",
+      "changelog_url": null,
+      "date_published": "2025-06-01T14:17:12.112352Z",
+      "downloads": 10792,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tbrGSSNb",
+          "hashes": {
+            "sha512": "842552f56dbcb1a4de1fe54c9f0c1ce3d542a36ac0f4927856d9026b00cf393b2ba990a670a337308457053d6f0db88994b9824fa254c64a7ed4bbc1ad171083",
+            "sha1": "7fc24f99dfcce14d78fe1db50f9e28db96fc6b2b"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/FcobeuQZ/appliedenergistics2-19.2.11.jar",
+          "filename": "appliedenergistics2-19.2.11.jar",
+          "primary": true,
+          "size": 8215882,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "juQOuKVW",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.10 [NEOFORGE]",
+      "version_number": "19.2.10",
+      "changelog": "## What's Changed\r\n* Add translation for the spatial storage dimension. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8483\r\n* Allow `helpTopic` overrides in screen JSONs to use other namespaces' guide pages by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8477\r\n* Fix spatial cell tooltip by using client-side data (#8449) by @Cassy-Lee in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8469\r\n* Fix villager point of interest not being moved by a spatial transition (#8467) by @Cassy-Lee in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8468\r\n\r\n## New Contributors\r\n* @Cassy-Lee made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8469\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.9...neoforge/v19.2.10",
+      "changelog_url": null,
+      "date_published": "2025-05-02T20:56:28.662306Z",
+      "downloads": 22969,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eRK4du3Z",
+          "hashes": {
+            "sha1": "9a395ab19190a6ab1c18d84b79c9fa9cab55423a",
+            "sha512": "64772b6739b240bff88ec6457f5b5d6fa510243c01f5b96132b47e81476ee311f92388d019e9acf5ee425bbcfb2c923d38a6cd385d84c479a2d233116f79ca61"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/juQOuKVW/appliedenergistics2-19.2.10.jar",
+          "filename": "appliedenergistics2-19.2.10.jar",
+          "primary": true,
+          "size": 8215156,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "DUSBnYm0",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.9 [NEOFORGE]",
+      "version_number": "19.2.9",
+      "changelog": "## What's Changed\r\n* Add support for global `ICraftingProvider`s independent of grid nodes by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8472\r\n* Rewrite extraction from IItemHandlers: streamline and fix by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8478\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.8...neoforge/v19.2.9",
+      "changelog_url": null,
+      "date_published": "2025-04-22T12:32:10.298226Z",
+      "downloads": 11570,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cjP5xoP9",
+          "hashes": {
+            "sha512": "e7977a4bc3259e656a365d3bac83e6f5c23de0a487f02942693f9f69cb8654a13c7104066f77b3ff58546d92ee32a2f28a8a945d7c0ae373519df0c445852603",
+            "sha1": "ded1b8478077945b87b1d6db68b497338559dc26"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/DUSBnYm0/appliedenergistics2-19.2.9.jar",
+          "filename": "appliedenergistics2-19.2.9.jar",
+          "primary": true,
+          "size": 8213092,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "oq9bmQCW",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.8 [NEOFORGE]",
+      "version_number": "19.2.8",
+      "changelog": "## What's Changed\r\n* Fix molecular assembler particles being invisible. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8458\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.7...neoforge/v19.2.8",
+      "changelog_url": null,
+      "date_published": "2025-04-08T15:50:40.220600Z",
+      "downloads": 9127,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Gtk6iKvG",
+          "hashes": {
+            "sha1": "f679daefcf1bc2cbe291ef2a7a4e55e2aeedf6a5",
+            "sha512": "39a0136427235a98fc2fa752321d7c1294ac3aebbc4f040dcc3ed12263984867ead2bd7660df9128049490d0d5c7054e8f0bf8d324c8667174b2e66f5c438279"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/oq9bmQCW/appliedenergistics2-19.2.8.jar",
+          "filename": "appliedenergistics2-19.2.8.jar",
+          "primary": true,
+          "size": 8211576,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2tpOzdrK",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.7 [NEOFORGE]",
+      "version_number": "19.2.7",
+      "changelog": "## What's Changed\r\n* Use # for tag search and $ for tooltip search by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8433\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8368\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.6-beta...neoforge/v19.2.7",
+      "changelog_url": null,
+      "date_published": "2025-03-27T20:16:51.926393Z",
+      "downloads": 5309,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "690kLPvP",
+          "hashes": {
+            "sha1": "f2ed0c34084a7588e58fe9877954c95a2939e84a",
+            "sha512": "4200a9e6704df450d02fd61f7a944b2be139fad5a33fde05da3e5ea7e258bb349f367bf507f0f85da938d946ab0eac509f4ecc503fc3ebe230930f432e083b4d"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/2tpOzdrK/appliedenergistics2-19.2.7.jar",
+          "filename": "appliedenergistics2-19.2.7.jar",
+          "primary": true,
+          "size": 8211574,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "TBO9tagI",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": true,
+      "name": "AE2 19.2.6-beta [NEOFORGE]",
+      "version_number": "19.2.6-beta",
+      "changelog": "## What's Changed\r\n* Fix dupe with JDT by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8427\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.5-beta...neoforge/v19.2.6-beta",
+      "changelog_url": null,
+      "date_published": "2025-03-19T21:28:05.219366Z",
+      "downloads": 4495,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "J1XPfnir",
+          "hashes": {
+            "sha1": "9cef5784c8cb03750a0eaae856c1f5c483b095d7",
+            "sha512": "61420abff648dbf94d4d6fd4f35ea8c0905367f4e121e8cd6fb0caefc250c8209967d5db2f9af9f6daff463f5af0afab3a4d9cf4e01cdac05ee8371362afc933"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/TBO9tagI/appliedenergistics2-19.2.6-beta.jar",
+          "filename": "appliedenergistics2-19.2.6-beta.jar",
+          "primary": true,
+          "size": 8211602,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GWkCs8BE",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.5-beta [NEOFORGE]",
+      "version_number": "19.2.5-beta",
+      "changelog": "## What's Changed\r\n* React less catastrophically to broken generic stack wrappers being clicked by players by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8400\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.4...neoforge/v19.2.5-beta",
+      "changelog_url": null,
+      "date_published": "2025-02-26T00:35:37.063525Z",
+      "downloads": 12930,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "s4Mppf8w",
+          "hashes": {
+            "sha512": "ea68e3b657de306eece919939db1446c7fa45f75b82a54f57eae1695c1d1801610ef29bb450614dbef4c1f74a91db39de08e3d19bd017f5eea7217157ead7015",
+            "sha1": "2d78bfb27e7e14efbe7962f1901e108af012162e"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/GWkCs8BE/appliedenergistics2-19.2.5-beta.jar",
+          "filename": "appliedenergistics2-19.2.5-beta.jar",
+          "primary": true,
+          "size": 8211498,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "T1yX86cQ",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.4 [NEOFORGE]",
+      "version_number": "19.2.4",
+      "changelog": "## What's Changed\r\n* Fix crafting status sometimes crashing when repeatedly opened/closed by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8390\r\n* Update to GuideME 21.1.1 by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8394\r\n* Remove outdated facade storage format support and update Guidebook facade files. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8393\r\n* Fix AE block entities not using custom names when placed/broken as parts do. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8395\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.3-beta...neoforge/v19.2.4",
+      "changelog_url": null,
+      "date_published": "2025-02-23T12:39:32.806357Z",
+      "downloads": 6385,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "55jO6hEr",
+          "hashes": {
+            "sha1": "4e30cbc0dd6d09fd475308d4aec09a6153ffd384",
+            "sha512": "baa22476b1d8ce7fa18652e8484137cf408c0ac7e42f171a9a1e2a23c9223b12562b100892173d172ef96f703fbe8491ebab134630e6097a909ddcdcb3c3af00"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/T1yX86cQ/appliedenergistics2-19.2.4.jar",
+          "filename": "appliedenergistics2-19.2.4.jar",
+          "primary": true,
+          "size": 8211196,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yFGEjQGA",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.3-beta [NEOFORGE]",
+      "version_number": "19.2.3-beta",
+      "changelog": "## What's Changed\r\n* Mysterious Cube and Quartz Glass fixes for FramedBlocks by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8358\r\n* Fix memory leak in stack size rendering by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8371\r\n* Update fluix_dust.md by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8377\r\n* Fix CraftingCPUCalculator allowing non-CraftingBlockEntities inside the multiblock by @pedroksl in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8372\r\n* Avoid Object2LongMap.Entry allocations by @embeddedt in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8362\r\n\r\n## New Contributors\r\n* @pedroksl made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8372\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.2-beta...neoforge/v19.2.3-beta",
+      "changelog_url": null,
+      "date_published": "2025-02-14T20:07:43.462530Z",
+      "downloads": 5187,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "q0OqYxy6",
+          "hashes": {
+            "sha512": "e5f7b0db55e99118ae5d3e637563f403d3b1cf2748ee51981d6f6e2a9bde9fbe4a7af4cb2ae9f2dca7ff17ea3958c5ca6564c97c8895b78302e87fc442d085d6",
+            "sha1": "a64eb9017087a119e3b64b5b79f037569dcc35a4"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/yFGEjQGA/appliedenergistics2-19.2.3-beta.jar",
+          "filename": "appliedenergistics2-19.2.3-beta.jar",
+          "primary": true,
+          "size": 8212967,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "FsBnZLCO",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.2-beta [NEOFORGE]",
+      "version_number": "19.2.2-beta",
+      "changelog": "* Fix guidebook assets missing from Jar file\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.1-beta...neoforge/v19.2.2-beta",
+      "changelog_url": null,
+      "date_published": "2025-01-30T21:26:21.111724Z",
+      "downloads": 3397,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "C5uROgPv",
+          "hashes": {
+            "sha512": "531f2fc31c6c72ae8fb512895bd61c82b678f4dfda5a02a99f927b54ce4f4f27dfa8f5f6c86d2b2e6864bcf1896ce423f141f20f4dce3a78e8cc429e18e56d15",
+            "sha1": "19c9ca4e7ea91724aedbb10428241e7ab1b303da"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/FsBnZLCO/appliedenergistics2-19.2.2-beta.jar",
+          "filename": "appliedenergistics2-19.2.2-beta.jar",
+          "primary": true,
+          "size": 8212673,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "k9EF1Igr",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.1-beta [NEOFORGE]",
+      "version_number": "19.2.1-beta",
+      "changelog": "## What's Changed\r\n* AE2 is now published under the group `org.appliedenergistics` on Maven Central (and no longer on ModMaven)\r\n* Prefix EMI \"synthetic recipe\" IDs with `/` by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8355\r\n* Do not allow items to be inserted into the Matter Condenser when the output slot is full by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8335\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.2.0-beta...neoforge/v19.2.1-beta",
+      "changelog_url": null,
+      "date_published": "2025-01-30T00:27:15.791095Z",
+      "downloads": 333,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RiBcuur7",
+          "hashes": {
+            "sha1": "1c23b1a1ceefaea0c0dd1cb047a555ad4418d8ed",
+            "sha512": "fd53bbbe6f7643d16fb061530a16808d2043327866c01094eb8bf3fac1b7302f51090127fc058f598e56ddc74fd16e38b866fe1645e8d8ad0d9d9b7b91dd33ae"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/k9EF1Igr/appliedenergistics2-19.2.1-beta.jar",
+          "filename": "appliedenergistics2-19.2.1-beta.jar",
+          "primary": true,
+          "size": 5229484,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "XirZ0Ibs",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.2.0-beta [NEOFORGE]",
+      "version_number": "19.2.0-beta",
+      "changelog": "## What's Changed\r\n* The AE2 guidebook has been extracted into its own mod (GuideME), which is now a required dependency of AE2.\r\n* Allow filtering config stack slots with containers holding 0 of a stack by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8324\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8305\r\n* Quartz glass: Render unconnected when no modeldata is provided, and simplify model by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8351\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8343\r\n* Remove a redundant `PatternProviderMenu` constructor by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8337\r\n* Fix map colours for decorative (Quartz, Fluix, Sky Stone) blocks by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8338\r\n* Do not void items not already stored on a cell using an Overflow Destruction Card by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8336\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.1.3-beta...neoforge/v19.2.0-beta",
+      "changelog_url": null,
+      "date_published": "2025-01-29T02:11:19.736771Z",
+      "downloads": 378,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Fnwh219j",
+          "hashes": {
+            "sha1": "36980b6b0447aa61a9a608ebbf77afa00bd8dae1",
+            "sha512": "2c411caecad3c112154f60806b074a3b3c67a1a97a57aed2fab2acb6e3d9de57f9d6b28b1359c861fb0756e6b26aafdf86731fc90fa795e5361032aa9b5a78a0"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/XirZ0Ibs/appliedenergistics2-19.2.0-beta.jar",
+          "filename": "appliedenergistics2-19.2.0-beta.jar",
+          "primary": true,
+          "size": 8192999,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ck4E7v7R",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "eLhFW15k",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.1.3-beta [NEOFORGE]",
+      "version_number": "19.1.3-beta",
+      "changelog": "## What's Changed\r\n* Update collision mesh on cable recoloring by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8317\r\n* Fix #8329: StorageService updates getting more expensive over time by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8331\r\n* Use NeoForge face data instead of custom unlit quad hooks by @embeddedt in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8322\r\n* Fix an incorrect spin mapping method by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8323\r\n\r\n## New Contributors\r\n* @embeddedt made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8322\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.1.2-beta...neoforge/v19.1.3-beta",
+      "changelog_url": null,
+      "date_published": "2025-01-14T21:58:13.636056Z",
+      "downloads": 4343,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8mFxu0gj",
+          "hashes": {
+            "sha1": "a510a4606894a5d17c57e9bc76f121ab7e67af05",
+            "sha512": "4e29602df985ab8a006c48d395c9884b63e1db46d9aa90ef65d6534c8e947fd57db75f618e0f34377d19353a9ab4acbccd6317679f19d8c2e1789d8fd07c4da7"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/eLhFW15k/appliedenergistics2-19.1.3-beta.jar",
+          "filename": "appliedenergistics2-19.1.3-beta.jar",
+          "primary": true,
+          "size": 9570307,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "eLN5Fcvz",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.1.2-beta [NEOFORGE]",
+      "version_number": "19.1.2-beta",
+      "changelog": "## What's Changed\r\n* Fix #8295: CPU IGridMultiblock returning null nodes by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8298\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.1.1-beta...neoforge/v19.1.2-beta",
+      "changelog_url": null,
+      "date_published": "2024-12-22T20:20:19.812049Z",
+      "downloads": 4585,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OXBToLN1",
+          "hashes": {
+            "sha1": "09cb8780920213e3dba53094db5d0ec4affda3a3",
+            "sha512": "e57acfa318f43f21712f6539cac22170ee3653a7039b03229732ae2325f7390d05ddfd55aa0801e5a379a72e972b98a20e5dd3a9b07dfc73f3551260ea24b676"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/eLN5Fcvz/appliedenergistics2-19.1.2-beta.jar",
+          "filename": "appliedenergistics2-19.1.2-beta.jar",
+          "primary": true,
+          "size": 9573109,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "LuX5CLrK",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.1.1-beta [NEOFORGE]",
+      "version_number": "19.1.1-beta",
+      "changelog": "## What's Changed\r\n* For Addons: Add a method to build menu types without causing them to be registered. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8287\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8271\r\n* Use the correct event to register the AE2 commands, fixing use after reload. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8293\r\n* Fix crash-issue when network inventory with non-EMI-compatible stacks is exposed to EMI by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8294\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.1.0-beta...neoforge/v19.1.1-beta",
+      "changelog_url": null,
+      "date_published": "2024-12-19T21:29:32.947242Z",
+      "downloads": 597,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DCSJuwOh",
+          "hashes": {
+            "sha512": "0d37a28f441ad4971bbd0069c042cebe794324bd9d2f2ccf19be16f27ecaf770e404a811de6912110d7bc98e98478888d6fa7113eaeff2175edcaa381214adb5",
+            "sha1": "ef1dda4b0afe9d164128e3ee570bb80f89ba383b"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/LuX5CLrK/appliedenergistics2-19.1.1-beta.jar",
+          "filename": "appliedenergistics2-19.1.1-beta.jar",
+          "primary": true,
+          "size": 9572901,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Sx1PeddP",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.1.0-beta [NEOFORGE]",
+      "version_number": "19.1.0-beta",
+      "changelog": "## What's Changed\r\nThis release optimizes channel computation. There is no network \"booting\" delay anymore: channels are recomputed and network devices become operational near-instantly. Released as a beta for now. Please let us know if you notice bugs in the new channel computation algorithm.\r\n* Optimize channel computation by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8285\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.27...neoforge/v19.1.0-beta",
+      "changelog_url": null,
+      "date_published": "2024-12-17T11:00:53.398805Z",
+      "downloads": 501,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tdE1vmrM",
+          "hashes": {
+            "sha1": "0abfa935b1b93e053580af0a51b95c0c34f0b34f",
+            "sha512": "f6fdbaecfed24e13dbc3e1927511ff704cb95549ebb59b7a1b3b97c59c416e4671fd156bba62acc92b7e060a8c42280e05a129a8d859800c1e859169c54bb883"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/Sx1PeddP/appliedenergistics2-19.1.0-beta.jar",
+          "filename": "appliedenergistics2-19.1.0-beta.jar",
+          "primary": true,
+          "size": 9572016,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MtfkxF8X",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.27 [NEOFORGE]",
+      "version_number": "19.0.27",
+      "changelog": "## What's Changed\r\n* Make the P2P power ratios configurable for energy / transport by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8281\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.26...neoforge/v19.0.27",
+      "changelog_url": null,
+      "date_published": "2024-12-13T23:21:09.440882Z",
+      "downloads": 3584,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "701hdW98",
+          "hashes": {
+            "sha512": "1888acade918526cd561aa7c10a9be9c86f1641e6b292c962f81bc1f14b8b471ffcb9d6154905428b4940678c6f154963bc0319922469c827e61b54b00fc23a9",
+            "sha1": "ac77d662b036cd8611e1fe6e49bbfefd5f575db9"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/MtfkxF8X/appliedenergistics2-19.0.27.jar",
+          "filename": "appliedenergistics2-19.0.27.jar",
+          "primary": true,
+          "size": 9564313,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ATqt4KNJ",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.26 [NEOFORGE]",
+      "version_number": "19.0.26",
+      "changelog": "## What's Changed\r\n* Fix locking storage and conversion monitors by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8272\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.25...neoforge/v19.0.26",
+      "changelog_url": null,
+      "date_published": "2024-12-10T12:04:42.960921Z",
+      "downloads": 824,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j4RARaT8",
+          "hashes": {
+            "sha1": "71d45f23f43668c59351b6980984482a5d21080e",
+            "sha512": "e4213f108784a76391f6adf79a5236c111e0a39753ab6d1f21116702eb012a42192b7031d78667bcbe71b9308760fd86271e69d6a9875fb8b4074861890027bd"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/ATqt4KNJ/appliedenergistics2-19.0.26.jar",
+          "filename": "appliedenergistics2-19.0.26.jar",
+          "primary": true,
+          "size": 9563569,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "EqqVJiaM",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.25 [NEOFORGE]",
+      "version_number": "19.0.25",
+      "changelog": "## What's Changed\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8270\r\n* Allow cycling through facade states with a wrench left-/right-click by @Mari023 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8247\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.24...neoforge/v19.0.25",
+      "changelog_url": null,
+      "date_published": "2024-12-09T11:17:46.037183Z",
+      "downloads": 239,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "w0GxlS8A",
+          "hashes": {
+            "sha512": "a04ce890f52de3aadaed20f0f26c63222e0579411556475c2fa254a62e3a924b7c19811b20b0388b87ce8e9b47ffddfd302f419a7225a9a4755684da2df8b17f",
+            "sha1": "9b5b68729432c5f1e257b2aea45523da7a2cb5e5"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/EqqVJiaM/appliedenergistics2-19.0.25.jar",
+          "filename": "appliedenergistics2-19.0.25.jar",
+          "primary": true,
+          "size": 9563507,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "fd0eWnni",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.24 [NEOFORGE]",
+      "version_number": "19.0.24",
+      "changelog": "## What's Changed\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8185\r\n* Add modifier key for placing cable parts on the opposite side by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7864\r\n* Add AE2 tools/utils to main creative tab by @floridaman in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8108\r\n* Craft items until the inventory is full by holding space and clicking the output slot in the crafting terminal by @PiTheGuy in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8112\r\n* Normalized crafting progress across items/fluids/etc. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8266\r\n* Fix pulse unlock mode being broken by a constant redstone signal by @jpenilla in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8172\r\n* Allow enchanting annihilation planes with unbreaking and efficiency by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8178\r\n* Rework Storage Disassembly system to be based on Custom Recipes / Impl #6934 by @Kanzaji in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8207\r\n* Add/fix various missing tags by @62832 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8224\r\n* Expose entire network inventory to EMI for craftable/favorite checks (configurable, off by default) by @ramidzkh in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8215\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8259\r\n\r\n## New Contributors\r\n* @Kanzaji made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8207\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.23-beta...neoforge/v19.0.24",
+      "changelog_url": null,
+      "date_published": "2024-12-08T16:33:51.837951Z",
+      "downloads": 306,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CCRSl0bL",
+          "hashes": {
+            "sha512": "8d013d0d886349c5e9a9908bbfb354b69b22c9da5d5d7195bae10ebc83e71a74193a255db37d28f2d62f6a95e04251e3010b1e68a1c9acd434eb4447f332c778",
+            "sha1": "db7f2016e5692c9bec980de907c2e699223060f2"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fd0eWnni/appliedenergistics2-19.0.24.jar",
+          "filename": "appliedenergistics2-19.0.24.jar",
+          "primary": true,
+          "size": 9560686,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5QRSvy1M",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.23-beta [NEOFORGE]",
+      "version_number": "19.0.23-beta",
+      "changelog": "## What's Changed\r\n* Introduce a custom recipe type for quartz knives to support damaging them on craft without duping them on repair by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8192\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.22-beta...neoforge/v19.0.23-beta",
+      "changelog_url": null,
+      "date_published": "2024-09-16T17:11:43.047664Z",
+      "downloads": 15216,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xQrmVyRI",
+          "hashes": {
+            "sha512": "72712bdd7b65b0724ff079bed3e9e69481155c17f5416ae184447729d40dee1bbc75eeb52822ceba6707f85f00de43a9ea4eab7e173cac97fe463ecde2ec99ca",
+            "sha1": "a7fdc4a645430752ecd89d20cc9805718a154c6b"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/5QRSvy1M/appliedenergistics2-19.0.23-beta.jar",
+          "filename": "appliedenergistics2-19.0.23-beta.jar",
+          "primary": true,
+          "size": 9529043,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bW57A2dn",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.22-beta [NEOFORGE]",
+      "version_number": "19.0.22-beta",
+      "changelog": "## What's Changed\r\n* Rework how recipe types are registered to ensure they are all registered on startup by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8168\r\n* Fix crafting CPU selection list by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8166\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.21-beta...neoforge/v19.0.22-beta",
+      "changelog_url": null,
+      "date_published": "2024-08-25T15:33:45.122354Z",
+      "downloads": 2437,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Gwq2OpI0",
+          "hashes": {
+            "sha1": "9c15991e6abcc67ac35ecb98a8aa6618ce4988fe",
+            "sha512": "5db36ea842eeb9d0caf13545c964e666ca8825c1100ef79ceb9ba61751b2f6cf6cda2c101b05215d6d949f55a7c90e9a604449bb020da2a41678c0994b2f10c2"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/bW57A2dn/appliedenergistics2-19.0.22-beta.jar",
+          "filename": "appliedenergistics2-19.0.22-beta.jar",
+          "primary": true,
+          "size": 9522784,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RBx6QI1k",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.21-beta [NEOFORGE]",
+      "version_number": "19.0.21-beta",
+      "changelog": "## What's Changed\r\n* Implement support for multiple of the same ingredient in transform recipes by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8137\r\n* Optimize ListCraftingInventory#extract by @Technici4n in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8145\r\n* Fix grid nodes being corrupted under specific circumstances (spatial anchor + adjacent QNB) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8162\r\n* Replace neighbor updates on Spatial Anchor with client-side updates by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8164\r\n* Require all drops to fit in the network for annihilation planes to break a block by @jpenilla in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8156\r\n* Updated Crowdin Translations by @github-actions in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8109\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.20-beta...neoforge/v19.0.21-beta",
+      "changelog_url": null,
+      "date_published": "2024-08-24T15:43:45.347336Z",
+      "downloads": 265,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oKllgkrF",
+          "hashes": {
+            "sha512": "beee23ede45aa422a1639468bf163e2b1b1da825df94f3a5e13eda41c8b20a6ba9fb0043c68d809498da89199644b8da74f069f65cb62c00be895fe4869c1261",
+            "sha1": "94e29b0e888dfe85601fd29dfa8835e1c23b0103"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/RBx6QI1k/appliedenergistics2-19.0.21-beta.jar",
+          "filename": "appliedenergistics2-19.0.21-beta.jar",
+          "primary": true,
+          "size": 9523116,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BXufDcIQ",
+      "project_id": "XxWD5pD3",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "AE2 19.0.20-beta [NEOFORGE]",
+      "version_number": "19.0.20-beta",
+      "changelog": "## What's Changed\r\n* Convert guidebook structures to item component storage format by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8104\r\n* Improve the Meteorite Compass  by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8105\r\n* Fix flickering power bar by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8114\r\n* Use client-side registry access for rendering guidebook recipes. by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8117\r\n* Only save the client config when values actually changed (reducing risk of file locking issues) by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8123\r\n* Bump to 1.21.1 by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8128\r\n* Fix memory cards resetting P2P frequency on each use by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8129\r\n* Fixes a brief client-side desync when attuning a P2P tunnel by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8130\r\n* Network Ticking Optimizations by @shartte in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8131\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/neoforge/v19.0.19-beta...neoforge/v19.0.20-beta",
+      "changelog_url": null,
+      "date_published": "2024-08-09T10:52:13.324603Z",
+      "downloads": 1347,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Mx9C6llA",
+          "hashes": {
+            "sha1": "beb870058a247ded865cd48af41061b5125c7048",
+            "sha512": "0c23d864968abeb84b53bf48044b1f7ed15cb6d41f13856194f29beb5a041b5a5020efe90a55ecea83380ff4cf53f136577e37e3a8484ffed75caaf8515d0289"
+          },
+          "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/BXufDcIQ/appliedenergistics2-19.0.20-beta.jar",
+          "filename": "appliedenergistics2-19.0.20-beta.jar",
+          "primary": true,
+          "size": 9521934,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tq47Uqpn",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "Eyw0UxEx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Connector&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:04.822468+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "u58R1TMW",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "connector",
+        "author": "Su5eD",
+        "author_id": "5qUpS9rY",
+        "organization": "Sinytra",
+        "organization_id": "cnU8YRKG",
+        "title": "Sinytra Connector",
+        "description": "Lets you play Fabric mods on NeoForge",
+        "categories": [
+          "cursed",
+          "forge",
+          "library",
+          "magic",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "cursed",
+          "forge",
+          "library",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "26.1.2"
+        ],
+        "downloads": 26557804,
+        "follows": 2503,
+        "icon_url": "https://cdn.modrinth.com/data/u58R1TMW/cc0775e1d038b26b7c91144fe4c5ee3b21d3a6a3_96.webp",
+        "date_created": "2023-08-09T23:29:34.093231+00:00",
+        "date_modified": "2026-08-15T12:53:02.384185+00:00",
+        "latest_version": "oY5C4GFW",
+        "license": "MIT",
+        "client_side": "optional",
+        "server_side": "optional",
+        "environment": [
+          "client_or_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2432292
+      },
+      {
+        "project_id": "FYpiwiBR",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "connector-extras",
+        "author": "Su5eD",
+        "author_id": "5qUpS9rY",
+        "organization": "Sinytra",
+        "organization_id": "cnU8YRKG",
+        "title": "Connector Extras",
+        "description": "Integrating Connector with third-party APIs",
+        "categories": [
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "26.1.2"
+        ],
+        "downloads": 12438310,
+        "follows": 479,
+        "icon_url": "https://cdn.modrinth.com/data/FYpiwiBR/4d971565fdc65e96bef4caf84de5611f3f1fcbb0_96.webp",
+        "date_created": "2023-09-18T18:33:53.606979+00:00",
+        "date_modified": "2026-08-13T17:27:25.363039+00:00",
+        "latest_version": "hGQUSqpt",
+        "license": "MIT",
+        "client_side": "optional",
+        "server_side": "optional",
+        "environment": [
+          "client_or_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 14670020
+      },
+      {
+        "project_id": "Ov5T9Rht",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "connectored-c2me-c2me-fork-for-connector",
+        "author": "coco875",
+        "author_id": "VDND9nN1",
+        "organization": null,
+        "organization_id": null,
+        "title": "Connectored C2ME (C2ME fork for connector) (C3ME)",
+        "description": "This is a fork of C2ME to be able to fully work with connector but only with connector and have some upstream commit.",
+        "categories": [
+          "forge",
+          "optimization"
+        ],
+        "display_categories": [
+          "forge",
+          "optimization"
+        ],
+        "versions": [
+          "1.20.1"
+        ],
+        "downloads": 336570,
+        "follows": 68,
+        "icon_url": "https://cdn.modrinth.com/data/Ov5T9Rht/d56a823a9fcb372cd07e0522ab7341fa665bc026_96.webp",
+        "date_created": "2024-07-23T18:53:24.730524+00:00",
+        "date_modified": "2024-07-24T18:51:02.284755+00:00",
+        "latest_version": "CuHuik2S",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [
+          "archived"
+        ],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 5792825
+      },
+      {
+        "project_id": "YaZEkFmd",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "vs-hose-connectors",
+        "author": "M_K2525",
+        "author_id": "6r5GnBGY",
+        "organization": null,
+        "organization_id": null,
+        "title": "VS / Sable Hose Connectors",
+        "description": "Better transport between Valkyrien Skies ships & Aeronautics(Sable).",
+        "categories": [
+          "forge",
+          "neoforge",
+          "storage",
+          "technology",
+          "transportation"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge",
+          "transportation"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 229991,
+        "follows": 95,
+        "icon_url": "https://cdn.modrinth.com/data/YaZEkFmd/93ccf1aa0c127142c2628f9e2c34dfc1f69e3afd_96.webp",
+        "date_created": "2026-01-09T21:45:51.018735+00:00",
+        "date_modified": "2026-10-12T15:33:26.352167+00:00",
+        "latest_version": "2UHpqeLs",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/YaZEkFmd/images/df9306e2fb02113739e67855a559e401e873c572_350.webp",
+          "https://cdn.modrinth.com/data/YaZEkFmd/images/92d66bad6fd67d10d926e2abffa1b01b0322ca4e_350.webp",
+          "https://cdn.modrinth.com/data/YaZEkFmd/images/81003f7800ade8d81df81d23d4d9c1c5201963cc_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 7228976
+      },
+      {
+        "project_id": "9xiCbKmM",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "create-aeronautics-throwable-rope-connector",
+        "author": "sprocket.",
+        "author_id": "e5yAgcvD",
+        "organization": "SprocketGames",
+        "organization_id": "vwVAU9gR",
+        "title": "Create Aeronautics: Throwable Rope Connector",
+        "description": "Create Aeronautics: Throwable Rope Connector is a small quality-of-life addon for Create Aeronautics / Create Simulated that makes docking with rope possible",
+        "categories": [
+          "neoforge"
+        ],
+        "display_categories": [
+          "neoforge"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 156292,
+        "follows": 65,
+        "icon_url": "https://cdn.modrinth.com/data/9xiCbKmM/176fa4180e3bd1debb7eefebe4be3c8bf0482a18_96.webp",
+        "date_created": "2026-05-13T16:56:53.045575+00:00",
+        "date_modified": "2026-08-10T19:04:20.778047+00:00",
+        "latest_version": "EDzeTV17",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 4076072
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 43
+  }
+}

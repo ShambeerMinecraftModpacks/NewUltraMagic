@@ -1,0 +1,1093 @@
+{
+  "url": "https://api.modrinth.com/v2/project/Ua7DFN59/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:45.597006+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2prKITKh",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.9 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.9",
+      "changelog": "- Add an API for replacing vanilla structures in structure location utilities such as the `/locate` command.\n- Fix unsafe call to ServiceLoader#load.\n\nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!\n",
+      "changelog_url": null,
+      "date_published": "2026-09-16T11:24:46.968948Z",
+      "downloads": 164937,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IrPeVlV3",
+          "hashes": {
+            "sha512": "7e3cf0b429e8a1c51dca094c2d8eabf12245bb42cbcd8b6e3e54959f931bef93201b81a08d200b417059aaa438e8eb445c3978a09568597bfb588199b7775967",
+            "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+          "primary": true,
+          "size": 413763,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "GKQLlzpD",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.9 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.9",
+      "changelog": "- Add an API for replacing vanilla structures in structure location utilities such as the `/locate` command.\n- Fix unsafe call to ServiceLoader#load.\n\nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!\n",
+      "changelog_url": null,
+      "date_published": "2026-09-16T11:24:41.429098Z",
+      "downloads": 4617,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TCXa6pCA",
+          "hashes": {
+            "sha512": "7a32d130827b92393121415e0750c228c668cfeab5886a93b6060df9b9a3030919e11dc1006ff701be3822e5b2f35edc77d11cc4952b394f92c21ea00387d8f8",
+            "sha1": "ef881b92dc7f50d8ecd7805f4e194d45e6e3ad54"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/GKQLlzpD/YungsApi-1.21.1-Forge-5.1.9-all.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.9-all.jar",
+          "primary": true,
+          "size": 1054561,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "9rzwORd6",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.9 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.9",
+      "changelog": "- Add an API for replacing vanilla structures in structure location utilities such as the `/locate` command.\n- Fix unsafe call to ServiceLoader#load.\n\nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!\n",
+      "changelog_url": null,
+      "date_published": "2026-09-16T11:24:36.290781Z",
+      "downloads": 72407,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9qHwwob1",
+          "hashes": {
+            "sha1": "28f46d1f21cf5b1ccb2efbccda6ba66ab2168407",
+            "sha512": "5043333d42236c477f7269d4735ec1e0b782ccabf8152adfd2ed2767ebec9d22c5d05b7cb90464934241fc223b3d12ed4d786ac68b4b0dd46dfe5aa69149b4c3"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9rzwORd6/YungsApi-1.21.1-Fabric-5.1.9.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.9.jar",
+          "primary": true,
+          "size": 1284146,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "K3Dp2T0P",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.8 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.8",
+      "changelog": "- Revert some of the changes from 5.1.7 which caused incompatibilities with other mods, in particular Villages&Pillages.\n- Fix an incompatibility with Moog's Structure Lib.\n\nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!\n",
+      "changelog_url": null,
+      "date_published": "2026-08-21T20:00:05.058217Z",
+      "downloads": 194504,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hpRiGMh0",
+          "hashes": {
+            "sha512": "83520e057a949ed6e8dcee33984ae0eef83c2e57d001ffbbba0b51090176608f7378327ece773312543cd8cbb802f951b7c24b57f3ab6cf19d2be10b47af30d0",
+            "sha1": "eb5757e5cb387553ed4d342e7aecf5b7dcb384a0"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/K3Dp2T0P/YungsApi-1.21.1-NeoForge-5.1.8.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.8.jar",
+          "primary": true,
+          "size": 389834,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "r7MCcdl0",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.8 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.8",
+      "changelog": "- Revert some of the changes from 5.1.7 which caused incompatibilities with other mods, in particular Villages&Pillages.\n- Fix an incompatibility with Moog's Structure Lib.\n\nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!\n",
+      "changelog_url": null,
+      "date_published": "2026-08-21T19:59:59.096909Z",
+      "downloads": 3376,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Tb0KvmzM",
+          "hashes": {
+            "sha1": "82e4014967d7b3d0a862713cb4770fd86ba990ba",
+            "sha512": "9b0e4ef1f192f30c084101897f913de577d300f56c30ede874021895ca8a3ddb03edd4d989a58a408e0a003bea2a32bb540f2926a018ef68349a4487545e1ca5"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/r7MCcdl0/YungsApi-1.21.1-Forge-5.1.8.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.8.jar",
+          "primary": true,
+          "size": 399094,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "okaPlkwI",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.8 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.8",
+      "changelog": "- Revert some of the changes from 5.1.7 which caused incompatibilities with other mods, in particular Villages&Pillages.\n- Fix an incompatibility with Moog's Structure Lib.\n\nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!\n",
+      "changelog_url": null,
+      "date_published": "2026-08-21T19:59:53.761368Z",
+      "downloads": 199417,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kK9G8npS",
+          "hashes": {
+            "sha1": "236bc0bf7e907b25078a7c41300426443153138d",
+            "sha512": "7583d0f09197791faee281b30ec3370850d72f4006fef2e63c8478298220ef252a12ce999e7bc893f881ed108897f6cafd28d3742215cadba99c3b94eef3863a"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/okaPlkwI/YungsApi-1.21.1-Fabric-5.1.8.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.8.jar",
+          "primary": true,
+          "size": 1258598,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8Zmd0JGx",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.7 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.7",
+      "changelog": "Backported various changes from the API on 26.1.2:\n- Beardifier improvements  \n- Fix custom banner names and overhaul custom banners to make them closer to Ominous Banners  \n- Fix potential classloading order issue with AquiferOverride  \n- Fix classloading order issue that causes EnhancedTerrainAdaptation.NONE to be null when codecs are built  \n- Fix enhanced beardifier not running when vanilla beardifier's affectedBox is null  \n- Make sure there's only one instance of NoneAdaptation and NoneAquiferOverride, so that == checks work on them  \n  \nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2026-08-19T17:35:08.505883Z",
+      "downloads": 62877,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CZNYkYSm",
+          "hashes": {
+            "sha512": "149b0da464a65ffa28567a4a94bbbb764151fd9b17d2170302c14c9f76ff7f86f49b8478186ab1066e4cac7c31509b83a0c95292708698278130b7e25988e5c9",
+            "sha1": "1c2e7b0d294690f9ed5e6627ba28182605543654"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/8Zmd0JGx/YungsApi-1.21.1-NeoForge-5.1.7.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.7.jar",
+          "primary": true,
+          "size": 389951,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "h4ftQoE4",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.7 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.7",
+      "changelog": "Backported various changes from the API on 26.1.2:\n- Beardifier improvements  \n- Fix custom banner names and overhaul custom banners to make them closer to Ominous Banners  \n- Fix potential classloading order issue with AquiferOverride  \n- Fix classloading order issue that causes EnhancedTerrainAdaptation.NONE to be null when codecs are built  \n- Fix enhanced beardifier not running when vanilla beardifier's affectedBox is null  \n- Make sure there's only one instance of NoneAdaptation and NoneAquiferOverride, so that == checks work on them  \n  \nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2026-08-19T17:34:56.995660Z",
+      "downloads": 6734,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xMTrnhA7",
+          "hashes": {
+            "sha512": "0f667510e7039036b44e80b6814e057b43ae86dbfed44d4db08dd81a71869cac8f9dc26eda9c7338331adc173871af3cea98d0a61bfc8c507428b7b73d4f76e6",
+            "sha1": "27db40dccb52a18abaea5c50ba60ab2dde809d5a"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/h4ftQoE4/YungsApi-1.21.1-Fabric-5.1.7.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.7.jar",
+          "primary": true,
+          "size": 1258668,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "aLHldfg8",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.7 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.7",
+      "changelog": "Backported various changes from the API on 26.1.2:\n- Beardifier improvements  \n- Fix custom banner names and overhaul custom banners to make them closer to Ominous Banners  \n- Fix potential classloading order issue with AquiferOverride  \n- Fix classloading order issue that causes EnhancedTerrainAdaptation.NONE to be null when codecs are built  \n- Fix enhanced beardifier not running when vanilla beardifier's affectedBox is null  \n- Make sure there's only one instance of NoneAdaptation and NoneAquiferOverride, so that == checks work on them  \n  \nIf you like my mods, please consider supporting me on [Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2026-08-19T17:34:50.611Z",
+      "downloads": 316,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ORn7J0Dv",
+          "hashes": {
+            "sha1": "6e507e9c9e48af81ee75533bb945cbda0b38c4fb",
+            "sha512": "bd5e2f85ba8bc81b2903acfe350edc908783ca61b283d5c7e8f7bbbe7f31ccf125165ace9b6d2eb969b5d85cc636db316c975158493336b74126c5d44b307ace"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/aLHldfg8/YungsApi-1.21.1-Forge-5.1.7.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.7.jar",
+          "primary": true,
+          "size": 399211,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZB22DE9q",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.6 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.6",
+      "changelog": "A few adjustments to the AutoRegister API:  \n- Add various helper methods to the AutoRegisterEntityType.Builder, including for passenger attachment points. This mirrors vanilla behavior.  \n- Add getHolder() methods to AutoRegister MobEffect and Potion. Using these should help ensure smooth Potion registration without registry issues on Forge and NeoForge.  \n- AutoRegisterPotion now takes a Potion supplier to make it more consistent with other AutoRegister wrapper classes.  \n- AutoRegisterUtils.registerBrewingRecipe() now takes Holders as parameters instead of Suppliers.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-07-01T07:08:10.097748Z",
+      "downloads": 2678763,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XuGWwByy",
+          "hashes": {
+            "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d",
+            "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+          "primary": true,
+          "size": 388678,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "MSfdem3U",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.6 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.6",
+      "changelog": "A few adjustments to the AutoRegister API:  \n- Add various helper methods to the AutoRegisterEntityType.Builder, including for passenger attachment points. This mirrors vanilla behavior.  \n- Add getHolder() methods to AutoRegister MobEffect and Potion. Using these should help ensure smooth Potion registration without registry issues on Forge and NeoForge.  \n- AutoRegisterPotion now takes a Potion supplier to make it more consistent with other AutoRegister wrapper classes.  \n- AutoRegisterUtils.registerBrewingRecipe() now takes Holders as parameters instead of Suppliers.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-07-01T07:08:06.888681Z",
+      "downloads": 49044,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8zhvz3ha",
+          "hashes": {
+            "sha512": "c622eb3fe374d445eca5540b7fe596d4aa7279b308f63e17c72b5334e9d0d7ef9ea1fa71f25b89ef02c909d46cb1d1711c6227afd7b920bd3994323a4d6ec219",
+            "sha1": "e81b380da2539d5410c152b5301defed770123bb"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MSfdem3U/YungsApi-1.21.1-Forge-5.1.6.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.6.jar",
+          "primary": true,
+          "size": 397939,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "9aZPNrZC",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.6 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.6",
+      "changelog": "A few adjustments to the AutoRegister API:  \n- Add various helper methods to the AutoRegisterEntityType.Builder, including for passenger attachment points. This mirrors vanilla behavior.  \n- Add getHolder() methods to AutoRegister MobEffect and Potion. Using these should help ensure smooth Potion registration without registry issues on Forge and NeoForge.  \n- AutoRegisterPotion now takes a Potion supplier to make it more consistent with other AutoRegister wrapper classes.  \n- AutoRegisterUtils.registerBrewingRecipe() now takes Holders as parameters instead of Suppliers.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-07-01T07:08:03.374433Z",
+      "downloads": 1681037,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vhhsV9Ha",
+          "hashes": {
+            "sha512": "fc05fb3941851cfa5c8e89f98704938a5b0581f66fe3b1b0d83b2f46f1cb903e1e1070f40c92a82da91813b36452358d6b2df7dc42a275f459dc5030ea467cb6",
+            "sha1": "771a83c415c58ead861a6a7674c676e31d7573c0"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9aZPNrZC/YungsApi-1.21.1-Fabric-5.1.6.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.6.jar",
+          "primary": true,
+          "size": 1257492,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "r6h5nMGq",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.5 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.5",
+      "changelog": "- Add AutoRegisterParticleType.  \n- Add AutoRegister support for EntityDataSerializers.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-05-02T22:27:47.152960Z",
+      "downloads": 393174,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CktlJluQ",
+          "hashes": {
+            "sha512": "9aea63af84f2e4006d4bf30397f6f9a076747911eac8e13de4c0dd2c4bcea8d914aeb2121df96c0e37856e89b022572c58c4155fa878a84e4effc4999ec7668a",
+            "sha1": "707d9f9f7e1571bce42a3fe365374f18d4228de9"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/r6h5nMGq/YungsApi-1.21.1-NeoForge-5.1.5.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.5.jar",
+          "primary": true,
+          "size": 385307,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "gRJY0EjN",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.5 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.5",
+      "changelog": "- Add AutoRegisterParticleType.  \n- Add AutoRegister support for EntityDataSerializers.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-05-02T22:27:43.992692Z",
+      "downloads": 7738,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6cnt44Ga",
+          "hashes": {
+            "sha512": "68fb6b385561c34d50284ede9fa418ea74b9afe79cadff9dc2907444c7466dc1ee410ca83a13621c62131cdbfc7a597590efeadb952502cf8411fc43a093b11c",
+            "sha1": "47f9c74ec0066f954d7f416a33a893a85b163b42"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/gRJY0EjN/YungsApi-1.21.1-Forge-5.1.5.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.5.jar",
+          "primary": true,
+          "size": 395388,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "CbIBPwz2",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.5 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.5",
+      "changelog": "- Add AutoRegisterParticleType.  \n- Add AutoRegister support for EntityDataSerializers.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-05-02T22:27:40.786224Z",
+      "downloads": 360974,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EmypAMZe",
+          "hashes": {
+            "sha1": "5940f5089717d5a70346e497d346e9885ada2cdd",
+            "sha512": "58eefdbb8c126766e84fee4f8760c4e08c3dd37725fed2cb079bf41ba0e009f3964af2f2670515679c9ebfbe58eeedd331a833a7fe8622e000f9d8e77e885db8"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/CbIBPwz2/YungsApi-1.21.1-Fabric-5.1.5.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.5.jar",
+          "primary": true,
+          "size": 1255113,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "kWoI0jki",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.4 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.4",
+      "changelog": "- Fixed rare NullPointerException crash related to Jukeboxes being overwritten during worldgen.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-03-04T03:02:13.407297Z",
+      "downloads": 234493,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GM17RXsw",
+          "hashes": {
+            "sha512": "5255c69dd14412d5667dceb2dde5aabbbd26229955dbb98945faf2b0adb1089efa70c542d4fa400c8a4c878b7a7e5b60dd0eae2894d60cd681ff09f332349c50",
+            "sha1": "40d610bd994cf3c969af7d9cad62a0851ed80f5d"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/kWoI0jki/YungsApi-1.21.1-Fabric-5.1.4.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.4.jar",
+          "primary": true,
+          "size": 1249620,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "x20IZIXE",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.4 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.4",
+      "changelog": "- Fixed rare NullPointerException crash related to Jukeboxes being overwritten during worldgen.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-03-04T03:02:06.589086Z",
+      "downloads": 164518,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ev60RIkr",
+          "hashes": {
+            "sha512": "8c687d620a1654357c9ce45d11c3cb3ffd75a54ceb2ee50e849a4cc07e782c9bb8bae519077c24869b5556c5c409daf309dd8bce61da04dcc4c671aa90ba99e1",
+            "sha1": "f9a97da544b5a981c9a903e9cbe6fa703b3fee0c"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/x20IZIXE/YungsApi-1.21.1-NeoForge-5.1.4.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.4.jar",
+          "primary": true,
+          "size": 380570,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "fVwzTPig",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.4 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.4",
+      "changelog": "- Fixed rare NullPointerException crash related to Jukeboxes being overwritten during worldgen.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2025-03-04T03:01:52.692809Z",
+      "downloads": 7773,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Nno5p3XG",
+          "hashes": {
+            "sha1": "ba6d76670d123edddb65aa9481c893a3ed7d85f5",
+            "sha512": "a2a653997811ebc1b79535a531af6983cba9ece74aaeebf54438855eb1c629473564350bafc7e78ebc5c96f3354a875fe586709605fd66a8ee20ead1d9851cb3"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/fVwzTPig/YungsApi-1.21.1-Forge-5.1.4.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.4.jar",
+          "primary": true,
+          "size": 389041,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MoMQNZ94",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.3 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.3",
+      "changelog": "- Added structure tags for preventing spawning vanilla features in structures. Includes tags for basalt column, delta, magma, and vines.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-11-21T04:28:43.757605Z",
+      "downloads": 64520,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YiXsfmmW",
+          "hashes": {
+            "sha512": "0c7323c49ec9a2d91cdeabbd053de1654c0ecfa5b216a487116e39e43d0ff203f31e1239f0ef30910bf20a6d0fcbae16e27e9503514c4f5906c068a942f3abf6",
+            "sha1": "8e6ec539adabde8d7ea287c2603648b2018e59b0"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MoMQNZ94/YungsApi-1.21.1-NeoForge-5.1.3.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.3.jar",
+          "primary": true,
+          "size": 365185,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "97xRZcgc",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.3 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.3",
+      "changelog": "- Added structure tags for preventing spawning vanilla features in structures. Includes tags for basalt column, delta, magma, and vines.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-11-21T04:28:40.118569Z",
+      "downloads": 9258,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Zv6Izauv",
+          "hashes": {
+            "sha512": "0baf4423cfaf5da9b60d34eb9c1975603c4695b7c5bf6d6e4fba40d40006f8c05af985c00c5c21488e25b5baea6f492ddbeb3e1f00afa2c14d1301dec13b8338",
+            "sha1": "e4edb8b101baa268c1125306274df5b2956e9f77"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/97xRZcgc/YungsApi-1.21.1-Forge-5.1.3.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.3.jar",
+          "primary": true,
+          "size": 373655,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "DeaIlZ9A",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.3 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.3",
+      "changelog": "- Added structure tags for preventing spawning vanilla features in structures. Includes tags for basalt column, delta, magma, and vines.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-11-21T04:28:36.550596Z",
+      "downloads": 865772,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Crywffmo",
+          "hashes": {
+            "sha1": "e6937b6d090c2f12b53167583b91d12672f05ccc",
+            "sha512": "4a551855af660783f2e194c13320df04619eb381c71e2d1196eb67ff6c267aeb43242094b5ea471a835238a310fccb01eeb86a290f04d070bdab61b7909a0313"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/DeaIlZ9A/YungsApi-1.21.1-Fabric-5.1.3.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.3.jar",
+          "primary": true,
+          "size": 1233597,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "LMXPKbZf",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.2 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.2",
+      "changelog": "- Lowered minimum version requirements so it works on both 1.21 and 1.21.1  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-14T18:10:18.189295Z",
+      "downloads": 129234,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3yR8Qhs5",
+          "hashes": {
+            "sha512": "da0e102483a35b876bdfcd362cec2a3412ba0573e27a51ffd874b3dae69f0c3e37f17bef7c6467e21159cf1fb4709ac9dc954aef5e76c7c280182c33b57ac0de",
+            "sha1": "462c7c438159a67fcf6b7bd56b6ac13baa6d1676"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/LMXPKbZf/YungsApi-1.21.1-Fabric-5.1.2.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.2.jar",
+          "primary": true,
+          "size": 1222869,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ex8YYvxI",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.2 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.2",
+      "changelog": "- Lowered minimum version requirements so it works on both 1.21 and 1.21.1  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-14T18:10:13.026644Z",
+      "downloads": 9998,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SoBaigYL",
+          "hashes": {
+            "sha1": "6054bbf1a9fefc659cb8eadd9207585e781f288f",
+            "sha512": "015405dd4b4c5a72de8190660fae0221cbb551233dce4ce907f5c3ba6d3d0b513ce34cf2900eb8c62c2df08f0074f43180f4d810976644310fe95379e5d4a21a"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ex8YYvxI/YungsApi-1.21.1-NeoForge-5.1.2.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.2.jar",
+          "primary": true,
+          "size": 354614,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "PpGXywDf",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.2 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.2",
+      "changelog": "- Lowered minimum version requirements so it works on both 1.21 and 1.21.1  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-14T18:10:03.832148Z",
+      "downloads": 4603,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "L1A1iFIq",
+          "hashes": {
+            "sha1": "c3c4c90e7d9f9a8ef2a75e5d040f12d2990ce770",
+            "sha512": "1961089a84ca1bbae9aa8c602b745160a6995d20ba496a7b060a4c2b7f4192cdb92839e4049dace5a23c2a24477cb52fc9deab75a74d5643dbe5a7e3d4ab4b30"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PpGXywDf/YungsApi-1.21.1-Forge-5.1.2.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.2.jar",
+          "primary": true,
+          "size": 363086,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MIGLewpu",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.1 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.1",
+      "changelog": "Port to 1.21.1!  \n- Added new \"biome\" structure piece condition  \n- Additions to custom EnhancedTerrainAdaptations  \n  - Can now optionally specify separate TerrainActions for the top and bottom halves  \n  - Addded optional 'bottom_offset' field  \n  - Added optional 'padding' field  \n- Re-added deprecated MaxCount pool elements to ease transition for users updating from previous MC versions  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-12T23:23:16.175235Z",
+      "downloads": 1067,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "J8awLbD9",
+          "hashes": {
+            "sha1": "fc03b96541b527eda086864ceef5cad57ee87086",
+            "sha512": "118d197807015530b56b8af4dd504ff7905500324e84bf9486202eca257df324e5e09134c37816c75d3d0fb179957c4a9b2025f22d8fe0cc46fbdfec24e09a43"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MIGLewpu/YungsApi-1.21.1-NeoForge-5.1.1.jar",
+          "filename": "YungsApi-1.21.1-NeoForge-5.1.1.jar",
+          "primary": true,
+          "size": 354613,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "tumhJgug",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.1 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.1",
+      "changelog": "Port to 1.21.1!  \n- Added new \"biome\" structure piece condition  \n- Additions to custom EnhancedTerrainAdaptations  \n  - Can now optionally specify separate TerrainActions for the top and bottom halves  \n  - Addded optional 'bottom_offset' field  \n  - Added optional 'padding' field  \n- Re-added deprecated MaxCount pool elements to ease transition for users updating from previous MC versions  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-12T23:23:12.789419Z",
+      "downloads": 623,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6JqSlr4X",
+          "hashes": {
+            "sha1": "ef8acfc45185be9c0e90863b7eb330b588df57ca",
+            "sha512": "d82ab2d458bd019362e23c9b700ac9970be06a000b403a10263b257e9da3131559d4ac9b408ec71a80258dc144882b66658e360ae81886e2b2c69aa96cb6616c"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/tumhJgug/YungsApi-1.21.1-Forge-5.1.1.jar",
+          "filename": "YungsApi-1.21.1-Forge-5.1.1.jar",
+          "primary": true,
+          "size": 363091,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "LkDReYww",
+      "project_id": "Ua7DFN59",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.1 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.1",
+      "changelog": "Port to 1.21.1!  \n- Added new \"biome\" structure piece condition  \n- Additions to custom EnhancedTerrainAdaptations  \n  - Can now optionally specify separate TerrainActions for the top and bottom halves  \n  - Addded optional 'bottom_offset' field  \n  - Added optional 'padding' field  \n- Re-added deprecated MaxCount pool elements to ease transition for users updating from previous MC versions  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-12T23:23:09.270828Z",
+      "downloads": 7705,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "I9MwwhJA",
+          "hashes": {
+            "sha512": "14ae1bed7165d6f0928c16f4edf2b8ea34fe872e967469b199aaa57010a7b4f55cf6171c410288a47408943b45899f13d844923efcdfcf375614180eebe83128",
+            "sha1": "e04dc3baacd743aec91498ac617046e116f378f9"
+          },
+          "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/LkDReYww/YungsApi-1.21.1-Fabric-5.1.1.jar",
+          "filename": "YungsApi-1.21.1-Fabric-5.1.1.jar",
+          "primary": true,
+          "size": 1222869,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

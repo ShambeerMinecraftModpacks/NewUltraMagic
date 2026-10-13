@@ -1,0 +1,2173 @@
+{
+  "url": "https://api.modrinth.com/v2/project/5sy6g3kz/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:32.433671+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "JJQpBecL",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.4.0+1.21.1",
+      "version_number": "2.4.0+1.21.1-fabric",
+      "changelog": "# 2.4.0\n\n- Added TrailAppearanceOverride API\n- Added CombatFlags API allowing to disable Better Combat on a per-player basis #600\n  - Supports disabling via java API call\n  - Supports disabling via entity tag command: `/tag @p add bettercombat_disabled`\n- Added `entity_scale_attack_range_influence` server config, to tune (or disable) how much entity scale affects attack range\n",
+      "changelog_url": null,
+      "date_published": "2026-07-14T11:13:13.972925Z",
+      "downloads": 90068,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dggTqqiz",
+          "hashes": {
+            "sha1": "38d1d1f22e9255092baf85abf93a3b9746fa6ed1",
+            "sha512": "b6cad9d368a4b0647e0b9949106660f33446c3af41d3343b410d82e6288ec50d174f0773c6ac454638ebcb131fbb33ec4372d76a493435a70cb74a3b978bb311"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/JJQpBecL/bettercombat-fabric-2.4.0%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.4.0+1.21.1.jar",
+          "primary": true,
+          "size": 930023,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "VhIOvcXP",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.4.0+1.21.1",
+      "version_number": "2.4.0+1.21.1-neoforge",
+      "changelog": "# 2.4.0\n\n- Added TrailAppearanceOverride API\n- Added CombatFlags API allowing to disable Better Combat on a per-player basis #600\n  - Supports disabling via java API call\n  - Supports disabling via entity tag command: `/tag @p add bettercombat_disabled`\n- Added `entity_scale_attack_range_influence` server config, to tune (or disable) how much entity scale affects attack range\n",
+      "changelog_url": null,
+      "date_published": "2026-07-14T10:59:20.462587Z",
+      "downloads": 199324,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "amsGpfvo",
+          "hashes": {
+            "sha512": "db24730a42ae7e2dd546ee031d2f5e0dd6f9896418417a529fa21a44121761ebb29c8b8299db8f20500f7497f7b60a7d793b66c93abf37a8ea0aa3edafd80eb6",
+            "sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/VhIOvcXP/bettercombat-neoforge-2.4.0%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.4.0+1.21.1.jar",
+          "primary": true,
+          "size": 1045389,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "nsxmEb8y",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.3.2+1.21.1",
+      "version_number": "2.3.2+1.21.1-fabric",
+      "changelog": "# 2.3.2\n\n- Adjusted windup time and animation for vanilla Mace, to be more instant-like\n- Adjusted windup time for vanilla axes\n- Fixed being unable to attack after dying during the windup phase of an attack, #548\n- Fixed crashing on invalid particle config #568\n- Added mine with weapons whitelist config #574\n- Improved Friend or Foe logic on FTB Teams membership, thanks to LeDok #571\n",
+      "changelog_url": null,
+      "date_published": "2026-03-07T00:08:20.561896Z",
+      "downloads": 146173,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "i5euYg6M",
+          "hashes": {
+            "sha1": "71d78931c008730ec5b9d61cc372ac85c8f59688",
+            "sha512": "ce397016bff5a69615d1eebab8d81b9c1458b7189d6855348df93f4960ca2509d8b672aec5ae64350e78c957055ffd7e442c890e0fee28c3965a7b7e3c7c4e6f"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/nsxmEb8y/bettercombat-fabric-2.3.2%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.3.2+1.21.1.jar",
+          "primary": true,
+          "size": 926504,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2NyTus6V",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.3.2+1.21.1",
+      "version_number": "2.3.2+1.21.1-neoforge",
+      "changelog": "# 2.3.2\n\n- Adjusted windup time and animation for vanilla Mace, to be more instant-like\n- Adjusted windup time for vanilla axes\n- Fixed being unable to attack after dying during the windup phase of an attack, #548\n- Fixed crashing on invalid particle config #568\n- Added mine with weapons whitelist config #574\n- Improved Friend or Foe logic on FTB Teams membership, thanks to LeDok #571\n",
+      "changelog_url": null,
+      "date_published": "2026-03-07T00:07:00.650969Z",
+      "downloads": 247117,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "inTiIb7z",
+          "hashes": {
+            "sha512": "abc6c5e531492bcc9368b3c79034a19203b9fa871c7ec82380d47c776a087debce6f8e0f7af86993a1a125668a7eb2831af70a097ff2b90e01a0db83eccd111a",
+            "sha1": "f752fbbf81027948ef4ab0fc0066260ccf574179"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/2NyTus6V/bettercombat-neoforge-2.3.2%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.3.2+1.21.1.jar",
+          "primary": true,
+          "size": 1041845,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "zZCcohvX",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.3.1+1.21.1",
+      "version_number": "2.3.1+1.21.1-fabric",
+      "changelog": "# 2.3.1\n\n- Fix unnecessary verbose logging\n- Fix particle mirroring for left-handedness #543 \n",
+      "changelog_url": null,
+      "date_published": "2025-12-18T10:52:00.520085Z",
+      "downloads": 101306,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YGm6eJIr",
+          "hashes": {
+            "sha1": "f323b1299680d98c3e2545f71df8a973365725d8",
+            "sha512": "e006007643dd2736a22a80d17e36fb2dd1cbe6c2799976d945165f04e828603979ec769358541e51168b7d50491e303f29ed9415eefa8497561e29df1dc9e4ad"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/zZCcohvX/bettercombat-fabric-2.3.1%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.3.1+1.21.1.jar",
+          "primary": true,
+          "size": 923755,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vyOG66rq",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.3.1+1.21.1",
+      "version_number": "2.3.1+1.21.1-neoforge",
+      "changelog": "# 2.3.1\n\n- Fix unnecessary verbose logging\n- Fix particle mirroring for left-handedness #543 \n",
+      "changelog_url": null,
+      "date_published": "2025-12-18T00:28:30.053135Z",
+      "downloads": 100467,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FtVYurFs",
+          "hashes": {
+            "sha1": "0ab8800ae6d10279f6728ae4f85672cba3f36190",
+            "sha512": "2b8b86cd9255ebda9b7f2b31bb7e96797e785322665da6b20daa0899d77bc4dd032312ea8d75988a612f7c0a3a384a28823b3888916e9adc77b425ed16386e3a"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/vyOG66rq/bettercombat-neoforge-2.3.1%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.3.1+1.21.1.jar",
+          "primary": true,
+          "size": 1039102,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "9dxrogNB",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.3.0+1.21.1",
+      "version_number": "2.3.0+1.21.1-fabric",
+      "changelog": "# 2.3.0\n\n- Add weapon trail particles, huge thanks to @Malfu, for developing the concept and providing the assets\n  - Defaults are configurable\n  - Supports weapon attribute specific configuration\n- Add new attack specific fields\n  - `range_multiplier` - Multiplies the base attack range for a specific weapon swing (1.0 = no change)\n  - `movement_speed_multiplier` - Multiplies movement speed while for a specific weapon swing (1.0 = no change)\n- Add data tracker priority, attempt to fix #524\n",
+      "changelog_url": null,
+      "date_published": "2025-12-12T16:19:18.044337Z",
+      "downloads": 8521,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oS9qIpZw",
+          "hashes": {
+            "sha512": "e8b89e13631a8d00b6436c74e88f4b0b96658597032380faa6af0a7b858c18d00744bc882b071612ac3c121a0bf2ab3b5cad1fbbe046cb6c5564dfeec4e741df",
+            "sha1": "64d439517bdbf916b507e1f8f19cc0201e92514b"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/9dxrogNB/bettercombat-fabric-2.3.0%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 910878,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zjX3qpLx",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.3.0+1.21.1",
+      "version_number": "2.3.0+1.21.1-neoforge",
+      "changelog": "# 2.3.0\n\n- Add weapon trail particles, huge thanks to @Malfu, for developing the concept and providing the assets\n  - Defaults are configurable\n  - Supports weapon attribute specific configuration\n- Add new attack specific fields\n  - `range_multiplier` - Multiplies the base attack range for a specific weapon swing (1.0 = no change)\n  - `movement_speed_multiplier` - Multiplies movement speed while for a specific weapon swing (1.0 = no change)\n- Add data tracker priority, attempt to fix #524\n",
+      "changelog_url": null,
+      "date_published": "2025-12-02T21:49:31.866505Z",
+      "downloads": 33713,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "E0jn2VXQ",
+          "hashes": {
+            "sha1": "eb635c8950328e48810f0b8fed15a46e7bbc76e5",
+            "sha512": "f862774eb596d2cba3d83e929ebaeba6ba7fa87abbd6aa94f8e63557b5f60dd85d9f92996134ea67c3d8cfe7671a758cc7a5b5df07c79f12139ab10ebe048be2"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/zjX3qpLx/bettercombat-neoforge-2.3.0%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 1025744,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "DgX0j8RW",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.3.0+1.21.1",
+      "version_number": "2.3.0+1.21.1-fabric",
+      "changelog": "# 2.3.0\n\n- Add weapon trail particles, huge thanks to @Malfu, for developing the concept and providing the assets\n  - Defaults are configurable\n  - Supports weapon attribute specific configuration\n- Add new attack specific fields\n  - `range_multiplier` - Multiplies the base attack range for a specific weapon swing (1.0 = no change)\n  - `movement_speed_multiplier` - Multiplies movement speed while for a specific weapon swing (1.0 = no change)\n- Add data tracker priority, attempt to fix #524\n",
+      "changelog_url": null,
+      "date_published": "2025-12-02T21:47:03.131844Z",
+      "downloads": 13517,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WOwGi5TK",
+          "hashes": {
+            "sha512": "0105c49dd974b767bc3f410ca6237315949afe2aac6bc193abd0f1e3d60ab539a6f5feb94f075727d94ec682e4e099fd44e309acfc8daa9f90e7d46d5a8c028d",
+            "sha1": "bd6d02f6233dcbfc7fcc750f3bb9a2957ad2686b"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/DgX0j8RW/bettercombat-fabric-2.3.0%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 910825,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "I4FXAMi1",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.5+1.21.1",
+      "version_number": "2.2.5+1.21.1-neoforge",
+      "changelog": "# 2.2.5\n\n- Fix damage done with daggers #495 \n",
+      "changelog_url": null,
+      "date_published": "2025-09-13T15:13:56.346098Z",
+      "downloads": 136320,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "A7oOGSPv",
+          "hashes": {
+            "sha512": "fff1ee4a0b0d14e31d49966fcf8d3ba0caad6920209f1882882b063a87a1ab64649c383c7f713c341ec9990971ac8c0d9502b9d976df286b7360027bf54bc268",
+            "sha1": "adc09700bd66623883744906a70a9d3736b44f49"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/I4FXAMi1/bettercombat-neoforge-2.2.5%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.2.5+1.21.1.jar",
+          "primary": true,
+          "size": 927928,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "K0bTJ3yP",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.5+1.21.1",
+      "version_number": "2.2.5+1.21.1-fabric",
+      "changelog": "# 2.2.5\n\n- Fix damage done with daggers #495 \n",
+      "changelog_url": null,
+      "date_published": "2025-09-13T15:11:19.227306Z",
+      "downloads": 145073,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vbBctljN",
+          "hashes": {
+            "sha1": "2fece35aa9e4f9a13cb65e6d7aadb2b765a2a080",
+            "sha512": "bccc70ca69be9e3275f86f03f23ebc35a7c1f225d26dab3ab6d4bd3b4de34a06b42b00affda8f5a41535c02ad4b7babfdcd40de51e6601fa79072b5e21e406e6"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/K0bTJ3yP/bettercombat-fabric-2.2.5%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.2.5+1.21.1.jar",
+          "primary": true,
+          "size": 813783,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "gkxAxt9X",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.4+1.21.1",
+      "version_number": "2.2.4+1.21.1-neoforge",
+      "changelog": "# 2.2.4\n\n- Fix crash on NeoForge alongside FTBTeams\n",
+      "changelog_url": null,
+      "date_published": "2025-05-15T15:10:33.720023Z",
+      "downloads": 110583,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "91U6Jd2J",
+          "hashes": {
+            "sha1": "95384c80f25f23c10ade47dab9cbf17517b9ec88",
+            "sha512": "d6a86c7d900483dedfc3ad590a96a8b2840b29a7e9f979d4ae9d0cb1d7fbe9dd4ca57e57b110526b7a3c822516d2a99d5313d486cb204532e3d9941042ec466c"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/gkxAxt9X/bettercombat-neoforge-2.2.4%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.2.4+1.21.1.jar",
+          "primary": true,
+          "size": 927604,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Z2s5lcbp",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.4+1.21.1",
+      "version_number": "2.2.4+1.21.1-fabric",
+      "changelog": "# 2.2.4\n\n- Fix crash on NeoForge alongside FTBTeams\n",
+      "changelog_url": null,
+      "date_published": "2025-05-15T15:10:31.459359Z",
+      "downloads": 131218,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kaZuxXZA",
+          "hashes": {
+            "sha1": "c337f78d121ca78684025ee371970300b9ef52d9",
+            "sha512": "8e06604306e4c17acc3658d881a258ee074ff3b23efd2fd15c2ac90802943b155ae607afede8cc7c3a25152b75e145411f2a81a71f448811465ff1d2446c97b8"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/Z2s5lcbp/bettercombat-fabric-2.2.4%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.2.4+1.21.1.jar",
+          "primary": true,
+          "size": 813460,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Oa4AmS5y",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.3+1.21.1",
+      "version_number": "2.2.3+1.21.1-neoforge",
+      "changelog": "# 2.2.3\n\n- Improve FTB Teams support, thanks to Muon #115\n",
+      "changelog_url": null,
+      "date_published": "2025-05-15T12:22:05.330570Z",
+      "downloads": 312,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oLk5vcvG",
+          "hashes": {
+            "sha512": "b266ef1991b3e3b765275717ef7b01546108ef6f6823fc5fdc9102548de91757b82d82394bffa4094c9e6bb8e3fcef7067fca4ce466bb9397802b637c35de6fc",
+            "sha1": "8ee080d47a7bd0a623b62fb0902b4faf2d47ca89"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/Oa4AmS5y/bettercombat-neoforge-2.2.3%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.2.3+1.21.1.jar",
+          "primary": true,
+          "size": 927638,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "8YEdGWCX",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.3+1.21.1",
+      "version_number": "2.2.3+1.21.1-fabric",
+      "changelog": "# 2.2.3\n\n- Improve FTB Teams support, thanks to Muon #115\n",
+      "changelog_url": null,
+      "date_published": "2025-05-15T12:20:14.225583Z",
+      "downloads": 410,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1mPt5P6M",
+          "hashes": {
+            "sha512": "209c1661eff8e2291ca7d85dcd58bf463a0bb2b21a6d89bb5b968470becd5e2e01d59b201b7c45bcdc0d8428d7b129c19d44012784fc0ba5bc3b04723c0bafac",
+            "sha1": "d6dc9f3f8b4d93e037f9971be928f2a5202cd883"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/8YEdGWCX/bettercombat-fabric-2.2.3%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.2.3+1.21.1.jar",
+          "primary": true,
+          "size": 813503,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Xl4clpn5",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.2+1.21.1",
+      "version_number": "2.2.2+1.21.1-fabric",
+      "changelog": "# 2.2.2\n\n- Friend or Foe logic now supports FTB Teams membership\n",
+      "changelog_url": null,
+      "date_published": "2025-05-13T16:53:20.755534Z",
+      "downloads": 2775,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Zi0KLaok",
+          "hashes": {
+            "sha512": "83638181a93dbed1717c9133ee863842db619a1c1f22a19bee4567383d6f0d214c4e780a69e2b2e24d242a5bb90044c7f56861c7f0e9cb8a36e445777c08ff67",
+            "sha1": "067bf444c68a025510c5a3be0561bdbb57b0bb2d"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/Xl4clpn5/bettercombat-fabric-2.2.2%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.2.2+1.21.1.jar",
+          "primary": true,
+          "size": 813026,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ba8ef6gb",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.0+1.21.1",
+      "version_number": "2.2.0+1.21.1-neoforge",
+      "changelog": "# 2.2.0\n\nWARNING: Make sure server and clients use the same version of the mod! (Clients with Better Combat 2.1.X will not function properly on servers with Better Combat 2.2.X)\n\nImprove Friend or Foe logic:\n- Configurable relation to owned (tamed) pets\n- Configurable relation to teammates (new default is NEUTRAL)\n- Add entity type tag based relations (server config > `player_relation_tags`)\n- Add serverside checking of entity relations\n\nImplications of new defaults:\n- When not using teams, pets of other players do not receive damage from cleaving\n- When using teams, disabling friendly fire (`/team modify my_team friendlyFire false`) will prevent all kinds of damage against teammates and pets of teammates\n\nOther changes:\n- Smart swing thru grass is now enabled by default\n",
+      "changelog_url": null,
+      "date_published": "2025-05-04T17:38:46.536195Z",
+      "downloads": 16372,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "c1keEvFr",
+          "hashes": {
+            "sha1": "947f3a601f8a66127eb62d26dfa4b3c0bc3eba6a",
+            "sha512": "156059e4f96d1087f7d2f746555bb5b658d935365cea775c4d054a02d96d927df41cb400189a9403f2aba4ec695e5ad250ef4db41b04b022aa7d25deb03d9812"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/ba8ef6gb/bettercombat-neoforge-2.2.0%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.2.0+1.21.1.jar",
+          "primary": true,
+          "size": 923074,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "npihuC8d",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.2.0+1.21.1",
+      "version_number": "2.2.0+1.21.1-fabric",
+      "changelog": "# 2.2.0\n\nWARNING: Make sure server and clients use the same version of the mod! (Clients with Better Combat 2.1.X will not function properly on servers with Better Combat 2.2.X)\n\nImprove Friend or Foe logic:\n- Configurable relation to owned (tamed) pets\n- Configurable relation to teammates (new default is NEUTRAL)\n- Add entity type tag based relations (server config > `player_relation_tags`)\n- Add serverside checking of entity relations\n\nImplications of new defaults:\n- When not using teams, pets of other players do not receive damage from cleaving\n- When using teams, disabling friendly fire (`/team modify my_team friendlyFire false`) will prevent all kinds of damage against teammates and pets of teammates\n\nOther changes:\n- Smart swing thru grass is now enabled by default\n",
+      "changelog_url": null,
+      "date_published": "2025-05-04T17:37:49.496415Z",
+      "downloads": 12544,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SIvOvMcN",
+          "hashes": {
+            "sha512": "689698f3276c3c4d5723bf0c04a97ef1f3e33837532339d4dfd6dcffd7ca30067a6bfb2e3decfada9007520c43da027a9bfd017cade679315a32c837a99528e7",
+            "sha1": "65b6156a4239a6e72320ad68d408c6383de0024d"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/npihuC8d/bettercombat-fabric-2.2.0%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.2.0+1.21.1.jar",
+          "primary": true,
+          "size": 808937,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "95FaDS5J",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.6+1.21.1",
+      "version_number": "2.1.6+1.21.1-neoforge",
+      "changelog": "# 2.1.6\n\n- Update translations\n",
+      "changelog_url": null,
+      "date_published": "2025-05-01T20:23:05.490712Z",
+      "downloads": 16370,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vZIx6A9R",
+          "hashes": {
+            "sha512": "83d61fc61c0d56eaf389adde675656d1e9704c213745a8bb4c60dfc663af9ec7e7871585b3621b800b56ee9c150339cb0bfc4c3a810e5b1c7ed36ad353b78de6",
+            "sha1": "d7dc8dc7edbb191b1277733ad5fa9d665227a7a0"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/95FaDS5J/bettercombat-neoforge-2.1.6%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.1.6+1.21.1.jar",
+          "primary": true,
+          "size": 920586,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "NA9DeiIk",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.6+1.21.1",
+      "version_number": "2.1.6+1.21.1-fabric",
+      "changelog": "# 2.1.6\n\n- Update translations\n",
+      "changelog_url": null,
+      "date_published": "2025-05-01T20:21:53.464306Z",
+      "downloads": 5834,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PE6G82E8",
+          "hashes": {
+            "sha1": "5239a114e6ed1320accc797f04a215469c0337d0",
+            "sha512": "8ca1831c02a73d6204ceaf70db7c367a6485eca1921b94e08ef060283f08df75cd54d745da53acc6e7cb8eff246ecce1f6b0c8b344793188c453d1749c5b3276"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/NA9DeiIk/bettercombat-fabric-2.1.6%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.1.6+1.21.1.jar",
+          "primary": true,
+          "size": 806485,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZH7dg8rq",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.5+1.21.1",
+      "version_number": "2.1.5+1.21.1-neoforge",
+      "changelog": "# 2.1.5\n\n- Add smart Swing Thru Grass client config (disabled by default), to destroy blocks when no targets in range\n- Fix unresolved (compact) weapon attribute containers, referencing them would cause a crash #478\n- Fix weapon attributes with zero attacks (resulting due to conditions) crashing #472 \n",
+      "changelog_url": null,
+      "date_published": "2025-04-24T11:34:42.803631Z",
+      "downloads": 12723,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xytGH2GZ",
+          "hashes": {
+            "sha512": "5f66f257657a54871338db27cde031bcee30b2b781137b81bc6401b2d05e74b7556298f3ea571db502342ebb61d3a40d3737121e881e10dae7bbddcb8bf82016",
+            "sha1": "e22be1d86d0c8056cfe9a726b58185d226a8af49"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/ZH7dg8rq/bettercombat-neoforge-2.1.5%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.1.5+1.21.1.jar",
+          "primary": true,
+          "size": 919047,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "AsFOxUqy",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.5+1.21.1",
+      "version_number": "2.1.5+1.21.1-fabric",
+      "changelog": "# 2.1.5\n\n- Add smart Swing Thru Grass client config (disabled by default), to destroy blocks when no targets in range\n- Fix unresolved (compact) weapon attribute containers, referencing them would cause a crash #478\n- Fix weapon attributes with zero attacks (resulting due to conditions) crashing #472 \n",
+      "changelog_url": null,
+      "date_published": "2025-04-24T11:33:21.302216Z",
+      "downloads": 9072,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FX6cSgBd",
+          "hashes": {
+            "sha1": "7fcb94a3ccd4593523153c7d78668b97170c163f",
+            "sha512": "acec755edc115197f8c51e26bd64590f54e5314289a3d57323305d81505c0a7396e7992fe6d2356db177a995f476db6dc04ef9a5dccb904325153e7b4c97f3ea"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/AsFOxUqy/bettercombat-fabric-2.1.5%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.1.5+1.21.1.jar",
+          "primary": true,
+          "size": 804945,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "xVVCxnyB",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.3+1.21.1",
+      "version_number": "2.1.3+1.21.1-fabric",
+      "changelog": "# 2.1.3\n\n- Improved compatibility with Entity Interaction Range attribute (`PlayerEntity.getEntityInteractionRange` returns a value with weapon attributes range bonus applied)\n",
+      "changelog_url": null,
+      "date_published": "2025-01-17T20:41:33.713757Z",
+      "downloads": 366109,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2p6JzeHh",
+          "hashes": {
+            "sha512": "8c0865cd76eafeb0dced23ab82163bd94327ab1d10e4b055c365cda6d0dfc7683593380f4e4c25a6f98ae05bf8d11c3c9d68151612a6e6037b797b062d8475d7",
+            "sha1": "77cc1da0841def54e17a8a6fb85017732edc6fb1"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/xVVCxnyB/bettercombat-fabric-2.1.3%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.1.3+1.21.1.jar",
+          "primary": true,
+          "size": 805634,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "EtfeNxsw",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.3+1.21.1",
+      "version_number": "2.1.3+1.21.1-neoforge",
+      "changelog": "# 2.1.3\n\n- Improved compatibility with Entity Interaction Range attribute (`PlayerEntity.getEntityInteractionRange` returns a value with weapon attributes range bonus applied)\n",
+      "changelog_url": null,
+      "date_published": "2025-01-17T20:40:15.335985Z",
+      "downloads": 55433,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GLTq8SFB",
+          "hashes": {
+            "sha1": "6c97d3fac67d6f004c0b2751ce7c8b4fe7a32f9e",
+            "sha512": "89ed3a121fab23c5a6d4ff400074f8d549b34fb454e2620087ce84af150b87154ce0cbbb52cd8e4e1de0d9da235de768800834a8fba51af7c1ebad45f223c697"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/EtfeNxsw/bettercombat-neoforge-2.1.3%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.1.3+1.21.1.jar",
+          "primary": true,
+          "size": 919792,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Sqe7e2M9",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.2+1.21.1",
+      "version_number": "2.1.2+1.21.1-fabric",
+      "changelog": "# 2.1.2\n\n- Improved compatibility with Entity Interaction Range attribute\n  - Better Combat weapon attribute range is now only applied when a weapon has no modifier for vanilla range\n  - Added function to reformat `Entity Interaction Range` to `Attack Range` on weapon tooltips\n- Knockback reduction for fast attacks is now stronger (configurable)\n- Added block hit sound upon swinging at blocks\n",
+      "changelog_url": null,
+      "date_published": "2025-01-16T12:17:46.850653Z",
+      "downloads": 2272,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "i7C9ajds",
+          "hashes": {
+            "sha512": "382ecab3cf572a3a5616b29c2465640e1b979325dd708c3677fe6edb8bb909b59409bea9440ee9a2d890609caf848706faf0f2b3fdf6e9471bdd05af49705c93",
+            "sha1": "b0137270b52b2f102e2031451b6898c09b874345"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/Sqe7e2M9/bettercombat-fabric-2.1.2%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.1.2+1.21.1.jar",
+          "primary": true,
+          "size": 804176,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "4epO7imr",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.2+1.21.1",
+      "version_number": "2.1.2+1.21.1-neoforge",
+      "changelog": "# 2.1.2\n\n- Improved compatibility with Entity Interaction Range attribute\n  - Better Combat weapon attribute range is now only applied when a weapon has no modifier for vanilla range\n  - Added function to reformat `Entity Interaction Range` to `Attack Range` on weapon tooltips\n- Knockback reduction for fast attacks is now stronger (configurable)\n- Added block hit sound upon swinging at blocks\n",
+      "changelog_url": null,
+      "date_published": "2025-01-16T12:16:41.288004Z",
+      "downloads": 393,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aCc2aZdH",
+          "hashes": {
+            "sha512": "183517dc2ea20f7a7b0bd569db5fad3b49685b2c85b68fb736f46afa03a090b6176f30f3559dd8f8c3cfb0271f352457a2b83f84fd9dcd08bccd73bde2a83187",
+            "sha1": "39edc9ca3cbce321d4d1a82d9465aff90d6f2829"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/4epO7imr/bettercombat-neoforge-2.1.2%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.1.2+1.21.1.jar",
+          "primary": true,
+          "size": 918350,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "V7fC7ak0",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.1+1.21.1",
+      "version_number": "2.1.1+1.21.1-fabric",
+      "changelog": "# 2.1.1\n\n- Fix subzero attack range bonuses\n",
+      "changelog_url": null,
+      "date_published": "2025-01-15T19:24:13.954136Z",
+      "downloads": 880,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Y9OWfiBj",
+          "hashes": {
+            "sha512": "cf96fe8f0174fa07ded2a25654f9776f8d2aadaa7bdc34ea4790a9fa9e6702785fcd904966f4ea0f23b11d465c06d32f17811c629b25e3a1caa2398012dc4762",
+            "sha1": "8441f8c125fef11d11c0b0d89a528943ad5655cc"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/V7fC7ak0/bettercombat-fabric-2.1.1%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.1.1+1.21.1.jar",
+          "primary": true,
+          "size": 797382,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MVj7NBg6",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.1+1.21.1",
+      "version_number": "2.1.1+1.21.1-neoforge",
+      "changelog": "# 2.1.1\n\n- Fix subzero attack range bonuses\n",
+      "changelog_url": null,
+      "date_published": "2025-01-15T19:21:48.880918Z",
+      "downloads": 327,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kokR2H6a",
+          "hashes": {
+            "sha1": "0be0a90823cad430750728dab33bfb20eeb37539",
+            "sha512": "452d5888ba6814fdf904517a34fd868727c4a9df4b6eb4b5668294a548c5ab627943713ca644c16201b2b1562feb2a6f34c4e12b2a43180a71e32a4debaeac29"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/MVj7NBg6/bettercombat-neoforge-2.1.1%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.1.1+1.21.1.jar",
+          "primary": true,
+          "size": 911394,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "HQCQWJt7",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.0+1.21.1",
+      "version_number": "2.1.0+1.21.1-fabric",
+      "changelog": "# 2.1.0\n\nFunctional Changes:\n- Fix Combat Roll not cancelling attack properly\n- Increase attack range (slightly) on all built-in weapon attribute presets\n- Improve idle animation handling with server side logic\n- Add registry encoding compression to avoid transmission issues\n- Add support `player.entity_interaction_range` attribute, to serve as attack range\n- Add support for weapon attributes resolved from item data component. For example:\n\n`/give @p minecraft:wooden_sword[bettercombat:preset_id=\"bettercombat:claymore\"]`\n\nAPI Changes:\n- Added `WeaponAttributes.range_bonus` attribute, to add to the base attack range\n- Deprecated `WeaponAttributes.attack_range` property specifying absolute attack range\n",
+      "changelog_url": null,
+      "date_published": "2025-01-15T15:21:47.412514Z",
+      "downloads": 429,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IsbYB1op",
+          "hashes": {
+            "sha512": "e05ac9c4a45575eb140bf3e32294088849982996fd4e4ff0c03281b09cc9bc83a38110a9f0b8993530db5e050af4a2bef94bf0924ec35ed93b0d8bcbe83f0596",
+            "sha1": "227a5b8d273ab9aa5aac0341f49f0b098b453006"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/HQCQWJt7/bettercombat-fabric-2.1.0%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.1.0+1.21.1.jar",
+          "primary": true,
+          "size": 797384,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "QD2Ronrv",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.1.0+1.21.1",
+      "version_number": "2.1.0+1.21.1-neoforge",
+      "changelog": "# 2.1.0\n\nFunctional Changes:\n- Fix Combat Roll not cancelling attack properly\n- Increase attack range (slightly) on all built-in weapon attribute presets\n- Improve idle animation handling with server side logic\n- Add registry encoding compression to avoid transmission issues\n- Add support `player.entity_interaction_range` attribute, to serve as attack range\n- Add support for weapon attributes resolved from item data component. For example:\n\n`/give @p minecraft:wooden_sword[bettercombat:preset_id=\"bettercombat:claymore\"]`\n\nAPI Changes:\n- Added `WeaponAttributes.range_bonus` attribute, to add to the base attack range\n- Deprecated `WeaponAttributes.attack_range` property specifying absolute attack range\n",
+      "changelog_url": null,
+      "date_published": "2025-01-15T15:21:19.384241Z",
+      "downloads": 155,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ewo1mQrF",
+          "hashes": {
+            "sha1": "322414290fc8de2c9091cd3cc79830d6476345f1",
+            "sha512": "4beb7170e0cc11a5a43b119637290df0b1a10bb98fbcc5decb0e574fb7acc2e28e21c2508ba46afb266f43dc8b8bca783e062a8a021aed3f6b7b48b2f8e77c50"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/QD2Ronrv/bettercombat-neoforge-2.1.0%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.1.0+1.21.1.jar",
+          "primary": true,
+          "size": 911392,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Rk2xb9xe",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.4+1.21.1",
+      "version_number": "2.0.4+1.21.1-neoforge",
+      "changelog": "# 2.0.4\n\n- Rewrite support of first person camera mods #423\n- Update russian translation, thanks to Heimdallr\n",
+      "changelog_url": null,
+      "date_published": "2024-12-10T21:28:22.338109Z",
+      "downloads": 6087,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1K6nftn6",
+          "hashes": {
+            "sha512": "3f703b769eb38eb66bed8a2ce97217fc90225be8ac9059dfec09eb54114f860a1c1aed26fbafc668a1d43f06e8f96e9ec78661a0223f9465dc5e8be1e23f4ad2",
+            "sha1": "dd655e113886fe5a066ac6142b76a8804b9c3f2e"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/Rk2xb9xe/bettercombat-neoforge-2.0.4%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.0.4+1.21.1.jar",
+          "primary": true,
+          "size": 901162,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "i1Jmi8co",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.4+1.21.1",
+      "version_number": "2.0.4+1.21.1-fabric",
+      "changelog": "# 2.0.4\n\n- Rewrite support of first person camera mods #423\n- Update russian translation, thanks to Heimdallr\n",
+      "changelog_url": null,
+      "date_published": "2024-12-10T21:26:33.887582Z",
+      "downloads": 32643,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "weZJISWQ",
+          "hashes": {
+            "sha1": "6b3652220a4f8b0906cc6c14d9b6e8c5e920b01c",
+            "sha512": "1d5ceb8bb800f829d11a3879fd3d90e29f6fd6a874f4b8d0aaf58f1d32ecea1354735edc39cce14a1d6a421cd8724b0cc0780c80c2bc21a666c7e0c59b095f1e"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/i1Jmi8co/bettercombat-fabric-2.0.4%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.0.4+1.21.1.jar",
+          "primary": true,
+          "size": 787273,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "OBhRBkj9",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.3+1.21.1",
+      "version_number": "2.0.3+1.21.1-neoforge",
+      "changelog": "# 2.0.3\n\n- Fix hands while laddering with two-handed weapons\n- Fix hands while Elytra flying with two-handed weapons\n- Add Vietnamese translation, thanks to @godkyo98\n",
+      "changelog_url": null,
+      "date_published": "2024-09-14T18:30:55.591340Z",
+      "downloads": 9873,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iXXYqUSm",
+          "hashes": {
+            "sha512": "7190bfb07c1aefd5e75c5dd973904a038857b1f5c6218f1f5c89936c1a23a90b2d88ba8c7458d89340a4fe7a8e3480148351d824dce5d75803cd64964c3b5521",
+            "sha1": "5d93a35ea6e850631fcea7b753e6efafd9bb792b"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/OBhRBkj9/bettercombat-neoforge-2.0.3%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.0.3+1.21.1.jar",
+          "primary": true,
+          "size": 900039,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "j1uQRjgd",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.3+1.21.1",
+      "version_number": "2.0.3+1.21.1-fabric",
+      "changelog": "# 2.0.3\n\n- Fix hands while laddering with two-handed weapons\n- Fix hands while Elytra flying with two-handed weapons\n- Add Vietnamese translation, thanks to @godkyo98\n",
+      "changelog_url": null,
+      "date_published": "2024-09-14T18:30:46.224670Z",
+      "downloads": 117635,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UPraLmCy",
+          "hashes": {
+            "sha512": "52698354a14cfd8d20bd8d84cefca4354a25503f65411650461957c87707a8de98a7cedf55ccf7283610b66f1a9e8b19a4271193453fd5a84744ab55543bdc76",
+            "sha1": "1cefe65a721af46d15c988f1bc53aa61d038f540"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/j1uQRjgd/bettercombat-fabric-2.0.3%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.0.3+1.21.1.jar",
+          "primary": true,
+          "size": 786152,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "TuORxPL3",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.2+1.21.1",
+      "version_number": "2.0.2+1.21.1-fabric",
+      "changelog": "# 2.0.2\n\n- Fix enchantments on from offhand weapon strikes not being applied\n- Fix offhand weapon strikes not reducing durability\n- (NeoForge) Fix hand swapping two-handed items, causing offhand item deletion\n- (NeoForge) Fix missing declaration to Cloth Config causing crash\n",
+      "changelog_url": null,
+      "date_published": "2024-09-09T16:27:48.699870Z",
+      "downloads": 6780,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oTzpFKq7",
+          "hashes": {
+            "sha512": "d11ec0c896727833b7df4c77663e2ed082826d4e43ec0acbe47deb8aee1e379aaa3116afc84c4c90c07ce74e1a532ef7cd29ec9ba87b0f653c56a91c35364e6a",
+            "sha1": "bb04369c258dc6f25646f7c91abcbb1bad278fe4"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/TuORxPL3/bettercombat-fabric-2.0.2%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.0.2+1.21.1.jar",
+          "primary": true,
+          "size": 784665,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "z5m9wpd8",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.2+1.21.1",
+      "version_number": "2.0.2+1.21.1-neoforge",
+      "changelog": "# 2.0.2\n\n- Fix enchantments on from offhand weapon strikes not being applied\n- Fix offhand weapon strikes not reducing durability\n- (NeoForge) Fix hand swapping two-handed items, causing offhand item deletion\n- (NeoForge) Fix missing declaration to Cloth Config causing crash\n",
+      "changelog_url": null,
+      "date_published": "2024-09-09T16:27:39.250347Z",
+      "downloads": 687,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6QZF6eI8",
+          "hashes": {
+            "sha512": "82fe0ea40a26f253cc10e10451753eb84b623bd89a5044cbffc39bc608fea0bd3702f85d8f65eee8ca9d4064bcbde7f38a62d92f319422535a7d016a90fe2820",
+            "sha1": "d71f67838dcc6dd5b9b54f3940912ea49805b46a"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/z5m9wpd8/bettercombat-neoforge-2.0.2%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.0.2+1.21.1.jar",
+          "primary": true,
+          "size": 898542,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "6z0WKPQn",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.1+1.21.1",
+      "version_number": "2.0.1+1.21.1-fabric",
+      "changelog": "# 2.0.1\n\n- (NeoForge) Fix faulty inclusion of TinyConfig, crashing alongside Combat Roll mod\n- (Fabric) Fix connection failure to dedicated servers\n",
+      "changelog_url": null,
+      "date_published": "2024-09-07T18:32:00.948790Z",
+      "downloads": 3157,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LajM88No",
+          "hashes": {
+            "sha512": "d0fb499be8156a4df6708708defb2603deaa17c5b14eb8ebc3d8a6c0fe01c7ed1a46ea3dc15d79df008038720cd1f3747bee24607bd6ac49403b09ba118ce2c6",
+            "sha1": "a627393b51bd6b6210bb6e03e9a5b351fefc6581"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/6z0WKPQn/bettercombat-fabric-2.0.1%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.0.1+1.21.1.jar",
+          "primary": true,
+          "size": 784317,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "VZaUhJgH",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.1+1.21.1",
+      "version_number": "2.0.1+1.21.1-neoforge",
+      "changelog": "# 2.0.1\n\n- (NeoForge) Fix faulty inclusion of TinyConfig, crashing alongside Combat Roll mod\n- (Fabric) Fix connection failure to dedicated servers\n",
+      "changelog_url": null,
+      "date_published": "2024-09-07T18:31:47.982942Z",
+      "downloads": 397,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D6D5zk0L",
+          "hashes": {
+            "sha512": "2c93c8231bf3d3dd279e1d9c305ac7d9557e5ab7218ca56982acca615daf4119b97947efb6b1fe3b7de5fa82fb9246ae6b1d4a0c5eb7dfee3bd0279cadb9b092",
+            "sha1": "47c34e4a48281f936fe5ccdfa891b0420cd25993"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/VZaUhJgH/bettercombat-neoforge-2.0.1%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.0.1+1.21.1.jar",
+          "primary": true,
+          "size": 897696,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "PWMePG3f",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.0+1.21.1",
+      "version_number": "2.0.0+1.21.1-neoforge",
+      "changelog": "# 2.0.0\n\n- Support for Minecraft 1.21.0\n- Add support for `generic.scale` attribute, to scale attack range\n\nAPI Changes:\n- BREAKING! Asset directory for animations have been renamed from `attack_animations` to `player_animations`\n",
+      "changelog_url": null,
+      "date_published": "2024-09-07T14:50:54.498874Z",
+      "downloads": 289,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fUv2qeSH",
+          "hashes": {
+            "sha512": "e06c70324d43a301dd1a9c3f25ec84746ff258901c0cfd00f6f686b74b55e35ab41784e1fe631773a780252e0342abdba942fc3dc0a44152c1194f1ebd9466c8",
+            "sha1": "2b2214fc6d57fb6a80fbf01f908b8a6c0cf97390"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/PWMePG3f/bettercombat-neoforge-2.0.0%2B1.21.1.jar",
+          "filename": "bettercombat-neoforge-2.0.0+1.21.1.jar",
+          "primary": true,
+          "size": 897131,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "XnlJnaeq",
+      "project_id": "5sy6g3kz",
+      "author_id": "CUHgJfv9",
+      "featured": false,
+      "name": "2.0.0+1.21.1",
+      "version_number": "2.0.0+1.21.1-fabric",
+      "changelog": "# 2.0.0\n\n- Support for Minecraft 1.21.0\n- Add support for `generic.scale` attribute, to scale attack range\n\nAPI Changes:\n- BREAKING! Asset directory for animations have been renamed from `attack_animations` to `player_animations`\n",
+      "changelog_url": null,
+      "date_published": "2024-09-07T14:44:50.279394Z",
+      "downloads": 1475,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yDrxpaXb",
+          "hashes": {
+            "sha512": "20e46cddf935ea173e449838c4e070abe76911c0c9b8cc2be6150e05b579a8c6ae62f128c22fdbc6704c4c772205c094d11bdeab392e44f17fa8ce4ab2f1aec1",
+            "sha1": "a6229efff81f336efe2ec00cea1229e1cf8b778b"
+          },
+          "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/XnlJnaeq/bettercombat-fabric-2.0.0%2B1.21.1.jar",
+          "filename": "bettercombat-fabric-2.0.0+1.21.1.jar",
+          "primary": true,
+          "size": 784332,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gedNE4y2",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

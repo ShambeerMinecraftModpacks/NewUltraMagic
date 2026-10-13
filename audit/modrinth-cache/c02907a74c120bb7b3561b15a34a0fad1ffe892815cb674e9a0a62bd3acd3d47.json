@@ -1,0 +1,224 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Forbidden+%26+Arcanus&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:10.643842+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "MdlnLS7Q",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "forbidden-arcanus",
+        "author": "stal111",
+        "author_id": "fngavKwB",
+        "organization": "Mandala Creations",
+        "organization_id": "VYuakG10",
+        "title": "Forbidden and Arcanus ",
+        "description": "A mod that adds magical themed content and building blocks.",
+        "categories": [
+          "adventure",
+          "decoration",
+          "forge",
+          "magic",
+          "neoforge"
+        ],
+        "display_categories": [
+          "adventure",
+          "decoration",
+          "forge",
+          "magic",
+          "neoforge"
+        ],
+        "versions": [
+          "1.18.2",
+          "1.19",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "26.1.2"
+        ],
+        "downloads": 533043,
+        "follows": 258,
+        "icon_url": "https://cdn.modrinth.com/data/MdlnLS7Q/icon.png",
+        "date_created": "2022-06-12T14:34:28.162003+00:00",
+        "date_modified": "2026-07-27T19:03:00.689818+00:00",
+        "latest_version": "sJkHLj3l",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 12172762
+      },
+      {
+        "project_id": "CwfsSWcv",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "projecte-emc-for-forbidden-arcanus",
+        "author": "KURONAMI",
+        "author_id": "nBinDQak",
+        "organization": null,
+        "organization_id": null,
+        "title": "ProjectE: EMC for Forbidden Arcanus",
+        "description": "ProjectE EMC for Forbidden Arcanus: adds EMC to its arcane crystal, runes, darkstone, trees and mob drops so you can transmute them.",
+        "categories": [
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 2062,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/CwfsSWcv/d2246496f09eaebe07f080affc93b16165b17f47_96.webp",
+        "date_created": "2026-06-05T07:33:07.107933+00:00",
+        "date_modified": "2026-09-06T01:10:32.355947+00:00",
+        "latest_version": "cqq7t5pP",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 4398648
+      },
+      {
+        "project_id": "Uonyc6M4",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "apothic-category-compat",
+        "author": "night23",
+        "author_id": "UUuM9A4F",
+        "organization": null,
+        "organization_id": null,
+        "title": "Apothic Category Compat",
+        "description": "Adds Apotheosis loot category compat for Cataclysm, Twilight Forest, Epic Fight, Forbidden Arcanus, Traveloptics, Lands of Icaria, and more.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "adventure",
+          "equipment",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.19.2",
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 13837,
+        "follows": 6,
+        "icon_url": "https://cdn.modrinth.com/data/Uonyc6M4/d6d66a147915733d7dab4ec4ed6d6aa431ea7f14_96.webp",
+        "date_created": "2026-05-04T23:41:19.129543+00:00",
+        "date_modified": "2026-06-17T07:34:12.990988+00:00",
+        "latest_version": "pfNQr4U5",
+        "license": "MIT",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only",
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/ecb1b23f7901c6e141b9bc24608894aa63d51d28_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/e642cabd692f78c7081cd44a795418ba7d4f112b_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/0bbad7a90f6e1e70127b0f33fc05fd337e1d6286_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/e2ac48431371eeb619d62636aaaf7c2431d2836f_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/bf855f65e0964d61d053c9ae177ec07d46756d2b_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/15852d0df8fd3b048a3d9ba4322316e0fc5ab900_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/887aab066552a15780cf5dd0a7a684f2b3f684ba_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/393394b3d4ff1ee13531a433dafc3b3ca8afce63_350.webp",
+          "https://cdn.modrinth.com/data/Uonyc6M4/images/66ba20e41f4606effe4414aa70dae7494e787ee7_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 5322927
+      },
+      {
+        "project_id": "lM3iAcKK",
+        "project_type": "mod",
+        "all_project_types": [
+          "datapack",
+          "mod"
+        ],
+        "slug": "fa-totem-recipe",
+        "author": "NullLikesCats",
+        "author_id": "v86RQedY",
+        "organization": null,
+        "organization_id": null,
+        "title": "F&A Totem Recipe",
+        "description": "Adds a recipe for the totem of undying which requires a Forbidden & Arcanus soul to work",
+        "categories": [
+          "datapack",
+          "equipment",
+          "forge",
+          "magic",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "datapack",
+          "equipment",
+          "forge",
+          "magic",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.21",
+          "1.21.1"
+        ],
+        "downloads": 545,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/lM3iAcKK/ff5cafb487eec344d608092a5ac469ba294023bd.png",
+        "date_created": "2025-04-08T09:01:46.525010+00:00",
+        "date_modified": "2025-03-30T00:18:38.194501+00:00",
+        "latest_version": "HX4EFC2R",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/lM3iAcKK/images/52d3ebfcd193079f6455a7b6e84c03b202f1854e.png"
+        ],
+        "featured_gallery": null,
+        "color": 11301686
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 4
+  }
+}

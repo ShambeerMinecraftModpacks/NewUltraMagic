@@ -1,0 +1,277 @@
+{
+  "url": "https://api.modrinth.com/v2/project/gedNE4y2/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:48.386915+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "CkedfDp3",
+      "project_id": "gedNE4y2",
+      "author_id": "TpFRtZg9",
+      "featured": false,
+      "name": "2.0.4+1.21.1-fabric",
+      "version_number": "2.0.4+1.21.1-fabric",
+      "changelog": "Fixed issues with first person and item anims.",
+      "changelog_url": null,
+      "date_published": "2025-12-28T21:01:27.508770Z",
+      "downloads": 709753,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Jsok1433",
+          "hashes": {
+            "sha512": "14a931f5cf9f1a767c717a2ae65eb1041d3aab1fbb2c90e3f3a18433ed2f7264674fe40b85c136036fa08d2459543394b65e6866e73e8893e823c5ce37dfd086",
+            "sha1": "2985c208766cde078a39c22b5ad989b74b7bc490"
+          },
+          "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/CkedfDp3/player-animation-lib-fabric-2.0.4%2B1.21.1.jar",
+          "filename": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+          "primary": true,
+          "size": 204541,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aRnIEV0F",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "HJZB6bmA",
+      "project_id": "gedNE4y2",
+      "author_id": "TpFRtZg9",
+      "featured": false,
+      "name": "2.0.4+1.21.1-forge",
+      "version_number": "2.0.4+1.21.1-forge",
+      "changelog": "Fixed issues with first person and item anims.",
+      "changelog_url": null,
+      "date_published": "2025-12-28T21:00:18.426451Z",
+      "downloads": 1268060,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4h5henwu",
+          "hashes": {
+            "sha512": "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f",
+            "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
+          },
+          "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+          "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+          "primary": true,
+          "size": 203149,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aRnIEV0F",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "WhVSA0mW",
+      "project_id": "gedNE4y2",
+      "author_id": "TpFRtZg9",
+      "featured": false,
+      "name": "2.0.1+1.21.1-fabric",
+      "version_number": "2.0.1+1.21.1-fabric",
+      "changelog": "some fixes, some extra stuff",
+      "changelog_url": null,
+      "date_published": "2024-12-26T11:17:28.503576Z",
+      "downloads": 1440094,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rFhfqOOK",
+          "hashes": {
+            "sha512": "642bc2b2c95a37b1143b703c119c66dfc1bb264f016ef9f3c8813d83756f7d03e48b3053ac312a070c59d4f1b77c6836f58440363daf194191896a9927d87dfc",
+            "sha1": "7515b1ea286fd9f590c6ee6e03cf861b7d21379d"
+          },
+          "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/WhVSA0mW/player-animation-lib-fabric-2.0.1%2B1.21.1.jar",
+          "filename": "player-animation-lib-fabric-2.0.1+1.21.1.jar",
+          "primary": true,
+          "size": 204558,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aRnIEV0F",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "q60QWuOK",
+      "project_id": "gedNE4y2",
+      "author_id": "TpFRtZg9",
+      "featured": false,
+      "name": "2.0.1+1.21.1-forge",
+      "version_number": "2.0.1+1.21.1-forge",
+      "changelog": "some fixes, some extra stuff",
+      "changelog_url": null,
+      "date_published": "2024-12-26T11:16:39.010890Z",
+      "downloads": 734299,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XpcAxlpg",
+          "hashes": {
+            "sha512": "1b6fdeec973d36fed687d27af05c1ea8467564b21b8f884a0de8cf97e8a8f91d5e7b0cffaa3a687a7341f2357dae8c47e989e2bba44cd3fbb9d90726207f427b",
+            "sha1": "c0a3d0cf0569b61302e17f35dc158ee75813f80f"
+          },
+          "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/q60QWuOK/player-animation-lib-forge-2.0.1%2B1.21.1.jar",
+          "filename": "player-animation-lib-forge-2.0.1+1.21.1.jar",
+          "primary": true,
+          "size": 203160,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aRnIEV0F",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "c8mDzSTL",
+      "project_id": "gedNE4y2",
+      "author_id": "TpFRtZg9",
+      "featured": false,
+      "name": "2.0.0+1.21.1-fabric",
+      "version_number": "2.0.0+1.21.1-fabric",
+      "changelog": "view GIT commits :3",
+      "changelog_url": null,
+      "date_published": "2024-12-20T13:12:33.804306Z",
+      "downloads": 11579,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8q8TSJMn",
+          "hashes": {
+            "sha512": "cc8f6857beaef069e519c005a3e45d1ce54f75e73ba757f0436066b295571ca325b3adb1d5dd916b4eb5e843f13ac4be97171d0025369ac64cfcb6121520ef1d",
+            "sha1": "8d560363ed4fd9207372b27b17d700aebcdba321"
+          },
+          "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/c8mDzSTL/player-animation-lib-fabric-2.0.0%2B1.21.1.jar",
+          "filename": "player-animation-lib-fabric-2.0.0+1.21.1.jar",
+          "primary": true,
+          "size": 199517,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aRnIEV0F",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "YMsfZkrU",
+      "project_id": "gedNE4y2",
+      "author_id": "TpFRtZg9",
+      "featured": false,
+      "name": "2.0.0+1.21.1-forge",
+      "version_number": "2.0.0+1.21.1-forge",
+      "changelog": "view GIT commits :3",
+      "changelog_url": null,
+      "date_published": "2024-12-20T13:11:41.434808Z",
+      "downloads": 3202,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PhsrEtp5",
+          "hashes": {
+            "sha512": "1e655e540226980d0502d1f3770b045cf46ae9cddcd7cf308c39345220fa42b0f2c0a96730fba5585c7936a02b7a68cad5fcffe838ce043adf7c0fd879bb1b4c",
+            "sha1": "3ea94b427570b72d421ee9ff4fd5f68c60d7b60d"
+          },
+          "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/YMsfZkrU/player-animation-lib-forge-2.0.0%2B1.21.1.jar",
+          "filename": "player-animation-lib-forge-2.0.0+1.21.1.jar",
+          "primary": true,
+          "size": 198153,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aRnIEV0F",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}

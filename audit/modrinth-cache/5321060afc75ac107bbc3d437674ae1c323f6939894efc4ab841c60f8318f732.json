@@ -1,0 +1,546 @@
+{
+  "url": "https://api.modrinth.com/v2/project/M1953qlQ/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:39.718384+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "dQh99ERC",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Config 3.0.11",
+      "version_number": "3.0.11",
+      "changelog": "- fix memory leak in dedicated server configs",
+      "changelog_url": null,
+      "date_published": "2025-04-26T17:59:10.850489Z",
+      "downloads": 1217185,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lQF3A8T3",
+          "hashes": {
+            "sha1": "f6a0df7cf464d1c94458ef075bead82033add9c9",
+            "sha512": "11189c68626404bef5021bae51bcec1840dba0c3356ca275e9b3439e20ba474fb9ba6f6bf4b4f08b3e9a43c58ac553e2e0d182429bd606948d8211bd49c1d0e7"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/dQh99ERC/resourcefulconfig-fabric-1.21-3.0.11.jar",
+          "filename": "resourcefulconfig-fabric-1.21-3.0.11.jar",
+          "primary": true,
+          "size": 345396,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "lSbyRD6v",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Config 3.0.11",
+      "version_number": "3.0.11",
+      "changelog": "- fix memory leak in dedicated server configs",
+      "changelog_url": null,
+      "date_published": "2025-04-26T17:59:04.789908Z",
+      "downloads": 2167768,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sq8nip8f",
+          "hashes": {
+            "sha512": "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87",
+            "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+          "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+          "primary": true,
+          "size": 341009,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "HbUO7qP3",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Config 3.0.10",
+      "version_number": "3.0.10",
+      "changelog": "use different comment parsing system",
+      "changelog_url": null,
+      "date_published": "2025-02-23T03:06:47.613609Z",
+      "downloads": 90051,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eO4G5Af7",
+          "hashes": {
+            "sha512": "a9ce377f57d4641456b8d739dfdca659ba19b168610cbe4989c01675621a39e65e36eca3eb500634954540a6e3d401348cd2e34312678fd019cc5d49fceb773f",
+            "sha1": "b0618209f73f62406813b86250046d8ae7463ee7"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/HbUO7qP3/resourcefulconfig-fabric-1.21-3.0.10.jar",
+          "filename": "resourcefulconfig-fabric-1.21-3.0.10.jar",
+          "primary": true,
+          "size": 345305,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "wgQAKShl",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Config 3.0.10",
+      "version_number": "3.0.10",
+      "changelog": "use different comment parsing system",
+      "changelog_url": null,
+      "date_published": "2025-02-23T03:06:42.094688Z",
+      "downloads": 55105,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vKyJWQ72",
+          "hashes": {
+            "sha1": "1843e33b0a80091e7614c7b1a8f7bfcb130e03a8",
+            "sha512": "b3bc8d92704f60c1861a7dd9d85972ad25a93e48aa51e15d01009708ecb1b6ce298836cbceb339bdf3ef2b6873fc55dea701d382e0f4fd650db334692bb9ae1d"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/wgQAKShl/resourcefulconfig-neoforge-1.21-3.0.10.jar",
+          "filename": "resourcefulconfig-neoforge-1.21-3.0.10.jar",
+          "primary": true,
+          "size": 340919,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "7HFlLuJ4",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Config 3.0.9",
+      "version_number": "3.0.9",
+      "changelog": "- Fixed incorrect java version in mixin config",
+      "changelog_url": null,
+      "date_published": "2025-01-31T13:27:36.666748Z",
+      "downloads": 296176,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "su9tIC0t",
+          "hashes": {
+            "sha1": "8d192574a26ef9b763eded7b383fb8efdd3b8e61",
+            "sha512": "0d875d8860a996a3fff77e9a8e337267a27c6f1d54b3dfcb221e919f770c5f3ca8de18010e2fb832b9daafc7197bb9c1ecf9c1b5f3bb53639c0bcf7344507196"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/7HFlLuJ4/resourcefulconfig-fabric-1.21-3.0.9.jar",
+          "filename": "resourcefulconfig-fabric-1.21-3.0.9.jar",
+          "primary": true,
+          "size": 345013,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ApjlhBC4",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Config 3.0.9",
+      "version_number": "3.0.9",
+      "changelog": "- Fixed incorrect java version in mixin config",
+      "changelog_url": null,
+      "date_published": "2025-01-31T13:27:24.696720Z",
+      "downloads": 50858,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9fr5NU7x",
+          "hashes": {
+            "sha512": "2015786af1887f6926bcf2720cebee3b3368c6b5f0fb03c59681ddcf1609041ed5a61b8060e3ee7d460696ae15e863d92b06b007c0b7eb7920454507b31f5e1b",
+            "sha1": "7d099334fe6fd10465f49f9d180b846bc4906f18"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/ApjlhBC4/resourcefulconfig-neoforge-1.21-3.0.9.jar",
+          "filename": "resourcefulconfig-neoforge-1.21-3.0.9.jar",
+          "primary": true,
+          "size": 340625,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "dOnnWty6",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Config 3.0.8",
+      "version_number": "3.0.8",
+      "changelog": "- Add ability for draggables to have optional tooltips\n",
+      "changelog_url": null,
+      "date_published": "2024-10-13T11:41:42.787675Z",
+      "downloads": 83313,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IflY8K33",
+          "hashes": {
+            "sha512": "e64a7d4487a53ae6113933f3ed52bf5aab2b9a684523476e96fa71910ef1949c6343f2cf75365874cff8abb6c71aa5f526347a9b069548a5e933ce0c2ef51501",
+            "sha1": "4887ec03300fc498b37ec361810d659d74702ade"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/dOnnWty6/resourcefulconfig-fabric-1.21-3.0.8.jar",
+          "filename": "resourcefulconfig-fabric-1.21-3.0.8.jar",
+          "primary": true,
+          "size": 345014,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "n4V2Ber8",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Config 3.0.8",
+      "version_number": "3.0.8",
+      "changelog": "- Add ability for draggables to have optional tooltips\n",
+      "changelog_url": null,
+      "date_published": "2024-10-13T11:41:36.727957Z",
+      "downloads": 12598,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XIbqyGqi",
+          "hashes": {
+            "sha1": "d02aacff89b45a4b63d3e2ea19ba835666ba7b43",
+            "sha512": "ea36dd57408da7568b4df80e209473ca0fb6e5d96cf85bafe52b4bfc2dcab154951847716b16fc7db69728b4f57126084117892753fff2c695013429fefa9cf4"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/n4V2Ber8/resourcefulconfig-neoforge-1.21-3.0.8.jar",
+          "filename": "resourcefulconfig-neoforge-1.21-3.0.8.jar",
+          "primary": true,
+          "size": 340628,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "XU6siwgV",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Config 3.0.7",
+      "version_number": "3.0.7",
+      "changelog": "- Czech translations by Mayaqq\n",
+      "changelog_url": null,
+      "date_published": "2024-10-06T12:10:33.165788Z",
+      "downloads": 38840,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "x4vk7rWL",
+          "hashes": {
+            "sha512": "2923e254d560763db54ac21109abf2849b7baab5d2123568a24d6abb22fb5489ee343029425a7ec5de963f58c0af9cf4c5b68ada3651ecc03316212d28d8d4be",
+            "sha1": "22d97e48331c517a1fd3098ae3760ae7bf0e0fd4"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/XU6siwgV/resourcefulconfig-fabric-1.21-3.0.7.jar",
+          "filename": "resourcefulconfig-fabric-1.21-3.0.7.jar",
+          "primary": true,
+          "size": 344452,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "hOuZIT87",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Config 3.0.7",
+      "version_number": "3.0.7",
+      "changelog": "- Czech translations by Mayaqq\n",
+      "changelog_url": null,
+      "date_published": "2024-10-06T12:10:28.869858Z",
+      "downloads": 28427,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "URuAhv4e",
+          "hashes": {
+            "sha1": "4a133f0421dc08deba1a97ca9cc4e6d01f8a01ff",
+            "sha512": "ab00dcdee7fbfa0cd5f341633d1d22109159ee711dba123db651c73d5d7b8abb4ed9e1896b39e5a91c74b06e918ae504f1c0abc4e8e64569c276105eea065a4d"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/hOuZIT87/resourcefulconfig-neoforge-1.21-3.0.7.jar",
+          "filename": "resourcefulconfig-neoforge-1.21-3.0.7.jar",
+          "primary": true,
+          "size": 340070,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "C2Vpu6Bq",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Config 3.0.4",
+      "version_number": "3.0.4",
+      "changelog": "- Fix screen not opening when only 1 config available\n- Add info buttons\n- Add support for dedicated server properties (Web Config Only)\n- Add proper color picker\n- Add UI element creation to API",
+      "changelog_url": null,
+      "date_published": "2024-09-24T21:04:50.311880Z",
+      "downloads": 14667,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OfbJRqlR",
+          "hashes": {
+            "sha1": "4b0598b726e4186ead931f8954bbeb12528d9d82",
+            "sha512": "da5c84023c037ce4b6bdf75082e82ea5b0c6f184217bd7fea823d587136e7c7960d2d52bdf66f77e9ae803199844e818f41692f2b20a296ef3002347841445bd"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/C2Vpu6Bq/resourcefulconfig-fabric-1.21-3.0.4.jar",
+          "filename": "resourcefulconfig-fabric-1.21-3.0.4.jar",
+          "primary": true,
+          "size": 341935,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "8qM9UUhg",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Config 3.0.4",
+      "version_number": "3.0.4",
+      "changelog": "- Fix screen not opening when only 1 config available\n- Add info buttons\n- Add support for dedicated server properties (Web Config Only)\n- Add proper color picker\n- Add UI element creation to API",
+      "changelog_url": null,
+      "date_published": "2024-09-24T21:04:46.051068Z",
+      "downloads": 3928,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TfXH6WK3",
+          "hashes": {
+            "sha512": "cc1478c70b4aa336c4ac8e907b9158a263a969056ce9f5a337003822b6c4192c689c454bca34f9de73700f9a3f393a06629e6650a2e372b7bbf20d5851e97607",
+            "sha1": "48b3fbf36e3536e0cf148bfcc5c9f1fd82750290"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/8qM9UUhg/resourcefulconfig-neoforge-1.21-3.0.4.jar",
+          "filename": "resourcefulconfig-neoforge-1.21-3.0.4.jar",
+          "primary": true,
+          "size": 337516,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "PfDhIaBR",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Config 3.0.3",
+      "version_number": "3.0.3",
+      "changelog": "- Fix crash on newer neoforge versions\n- Fix error in web server",
+      "changelog_url": null,
+      "date_published": "2024-07-20T15:05:43.936260Z",
+      "downloads": 43538,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YVHsOmVL",
+          "hashes": {
+            "sha1": "4308879b080c06c0ed35ce4c255b2da3eb00f247",
+            "sha512": "fb15c32f65e735b96446d80985272f691803507b09045d520ae131f4147074781978508b75d2033196e0ff3bbec7a9c4bb85efd54002351915bfdfcfec98e838"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/PfDhIaBR/resourcefulconfig-fabric-1.21-3.0.3.jar",
+          "filename": "resourcefulconfig-fabric-1.21-3.0.3.jar",
+          "primary": true,
+          "size": 295634,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ptpZRXNt",
+      "project_id": "M1953qlQ",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Config 3.0.3",
+      "version_number": "3.0.3",
+      "changelog": "- Fix crash on newer neoforge versions\n- Fix error in web server",
+      "changelog_url": null,
+      "date_published": "2024-07-20T15:05:38.860684Z",
+      "downloads": 6601,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6o8fNFmA",
+          "hashes": {
+            "sha1": "18fe0f3f8813675c7c4070bc269f945c7a9d93af",
+            "sha512": "ce9099fa464de95103097dcd53f2341a438de208db0889c8ec90001da1f184aef1d9b9d07d9fed49eebee318d07caaef99eb59b17b4ba44efd3e29aeb2f3a8a3"
+          },
+          "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/ptpZRXNt/resourcefulconfig-neoforge-1.21-3.0.3.jar",
+          "filename": "resourcefulconfig-neoforge-1.21-3.0.3.jar",
+          "primary": true,
+          "size": 291711,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

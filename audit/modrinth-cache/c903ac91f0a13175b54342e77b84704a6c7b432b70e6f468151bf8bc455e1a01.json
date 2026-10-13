@@ -1,0 +1,89 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Searchables&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:17.775136+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "fuuu3xnx",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "searchables",
+        "author": "jaredlll08",
+        "author_id": "l45nT5ov",
+        "organization": null,
+        "organization_id": null,
+        "title": "Searchables",
+        "description": "Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.",
+        "categories": [
+          "fabric",
+          "forge",
+          "library",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "library",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.16.5",
+          "1.17.1",
+          "1.18.2",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6",
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 41123677,
+        "follows": 1275,
+        "icon_url": "https://cdn.modrinth.com/data/fuuu3xnx/206971d54b37b30a2e728b1c194f7f096963d05a_96.webp",
+        "date_created": "2023-06-09T23:49:02.305343+00:00",
+        "date_modified": "2026-10-09T18:51:58.056249+00:00",
+        "latest_version": "V62qRRhH",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 13156799
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 1
+  }
+}

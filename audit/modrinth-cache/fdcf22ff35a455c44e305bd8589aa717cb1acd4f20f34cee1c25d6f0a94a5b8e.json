@@ -1,0 +1,86 @@
+{
+  "url": "https://api.modrinth.com/v2/project/VS1a14jA",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:44.926755+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.19.2",
+      "1.20.1",
+      "1.20.4",
+      "1.20.6",
+      "1.21"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "VS1a14jA",
+    "slug": "polymorphic-energistics",
+    "project_type": "mod",
+    "team": "PYtMoLPS",
+    "organization": null,
+    "title": "Polymorphic Energistics",
+    "description": "Polymorph support for Applied Energistics 2.",
+    "body": "An add-on mod adding [Polymorph](https://modrinth.com/mod/polymorph) support for the Crafting Terminal and Pattern Encoding Terminal from [Applied Energistics 2](https://modrinth.com/mod/ae2), adding Polymorph's recipe selection button to these terminals in order to choose between conflicting crafting recipes instead of being forced to work with only one of these conflicting recipes within AE2.",
+    "body_url": null,
+    "published": "2023-11-21T15:07:00.918058Z",
+    "updated": "2024-07-19T14:16:30.683271Z",
+    "approved": "2023-11-25T21:11:17.064254Z",
+    "queued": "2023-11-21T18:47:29.970210Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "downloads": 2006629,
+    "followers": 48,
+    "categories": [
+      "utility"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "hossZ8iK",
+      "Rrcb5vqI",
+      "cz5XevTF",
+      "sLfElgmE",
+      "KCk6T4Zn",
+      "atcXCL6V",
+      "YBPDqGX1",
+      "tCb9SvuL",
+      "kOYNUf5K",
+      "4TYLsKyo",
+      "y1JzytfD",
+      "oxmWQs9t"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/VS1a14jA/0417c4ce2813879aaa429b53978de2e227a3e78d.png",
+    "raw_icon_url": "https://cdn.modrinth.com/data/VS1a14jA/0417c4ce2813879aaa429b53978de2e227a3e78d.png",
+    "issues_url": "https://github.com/62832/PolymorphicEnergistics/issues",
+    "source_url": "https://github.com/62832/PolymorphicEnergistics",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/VS1a14jA/images/9196949ef3854b17c53e2481b87ec44bc4124f6c.png",
+        "raw_url": "https://cdn.modrinth.com/data/VS1a14jA/images/9196949ef3854b17c53e2481b87ec44bc4124f6c.png",
+        "featured": true,
+        "title": "Pattern Encoding Terminal demo",
+        "description": null,
+        "created": "2023-11-23T23:42:30.587422Z",
+        "ordering": 0
+      }
+    ],
+    "color": 10263732,
+    "thread_id": "2KErdJOO",
+    "monetization_status": "monetized"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "url": "https://api.modrinth.com/v2/project/P3iIrPH3",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:42.521019+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.16.5",
+      "1.18.2",
+      "1.19.4",
+      "1.20.1",
+      "1.20.2",
+      "1.20.4",
+      "1.21",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1.2",
+      "26.2"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "P3iIrPH3",
+    "slug": "iron-chests",
+    "project_type": "mod",
+    "team": "Ay5FAJHh",
+    "organization": null,
+    "title": "Iron Chests",
+    "description": "Iron Chests mod has chests for the various metals in vanilla minecraft with varying sizes!",
+    "body": "<p>Iron Chests mod has chests for the various metals in vanilla minecraft with varying sizes!</p>\n<p>&nbsp;</p>\n<p><img src=\"https://i.imgur.com/Kz3AG9B.png\" alt=\"Iron Chests\" width=\"2350\" /></p>\n<p>&nbsp;</p>\n<p>In 1.13, the custom shulker boxes have been moved to their own mod:&nbsp;<a href=\"https://modrinth.com/mod/iron-shulker-boxes\">Iron Shulker Boxes</a></p>\n<p>&nbsp;</p>\n<p>This mod is open source, and may be used in any modpacks.</p>",
+    "body_url": null,
+    "published": "2023-12-09T03:20:34.616970Z",
+    "updated": "2026-10-12T22:53:42.596318Z",
+    "approved": "2023-12-09T04:58:15.547793Z",
+    "queued": "2023-12-09T03:33:35.340772Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": "https://github.com/progwml6/ironchest/blob/1.18/LICENSE"
+    },
+    "downloads": 2748513,
+    "followers": 301,
+    "categories": [
+      "storage",
+      "utility"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "zFxvmTKe",
+      "YjbOtYwN",
+      "bV6vJ8MB",
+      "zB27bsTh",
+      "OtphB4On",
+      "DS35TKvk",
+      "vWIuyfJE",
+      "Res1o1zf",
+      "NkABLtSO",
+      "EkKXSvxD",
+      "f582IWXU",
+      "VGhDyLkd",
+      "gBAj2t9I",
+      "gdMRz8SH",
+      "PMZZMWdH",
+      "JkK1NUzS",
+      "bNuyULWK",
+      "VbQaKLPU"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/P3iIrPH3/a22018e95966927fdc4043f0759f0d786bfcade0_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/P3iIrPH3/30c5ceba345f53cc91754f3d427f0262d0fe2c5f.png",
+    "issues_url": "https://github.com/progwml6/ironchest/issues",
+    "source_url": "https://github.com/progwml6/ironchest",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/njGrvuh",
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/P3iIrPH3/images/36e679bf9bce2dd7c482aa9058a6c578df24f72b_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/P3iIrPH3/images/6f131715b8ec1eb3708e6a8ad97b893fa321b18e.png",
+        "featured": true,
+        "title": "Chests",
+        "description": null,
+        "created": "2023-12-09T03:26:37.061844Z",
+        "ordering": 0
+      }
+    ],
+    "color": 7369063,
+    "thread_id": "4u6WVlS7",
+    "monetization_status": "monetized"
+  }
+}

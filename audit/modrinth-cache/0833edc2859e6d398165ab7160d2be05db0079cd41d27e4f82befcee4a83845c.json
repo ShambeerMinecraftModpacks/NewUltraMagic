@@ -1,0 +1,661 @@
+{
+  "url": "https://api.modrinth.com/v2/project/qnQsVE2z/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:54.916457+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "18h0L19k",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-487",
+      "version_number": "4.1-487",
+      "changelog": "# Quark 4.1-487 For Neoforge 1.21.1\n\n# Fixes\n- Partial fix for #5667: [Bug] NPE in TinyPotatoModel.isCustomRenderer during ModifyBakingResult (Map.compute inserts null entry)\n    - This does not fix the root issue but *should* prevent a crash with Continuity+Connector installed\n\n# Additions\n- Merged #5673 [1.21] Give Quark mobs the ability to wear hats (thanks hedgehog1029!)\n  - If Create is installed, Quark's mobs can now wear conductor hats in the relevant context. Here is a picture:\n![Quark mobs wearing Create hats](https://cdn.discordapp.com/attachments/460174602186784809/1556647649543720991/2026-09-28_11.46.22.png?backend=b2&ex=6ac4ec98&is=6ac39b18&hm=855834450ff5e5a8e4581f73bccea850aabc00bcf32a70f76cc2c62bad868049&)\n- Expanded Item Interactions now has an option to invert clicks (use left-clicks for the interaction instead of right-clicks). \n  - Similar to 1.21.2+ bundles\n  - Some JEI hints may be incorrect if this is enabled, but the tooltip hints will be correct (at least for en_us)",
+      "changelog_url": null,
+      "date_published": "2026-10-05T22:50:50.806236Z",
+      "downloads": 34361,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "o8uQpabd",
+          "hashes": {
+            "sha512": "0d1869d5d912e4f36d5e7c62acb9720cdb8c163911f09dad8f9eb3592bde4e1b25d664a8ed24d9002cb77ae6fd2f37768d3a97b779e7f9d84c567de83c9599f2",
+            "sha1": "d421f58ef6d31dc456c25890a5770b2609917d09"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/18h0L19k/Quark-4.1-487.jar",
+          "filename": "Quark-4.1-487.jar",
+          "primary": true,
+          "size": 15594344,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "k4NCrqRq",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-486",
+      "version_number": "4.1-486",
+      "changelog": "https://github.com/VazkiiMods/Quark/releases/tag/release-4.1-486%2B1.21.1",
+      "changelog_url": null,
+      "date_published": "2026-10-02T20:58:34.534778Z",
+      "downloads": 16258,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "J5gVsG74",
+          "hashes": {
+            "sha1": "5f9ee71ed0b9db3db442d3f6de85c71c21ddd2da",
+            "sha512": "234742b1fc633e2ca85fc7e141a2d3728177c88ef7ddef9bb1888a606c2e1eb54cd8d5915d63619bbafd0226d893fa043cbb16915caaca210e8dc3ad8bafc105"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/k4NCrqRq/Quark-4.1-486.jar",
+          "filename": "Quark-4.1-486.jar",
+          "primary": true,
+          "size": 15592406,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8uDGRJCr",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-485",
+      "version_number": "4.1-485",
+      "changelog": "# Quark 4.1-485 For NeoForge 1.21.1\n\nOnly minor changes.\n\n# Fixes\n- Fixed #5646: Ashen Vertical Planks recipe is the Azalea Vertical Planks Recipe\n- Fixed #5640: tag \"stone tool materials\" is not correct\n- Fixed #5647: Make Azalea Tree Change be not hard coded \n\n# Changes\n- Polished Quark stones and Infested Cobblestone can no longer be used to craft stone tools\n\n# Additions\n- Azelea Wood Module now has a separate option to disable the replacing of Oak logs with Quark's Azalea logs.\n  - This makes Quark's Azalea Wood unobtainable (but still enabled); it should only be used by modpack developers\n",
+      "changelog_url": null,
+      "date_published": "2026-09-14T19:38:57.215118Z",
+      "downloads": 49103,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lDS78rT7",
+          "hashes": {
+            "sha512": "997321fd43ebc45534e4b98b5a14e7cacf5425d135abbb8f5a720f39be746c23f57c113ecd8d49801047aa972e0327396434fac25f2ecfa4011f24da018542b1",
+            "sha1": "445fbf066be38aa1da59368a5386e906405c1907"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/8uDGRJCr/Quark-4.1-485.jar",
+          "filename": "Quark-4.1-485.jar",
+          "primary": true,
+          "size": 15590176,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "dDePx0Jy",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-484",
+      "version_number": "4.1-484",
+      "changelog": "Quark 4.1-484 For Neoforge 1.21.1\n\nHotfix for mending.\n\n# Fixes\n- Fix GoldToolsHaveFortuneModule's enchantment filtering which broke mending in the previous build.\n",
+      "changelog_url": null,
+      "date_published": "2026-09-10T01:22:03.542368Z",
+      "downloads": 18429,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eAqx0hNj",
+          "hashes": {
+            "sha512": "e3611b8b04ea1f6cd9a4d478695e0dae034d73868a59cacd6e433a3d408f79ef774b9b8608fef9875b52491791e3ce1c3c68786d45d52646c999a2f2a496f777",
+            "sha1": "33e5f73fd94e602649c8072606e1beb59cf6e0ff"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/dDePx0Jy/Quark-4.1-484.jar",
+          "filename": "Quark-4.1-484.jar",
+          "primary": true,
+          "size": 15590058,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AfetPQW2",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-483",
+      "version_number": "4.1-483",
+      "changelog": "# Quark 4.1-483 For Neoforge 1.21.1\n\nMinor but impactful fixes and additions.\n\n# Fixes\n- Fixed #5638: Several Enchantments (Modded and Vanilla) Not Functioning with \"Golden Tools Have Fortune\" Config [1.21.1]\n    - Also, mutual exclusions are now applied correctly to built-in and applied enchantments.\n    - This fix undoes a previous change, and as a result compatibility with Kilt is potentially reduced, but this is untested and not something we are explicitly supporting.\n- Potentially fixed #5647: Make Azalea Tree Change be not hard coded\n# Changes\n- Updated Finnish translation (Thanks footwanterfin)\n- Azalea Wood Module, if disabled manually or by anti-overlap, will no longer force the vanilla azalea tree ConfiguredFeature to use Oak Logs\n\n# Additions\n- Added a config option to Oddities' Totem of Holding to drop all items on hit (Thanks Lightning323) \n- Backpacks have item handler capabilities now; modded items and tools can potentially use items from the backpack (Thanks MehVahdJukaar)\n- Feeding trough has item handler capability now; you should be able to insert into it with modded pipes (Thanks Klisz)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-08T18:10:07.799105Z",
+      "downloads": 5388,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IIERdAn0",
+          "hashes": {
+            "sha1": "9bfe84913976392744293635d4c08f4059df49f5",
+            "sha512": "806dcde1022798624d17b2a5eb447386e3344c268871f09c57b6c4bac5066ed3b8b6bfc4df78838e6b8ac263af6cd7deffa223ec16b0591be39bbeeb55006d5c"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/AfetPQW2/Quark-4.1-483.jar",
+          "filename": "Quark-4.1-483.jar",
+          "primary": true,
+          "size": 15590016,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yvp3Jbmk",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-482",
+      "version_number": "4.1-482",
+      "changelog": "# Quark 4.1-482 For Neoforge 1.21.1\n\nFixed an issue where you could craft chests and furnaces with anything (yes, really) and some other minor ones.\n\n# Fixes\n- Fixed #5556: [1.21.1] Candle Influencing not showing in JEI (thanks Klisz)\n- Fixed #5611: unexpected behaviour with \"quark:mixed_exclusion\"-type recipes (mixed chest and furnace) \n- Fixed #5620: Myalite Pillar Crafting recipe broken\n- Fixed #5622: Mossy cobblestone bricks missing additional recipes\n- Fixed #5623: Cooked crab legs are not in the c:foods/cooked_meat item tag\n- Fixed Matrix Enchanting Influencing recipes not being pulled up in JEI when pressing the Recipes key on an Enchanted Book with one stored enchantment\n\n# Changes\n- Lootr integration has been altered so it doesn't crash on Kilt (thanks vgskye)\n\n# Additions\n- Quark now has a Jade plugin. Currently, it shows the eating cooldown of Oretoises. (thanks JuiceyBeans)\n- Quark's OBE integration now works with Lootr integration\n- New Conditional Tag datapack, `quark_ct_crabs`, for cooked and raw crab legs\n",
+      "changelog_url": null,
+      "date_published": "2026-07-12T20:07:36.830573Z",
+      "downloads": 185024,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hnJ0NwGR",
+          "hashes": {
+            "sha1": "f73c3008321a9fb2da1151be9b49f0dfd006b6b5",
+            "sha512": "811e1e9f263a7e4951896a646507d6d03bebef6c38c113425e5d25acd4da0af9a07a6e5f9f11393cb41cb6f1a97667d7748c4bf21bf842e87ca2b05d6ea9cd81"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/yvp3Jbmk/Quark-4.1-482.jar",
+          "filename": "Quark-4.1-482.jar",
+          "primary": true,
+          "size": 15576704,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "11lDI5sg",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-481",
+      "version_number": "4.1-481",
+      "changelog": "# Quark 4.1-481 For Neoforge 1.21.1\n\nSome much-needed fixes and Optimized Block Entities support!\n\n# Fixes\n- Fixed #5572: Foxhound Faces are swapped from its tamed variant\n- Fixed #5573: Food Tooltips (Light Snack, Light Meal, etc. are too extreme) \n- Fixed #5577: Undead Mobs do not have Undead Properties\n- Fixed #5579: Chains should be detected differently\n- Fixed #5582: You can place things you shouldn't with scaffolding replacement\n- Fixed #5584: (1.21.1) \"Pat the dogs\" config options don't work for most modded entities\n- Fixed #5591: Reacharound activates when you have a wall on your back (thanks LeoBeliik)\n- Fixed #5594: Sweeping Edge not influenced by candles due to typo in default config (you will want to fix this in your Quark config file if you have already generated the config)\n- Fixed the q Button not rotating through the colors of the rainbow and being stuck on red during June. Happy Pride! (thanks LeoBeliik)\n\n# Changes\n- Replace Scaffolding now works with modded scaffold blocks (i.e. Create's Copper Scaffolding). \n  - Placing multiple different types of scaffolding blocks in a pillar and trying to replace any scaffolds will only replace the type of scaffolding that was right-clicked.\n- Multi-block blocks like doors can no longer replace scaffolding\n- Wood Posts will now connect to Hedges immediately above them\n- Chains Connect Blocks now works with modded chains\n- Tamed Foxhounds now have a maximum health of 30. This is to give them a slight disadvantage to normal wolves\n- Made some adjustments to implementation that would theoretically improve Quark's usability on Kilt, but this is untested and probably needs more work.\n- Matrix Enchanter now uses the item tag `#c:enchanting_fuels` instead of `#c:gems/lapis` (there is no functional difference by default)\n- Matrix Enchanter no longer uses deprecated methods for determining if an item can accept an enchantment\n  - Prevented Fairy Rings generator from crashing when Fish of Thieves is installed, but they still fail to generate as the cause of the error has not been yet determined (Relevant issue: #5561)\n- Automatic Recipe Unlock has been reworked so that it (hopefully) doesn't lag the server whenever a player joins. Instead of calculating what recipes to unlock each time a player joins, the first time a player joins, recipes to unlock are cached. (Relevant issue: #5588)\n- Certain recipes such as those for dyed Shingles now properly use the convention dye item tags instead of vanilla dye items.\n\n# Additions\n- Added integration with Optimized Block Entities. If OBE (1.1.22-hotfix.1 or higher) is installed, Variant Chests will use OBE block models instead of the less-performant block entity models\n  - Lootr Variant Chests are not integrated; due to using different textures depending on if they are opened are not, they must always use a block entity model\n- Rotation Lock now works with Replace Scaffolding; blocks will be replaced according to your rotation lock\n- Added a `#quark:cannot_replace_scaffolding` block tag for blocks that shouldn't replace scaffolding\n- Added the `quark:pathfinders_quill` loot function, which sets items to one of the Pathfinder's Quills set up in the config. See `quark:demo/pathfinders_quill_function_demo` loot table for usage\n- Added a banned slabs config option to SlabsToBlock module\n- Added a fully-transparent texture at assets\\quark\\textures\\models\\armor\\backpack_layer_1.png so mods that assume there is a texture there don't show a missing texture when you are wearing a Backpack\n- Added a config option to Matrix Enchanting that allows Shears, Shields, and other items with 0 enchantability but are still compatible with enchantments to be enchanted on the Matrix Enchanter\n- Added various block and item tags",
+      "changelog_url": null,
+      "date_published": "2026-06-29T20:06:59.091862Z",
+      "downloads": 49899,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BOFpy3TO",
+          "hashes": {
+            "sha512": "e75097347394c32f87d3cfc17826901b0b52e7d2b3c01746887e31ca12666a0117b62064aaba821d7fb9253afbf81e5d59873afc3f09468ee5bea36662bd1c8c",
+            "sha1": "20ca15ad273d2476b7339f395f33968960da4c2b"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/11lDI5sg/Quark-4.1-481.jar",
+          "filename": "Quark-4.1-481.jar",
+          "primary": true,
+          "size": 15568423,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hMLnxKZx",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-480",
+      "version_number": "4.1-480",
+      "changelog": "# Quark 4.1-480 For Neoforge 1.21.1\n\n# Fixes\n- *Properly* Fixed #5537: Stripped wood blocks (Azalea, Ashen, and Trumpet) have wrong tag (thanks copygirl) \n- Fixed #5437: Netherite repair not hidden properly with Diamond Repair enabled in JEI\n- Fixed #5538: can't pet players even when added to the allowlist\n- Fixed #5544: Can only craft chests using vanilla oak planks\n- Fixed #5553: Neoforge 1.21.1 Custom Pathfinder Quill Color doesn't seem to work\n- Fixed #5560: \"Improved Tooltip\" Module's Enchanted Book Tooltips is hardcoded\n- Fixed #5564: [479 and more] A .cache folder is packed into the JAR\n  - this fix decreases jar size by at least 10 KB\n- Fixed #5570: [1.21.1] Matrix Enchanting \"Info\" recipe is still present when Matrix Enchanting is disabled with EMI+JEI installed.\n- Fixed the flamarang smithing recipe being enabled if the pickarang module or Enable Flamerang config is disabled\n- Fix inconsistent sorting for items with the same items with different components\n- Fix a bug relating to sorting not showing on held shulker boxes\n- Fixed the Bent Recipes cookie recipe cheating you out of 7 cookies\n- Fix crates not saving properly when they contained more than 256 stacks (thanks Ocelot5836)\n- Fixed certain hints being added for disabled content\n\n# Changes\n- Quark now requires at least NeoForge 21.1.230\n- You can now craft vanilla chests with modded woods if they have no variant chest. \n  - This was a longstanding (3+ years) issue Siuolplex found a cursed workaround for!\n- Trowel -> Iron Nugget smelting recipe now checks if the Trowel module is enabled\n- Updated Ukrainian translation (StarmanMine142)\n- Updated Japanese translation (Abbage230)\n- Improved Tooltips' Enchanting Tooltips now checks for the `minecraft:stored_enchantments` item component instead of Enchanted Books/Ancient Tomes\n- Add some variance to the fairy rings\n- The Blossom and Ancient Trees modules now contain descriptions with their corresponding in-game names (the items had their names changed previously, but the module and internal names did not)\n\n# Additions\n- Added a Trowel -> Iron Nugget blasting recipe\n\n## Code Related\n- Add some fallback code for AttributeTooltips.\n- Fixed a bug in our unused api\n- PathfinderMapsModule now parses ARGB hex colors correctly",
+      "changelog_url": null,
+      "date_published": "2026-05-24T18:36:23.465427Z",
+      "downloads": 711795,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YIEz7gDp",
+          "hashes": {
+            "sha512": "b2da2bcf8db7b69d433222cb8c9effd0997acab1d5c949122681cb98eae733c1352d2a0c3dd57788b1b1ac76dc57e4d2abd69e94a18bba37136b448482816983",
+            "sha1": "a17e252b74b28045602478cb3ada804239c15c2c"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/hMLnxKZx/Quark-4.1-480.jar",
+          "filename": "Quark-4.1-480.jar",
+          "primary": true,
+          "size": 15542634,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "dGSYpGOo",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-479",
+      "version_number": "4.1-479",
+      "changelog": "# Quark 4.1-479 For Neoforge 1.21.1\n\nFixed the trowel thanks to LeoBeliik, and also snuck in an experimental module.\n\n# Fixes\n- Fixed #5513 (and all related issues): Trowel Crash: Item must not be minecraft:air\n- Fixed #5540: Redstone Randomizer Makes Incorrect Place and Break sounds\n- Fixed #5541: Automatic Tool Restock can swap the trowel when it shouldn't\n- Fixed #5545: Ladders missing #c:ladders item and block tag\n- Fixed #5547: Jasper, Limestone, Shale, Myalite, Permafrost, and their polished varients, along with polished calcite, have incorrect stone tag\n\n# Changes\n- Added a Conditional Tags datapack for Variant Ladders\n- Polished stone blocks are no longer under the #c:stones item/block tags\n\n# Additions\n- Added Vanilla Stone Clusters module, disabled by default, under the Experimental category. This is an attempt to restore part of the pre-1.18 version of Quark's Big Stone Clusters, where Granite, Diorite, and Andesite only spawn in biome-dependent clusters.\n  - If this module is enabled, a datapack (quark_vdo_vanilla_stone_clusters) will be loaded that sets the `ore_granite` etc. ConfiguredFeatures to size 0. \n  - This module uses the BigStoneClusters module's blocksToReplace config.\n  - This is under Experimental because I don't know if the datapack will cause issues, and the default biomes probably need to be changed, and if enabled, triggers the \"Experimental Settings\" screen when loading a world and I don't know why!\n  - Despite this module's name, Calcite is still generated from the BigStoneClusters module.\n  - Please try it out and let me (Partonetrain) know what you think of this on the Forum or on Discord!",
+      "changelog_url": null,
+      "date_published": "2026-05-08T01:30:56.665763Z",
+      "downloads": 230658,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8EPzRdV9",
+          "hashes": {
+            "sha1": "709d2f873dd1afc98cda59b133b53e5e797a2d19",
+            "sha512": "63ac899684e06419aae9bfaca62f562cb65f8cf5d51dc38eb9e670cded8c64ef51c92b4509e2171c5b397693a8332a58509aad7be560d1171311eeef895990d9"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/dGSYpGOo/Quark-4.1-479.jar",
+          "filename": "Quark-4.1-479.jar",
+          "primary": true,
+          "size": 15598989,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6HWAd3tc",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-478",
+      "version_number": "4.1-478",
+      "changelog": "# Quark 4.1-478 For Neoforge 1.21.1\n\nMostly just a hotfix for matrix enchanting (thanks Siuolplex). The Trowel is still buggy, so we still recommend making backups before using it.\n\n# Fixes\n- #5537: Stripped wood blocks (Azalea, Ashen, and Trumpet) have wrong tag\n- #5522: 4.1-477 enchanting matrix is unusable \n- Fixed Torch Arrow entity not having a language key set for it (only in en_us)\n- Fixed placed Angry Tiny Potatoes not preserving their anger when broken\n\n# Changes\n- Glow shrooms can now be placed on any block with the tag `quark:glow_shroom_may_place_on`, although by default this tag only includes Deepslate.",
+      "changelog_url": null,
+      "date_published": "2026-05-03T17:36:01.821981Z",
+      "downloads": 17113,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iPrEP3a0",
+          "hashes": {
+            "sha512": "9dbbe6fcd80e1bf72b779812d83666bd2be36f65604330b16ae118647cf090ef864509a22777e6af99c6f5e453c3baf4299b51f66b6a73ee9f6cc3659a1611af",
+            "sha1": "22e2c53f44b3e437b423fa16705a880d72ffbbe7"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/6HWAd3tc/Quark-4.1-478.jar",
+          "filename": "Quark-4.1-478.jar",
+          "primary": true,
+          "size": 15591088,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qcDWHGnS",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-477",
+      "version_number": "4.1-477",
+      "changelog": "# Quark 4.1-477 for NeoForge 1.21.1\n\nLots of fixes and a couple of other changes to improve the out-of-the-box experience.\nI am aware of many other issues but haven't had any luck fixing them. For now, I recommend:\n  - Be especially careful (make world backups) when using the Trowel, putting nontypical blocks in your hotbar and using it can result in player data loss\n  - Don't use NeoContinuity with Quark as it seems to cause inexplicable startup crashes\n  - EDIT: Don't put items on Tiny Potato as they will disappear when the world is next loaded\n\n## Fixes\n- Fix #5215: Leaving \"Back\" key unbound causes all unknown keys to trigger it.\n- Fix #5495: Golden Pickaxe is broken\n- Fix #5496: Blocks & items are not compostable\n- Fix #5500: Variant chests still visible in recipes even when turned off.\n- Fix #5503: Attribute Icons\n- Fix #5504: Disabling Utility Recipes deletes recipes for stone tools\n- Fix #5507: Potential incorrect tagging on framed glass blocks\n- Fix #5515: [Bug] Opened shulker box disappears after Quark inventory sort\n- Fix #5516: 1.21.1 tater loses name when broken\n- Fix #5517: Seed pouches are irretrievable from Create's Stock Keeper\n- Fix #5520: [1.21.1] Matrix enchanting table fails to load data\n\n## Changes\n- Variant Chests, Variant Bookshelves, and Variant Ladders modules now have anti-overlap with Carved Wood and will disable themselves if that mod is installed\n- Updated Simplified Chinese translation (qznfbnj)\n- Updated Japanese translation (Abbage230)\n- Updated Russian translation (AstardGrimoire)\n- Updated German translation (GulutGames)\n- Updated various translation files using unused Twitter and Reddit translation keys, replaced with Forum and Bluesky keys.\n\n## Additions\n- Added a system to add tags to items/blocks depending on config via *additional* datapacks. Unfortunately this is a kind of band-aid fix that doesn't solve the root issue of there being no way to conditionally add items to tags. \n    - Added Conditional Tag datapacks for: Variant Chests, Variant Bookshelves, and Framed Glass\n    - This system does not account for multi-condition items, for example, Ashen Chests will still be in the `c:chests` tag if Variant Chests is enabled but Ancient Wood is not\n    - More tag contents may be moved to additional conditional datapacks as needed for future updates. We recommend that modpack makers check if disabled content being in present tags creates issues (and removing said items from the tag with CraftTweaker or similar) instead of relying on the config.\n    - This will end up bloating the `/datapack list` command, but that's a small price to pay to fix certain essential tags containing disabled content.\n",
+      "changelog_url": null,
+      "date_published": "2026-04-24T23:58:23.220147Z",
+      "downloads": 243459,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UPVtjgqp",
+          "hashes": {
+            "sha1": "91adcc7cf8a1f9a529fcbb7fb6ea0adfeba91b8d",
+            "sha512": "ded71aa7f564290d3e115c1e9670c9ffe0870dc5b03b20d72323046d8f026337248281ab4845a6d0a2f78cd6a3666fb28fadac7b214dac3fcbd0b824f73c1f01"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/qcDWHGnS/Quark-4.1-477.jar",
+          "filename": "Quark-4.1-477.jar",
+          "primary": true,
+          "size": 15589924,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "4yh9kJFj",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-476",
+      "version_number": "4.1-476",
+      "changelog": "# Quark 4.1-476 For Neoforge 1.21.1\n\nMore bugfixes! Yippee! There's still some things not working quite right, but I hope this release fixes all the major/fatal issues for now.\n\n## Fixes\n- Fixed #5456: Crash on client startup / screen init: BackButtonKeybindModule NPE (this.backKey is null) on NeoForge 1.21.1 (Thanks auri-f5bde6)\n- Fixed #5483: Singleplayer performance issue with expensive worldgen and EnhancedLaddersModule\n- Fixed #5484: [1.21.1] Other mods' built in override recipe for stone tools doesn't work and only Quark's version load even if you set the mod to load after Quark\n- Added a potential fix for #5492: Latest versions of Quark+Create (ClassCastException) issue Neoforge 1.21.1\n- Fixed #5494: quark runes don't spawn in the loot tables\n- Fixed Runic Etching Smithing Template duplication recipe using corundum when corundum is disabled (an alternative recipe using Amethyst Blocks now exists)\n\n## Changes\n- Quark VDO has been split into different datapacks for each relevant feature. Each datapack now uses datapack filters to disable relevant vanilla recipes instead of overriding the entire file. This should fix problems with Quark always overriding certain data files no matter what.\n- The Quark Programmer Art resource pack is no longer deployed to the instance's resourcepacks folder if the option is enabled. Instead, it is directly added to the resource pack selection screen under \"Available\", similar to other mods' optional resource packs. You can safely delete Quark Programmer Art.zip from your resourcepacks folder if it was previously deployed.\n\n## Additions\n- Added a General config option to disable ALL Quark VDO datapacks. Only do this if you know what you're doing!\n",
+      "changelog_url": null,
+      "date_published": "2026-03-30T22:53:21.051872Z",
+      "downloads": 111983,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PmRMRGXq",
+          "hashes": {
+            "sha512": "d68e4c732c3cc729df53c59bd6b1b97b022bc01585882ae6ce0432c7fdd74507e5bc49788eb40e96d2cb98ee1b206f47a8c5dcd1614fb7c381bbd487cc1153a8",
+            "sha1": "cb69532ce35acd0daf79b7ceb27f95ca58c923cc"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/4yh9kJFj/Quark-4.1-476.jar",
+          "filename": "Quark-4.1-476.jar",
+          "primary": true,
+          "size": 15578260,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "IvW220rK",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-475",
+      "version_number": "4.1-475",
+      "changelog": "# Quark 4.1-475 For Neoforge 1.21.1\n\nLots of bug fixes, a few small improvements here and there, and a Rad Shiba.\n\n## Fixes\n\n- Fix #5448: When playing with Quark, enchantment glints are weaker than normal\n- Fix #5421: 472 silk touch doesn't work as custom baked enchant\n- Potentially fixed #5465: [1.21.1] When the player equips the backpack and plays for a while, there is a chance that the game crashes when saving and exiting. (testing required)\n- Fixed a crash relating to searching in chests and shulker boxes\n- Fix #5444: Potted plants and Chorus Vegetation loot table issues\n- Fix #5436: Matrix influencing \"recipes\" only show one enchantment in JEI\n- Fix #5446: [1.21.1] Tiny Coal items missing fuel burn time with Improved Tooltips\n- Fix Automatic Tool Restock's Important Enchantments not working\n- Fix attribute tooltip sizing\n- Fix #5464: [1.21.1] Books cannot be Matrix Enchanted\n- Merge #5315: Greener Grass Module: update Valhelsia Structures defaults\n\n## Additions\n\n- Improved Gold Tools Have Fortune module: Now checks for `quark:counts_as_weapon_for_gold_tools_have_fortune` and `quark:ignored_by_gold_tools_have_fortune` item tags\n- Capabilities have returned to variant chests and pipes, improving compatibility.\n- Added Rad Shiba\n- The Oretoise no longer hurts you in Peaceful mode, instead giving you very slight vertical knockback\n- Added Ars Nouveau's fruits to `quark:hoe_harvestables` block tag\n- Added an intentional startup crash when detecting a 1.20.1 config file. Using configs in the wrong format will cause issues, so we recommend you regenerate it\n- Improved the `quark:enchant_tome` loot function for use in datapacks; see `quark:demo/enchant_tome_function_demo` loot table for usage.\n\n## Removals\n\n- Removed old general config options that weren't being used. These don't require you do regenerate the config, don't worry chat",
+      "changelog_url": null,
+      "date_published": "2026-03-18T23:00:45.856603Z",
+      "downloads": 13821,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KBYo9G3d",
+          "hashes": {
+            "sha1": "ad9f7c9ab935f70d431ceea35976a52f9bcd26e9",
+            "sha512": "98557681091c0a2b2289cffc8ca21f36b3e78706f5a1a680edb77f25f3c3644e98772e605db02d323b599f2e0f175941fd6ae9e6649ab2495abe621ddcd5c7d0"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/IvW220rK/Quark-4.1-475.jar",
+          "filename": "Quark-4.1-475.jar",
+          "primary": true,
+          "size": 15499932,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "PRtPti1t",
+      "project_id": "qnQsVE2z",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "4.1-474",
+      "version_number": "4.1-474",
+      "changelog": "https://github.com/VazkiiMods/Quark/releases/tag/release-4.1-474%2B1.21.1",
+      "changelog_url": null,
+      "date_published": "2026-02-17T19:51:00.697245Z",
+      "downloads": 43677,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aMQWKyPj",
+          "hashes": {
+            "sha1": "a9634d9631d06a971b190c681bedebb77a7abb8d",
+            "sha512": "e04ac52b175ef81cac15d2d2c456133d29d45d6f2456ead2462fab90f7993a321731514a529fabc74b8281c4614e958742c236fe77232c908fafa50713f37dcc"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/PRtPti1t/Quark-4.1-474.jar",
+          "filename": "Quark-4.1-474.jar",
+          "primary": true,
+          "size": 15482779,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "MVARlG2f",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hWrgyOs5",
+      "project_id": "qnQsVE2z",
+      "author_id": "W53r0fU4",
+      "featured": false,
+      "name": "Quark 4.1-473",
+      "version_number": "1.21.1-4.1-473",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-02-14T20:35:42.935318Z",
+      "downloads": 35361,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "o9bZkiic",
+          "hashes": {
+            "sha512": "0eb313b2c0bb508be20e7fc558e601c1c42b721318d522b79eb12ce9527c11b85ca8ca847aa4707a4785ac3f4fe9ff3da9feea3d0332fa83f6367be9d3ab40cc",
+            "sha1": "539fca4eb84c67d7f7397883c16f2ca5f50b4dd2"
+          },
+          "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/hWrgyOs5/Quark-4.1-473.jar",
+          "filename": "Quark-4.1-473.jar",
+          "primary": true,
+          "size": 15488422,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

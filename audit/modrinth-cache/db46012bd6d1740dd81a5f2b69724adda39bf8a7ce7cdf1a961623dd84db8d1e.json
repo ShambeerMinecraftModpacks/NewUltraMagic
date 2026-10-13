@@ -1,0 +1,428 @@
+{
+  "url": "https://api.modrinth.com/v2/project/lOOpEntO/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:51.201162+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "XwbErf6s",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-fabric-1.21.1-21.1.3",
+      "version_number": "21.1.3",
+      "changelog": "- Update build dependencies.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- techsquirrel\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-10-17T05:18:30.583372Z",
+      "downloads": 260311,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ODh5j1Et",
+          "hashes": {
+            "sha1": "197b8331d3526b54f0deacc5ed80ea1f6f9edf94",
+            "sha512": "0ae9f64b9af206a506722cc11a900f75e8bb137cb9598c0f572ed1c3b993948fc47ebfec54cf0d66043901322c4a0caba220d9e953e0a6b68c244774d65088e5"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/XwbErf6s/attributefix-fabric-1.21.1-21.1.3.jar",
+          "filename": "attributefix-fabric-1.21.1-21.1.3.jar",
+          "primary": true,
+          "size": 21590,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "TyNITLDY",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-neoforge-1.21.1-21.1.3",
+      "version_number": "21.1.3",
+      "changelog": "- Update build dependencies.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- techsquirrel\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-10-17T05:18:25.069160Z",
+      "downloads": 554606,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tDLXh61z",
+          "hashes": {
+            "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
+            "sha512": "09e1ff6012d5b7bef7bb701d38feaaab41db4f2fc8b9f669b820fc2c91e53098e093e401062ad80a0ce249c68aa7a6209ac9ee341518b8f640bae2393b1595ae"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/TyNITLDY/attributefix-neoforge-1.21.1-21.1.3.jar",
+          "filename": "attributefix-neoforge-1.21.1-21.1.3.jar",
+          "primary": true,
+          "size": 19809,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "a0oKmnPU",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-neoforge-1.21.1-21.1.2",
+      "version_number": "21.1.2",
+      "changelog": "- Disable logo blur.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T09:28:24.539259Z",
+      "downloads": 269200,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GtFvX2mF",
+          "hashes": {
+            "sha512": "bbfe003ed29a2bb0b4dd0a61d64b411748c9f5cb48ccbfd954dd2d813c452c540638749b6f19e7472e44ae1e966a3629b135190ffba3099cfdf45355618c0b97",
+            "sha1": "c6df25744d52abca410c40ec6f29c0156ba50885"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/a0oKmnPU/attributefix-neoforge-1.21.1-21.1.2.jar",
+          "filename": "attributefix-neoforge-1.21.1-21.1.2.jar",
+          "primary": true,
+          "size": 19798,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "GY6xtsMa",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-forge-1.21.1-21.1.2",
+      "version_number": "21.1.2",
+      "changelog": "- Disable logo blur.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T09:28:21.225101Z",
+      "downloads": 11572,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "u9NtihDv",
+          "hashes": {
+            "sha1": "59147021c2cedb975abc5950837a6555f6a2f23b",
+            "sha512": "845e615b177ad064c9eeb6523b6024cb95a6bf257f3519d845fd58df81da9a16cd0082e8b00abf576899f4be00edf2c47189c0a7ba7890398ba372a2496efcae"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/GY6xtsMa/AttributeFix-forge-1.21.1-21.1.2.jar",
+          "filename": "AttributeFix-forge-1.21.1-21.1.2.jar",
+          "primary": true,
+          "size": 19823,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "5yvTZkxA",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-fabric-1.21.1-21.1.2",
+      "version_number": "21.1.2",
+      "changelog": "- Disable logo blur.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T09:28:17.844663Z",
+      "downloads": 393520,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Bg68juJj",
+          "hashes": {
+            "sha1": "7a8a822b78421baf15ad3af4d63b8bcf6eb610f9",
+            "sha512": "b69d3b24824651226ca989681f0570a1cdfd1f7b6f42713c31ad31bea42f37aa314043e732b14fc117a126402861ef0f82183e5ed7c77f55f7c7ffdb0863dc26"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/5yvTZkxA/attributefix-fabric-1.21.1-21.1.2.jar",
+          "filename": "attributefix-fabric-1.21.1-21.1.2.jar",
+          "primary": true,
+          "size": 21578,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZCwf6Z1s",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-neoforge-1.21.1-21.1.1",
+      "version_number": "21.1.1",
+      "changelog": "- Port to Minecraft 1.21.1\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-04T00:15:12.111358Z",
+      "downloads": 17612,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SnGDO6BB",
+          "hashes": {
+            "sha1": "d0ff394780e0afe934ca7db6bf1f732a16522422",
+            "sha512": "663485e1f892f337a021fb72fc8a99104019ab8d736062418ab7a873a9b21686420a71dd424697bcda0dd3f24eb989f0802e441de21c7fa25dc6d1963de1bee0"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ZCwf6Z1s/attributefix-neoforge-1.21.1-21.1.1.jar",
+          "filename": "attributefix-neoforge-1.21.1-21.1.1.jar",
+          "primary": true,
+          "size": 19788,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "cJljwPnT",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-forge-1.21.1-21.1.1",
+      "version_number": "21.1.1",
+      "changelog": "- Port to Minecraft 1.21.1\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-04T00:15:08.736774Z",
+      "downloads": 340,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uplC2uJs",
+          "hashes": {
+            "sha1": "1f1c88c331b803269a970ff1ab01b46dc659a0b9",
+            "sha512": "1c0e6635f0dd13c76feecb46624efa8ef6163a5fa47a995240bf4b0d49e0de7aca2c7ffab206dd2385090c66c6589bb38bf7f98d9706f3c1c0648c30b2de4291"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/cJljwPnT/AttributeFix-forge-1.21.1-21.1.1.jar",
+          "filename": "AttributeFix-forge-1.21.1-21.1.1.jar",
+          "primary": true,
+          "size": 19813,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "Fz3yvqkE",
+      "project_id": "lOOpEntO",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "AttributeFix-fabric-1.21.1-21.1.1",
+      "version_number": "21.1.1",
+      "changelog": "- Port to Minecraft 1.21.1\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?attributefix) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-04T00:15:05.246347Z",
+      "downloads": 2481,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gsZneM7x",
+          "hashes": {
+            "sha1": "628c671072577051dd4bdf4de6c7be393a50c3a6",
+            "sha512": "758df58320e16a524e82609468d27a6de893e8bbaf37bddeb18de02e91f2e2327ef13a0fc7089cdb9398fe27d34eb0fdac07a4649af3637d382b7d2b49cdb4e2"
+          },
+          "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Fz3yvqkE/attributefix-fabric-1.21.1-21.1.1.jar",
+          "filename": "attributefix-fabric-1.21.1-21.1.1.jar",
+          "primary": true,
+          "size": 21578,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uy4Cnpcm",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "aaRl8GiW",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

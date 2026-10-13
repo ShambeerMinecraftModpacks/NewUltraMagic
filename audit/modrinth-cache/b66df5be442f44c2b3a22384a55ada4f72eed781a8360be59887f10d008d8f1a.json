@@ -1,0 +1,1106 @@
+{
+  "url": "https://api.modrinth.com/v2/project/tagwiZkJ/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:56.809342+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9yWvrF5o",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-neoforge-1.2.0+1.21.1",
+      "version_number": "1.2.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.2.0+1.21.1] - 2026.09.09\n### Changed\n- Updated JEI compatibility to remove mixins and use the new recipe transfer listener API (thanks mezz!) [#338](https://github.com/illusivesoulworks/polymorph/pull/338)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-10T09:33:16.272769Z",
+      "downloads": 86281,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sXk3q6PV",
+          "hashes": {
+            "sha512": "dce77fffebae80532fec39d35c9c8b5817ba756bb03569022cc0854a8a6cf1868690f91451b587bd60d813e8403b5de91adbc324796bc423ef28deecfb13c775",
+            "sha1": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1.jar",
+          "filename": "polymorph-neoforge-1.2.0+1.21.1.jar",
+          "primary": true,
+          "size": 172671,
+          "file_type": null
+        },
+        {
+          "id": "OftyJznz",
+          "hashes": {
+            "sha1": "858eb89431863e1ddab966353cfadacf32d5b1c2",
+            "sha512": "72b56a6f6f2670580db17618688b62a2f7b1b05c0458cd69521e99ddcaa7fa7815afc57afa4bad8670caa2c9873e9eff78f75b628785a21b399aa5590976ae38"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1-sources.jar",
+          "filename": "polymorph-neoforge-1.2.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 128130,
+          "file_type": "sources-jar"
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "ZPMmgVne",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-fabric-1.2.0+1.21.1",
+      "version_number": "1.2.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.2.0+1.21.1] - 2026.09.09\n### Changed\n- Updated JEI compatibility to remove mixins and use the new recipe transfer listener API (thanks mezz!) [#338](https://github.com/illusivesoulworks/polymorph/pull/338)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-10T09:32:50.904528Z",
+      "downloads": 99396,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QKdPfDE3",
+          "hashes": {
+            "sha512": "15bb45e3ef69c60688046ad4e73abf88a6bd25f622485888cb3205231a145f6faedad2487089eb0909991be8fc05f4fcca8ad0034575f1d95b8c4e3f74837659",
+            "sha1": "3de2e606ffc8b4071237de209df163456ad4922a"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/ZPMmgVne/polymorph-fabric-1.2.0%2B1.21.1.jar",
+          "filename": "polymorph-fabric-1.2.0+1.21.1.jar",
+          "primary": true,
+          "size": 318555,
+          "file_type": null
+        },
+        {
+          "id": "JeXHdkgq",
+          "hashes": {
+            "sha1": "dc0dc70786e1fdbd64aa70bc88b075df75ab800b",
+            "sha512": "dd3e7133e6b90364b880e1cc25503925473fe5f142de104e93b9ac95939f1fb328fda86c4b98ec1414d42c2b738f81358e65526ea678ae71adc11ba51a49c214"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/ZPMmgVne/polymorph-fabric-1.2.0%2B1.21.1-sources.jar",
+          "filename": "polymorph-fabric-1.2.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 135394,
+          "file_type": "sources-jar"
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "pNmdwLoQ",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-forge-1.2.0+1.21.1",
+      "version_number": "1.2.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.2.0+1.21.1] - 2026.09.09\n### Changed\n- Updated JEI compatibility to remove mixins and use the new recipe transfer listener API (thanks mezz!) [#338](https://github.com/illusivesoulworks/polymorph/pull/338)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-10T09:32:31.411802Z",
+      "downloads": 1121,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MXyO120e",
+          "hashes": {
+            "sha512": "43f00799e24c8ce7beeca0ecb339a6fcbda51220e04f7d6399053b0e9601b8f26ecc216f5906acfb14f0a818c3a94117b39a687ced64dc7228518b64b6dd41a4",
+            "sha1": "12105414cd3f02fb00d64d159605061bea4419a4"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/pNmdwLoQ/polymorph-forge-1.2.0%2B1.21.1.jar",
+          "filename": "polymorph-forge-1.2.0+1.21.1.jar",
+          "primary": true,
+          "size": 171495,
+          "file_type": null
+        },
+        {
+          "id": "VQdCJCNK",
+          "hashes": {
+            "sha512": "80e4cf6529ddf1192076a87e4673bbbf0258d019ce0865f83e37060f4017a1eda19dd8a0a9c3899484cbdd0800d5517be7264a307ef6bf0da1e701e59f574a36",
+            "sha1": "9e55c77c64ee3c9ceb3cac81e5d6a5939ef2c1c8"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/pNmdwLoQ/polymorph-forge-1.2.0%2B1.21.1-sources.jar",
+          "filename": "polymorph-forge-1.2.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 124691,
+          "file_type": "sources-jar"
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "VEburL70",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-neoforge-1.1.0+1.21.1",
+      "version_number": "1.1.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.1.0+1.21.1] - 2025.07.21\n### Changed\n- Retooled block entity registration for recipe data to accommodate for Fabric components\n",
+      "changelog_url": null,
+      "date_published": "2025-07-21T10:56:19.716302Z",
+      "downloads": 1397533,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xUsNNRPg",
+          "hashes": {
+            "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+            "sha512": "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+          "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+          "primary": true,
+          "size": 174972,
+          "file_type": null
+        },
+        {
+          "id": "5VhFEyuk",
+          "hashes": {
+            "sha512": "f6369dd975d0cd77162115464750f0717cd6850e53e1297aeee33c2dbc48f884ca045bd63f5e1d7e75c1b6bd1a0efff623c15801ea85932cdc34f4b434e64064",
+            "sha1": "4770b3f605218a7aee52670aa507b48c6b3249e2"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1-sources.jar",
+          "filename": "polymorph-neoforge-1.1.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 129830,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Ng5Y6KVo",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-fabric-1.1.0+1.21.1",
+      "version_number": "1.1.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.1.0+1.21.1] - 2025.07.21\n### Changed\n- Retooled block entity registration for recipe data to accommodate for Fabric components\n",
+      "changelog_url": null,
+      "date_published": "2025-07-21T10:56:15.656434Z",
+      "downloads": 788014,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cLQOUi4J",
+          "hashes": {
+            "sha512": "701cbff45976dcc5e8c480582fdcfaf20565d17b763a091e551debd343c37430cd711844d3d11b3f1abb236cca56ae907045b64c6ac5f70553aaa98e4fb69527",
+            "sha1": "e4f9ec40058c07f263d19b21e438b5204ea4dc22"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/Ng5Y6KVo/polymorph-fabric-1.1.0%2B1.21.1.jar",
+          "filename": "polymorph-fabric-1.1.0+1.21.1.jar",
+          "primary": true,
+          "size": 320928,
+          "file_type": null
+        },
+        {
+          "id": "FO5e34qj",
+          "hashes": {
+            "sha1": "094f0c9ab1ae069df68432449eca8a228b51662c",
+            "sha512": "f20398b9278c510fc68f08329f95e25c590620a235cde007b8dd78b263eb7efd6cec0bfc5b4960a99b7d0ef41598380cb65d38f0fe732f42e265c9798afcf38d"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/Ng5Y6KVo/polymorph-fabric-1.1.0%2B1.21.1-sources.jar",
+          "filename": "polymorph-fabric-1.1.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 137074,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "CILYIVoK",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-forge-1.1.0+1.21.1",
+      "version_number": "1.1.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.1.0+1.21.1] - 2025.07.21\n### Changed\n- Retooled block entity registration for recipe data to accommodate for Fabric components\n",
+      "changelog_url": null,
+      "date_published": "2025-07-21T10:56:11.228907Z",
+      "downloads": 14543,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bq8ZD96Y",
+          "hashes": {
+            "sha512": "76179f5b777ed4e5d86f756f5aa4db045eca9d14089f9e04c41e44291acbfdc19db761870c10c12b8b27c99fcb27428851a87975cb9729993269d529f017329c",
+            "sha1": "9941e2423650105e9542b7a5965372420f9af8e4"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/CILYIVoK/polymorph-forge-1.1.0%2B1.21.1.jar",
+          "filename": "polymorph-forge-1.1.0+1.21.1.jar",
+          "primary": true,
+          "size": 173738,
+          "file_type": null
+        },
+        {
+          "id": "YohEyvLo",
+          "hashes": {
+            "sha512": "0a8923f3172695f048fe331ff02c8dafea3fe6a8625a23826e61dc40b667a7c7fd6142520f5cee5fc960902437dbbeec1c9d1b339aef0b0bdc8a9db4e89439c4",
+            "sha1": "fb2fd8b0be48cc3f7771a2116876c356a0f525fa"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/CILYIVoK/polymorph-forge-1.1.0%2B1.21.1-sources.jar",
+          "filename": "polymorph-forge-1.1.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 126389,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Ac1c8Jlj",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-neoforge-1.0.10+1.21.1",
+      "version_number": "1.0.10+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.10+1.21.1] - 2025.04.22\n### Fixed\n- Fixed more potential concurrency issues\n",
+      "changelog_url": null,
+      "date_published": "2025-04-22T08:09:40.653170Z",
+      "downloads": 399788,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TFPXDu2M",
+          "hashes": {
+            "sha1": "2b2d3364947e74e6386d9971452ce3de6f7911d0",
+            "sha512": "455ff2f8f44b016beaf00b9b5a7d0f53be6cf8b773c2e0651945f099a4b853ec67682dc16e0544444df00d1acb3444a6f6df703073eedc0ba130bb73c6759bb7"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/Ac1c8Jlj/polymorph-neoforge-1.0.10%2B1.21.1.jar",
+          "filename": "polymorph-neoforge-1.0.10+1.21.1.jar",
+          "primary": true,
+          "size": 174468,
+          "file_type": null
+        },
+        {
+          "id": "56EBKsqf",
+          "hashes": {
+            "sha1": "f0bf06bc93fe72051fb530aa10b609931d1e0c5d",
+            "sha512": "7d670b8a776c87362f733322c794212c1ef56f87f9aa5d5aa3c41b1ee4ce72aa2435a3d8832e1fb8f60cd3f0021d8ccaa775f5981c50e7e1b75462f7a0307f44"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/Ac1c8Jlj/polymorph-neoforge-1.0.10%2B1.21.1-sources.jar",
+          "filename": "polymorph-neoforge-1.0.10+1.21.1-sources.jar",
+          "primary": false,
+          "size": 129573,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "YuL8WZQ9",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-fabric-1.0.10+1.21.1",
+      "version_number": "1.0.10+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.10+1.21.1] - 2025.04.22\n### Fixed\n- Fixed more potential concurrency issues\n",
+      "changelog_url": null,
+      "date_published": "2025-04-22T08:09:35.666669Z",
+      "downloads": 277071,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7iGoYqR5",
+          "hashes": {
+            "sha1": "6652576310e98250b4516f54bbeddd70aa877b45",
+            "sha512": "4644eb3b7fa47e58c03ca562d36a83cc1313227c744c502df77b1f186c726015bbc4bf6cdff35e97d0d7e5ebf577c6dae0a782ad93be290933f5d50ce1ea4611"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/YuL8WZQ9/polymorph-fabric-1.0.10%2B1.21.1.jar",
+          "filename": "polymorph-fabric-1.0.10+1.21.1.jar",
+          "primary": true,
+          "size": 318889,
+          "file_type": null
+        },
+        {
+          "id": "nk8dNl9f",
+          "hashes": {
+            "sha512": "e8fefeb08da02da8f57c77204fb1fee7c55cabdb3c70c24f1bc73b1bc0126f78f7d4df22b06743eb5e06bb65cf642b6f30b9cab3aac564768839d559e250f05f",
+            "sha1": "b0657a65ba14dcf109406f5fa7f8913b0fb4a6c2"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/YuL8WZQ9/polymorph-fabric-1.0.10%2B1.21.1-sources.jar",
+          "filename": "polymorph-fabric-1.0.10+1.21.1-sources.jar",
+          "primary": false,
+          "size": 136035,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "BqpOAcHK",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-forge-1.0.10+1.21.1",
+      "version_number": "1.0.10+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.10+1.21.1] - 2025.04.22\n### Fixed\n- Fixed more potential concurrency issues\n",
+      "changelog_url": null,
+      "date_published": "2025-04-22T08:09:30.012074Z",
+      "downloads": 2640,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "z3szEuqU",
+          "hashes": {
+            "sha1": "77a5fcea589bbed1a96408d7f65ceb2e23ce287c",
+            "sha512": "563d26bf5adacccd4cf95fc5428fa34f0c18b9be2d6e5c2dcfafb8de0706a9177dbc34b1b20146fb9dfc2b93c2e90354c535fb42b298f1143fa75b8de15fdc91"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/BqpOAcHK/polymorph-forge-1.0.10%2B1.21.1.jar",
+          "filename": "polymorph-forge-1.0.10+1.21.1.jar",
+          "primary": true,
+          "size": 173235,
+          "file_type": null
+        },
+        {
+          "id": "abLeWGXX",
+          "hashes": {
+            "sha512": "7386804851c8d749c97c793328a4d1e1ac881ba79f5dfe67f15951b88b25f883b73599926b14b83d5abcb19e6109ae4d5fe57aacc9246d3f7c9460b8432f6c18",
+            "sha1": "047c413025ecec0cc405fe4119d69202a3046e79"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/BqpOAcHK/polymorph-forge-1.0.10%2B1.21.1-sources.jar",
+          "filename": "polymorph-forge-1.0.10+1.21.1-sources.jar",
+          "primary": false,
+          "size": 126132,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "XlPgZaTt",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-neoforge-1.0.9+1.21.1",
+      "version_number": "1.0.9+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.9+1.21.1] - 2025.04.13\n### Fixed\n- Fixed potential concurrency crashes\n",
+      "changelog_url": null,
+      "date_published": "2025-04-13T14:10:04.631246Z",
+      "downloads": 11968,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TCo8rzti",
+          "hashes": {
+            "sha1": "16d77e943348758f682d979f7652241847e501e4",
+            "sha512": "1bb7830331f7776cf037a5bb866ff77be668fd6792a21eec2e32a4690ff9757448672a5d109bd9d039aee254c3a27061ec5dda3349353748db64f2977b427104"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/XlPgZaTt/polymorph-neoforge-1.0.9%2B1.21.1.jar",
+          "filename": "polymorph-neoforge-1.0.9+1.21.1.jar",
+          "primary": true,
+          "size": 174441,
+          "file_type": null
+        },
+        {
+          "id": "kAGFpaiv",
+          "hashes": {
+            "sha1": "8d5230666368cf6b6f9e039fdaaaaf601700770d",
+            "sha512": "68922e5f2556e3c5cd538a76ae5002df288a6dafd6bfc9ece383ad1c6ac4820cfb25d016354fe4764098c96193b62f1448a3891dd4a60dfc0a46e7e8c86aa41a"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/XlPgZaTt/polymorph-neoforge-1.0.9%2B1.21.1-sources.jar",
+          "filename": "polymorph-neoforge-1.0.9+1.21.1-sources.jar",
+          "primary": false,
+          "size": 129848,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "4iTfOZ4X",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-fabric-1.0.9+1.21.1",
+      "version_number": "1.0.9+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.9+1.21.1] - 2025.04.13\n### Fixed\n- Fixed potential concurrency crashes\n",
+      "changelog_url": null,
+      "date_published": "2025-04-13T14:09:56.604211Z",
+      "downloads": 11789,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DJJgGVQB",
+          "hashes": {
+            "sha1": "0d0391d206e77011e6c492a583dac16a3009ea54",
+            "sha512": "04bad6889d917232f0a1dda1bc4ea91ae845c59e127ba90f9bfd3da198686b4f0478547cbd088c5d04c591257bdd477df79cb914fea9221efad749d76655aa99"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/4iTfOZ4X/polymorph-fabric-1.0.9%2B1.21.1.jar",
+          "filename": "polymorph-fabric-1.0.9+1.21.1.jar",
+          "primary": true,
+          "size": 318859,
+          "file_type": null
+        },
+        {
+          "id": "zJuTPCa7",
+          "hashes": {
+            "sha1": "73f4bd12cd350c35bc8e2331bdb0f432f7d63515",
+            "sha512": "adf9b8a91508d3a54fd378cea0ab4653d93f5caa9150f01afc3791165d5800d3241534c2d66198819265a063514086217d74a07fbf6e37aeaf3001ef83bf23de"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/4iTfOZ4X/polymorph-fabric-1.0.9%2B1.21.1-sources.jar",
+          "filename": "polymorph-fabric-1.0.9+1.21.1-sources.jar",
+          "primary": false,
+          "size": 136310,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "T7f4yT8g",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-forge-1.0.9+1.21.1",
+      "version_number": "1.0.9+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.9+1.21.1] - 2025.04.13\n### Fixed\n- Fixed potential concurrency crashes\n",
+      "changelog_url": null,
+      "date_published": "2025-04-13T14:09:35.846695Z",
+      "downloads": 353,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j7boHehk",
+          "hashes": {
+            "sha512": "a2f5cd2984a090df1cf2b067d62321ebd31bccfb36075b8b839a05d395bbcf4fa99d0d86ed0778e37547bec6f0bae644d40b6e32f7383f06c5d265ee9e699e89",
+            "sha1": "bbf05c90f048ec0edc9e36ef07904c2e73779d0d"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/T7f4yT8g/polymorph-forge-1.0.9%2B1.21.1.jar",
+          "filename": "polymorph-forge-1.0.9+1.21.1.jar",
+          "primary": true,
+          "size": 173208,
+          "file_type": null
+        },
+        {
+          "id": "YyfDxMfi",
+          "hashes": {
+            "sha512": "76f456fb9e94469ee9ac4d82204592fbb982779e0aa39027da74bee747ea3e865641509c91b4c9e969e0eaba0ff6e41725b1ae33f0c318a1069a70d808787f52",
+            "sha1": "4ab5cc20768d5e4c4ff56eedd7976c8eb6e73cc1"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/T7f4yT8g/polymorph-forge-1.0.9%2B1.21.1-sources.jar",
+          "filename": "polymorph-forge-1.0.9+1.21.1-sources.jar",
+          "primary": false,
+          "size": 126401,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "KVZCAz9J",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-neoforge-1.0.8+1.21.1",
+      "version_number": "1.0.8+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.8+1.21.1] - 2025.03.31\n### Added\n- Added `de_de`, `de_at`, and `de_ch` localizations [#296](https://github.com/illusivesoulworks/polymorph/pull/296)\n### Fixed\n- Fixed potential NPE crashes\n- Fixed erroneous block entities being added to recipe checks [#298](https://github.com/illusivesoulworks/polymorph/issues/298)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T02:17:20.332702Z",
+      "downloads": 12711,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WiSi7bry",
+          "hashes": {
+            "sha512": "3adc381b367a5a79a0a2842b5356e130dd10175ae4a66ec41311f5878cb5ca1242347701da0343d7450e45a3ee4fa66291af50bae3e90d2fa086f84a4084b1e2",
+            "sha1": "e5d18dda2a65544eca533d824bc3e8fbf4d77f98"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/KVZCAz9J/polymorph-neoforge-1.0.8%2B1.21.1.jar",
+          "filename": "polymorph-neoforge-1.0.8+1.21.1.jar",
+          "primary": true,
+          "size": 174396,
+          "file_type": null
+        },
+        {
+          "id": "HqEyYIwV",
+          "hashes": {
+            "sha1": "06c30ae4919818bbd9eec2d0f8953896e3e6acd1",
+            "sha512": "4b673ec4e10730f85e6f15f11e701a1e519161f3080a0f0ba0ca3e29a6c53d242817b44454d791645cd28273380040c1cd218f120d6ddd842aa15e871cf4f90d"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/KVZCAz9J/polymorph-neoforge-1.0.8%2B1.21.1-sources.jar",
+          "filename": "polymorph-neoforge-1.0.8+1.21.1-sources.jar",
+          "primary": false,
+          "size": 129500,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Hjvt9baJ",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-fabric-1.0.8+1.21.1",
+      "version_number": "1.0.8+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.8+1.21.1] - 2025.03.31\n### Added\n- Added `de_de`, `de_at`, and `de_ch` localizations [#296](https://github.com/illusivesoulworks/polymorph/pull/296)\n### Fixed\n- Fixed potential NPE crashes\n- Fixed erroneous block entities being added to recipe checks [#298](https://github.com/illusivesoulworks/polymorph/issues/298)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T02:17:15.381173Z",
+      "downloads": 20653,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TmHgRgtb",
+          "hashes": {
+            "sha1": "f77e1650e895fb0f8f4bc300e631ad2aa2e37ba1",
+            "sha512": "67e3d39230b08f88eacf04564a13b7ed983434011c653676b9daf82de5a6c45291e014298dc6441e0f32122a1a7006a35408546d7ae0097ad43127238fadb4be"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/Hjvt9baJ/polymorph-fabric-1.0.8%2B1.21.1.jar",
+          "filename": "polymorph-fabric-1.0.8+1.21.1.jar",
+          "primary": true,
+          "size": 318814,
+          "file_type": null
+        },
+        {
+          "id": "YG5FQI6k",
+          "hashes": {
+            "sha1": "6210502a4c20132572a189c35450206b4226dea4",
+            "sha512": "7728d36cd6841432c5f9d826f9e942da93ceefa3b1df24df527ee8da2b2a1cf1522508837149e12bc5e99b9a0254d2c20402b9161b4f368d347b70fbb025c4cc"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/Hjvt9baJ/polymorph-fabric-1.0.8%2B1.21.1-sources.jar",
+          "filename": "polymorph-fabric-1.0.8+1.21.1-sources.jar",
+          "primary": false,
+          "size": 135962,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "CmeNqxmN",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-forge-1.0.8+1.21.1",
+      "version_number": "1.0.8+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.8+1.21.1] - 2025.03.31\n### Added\n- Added `de_de`, `de_at`, and `de_ch` localizations [#296](https://github.com/illusivesoulworks/polymorph/pull/296)\n### Fixed\n- Fixed potential NPE crashes\n- Fixed erroneous block entities being added to recipe checks [#298](https://github.com/illusivesoulworks/polymorph/issues/298)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T02:17:10.209834Z",
+      "downloads": 409,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "v0pMeii5",
+          "hashes": {
+            "sha1": "406f3f35a2062b2f153badfa20280a935472250a",
+            "sha512": "490ccc26ca32d92b61687c01fb68fb0bb1e56c17ce51856ac21770943d7b6708f83afa76e6c3d659540cb54ef738c5a493d9ee761c77ad74bd3864c469259bc5"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/CmeNqxmN/polymorph-forge-1.0.8%2B1.21.1.jar",
+          "filename": "polymorph-forge-1.0.8+1.21.1.jar",
+          "primary": true,
+          "size": 173163,
+          "file_type": null
+        },
+        {
+          "id": "PbaqEjfs",
+          "hashes": {
+            "sha1": "252876059eaf28fb60d31b36fa0e930a08afdc2f",
+            "sha512": "83bf2c81e27702fc3c12dd6eb8ee905e34963a3f809ed4171bd99cd4d93ad6fb937ed243ad388487f1ef0f6ac8dc3adc3094c08aaa865a522c25069ce62fc820"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/CmeNqxmN/polymorph-forge-1.0.8%2B1.21.1-sources.jar",
+          "filename": "polymorph-forge-1.0.8+1.21.1-sources.jar",
+          "primary": false,
+          "size": 126059,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "X9gNJacb",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-neoforge-1.0.7+1.21.1",
+      "version_number": "1.0.7+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.7+1.21.1] - 2024.12.15\n### Changed\n- Updated `zh_cn` localization [#289](https://github.com/illusivesoulworks/polymorph/pull/289)\n### Fixed\n- Fixed differentiation of certain modded recipe item outputs\n",
+      "changelog_url": null,
+      "date_published": "2024-12-16T07:11:13.342543Z",
+      "downloads": 55020,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "E8FtpN20",
+          "hashes": {
+            "sha1": "9f3b342a1b91f08e272b7bc60cd52b331316b673",
+            "sha512": "0f7933a3c3bf2268048e8258f9cd6e912ca902dd8c19af6584583feeb0b2c3ff3e7fb7239747a19cb4754051b0deb0ff0da9700a627637decca53f6e3cfc1e17"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/X9gNJacb/polymorph-neoforge-1.0.7%2B1.21.1.jar",
+          "filename": "polymorph-neoforge-1.0.7+1.21.1.jar",
+          "primary": true,
+          "size": 172993,
+          "file_type": null
+        },
+        {
+          "id": "A0Po5ABI",
+          "hashes": {
+            "sha512": "a0b7ff17a06f9847a31501c26e8322910125c3660c3cb098aaa1cfcc6081c9ec7f54dc7185567bfc9cb3d1e9197620f146e92edaf9ef09705b09879e4701bdfd",
+            "sha1": "bccfd7b648d4e9983db066c6e2bef2cf1ff2091a"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/X9gNJacb/polymorph-neoforge-1.0.7%2B1.21.1-sources.jar",
+          "filename": "polymorph-neoforge-1.0.7+1.21.1-sources.jar",
+          "primary": false,
+          "size": 128598,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "j4jPy88h",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-fabric-1.0.7+1.21.1",
+      "version_number": "1.0.7+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.7+1.21.1] - 2024.12.15\n### Changed\n- Updated `zh_cn` localization [#289](https://github.com/illusivesoulworks/polymorph/pull/289)\n### Fixed\n- Fixed differentiation of certain modded recipe item outputs\n",
+      "changelog_url": null,
+      "date_published": "2024-12-16T07:11:05.915139Z",
+      "downloads": 1001944,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CMtDkoyJ",
+          "hashes": {
+            "sha512": "f31ff346702d2129dabcc13c33dcbae5c7111e54ad6f6d5a152bc82e5664ce628d7baaf8e2a217de32742e74913faf7231d697b3ac264d450ba79ed8d362ab53",
+            "sha1": "e6867345c86d4e5770b025e47e83e58f05a51dca"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/j4jPy88h/polymorph-fabric-1.0.7%2B1.21.1.jar",
+          "filename": "polymorph-fabric-1.0.7+1.21.1.jar",
+          "primary": true,
+          "size": 317355,
+          "file_type": null
+        },
+        {
+          "id": "1X1uRqu7",
+          "hashes": {
+            "sha1": "71e0fb3b86d862add402c1b44c2e62452ac571c8",
+            "sha512": "d574b28f279fb16a36a3f7644fa070b85a844be93f6d000eeac317c33734462559efcff5cb9ff0541a64e3d200838393ca5b9add9a8c221cbdda97672db8f758"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/j4jPy88h/polymorph-fabric-1.0.7%2B1.21.1-sources.jar",
+          "filename": "polymorph-fabric-1.0.7+1.21.1-sources.jar",
+          "primary": false,
+          "size": 135060,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "B6z3k2Bi",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-forge-1.0.7+1.21.1",
+      "version_number": "1.0.7+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.7+1.21.1] - 2024.12.15\n### Changed\n- Updated `zh_cn` localization [#289](https://github.com/illusivesoulworks/polymorph/pull/289)\n### Fixed\n- Fixed differentiation of certain modded recipe item outputs\n",
+      "changelog_url": null,
+      "date_published": "2024-12-16T07:10:56.290763Z",
+      "downloads": 3193,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cBuGJP40",
+          "hashes": {
+            "sha1": "2f7ba804d3c90b8e849669c8a0a39c5fac85d22c",
+            "sha512": "893d0239476c9941ea9c5688183c4c8889dd9e30bcd1af806eac0a36928bdd4d916d6ef15c292ca3e16c0a653dea0bcce1bd8dff07ef9f924a589407e6cff850"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/B6z3k2Bi/polymorph-forge-1.0.7%2B1.21.1.jar",
+          "filename": "polymorph-forge-1.0.7+1.21.1.jar",
+          "primary": true,
+          "size": 171762,
+          "file_type": null
+        },
+        {
+          "id": "4Il4eMyU",
+          "hashes": {
+            "sha1": "6bbbc423fd8860a6a5c841e90de6f4232884c6e5",
+            "sha512": "53a7d4516d8e4a140321080620bd7d568a719935b4ab57c24877b1d711e8f16145b2be5263f4e71ed374fc7336b908442f97b2f1d9dff11ca8465a22a1fd04c9"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/B6z3k2Bi/polymorph-forge-1.0.7%2B1.21.1-sources.jar",
+          "filename": "polymorph-forge-1.0.7+1.21.1-sources.jar",
+          "primary": false,
+          "size": 125151,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3WDycUwh",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-neoforge-1.0.6+1.21.1",
+      "version_number": "1.0.6+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.6+1.21.1] - 2024.09.06\n### Changed\n- Updated `ru_ru` localization [#279](https://github.com/illusivesoulworks/polymorph/pull/279)\n- Updated to Minecraft 1.21.1\n",
+      "changelog_url": null,
+      "date_published": "2024-09-06T07:15:33.456674Z",
+      "downloads": 18728,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YTbmt9AA",
+          "hashes": {
+            "sha512": "48bd4b5206fde0a19362c8785319759ea83e16bb60b9350983ba75cc4eef50113530ae397259a12d446289700476ff11d943afd61759f8d7f8af082881836d4c",
+            "sha1": "3df5a228a7fdc903b150df5f8d5c5f7b8807624e"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/3WDycUwh/polymorph-neoforge-1.0.6%2B1.21.1.jar",
+          "filename": "polymorph-neoforge-1.0.6+1.21.1.jar",
+          "primary": true,
+          "size": 172781,
+          "file_type": null
+        },
+        {
+          "id": "t8jRino5",
+          "hashes": {
+            "sha1": "0d9c63e5106d4410b362b56f98bc6d9c99f50874",
+            "sha512": "a3c36fce2bc031d10a5c4e9494a37d5155ffebbef7333753977b9fa6764367b6e3695754044040c0f44e167540ccf53ed5c2ddec942d0aab8c38732d582f4137"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/3WDycUwh/polymorph-neoforge-1.0.6%2B1.21.1-sources.jar",
+          "filename": "polymorph-neoforge-1.0.6+1.21.1-sources.jar",
+          "primary": false,
+          "size": 128477,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "AGMyBSJE",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-fabric-1.0.6+1.21.1",
+      "version_number": "1.0.6+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.6+1.21.1] - 2024.09.06\n### Changed\n- Updated `ru_ru` localization [#279](https://github.com/illusivesoulworks/polymorph/pull/279)\n- Updated to Minecraft 1.21.1\n",
+      "changelog_url": null,
+      "date_published": "2024-09-06T07:15:24.312828Z",
+      "downloads": 48966,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zC0NqHdt",
+          "hashes": {
+            "sha1": "6a6e9782aaf02b05871a60f7afa1a70449ed5f84",
+            "sha512": "d0cc741ce182dc04ed591cd4f684d7bca0bd8f272812498e40e93f7a23013f0dd85798f60a14a15889ed96cc6cb09d98181bd311c211216b8e049cb2828695a5"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/AGMyBSJE/polymorph-fabric-1.0.6%2B1.21.1.jar",
+          "filename": "polymorph-fabric-1.0.6+1.21.1.jar",
+          "primary": true,
+          "size": 317149,
+          "file_type": null
+        },
+        {
+          "id": "6fu8jGWk",
+          "hashes": {
+            "sha1": "7061aba09f4c5d46eecfe9634aa89ce7dda98430",
+            "sha512": "038bf31d6f593bffdfceb5412bf3b518ef03aff1fe67153f5f06f38309c6d16bcb8865109b67154574101cf969e1a9a5fa8ab6780d1ca30d7eeaee7754f41d9d"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/AGMyBSJE/polymorph-fabric-1.0.6%2B1.21.1-sources.jar",
+          "filename": "polymorph-fabric-1.0.6+1.21.1-sources.jar",
+          "primary": false,
+          "size": 134939,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "IfxeQ3PR",
+      "project_id": "tagwiZkJ",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "polymorph-forge-1.0.6+1.21.1",
+      "version_number": "1.0.6+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/polymorph/blob/1.21.x/CHANGELOG.md).\n\n## [1.0.6+1.21.1] - 2024.09.06\n### Changed\n- Updated `ru_ru` localization [#279](https://github.com/illusivesoulworks/polymorph/pull/279)\n- Updated to Minecraft 1.21.1\n",
+      "changelog_url": null,
+      "date_published": "2024-09-06T07:15:16.040649Z",
+      "downloads": 1690,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gGMPe2Nf",
+          "hashes": {
+            "sha512": "e386fa70c805b6a7422dbbb8095b28a74e6d17cfa54a5193e8ea61abd5d919ba34dc9bddf916c31a15d5d323021686bee530f19e9d4720fde9b7d42e3110786a",
+            "sha1": "a3b56b64764a9251c64ec90a2bd8eee3d0bcc494"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/IfxeQ3PR/polymorph-forge-1.0.6%2B1.21.1.jar",
+          "filename": "polymorph-forge-1.0.6+1.21.1.jar",
+          "primary": true,
+          "size": 171550,
+          "file_type": null
+        },
+        {
+          "id": "K5IkbrPq",
+          "hashes": {
+            "sha512": "b4171dc4a5ef57dce396d5a59673987c06def79319d33c348dc8cd04dec0a01dc899333b84dc48bf755ab1ffdba7fd8c7da7db67b4befd6e4e1f4c9c99820235",
+            "sha1": "e61f4d11c92baa1e8fc63e334d9e1710e38a176f"
+          },
+          "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/IfxeQ3PR/polymorph-forge-1.0.6%2B1.21.1-sources.jar",
+          "filename": "polymorph-forge-1.0.6+1.21.1-sources.jar",
+          "primary": false,
+          "size": 125030,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Corail+Tombstone&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:20.239157+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "YT5K34AB",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "corail-tombstone",
+        "author": "Corail_31",
+        "author_id": "z0WGmZcQ",
+        "organization": null,
+        "organization_id": null,
+        "title": "Corail Tombstone",
+        "description": "Keeps safe your inventory items in graves on death, with many features for better survivability and exploration, in a medieval fantasy atmosphere related to the decorative grave & the haunting souls.",
+        "categories": [
+          "adventure",
+          "decoration",
+          "forge",
+          "game-mechanics",
+          "magic",
+          "mobs",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "adventure",
+          "forge",
+          "game-mechanics",
+          "magic",
+          "neoforge"
+        ],
+        "versions": [
+          "1.12.2",
+          "1.13.2",
+          "1.14.2",
+          "1.15.2",
+          "1.16.5",
+          "1.17.1",
+          "1.18.2",
+          "1.19.2",
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2"
+        ],
+        "downloads": 301815,
+        "follows": 12,
+        "icon_url": "https://cdn.modrinth.com/data/YT5K34AB/b279e8756761d8160f678ad20fb632d0a09b89b4_96.webp",
+        "date_created": "2026-08-03T05:45:45.948803+00:00",
+        "date_modified": "2026-10-05T14:37:26.305475+00:00",
+        "latest_version": "nTAliy2r",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/YT5K34AB/images/3eed85d253b340ecb8a43a91b6871b0312ab3c04.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/81cd80da8c73332e258634b3adf0a9247b566f0d.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/600e8034f493a2a5756a869a30f82c9d82859f9e.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/06dc2d1b6f6c4087c1822e0f9e9a8ccd5d69c5e2.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/fd5b220695617f76e04fc5e893040981e625b7e1.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/0fc705c62e9feb9f31bda2481f903ba08d68d28e.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/5a9347e97507cfce8e91e8fd7255646700bd76eb.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/9678df3ca870f8c47bad813ad03311798519670c.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/a17e437315eafde19290fdf110e20393be3e2a88.jpeg",
+          "https://cdn.modrinth.com/data/YT5K34AB/images/6406c75e159743bd2bf6a33862517a30bf777087.jpeg"
+        ],
+        "featured_gallery": null,
+        "color": 4664360
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 1
+  }
+}

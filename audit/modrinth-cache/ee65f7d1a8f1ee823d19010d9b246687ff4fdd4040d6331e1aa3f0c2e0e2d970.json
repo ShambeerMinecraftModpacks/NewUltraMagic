@@ -1,0 +1,333 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Clumps&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:04.253513+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "Wnxd13zP",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "clumps",
+        "author": "jaredlll08",
+        "author_id": "l45nT5ov",
+        "organization": null,
+        "organization_id": null,
+        "title": "Clumps",
+        "description": "Clumps XP orbs together to reduce lag",
+        "categories": [
+          "fabric",
+          "forge",
+          "neoforge",
+          "storage",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "neoforge",
+          "storage",
+          "utility"
+        ],
+        "versions": [
+          "1.10.2",
+          "1.11.2",
+          "1.12",
+          "1.12.1",
+          "1.12.2",
+          "1.14.3",
+          "1.14.4",
+          "1.15.2",
+          "1.16.1",
+          "1.16.2",
+          "1.16.3",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "1.17.1-pre1",
+          "1.17.1-rc2",
+          "1.17.1",
+          "21w37a",
+          "1.18",
+          "1.18.1",
+          "1.18.2",
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6",
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 41161680,
+        "follows": 5630,
+        "icon_url": "https://cdn.modrinth.com/data/Wnxd13zP/6a965bb7974c3e759a53a1c89c35de4acd4cf86a_96.webp",
+        "date_created": "2023-06-09T23:48:35.117961+00:00",
+        "date_modified": "2026-09-16T17:03:24.198741+00:00",
+        "latest_version": "kV095inH",
+        "license": "MIT",
+        "client_side": "optional",
+        "server_side": "optional",
+        "environment": [
+          "client_or_server_prefers_both"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 12368900
+      },
+      {
+        "project_id": "qm9Jw8Jg",
+        "project_type": "mod",
+        "all_project_types": [
+          "datapack",
+          "mod"
+        ],
+        "slug": "ly-clumps",
+        "author": "lullaby",
+        "author_id": "U5ZYLCzs",
+        "organization": null,
+        "organization_id": null,
+        "title": "Clumps",
+        "description": "Merge experience orbs and instant pickup experience orbs to reduce lag!",
+        "categories": [
+          "datapack",
+          "fabric",
+          "forge",
+          "management",
+          "neoforge",
+          "optimization",
+          "quilt",
+          "utility"
+        ],
+        "display_categories": [
+          "datapack",
+          "fabric",
+          "forge",
+          "neoforge",
+          "optimization",
+          "quilt"
+        ],
+        "versions": [
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 880562,
+        "follows": 249,
+        "icon_url": "https://cdn.modrinth.com/data/qm9Jw8Jg/5fc34bfafad8fd65b0f978b2b9ffc754605f2789_96.webp",
+        "date_created": "2025-04-16T06:00:04.785978+00:00",
+        "date_modified": "2025-09-30T17:43:40.674184+00:00",
+        "latest_version": "5o9ZRch5",
+        "license": "AGPL-3.0-or-later",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "server_only",
+          "unknown"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/qm9Jw8Jg/images/ffcea16f90920616191c914871221a14cb934aeb.png",
+          "https://cdn.modrinth.com/data/qm9Jw8Jg/images/d7d3ef3f1f1d33c07b8fd0c4e4c1b9df3ffd65fb_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/qm9Jw8Jg/images/54889d97e20120e1c581766ee20a48a7fe235174_350.webp",
+        "color": 8035589
+      },
+      {
+        "project_id": "t2ImEwNt",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "string-clumps",
+        "author": "ubiqqe",
+        "author_id": "FDXcC0p7",
+        "organization": null,
+        "organization_id": null,
+        "title": "String Clumps",
+        "description": "Clumps stacks of string together to reduce lag",
+        "categories": [
+          "fabric",
+          "optimization",
+          "storage"
+        ],
+        "display_categories": [
+          "fabric",
+          "optimization",
+          "storage"
+        ],
+        "versions": [
+          "1.21.11"
+        ],
+        "downloads": 5903,
+        "follows": 7,
+        "icon_url": "https://cdn.modrinth.com/data/t2ImEwNt/3562953ad504e22014645182d70567d0dfcec77a_96.webp",
+        "date_created": "2026-02-23T00:55:11.038124+00:00",
+        "date_modified": "2026-02-20T18:54:42.159841+00:00",
+        "latest_version": "canM8X8y",
+        "license": "CC-BY-4.0",
+        "client_side": "optional",
+        "server_side": "optional",
+        "environment": [
+          "client_or_server_prefers_both"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 13761017
+      },
+      {
+        "project_id": "lJiPHgum",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "ig-item-clumps",
+        "author": "dasikigaijin",
+        "author_id": "9OgHR6Ef",
+        "organization": null,
+        "organization_id": null,
+        "title": "IG: Item Clumps",
+        "description": "Item Clumps completely redesigns how dropped item entities behave in the world, combining them into lightweight, virtual mega-stacks to maximize both server performance and client-side frame rates.",
+        "categories": [
+          "fabric",
+          "game-mechanics",
+          "optimization",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "game-mechanics",
+          "optimization",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1",
+          "1.21.11",
+          "26.1.2",
+          "26.2-snapshot-8",
+          "26.2-pre-1",
+          "26.2-pre-2",
+          "26.2-pre-3",
+          "26.2-pre-4",
+          "26.2-pre-5",
+          "26.2-pre-6",
+          "26.2-rc-1",
+          "26.2-rc-2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 4867,
+        "follows": 16,
+        "icon_url": "https://cdn.modrinth.com/data/lJiPHgum/762d8c8f2fcbfbac41dce4fa59e8bea92ddea3f7_96.webp",
+        "date_created": "2026-05-22T04:50:13.692235+00:00",
+        "date_modified": "2026-10-04T22:14:33.557696+00:00",
+        "latest_version": "89bstwpl",
+        "license": "LGPL-3.0-or-later",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server",
+          "server_only",
+          "client_or_server"
+        ],
+        "disclosure_types": [
+          "ai_content",
+          "ai_content_code",
+          "ai_content_text"
+        ],
+        "gallery": [
+          "https://cdn.modrinth.com/data/lJiPHgum/images/f3a621f197a40eb0ba4b35aabc5d98d3712ceb0e_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 3486232
+      },
+      {
+        "project_id": "mCVxNMLA",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "good-clumps",
+        "author": "Lemmmy",
+        "author_id": "US41cx86",
+        "organization": "tmpim",
+        "organization_id": "8E25IOkN",
+        "title": "Good Clumps",
+        "description": "Beta 1.7.3 mod to merge nearby dropped items together.",
+        "categories": [
+          "babric",
+          "fabric",
+          "optimization"
+        ],
+        "display_categories": [
+          "babric",
+          "fabric",
+          "optimization"
+        ],
+        "versions": [
+          "b1.7.3"
+        ],
+        "downloads": 329,
+        "follows": 2,
+        "icon_url": "https://cdn.modrinth.com/data/mCVxNMLA/c1578426c622a263228d05d33063d8c986eec7e2_96.webp",
+        "date_created": "2026-04-19T03:20:50.078609+00:00",
+        "date_modified": "2026-06-13T15:34:04.857494+00:00",
+        "latest_version": "MvTRtoPi",
+        "license": "MIT",
+        "client_side": "optional",
+        "server_side": "optional",
+        "environment": [
+          "client_or_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": "https://cdn.modrinth.com/data/mCVxNMLA/images/4e9dfdc0bcc5bdeacbad72ea7a601acafeb6dc5e.png",
+        "color": 3316629
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 8
+  }
+}

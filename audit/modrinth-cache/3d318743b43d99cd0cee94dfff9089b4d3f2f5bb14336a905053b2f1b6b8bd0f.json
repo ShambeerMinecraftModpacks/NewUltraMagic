@@ -1,0 +1,257 @@
+{
+  "url": "https://api.modrinth.com/v2/project/BFbX9xcm/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:34.820472+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "xgAXTl17",
+      "project_id": "BFbX9xcm",
+      "author_id": "cw1lQnpC",
+      "featured": false,
+      "name": "Mowzie's Mobs - 1.8.2",
+      "version_number": "1.8.2",
+      "changelog": "+ Elokosa paws now close when on cooldown\n- Fixed subtitle groupings\n- Gave certain mobs improved water movement speed\n- Damage now only interrupts mob abilities if the damage amount is greater or equal to 3\n- Updated wroughtnaut chamber data version\n- Fix mob abilities being wiped after /data merge command runs\n- Fix baby foliaaths rendering as infants on relog\n- Updated Chinese translations",
+      "changelog_url": null,
+      "date_published": "2026-03-15T06:52:50.101583Z",
+      "downloads": 414456,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jGFiJS9S",
+          "hashes": {
+            "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c",
+            "sha512": "ab10d2f759df613d5094bac26c5a8bbe144786699018f7e4ae027fc4a86632aa7f96206f2c8be9970338eadef42539614a19b41d0d70b6216c3ed1c4c4421f0a"
+          },
+          "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/xgAXTl17/mowziesmobs-1.21.1-1.8.2.jar",
+          "filename": "mowziesmobs-1.21.1-1.8.2.jar",
+          "primary": true,
+          "size": 36042925,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "K4pvUDP4",
+      "project_id": "BFbX9xcm",
+      "author_id": "cw1lQnpC",
+      "featured": false,
+      "name": "Mowzie's Mobs - 1.8.1",
+      "version_number": "1.8.1",
+      "changelog": "Fix crash on servers\nFix incorrect status effects for full and crescent moon paws\nFix bilokosa spawned in villages causing the game to lag infinitely\nFix translation key for Fragility description",
+      "changelog_url": null,
+      "date_published": "2026-03-08T02:37:39.636465Z",
+      "downloads": 8907,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Et1hORTH",
+          "hashes": {
+            "sha1": "71ae2da5cf2a2660c9f873d423f9e4199d8a66d2",
+            "sha512": "561387be585b9b3c434c71c49137d61a01c13fa12373af0e8b531acfb8c2bb0b2958ec15d3a72c12db054235a7ae31fb62f8f1fe4b6e88629c37730453fd6c6a"
+          },
+          "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/K4pvUDP4/mowziesmobs-1.21.1-1.8.1.jar",
+          "filename": "mowziesmobs-1.21.1-1.8.1.jar",
+          "primary": true,
+          "size": 36032845,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "pQNTA6mf",
+      "project_id": "BFbX9xcm",
+      "author_id": "cw1lQnpC",
+      "featured": false,
+      "name": "Mowzie's Mobs - 1.8",
+      "version_number": "1.8",
+      "changelog": "+ Added the Bilokosa\n\n+ Added the Bilokosa Howler\n\n+ Added Elokosa Paw items\n\n+ New boss bar for Umvuthi\n\n* Fix weapons missing attack stats\n\n* Fix weapons not receiving enchantments\n\n* Abavuthana in a hunting pack will attack more frequently the smaller the pack is - this includes player-summoned packs\n\n* Fix sculptor disappearing when player places a block after completing the test\n\n* Improved beard physics for tongbi",
+      "changelog_url": null,
+      "date_published": "2026-03-05T03:23:29.203520Z",
+      "downloads": 3622,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "18hyBDhW",
+          "hashes": {
+            "sha1": "f1f8104c189ec0421e9ca0a72be16abc059a3d63",
+            "sha512": "55454444927d3d19c8c08af14da11b96b0c6e0a8ac313151287ea71a081a624bb0bf34478555bf345a59d37a205300728aaf0b79c4685a847423a650ae5635bf"
+          },
+          "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/pQNTA6mf/mowziesmobs-1.21.1-1.8.jar",
+          "filename": "mowziesmobs-1.21.1-1.8.jar",
+          "primary": true,
+          "size": 36032821,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "P2hiyNDT",
+      "project_id": "BFbX9xcm",
+      "author_id": "cw1lQnpC",
+      "featured": false,
+      "name": "Mowzie's Mobs 1.7.5",
+      "version_number": "1.7.5",
+      "changelog": "+ Added a config option for how much damage Umvuthi needs to take to summon healers\n\n* Fix loot tables still not working\n\n* Fix geomancy boulders rendering with slab blocks\n\n* Fix umvuthana crane tails disappearing when they heal",
+      "changelog_url": null,
+      "date_published": "2025-06-27T07:06:35.020193Z",
+      "downloads": 391100,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jLhSs69G",
+          "hashes": {
+            "sha512": "993083b33a9a35e415616e1e04af8e6ce487c8c4bd6fc745dc0b26133f21f5d0fbd5da5de193ac7c10d973f7eb6d249dd03e86d09661a87fcc8b2d81912f69c5",
+            "sha1": "f462b46d4bd3071708cebd4b06c16857ad593e22"
+          },
+          "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/P2hiyNDT/mowziesmobs-1.21.1-1.7.5.jar",
+          "filename": "mowziesmobs-1.21.1-1.7.5.jar",
+          "primary": true,
+          "size": 35260457,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "QkSdbclE",
+      "project_id": "BFbX9xcm",
+      "author_id": "cw1lQnpC",
+      "featured": false,
+      "name": "Mowzie's Mobs 1.7.4",
+      "version_number": "1.7.4",
+      "changelog": "*Fix mobs spawning in incorrect biomes\n\n*Fix advancements not appearing\n\n*Fix loot tables not working\n\n*Fix worldgen lag\n\n+Added loot table support for Sculptor's test rewards",
+      "changelog_url": null,
+      "date_published": "2025-06-21T16:59:33.646821Z",
+      "downloads": 3572,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "H5foNG3q",
+          "hashes": {
+            "sha1": "ecc0432ea2a370a459ab33dbb3f15c8c0f9b30ba",
+            "sha512": "8061822279890bb22de3a955cc6ffbff23716123175dc458312a41370c77a64f68f3081977feec6cda6b1444f26a7b67df4a954aba30bd0886535a200344b766"
+          },
+          "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/QkSdbclE/mowziesmobs-1.21.1-1.7.4.jar",
+          "filename": "mowziesmobs-1.21.1-1.7.4.jar",
+          "primary": true,
+          "size": 35259238,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "QfxYwK0i",
+      "project_id": "BFbX9xcm",
+      "author_id": "cw1lQnpC",
+      "featured": false,
+      "name": "Mowzie's Mobs 1.7.3",
+      "version_number": "1.7.3",
+      "changelog": "+ Updated to Neoforge 1.21.1",
+      "changelog_url": null,
+      "date_published": "2025-06-19T07:37:36.935507Z",
+      "downloads": 2535,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "d4OvH6hq",
+          "hashes": {
+            "sha512": "06fbc57d6d61ac6446d5c35cc993a8e0d82843889af770bca14c5b02c85e77c63392afdf405277c3d97512b5d047314a0dc2e14b86a40e65df0ac66bbf6063ad",
+            "sha1": "faf67cbf56e924ee52c9f8d02bb3fef6ec7be00d"
+          },
+          "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/QfxYwK0i/mowziesmobs-1.21.1-1.7.3.jar",
+          "filename": "mowziesmobs-1.21.1-1.7.3.jar",
+          "primary": true,
+          "size": 35254492,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

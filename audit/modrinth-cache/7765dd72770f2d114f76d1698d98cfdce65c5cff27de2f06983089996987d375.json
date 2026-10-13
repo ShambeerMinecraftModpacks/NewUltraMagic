@@ -1,0 +1,91 @@
+{
+  "url": "https://api.modrinth.com/v2/project/EWmBPx3X",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:35.836568+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.20.1",
+      "1.20.4"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "EWmBPx3X",
+    "slug": "koremods",
+    "project_type": "mod",
+    "team": "ViVJ1HnA",
+    "organization": null,
+    "title": "Koremods",
+    "description": "A Kotlin Script bytecode manipulation framework",
+    "body": "# Koremods\n\n**Koremods** is a Kotlin Script bytecode manipulation framework. It providers modders a new way of transforming (not just) minecraft bytecode with rich IDE support and Gradle integration.\n\nThis Modrinth project contains releases for Koremods Modlauncher, the MinecraftForge frontend.\n\n## Main Features\n\n- 📦 **Sandboxed**\n    - Koremods scripts are executed in an isolated environment to ensure they only access necessary classes and resources\n- ⚡ **Focused**\n    - Using the ASM Kotlin wrapper [Koffee](https://github.com/videogame-hacker/Koffee), you can focus on writing transformers without needless boilerplate code\n- ☁ **Lightweight Runtime**\n    - Near-instant evaluation speeds of scripts pre-compiled by the [Koremods Gradle](https://gitlab.com/gofancy/koremods/koremods-gradle) plugin\n- 🧩 **Portable**\n    - Koremods' feature-rich core allows easy compatibility with your desired platform\n    - Frontends only need to create a thin layer beween the platform and Koremods Script.\n- 🖋️ **Rich IDE Support**\n    - Koremods offers first-class syntax highlighting and autocompletion thanks to IntelliJ IDEA’s Kotlin Script support\n\n## Documentation\n\nTo get started using Koremods in your mod, check our [wiki](https://su5ed.dev/koremods).\n\n## Kotlin Script\n\n[Kotlin Scripting](https://kotlinlang.org/docs/custom-script-deps-tutorial.html) is a new, experimental technology that lets you run Kotlin code without prior compilation or packaging. All of Kotlin's language features are available, usually with the addition of a speficic DSL provided by the script definition. Scripts are compiled into bytecode at runtime, and then loaded into the JVM using a custom classloader.",
+    "body_url": null,
+    "published": "2022-06-09T16:40:16.533785Z",
+    "updated": "2023-12-27T16:04:46.853667Z",
+    "approved": "2022-06-09T16:40:16.533785Z",
+    "queued": null,
+    "status": "approved",
+    "requested_status": null,
+    "moderator_message": null,
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "downloads": 382912,
+    "followers": 6,
+    "categories": [
+      "library",
+      "utility"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge"
+    ],
+    "versions": [
+      "8ygQrVRD",
+      "ynlF6ULe",
+      "47CmGiPB",
+      "d6SPKErK",
+      "MBtZXAM7",
+      "akU2rDex",
+      "BZh2zQ2p",
+      "6JBiiveX",
+      "ia0BBmXJ",
+      "s0x4Cv4K",
+      "xsm9ck2f",
+      "6Eg89Jtk",
+      "s7ar3Wt9",
+      "mepnblGm",
+      "DHZHuW6a",
+      "ARJsKjaR",
+      "ZbavCkM4",
+      "GRJNsy58",
+      "AaBSPhEa",
+      "d9TS2g1M",
+      "gp2GmHYK",
+      "XHoT94qq"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/EWmBPx3X/3b59cf30f42eb60d359b4404fe4744c05335dcd8_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/EWmBPx3X/icon.png",
+    "issues_url": "https://gitlab.com/gofancy/koremods/koremods/-/issues",
+    "source_url": "https://gitlab.com/gofancy/koremods",
+    "wiki_url": "https://koremods.su5ed.dev/",
+    "discord_url": null,
+    "donation_urls": [
+      {
+        "id": "patreon",
+        "platform": "Patreon",
+        "url": "https://www.patreon.com/cw/Su5eD"
+      }
+    ],
+    "gallery": [],
+    "color": 263172,
+    "thread_id": "EWmBPx3X",
+    "monetization_status": "monetized"
+  }
+}

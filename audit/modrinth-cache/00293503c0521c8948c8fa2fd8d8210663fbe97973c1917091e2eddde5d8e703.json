@@ -1,0 +1,3313 @@
+{
+  "url": "https://api.modrinth.com/v2/project/OCJRPujW/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:41.928315+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "WKEe9sPL",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.8",
+      "version_number": "0.12.8",
+      "changelog": "* Added a new relic - Shield of Retaliation\n* Added the ability to configure the targets a relic can affect\n* Added integration with FTB Teams\n* Added statistics for relic experience gained\n* Optimized relic data cache and fixed related memory leaks\n* Updated the Ghostly Mantle fog design\n* Updated the Midnight Mantle sky design\n* Removed screen shake from Springy Boot",
+      "changelog_url": null,
+      "date_published": "2026-05-28T06:55:37.406375Z",
+      "downloads": 175457,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "f7VB3kpj",
+          "hashes": {
+            "sha512": "4490d5d1f7ae24fe69135151b5730018ec7f2e64970349d590564c70d8d67f94d805c5680866086b4c8ba9afb4999b9c0b97b869b6fb24a90808e9ca73974b7f",
+            "sha1": "1fe7d57ebfa56ebd0aeecfed01075f8b55b94ef7"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/WKEe9sPL/relics-1.21.1-0.12.8.jar",
+          "filename": "relics-1.21.1-0.12.8.jar",
+          "primary": true,
+          "size": 5007593,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3puaIcSu",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.7",
+      "version_number": "0.12.7",
+      "changelog": "* Added a new relic - Ghostly Mantle\n* Added new visual effects for Midnight Mantle\n* Fixed Glitchy Mantle tags, so it is now compatible with the mimic from Reliquified Artifacts\n* Fixed a crash with Dynamic Trees\n* Added intro text explaining the basic principles of how the mod works\n* Relic lore has been replaced with short descriptions of their abilities\n* Slightly expanded the visual effects of existing relics\n* Fixed compatibility between Glitchy Mantle and Lithium\n* Added an option to disable automatic scaling of the relic research GUI\n* Fixed an issue with Werevolves tags\n* Fixed rendering of relics equipped in the Curio slot\n* Fixed rendering of the Midnight Mantle Moon above players' heads in multiplayer\n* Added an icon for the Glitch mob effect",
+      "changelog_url": null,
+      "date_published": "2026-05-21T04:22:45.962203Z",
+      "downloads": 14972,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zBZfDDWP",
+          "hashes": {
+            "sha512": "c5675cd03f2b76421745e3c1e4517aef1639ee6f10faf837d9eb83a1c568b39ee7e6aa655ac926499ab842b79bd818d8c51d690968e6790eaad240cec0833bd5",
+            "sha1": "ae131ee8ba1d4e368f4bb5ab7ec75181ff3decfa"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/3puaIcSu/relics-1.21.1-0.12.7.jar",
+          "filename": "relics-1.21.1-0.12.7.jar",
+          "primary": true,
+          "size": 4734820,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "rfPZrLeC",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.6",
+      "version_number": "0.12.6",
+      "changelog": "* Fixed an issue where part of the sky turned black when the pause menu was open\n* Fixed a small texture jitter on the Cut-Glass Boot tooltip frame\n* Fixed incorrect liquid limit calculation in the Cut-Glass Boot tooltip\n* Fixed research unlock logic when using /relics relic maximize\n* Fixed UI lockup in rare cases when using the active abilities menu\n* Added commands for managing player research - /relics player research",
+      "changelog_url": null,
+      "date_published": "2026-05-17T14:00:56.683546Z",
+      "downloads": 6505,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hKMonJ8H",
+          "hashes": {
+            "sha512": "0bd588999c5e1300724851866f2d05cc8a739dc95d9c74c3442819d5229a9862a4fc437b15b7fb90e5c778e297af7c168a819708982939e56b7cbbdc15d81160",
+            "sha1": "2bc2ae87de2368c3402d51f559523372646814d7"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/rfPZrLeC/relics-1.21.1-0.12.6.jar",
+          "filename": "relics-1.21.1-0.12.6.jar",
+          "primary": true,
+          "size": 4477214,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GIUnjk0v",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.5",
+      "version_number": "0.12.5",
+      "changelog": "* Added a new relic - Glitchy Mantle\n* Added semi-automatic active ability menu control while holding RMB\n* Slightly optimized Clot of Time\n* Theoretically fixed the interface size on 4K+ monitors\n* Synergy mode switching is now displayed in the active ability menu\n* Restored the requirement to research abilities for them to work\n* Fixed relic rendering in the curio slot\n* Constellation Star from Midnight Mantle can now be destroyed\n* Added localization files: uk_ua, tr_tr, ja_jp, pt_br",
+      "changelog_url": null,
+      "date_published": "2026-05-17T06:28:21.631013Z",
+      "downloads": 884,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xYyeUDND",
+          "hashes": {
+            "sha1": "17da9f1bf39145486579241a74786360d385c6f1",
+            "sha512": "b3920fba0ad3c17fd95d5999ee7c2fd05f04f8ceebc23388a1e5e1a2cdf8a28d37f013dd12b7dbf5361efd407881ed6df605e8529378055e7dfaa248210b127b"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/GIUnjk0v/relics-1.21.1-0.12.5.jar",
+          "filename": "relics-1.21.1-0.12.5.jar",
+          "primary": true,
+          "size": 4476316,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "QycoSDEp",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.4",
+      "version_number": "0.12.4",
+      "changelog": "* Added active abilities menu",
+      "changelog_url": null,
+      "date_published": "2026-05-12T12:56:41.184455Z",
+      "downloads": 10219,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RiqLe2Kr",
+          "hashes": {
+            "sha1": "3e6595a230f1d7a14b676ae05555fbff3f4d9f45",
+            "sha512": "2057f27e4a0a3e061bc90a9b6a97fe61c35150d84a9c6ea506f7761c87af0accbd799d85b1d21fcd019e45aac13be5d6cb5b2cf50f086ef12560915428db768e"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/QycoSDEp/relics-1.21.1-0.12.4.jar",
+          "filename": "relics-1.21.1-0.12.4.jar",
+          "primary": true,
+          "size": 4251421,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Kyb2dGxK",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.3",
+      "version_number": "0.12.3",
+      "changelog": "* Fixed repositioning of the rank modifier state toggle widget\n* API changes",
+      "changelog_url": null,
+      "date_published": "2026-05-10T00:49:22.536796Z",
+      "downloads": 5371,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D9A80kmf",
+          "hashes": {
+            "sha1": "73ccc1fcdac5b9c7d3022f775f85bce7d8619cd6",
+            "sha512": "1cadc48e20dcc8d891d48c1736116ce81af395c31a2274e7317434d7006a50aeca948b9d23190d0529292d8cd107456cc14424dbb3d4e3ee6525b23adc87bc78"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/Kyb2dGxK/relics-1.21.1-0.12.3.jar",
+          "filename": "relics-1.21.1-0.12.3.jar",
+          "primary": true,
+          "size": 4197165,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "TrES4aqO",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.2",
+      "version_number": "0.12.2",
+      "changelog": "* Potentially fixed a recursive crash caused by Experience Disperser\n* Fixed Cut-Glass Boot and Lithium compatibility\n* Added speed interpolation to Cut-Glass Boot\n* Fixed relic research widget visibility on abilities that don't have research",
+      "changelog_url": null,
+      "date_published": "2026-05-08T19:53:52.255071Z",
+      "downloads": 2719,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gzwyHnZE",
+          "hashes": {
+            "sha512": "f2ef7721293576817f96f8192bd2b52ff1c3e3c3a2ae388fb48d8e7331e3f16371ae251104179d12fe1cf7a02c90cacaa6218bd6eaed48e4c015c660b0b0c665",
+            "sha1": "d27c20588acf89ac4d6df79ccfcea8734ca39339"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/TrES4aqO/relics-1.21.1-0.12.2.jar",
+          "filename": "relics-1.21.1-0.12.2.jar",
+          "primary": true,
+          "size": 4194753,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZKqEjmiX",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.1",
+      "version_number": "0.12.1",
+      "changelog": "* Ability researches are now transferred between identical relics\n* Added the ability to enable/disable effects from flawless relics\n* Updated the ability mode selection widget to be more distinguishable from the rest of the interface\n* Added several new options for item configuration",
+      "changelog_url": null,
+      "date_published": "2026-05-05T13:07:13.161962Z",
+      "downloads": 5811,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IslxDbvk",
+          "hashes": {
+            "sha512": "db7d4294ca99f819a6f1859c5626c010659a68ccec453edf00c4353be40df07ca2e4d34685575af1bc3e71e16b327da41d97ffd11d202d9fc918bb7278c1f624",
+            "sha1": "d7551f630de2ae7b7e3e97c5822b6a54321b2ed0"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/ZKqEjmiX/relics-1.21.1-0.12.1.jar",
+          "filename": "relics-1.21.1-0.12.1.jar",
+          "primary": true,
+          "size": 4196987,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "cQ706MLl",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.12.0",
+      "version_number": "0.12.0",
+      "changelog": "* Added the ability to enable or disable the rank modifier effect\n* Fixed major experience exploits in Experience Disperser\n* Added compatibility with the Inception upgrade from Sophisticated Backpacks\n* Reworked fluid collision for Cut-Glass Boots\n* Fixed the speed modifier of Cut-Glass Boots on flowing fluids\n* Fixed the ability to use Rider Flute abilities without research",
+      "changelog_url": null,
+      "date_published": "2026-05-02T02:26:51.608921Z",
+      "downloads": 6260,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2UjpTM6W",
+          "hashes": {
+            "sha1": "9133fc17597843613943da91212cb9d51c3a98c9",
+            "sha512": "bdce7293664bd95726ab53107e621b9b7b91a95d33cd32d71a2adf4191c48480229157bbd506954ef1b55179a6129078bb2dc56224eefd5234ec4b0cc0ea413b"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/cQ706MLl/relics-1.21.1-0.12.0.jar",
+          "filename": "relics-1.21.1-0.12.0.jar",
+          "primary": true,
+          "size": 4165365,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "m7HHr31k",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.16",
+      "version_number": "0.11.16",
+      "changelog": "* Fixed client FPS issue related to the Ring of the Seven Deadly Sins\n* Fixed server TPS issue related to the RankHandler\n* Added docs and discord icons",
+      "changelog_url": null,
+      "date_published": "2026-04-29T14:17:03.680201Z",
+      "downloads": 5502,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pM84ClOw",
+          "hashes": {
+            "sha1": "da5816bdbef3ceeca1146f19a21d17406d661c7a",
+            "sha512": "6a4b82709a11587977eb1dc871223ff873bc03917fc7ba02f32eed2605cf2dbd9ae442968cad7f5b72fa1070b7efe3ce1363917dd943369fd94ff36ee84639ef"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/m7HHr31k/relics-1.21.1-0.11.16.jar",
+          "filename": "relics-1.21.1-0.11.16.jar",
+          "primary": true,
+          "size": 4140050,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "QFPRw8EU",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.15",
+      "version_number": "0.11.15",
+      "changelog": "* Fixed Midnight Mantle crash (again)\n* Fixed Ring of SDS compatibility with Ars Nouveau attributes",
+      "changelog_url": null,
+      "date_published": "2026-04-10T02:15:20.347779Z",
+      "downloads": 25448,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QIiwzzg0",
+          "hashes": {
+            "sha1": "80d5ffea4b204c1d62da5528479101cf2d625c9a",
+            "sha512": "6beb5b1b2f65dad2dc36ad2c978527e68d4541025f79f688b6eb1e0e78253a9797426c404bfcf6be9ea23b4e4694e6c08ab7c3a4c3d1b0509840b8b39eaff385"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/QFPRw8EU/relics-1.21.1-0.11.15.jar",
+          "filename": "relics-1.21.1-0.11.15.jar",
+          "primary": true,
+          "size": 4121596,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "4Pi3I39F",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.14",
+      "version_number": "0.11.14",
+      "changelog": "* Fixed Experience Disperser sometimes makes experience stuck\n* Fixed thread lock due to healing event\n* Fixed Midnight Mantle crash (again)",
+      "changelog_url": null,
+      "date_published": "2026-04-07T22:21:42.789272Z",
+      "downloads": 4011,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Vp0IBS3o",
+          "hashes": {
+            "sha1": "7d4c14db31ecba9029cb0e016989b84c1212acf3",
+            "sha512": "68cdff08dcddeeb7fb9b7a0cc327d29e4bd2ccab8115fdf1bed8fe7cba1720bd14dba10c39eeaa8e51e61e1f8f62f0825cc1be83114d0dc7fb2d26e1288018a9"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/4Pi3I39F/relics-1.21.1-0.11.14.jar",
+          "filename": "relics-1.21.1-0.11.14.jar",
+          "primary": true,
+          "size": 4121604,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "539Ie6YS",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.13",
+      "version_number": "0.11.13",
+      "changelog": "* Fixed Midnight Mantle crash",
+      "changelog_url": null,
+      "date_published": "2026-04-05T19:31:49.181844Z",
+      "downloads": 2025,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WB22dA1w",
+          "hashes": {
+            "sha512": "978d9dee257d724e96ac727372378e9f0e91597b3e2e04d2f4d655a366325153979ae01a11135a161ebc56548607998fbb14ccc7b81b5fb073780ef94f8a9ffd",
+            "sha1": "e0321e8575ccc9d1282d8ae28596392c19147888"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/539Ie6YS/relics-1.21.1-0.11.13.jar",
+          "filename": "relics-1.21.1-0.11.13.jar",
+          "primary": true,
+          "size": 4120909,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RkB1tM2L",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.12",
+      "version_number": "0.11.12",
+      "changelog": "* Stacking has been added for all remaining relics\n* A new ability has been added for Hunting Belt, granting charm slots",
+      "changelog_url": null,
+      "date_published": "2026-04-04T20:49:56.874025Z",
+      "downloads": 1233,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tO1hl3YH",
+          "hashes": {
+            "sha1": "c85a812885a6d2cb4b349d98ccdacc1d06aa094c",
+            "sha512": "d3004f3ea0b33afebb8312b1814ff5bbd51e7b2893529587211835f1152cb9a31b5f66694b3028ace8c231ac84a0fad8cd8971d12e8fdee21f3cc60e9fee6af0"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/RkB1tM2L/relics-1.21.1-0.11.12.jar",
+          "filename": "relics-1.21.1-0.11.12.jar",
+          "primary": true,
+          "size": 4120898,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3W72oEkO",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.11",
+      "version_number": "0.11.11",
+      "changelog": "* Rebalanced Midnight Mantle\n* Reworked some Midnight Mantle visuals\n* Re-Implemented compatibility with Sophisticated Backpacks (items should properly recharge in backpacks now)\n* Implemented Jellyfish Necklace stacking\n* Potentially fixed crash with Sophisticated Backpacks",
+      "changelog_url": null,
+      "date_published": "2026-04-03T20:36:03.195357Z",
+      "downloads": 1107,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zkg8ShG3",
+          "hashes": {
+            "sha1": "70a5b8d41b451a790c5823eaab1c8cf30be3c6a6",
+            "sha512": "cc6495cc17c81cfe701a53d6cd3a024458a49e9bacf9504fb033633be9cbb7f045fc4d71f3fb0b1ab7eba1142502a765cf57db7b4b52676df08d265c509344ec"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/3W72oEkO/relics-1.21.1-0.11.11.jar",
+          "filename": "relics-1.21.1-0.11.11.jar",
+          "primary": true,
+          "size": 4111380,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "voqrrDDV",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.10",
+      "version_number": "0.11.10",
+      "changelog": "* Added a new item – Experience Disperser\n* Fixed an issue where the Ring of Seven Deadly Sins could be removed by dropping it\n* Fixed the description of experience acquisition methods for Midnight Mantle\n* Fixed the inability to retrieve a relic from the Ars Nouveau lectern\n* Fixed an occasional crash when researching a relic inside a Sophisticated Backpacks backpack\n* Fixed the smoothness of animations in the relic research interface",
+      "changelog_url": null,
+      "date_published": "2026-03-29T09:45:18.831484Z",
+      "downloads": 4585,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "31tIw8A3",
+          "hashes": {
+            "sha1": "9bdae4b3a52c02e35a85c5cbd943ef3a08bd396a",
+            "sha512": "59b5ee47717df20a6817e3f9008b1790407d9e2f83975a99d64bb0c1fa7981b3941ef53ecacfa004103354790e3a4b4e749d77dfa08f872445a03dbf8641776c"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/voqrrDDV/relics-1.21.1-0.11.10.jar",
+          "filename": "relics-1.21.1-0.11.10.jar",
+          "primary": true,
+          "size": 4099795,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "J10JHkhg",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.9",
+      "version_number": "0.11.9",
+      "changelog": "* Added research entries, tooltip decorations and 3d models for Rider Flute, Clot of Time and Chef Hat",
+      "changelog_url": null,
+      "date_published": "2026-03-22T07:25:10.429376Z",
+      "downloads": 4909,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JwUswwJr",
+          "hashes": {
+            "sha1": "ae707b431d1386cfd246fdc59607f87c8ba28385",
+            "sha512": "7d752ecad1687f162530136f8ad49512c62c0a980987fdfabe3e0dd682a046aa60e344c067aabcb49e9d02a8c9fb99f919c080ee36b29c71573e0e9926535797"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/J10JHkhg/relics-1.21.1-0.11.9.jar",
+          "filename": "relics-1.21.1-0.11.9.jar",
+          "primary": true,
+          "size": 4056051,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "OWpepdRf",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.8",
+      "version_number": "0.11.8",
+      "changelog": "* Added 3 new relics: Chef Hat, Clot of Time, Rider Flute\n* Fixed movement on liquids while sneaking\n* Allowed Cut-Glass Boot to fall through liquids\n* Reworked some Jellyfish Necklace visuals\n* Updated Kinetic Belt synergy texture\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones, except Reliquified Artifacts.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2026-03-16T22:33:34.203957Z",
+      "downloads": 3249,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2j5H01Gn",
+          "hashes": {
+            "sha512": "fe3d36c5e98bc74cb75e2fe429e4c5b5d7763fdd2a247b668d0fdf0a209fe23b1d9382f3b32221cfd06bc758d4508ab9c66aea28b7c10ee5858f47df0ee5dfcc",
+            "sha1": "0bb531ea75b1e362e3c4a8889ef5489389f4591f"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/OWpepdRf/relics-1.21.1-0.11.8.jar",
+          "filename": "relics-1.21.1-0.11.8.jar",
+          "primary": true,
+          "size": 3963513,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wxi0QP1C",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.7",
+      "version_number": "0.11.7",
+      "changelog": "* Implemented new mechanic - synergies. Currently works only for pair of Kinetic Belt and Jellyfish Necklace\n* Fixed Hunting Belt loot table\n* Updated some textures\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2026-03-03T21:44:59.506778Z",
+      "downloads": 9873,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6pKTrKYr",
+          "hashes": {
+            "sha512": "69fa9867d6aaf244c28f5a7abddc8ad99b24ad093ec82b29f9033d5fc9b6ebf25cde5a023693b6c6ceb4ed532335d4340046858cdb47cce44024e497226eeb91",
+            "sha1": "4cd014ffb6303ce910a4d09fd6c4dfcc236d057a"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/wxi0QP1C/relics-1.21.1-0.11.7.jar",
+          "filename": "relics-1.21.1-0.11.7.jar",
+          "primary": true,
+          "size": 3868699,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nvZZMhJS",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.8",
+      "version_number": "0.10.7.8",
+      "changelog": "* Fixed another compatibility issue between Roller Skates and Helium Flamingo from RAR-Compat",
+      "changelog_url": null,
+      "date_published": "2026-02-06T22:47:29.956301Z",
+      "downloads": 50572,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OPqXART6",
+          "hashes": {
+            "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528",
+            "sha512": "eee8bc6a1c676f6c513d59732f12bb6415cc7c7fb639ad8f9d7dc9958e4b6726226106715119d8c083c49628db1cf7e3a433716425016d6d025d1730885fbce1"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/nvZZMhJS/relics-1.21.1-0.10.7.8.jar",
+          "filename": "relics-1.21.1-0.10.7.8.jar",
+          "primary": true,
+          "size": 2753166,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vuXgboB6",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.7",
+      "version_number": "0.10.7.7",
+      "changelog": "* Fixed compatibility issue between Roller Skates and Helium Flamingo from RAR-Compat",
+      "changelog_url": null,
+      "date_published": "2026-01-27T00:45:20.071410Z",
+      "downloads": 9067,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FWDUFZt1",
+          "hashes": {
+            "sha512": "a043134a5f17e69e9b2268f57a5854988d53e16ed6213a19b9d6695674b853cfe12b4679ec25045035473de3bc48070e8562e3515bc76603ac5189a13f56a469",
+            "sha1": "64c303b1c9e7e3829141efc2a667aced62b3fe56"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/vuXgboB6/relics-1.21.1-0.10.7.7.jar",
+          "filename": "relics-1.21.1-0.10.7.7.jar",
+          "primary": true,
+          "size": 2753147,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5HufKy1z",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.6",
+      "version_number": "0.11.6",
+      "changelog": "* Added new relic - Hunting Belt\n* Fixed Sphere of Self Sacrifice and Chorus Stuff being equippable\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2026-01-07T23:27:29.181340Z",
+      "downloads": 10228,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "G8aIDgxv",
+          "hashes": {
+            "sha1": "0a603d849b2a32e53d8f16d53106b37542d8a69b",
+            "sha512": "83bfc2a12db8c8695edd5d7a2a8de653dc5f7eb88d649a24868e5d365a1207e7c00a0fe7b949e41f5309c47ddc3a1c21c52b6331c7ce7d249a6a1d74a8f79f4a"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/5HufKy1z/relics-1.21.1-0.11.6.jar",
+          "filename": "relics-1.21.1-0.11.6.jar",
+          "primary": true,
+          "size": 3837352,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7lJ0ajFf",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.5.1",
+      "version_number": "0.11.5.1",
+      "changelog": "* Rebalanced Ring of the Seven Deadly Sins and Leafy Mantle\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2025-12-20T03:58:26.749493Z",
+      "downloads": 7969,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ynq3hJrH",
+          "hashes": {
+            "sha512": "4d9a62b99a642bf7fd9dd0e7c856623214f704bbad185cfae9015abc4c11138fc91ac7a16fbce107b673291532d6c7de5227dfef4d47399b4f56d005396443cf",
+            "sha1": "a6eefaa69bcaf860091194ae763dd2e7ffc3cbec"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/7lJ0ajFf/relics-1.21.1-0.11.5.1.jar",
+          "filename": "relics-1.21.1-0.11.5.1.jar",
+          "primary": true,
+          "size": 3755312,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nj7MrVqj",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.5",
+      "version_number": "0.11.5",
+      "changelog": "* Added new relic - Sphere of Self-Sacrifice\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2025-12-17T22:58:07.626983Z",
+      "downloads": 1114,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cVvcJs7q",
+          "hashes": {
+            "sha1": "3ec45ab3a75765c71254954e6284176711b38a19",
+            "sha512": "47c9a93db6aba78356c24d3a5e679f9dca4d3dc07bb0bf60ed44daf9e0bcf4c0b2cf1af21b9aa0a0715c3aa22f2b421d1ee412fdaa9f734aa8242f5152a2a12b"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/nj7MrVqj/relics-1.21.1-0.11.5.jar",
+          "filename": "relics-1.21.1-0.11.5.jar",
+          "primary": true,
+          "size": 3742968,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nJZOdDH2",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.4",
+      "version_number": "0.11.4",
+      "changelog": "* Added new relic - Ring of the Seven Deadly Sins\n* Added Cut-Glass Boot model\n* Fixed relic quality formula\n* Fixed Leafy Mantle spawn\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2025-12-09T18:01:12.289276Z",
+      "downloads": 4213,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IP2Dt4FD",
+          "hashes": {
+            "sha512": "f73e7b78b5db3c53b68cdd161fd6d13ba15019a9ab4ea52fc1f29778eb3ec21b970f5a665489abf739debe9bf5eba3b472bb73779a7ee083c2f639a1fb6a54fe",
+            "sha1": "cb3ca9fa8bff3aff2e00f2da9ed398e739623eaa"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/nJZOdDH2/relics-1.21.1-0.11.4.jar",
+          "filename": "relics-1.21.1-0.11.4.jar",
+          "primary": true,
+          "size": 3624254,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nk2SLbnj",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.3",
+      "version_number": "0.11.3",
+      "changelog": "* Added new relic - Cut Glass Boot\n* Added screen shakes for some events\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2025-12-04T14:07:54.339845Z",
+      "downloads": 2892,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "n3KSUfly",
+          "hashes": {
+            "sha512": "d83d48b823ab471f7047257daa8d978cc09ba896c2c8906ababa4c349ad718d28cd7039c2574d2b901f003913a4290ac0c5d1b4a4869d6164a30e63bf00c31f2",
+            "sha1": "0ede088f203a93fab05d41dc11008c8d2f88b8e9"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/nk2SLbnj/relics-1.21.1-0.11.3.jar",
+          "filename": "relics-1.21.1-0.11.3.jar",
+          "primary": true,
+          "size": 3463437,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7BWvf2rt",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.2",
+      "version_number": "0.11.2",
+      "changelog": "* Added new relic - Piglin Mask\n* Added fancy tooltip backgrounds and gradient item names\n* Fixed Chinese-like languages in the relic description UI\n\nRemember that the 0.11.X version line is considered a beta, which means that:\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2025-10-19T13:06:02.073756Z",
+      "downloads": 19039,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FAcrCZ6S",
+          "hashes": {
+            "sha1": "98ad899945e32c62f7b575225636efb0de05b03e",
+            "sha512": "d8d8c18750adeda8c9876f8a509b63236b733d9e91b46722d9aef902d6ef9ef05e7b8e75d5fd72c501971ec3d6ba5bdd1a3e5b1abf90ef56f597c9800232468a"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/7BWvf2rt/relics-1.21.1-0.11.2.jar",
+          "filename": "relics-1.21.1-0.11.2.jar",
+          "primary": true,
+          "size": 3319781,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nZmHnNAE",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11.1",
+      "version_number": "0.11.1",
+      "changelog": "* Added new relic - Chorus Staff\n\n**Remember that the 0.11.X version line is considered a beta, which means that:**\n1. This version is currently not compatible with addons, even official ones.\n2. This version is and will remain incompatible with other versions of Relics meaning your previous progress in the mod will be lost due to major differences in balance design and mechanics.\n3. The mechanics introduced in this version are experimental and their balance may change based on your feedback but they are already fully stable for gameplay and servers.",
+      "changelog_url": null,
+      "date_published": "2025-10-03T20:25:41.471556Z",
+      "downloads": 5499,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sLHtt1s8",
+          "hashes": {
+            "sha512": "f316c329feda468706cfb98be531aa9dbd9486a5ef8fd0c7beec31a054361ecaede89bc501ed9d960bfb497f230a5010183ae67fea81f89b04d2b0edf8f01b9c",
+            "sha1": "4413cdd5d896eb1787c53710f1d48b5a72023959"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/nZmHnNAE/relics-1.21.1-0.11.1.jar",
+          "filename": "relics-1.21.1-0.11.1.jar",
+          "primary": true,
+          "size": 3223041,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "gq0ROsSL",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.11",
+      "version_number": "0.11",
+      "changelog": "Beta Version of Relics is not compatible with other versions due to significant differences in balance design and mechanics. Install only if you have no progress with Relics in your world or if you are not afraid to lose it but do not forget to make a backup. At the moment this version is also incompatible with all addons including official ones.",
+      "changelog_url": null,
+      "date_published": "2025-09-26T19:16:48.241376Z",
+      "downloads": 10840,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Lmcw2NXo",
+          "hashes": {
+            "sha512": "24e02c794319cb915d5016d3a2365573481cfb63a1b5d7c7534875e2c3201cb4e80ea1c7261246a0e62ff88015d0dad46a9eaba83bab6bd44d0b5217c6fdc0ac",
+            "sha1": "9255479c964806665b48b5a639c16a8020fef028"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/gq0ROsSL/relics-1.21.1-0.11.jar",
+          "filename": "relics-1.21.1-0.11.jar",
+          "primary": true,
+          "size": 3124276,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "pHqkVRdi",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.6",
+      "version_number": "0.10.7.6",
+      "changelog": "* Fixed Compatibility with OctoLib 0.6",
+      "changelog_url": null,
+      "date_published": "2025-08-12T18:17:44.593184Z",
+      "downloads": 63616,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DU0gk1j8",
+          "hashes": {
+            "sha512": "7af59fba04d9b370a8642bf089b89630718861cf386064ee0b758f8701a1ad92dab978e6e1fc22fe0c14746b9ad2233ebb950b2e482541d0803a4df7c0c83192",
+            "sha1": "d01514adde52d511bc857495d35e9b6a7b1423a7"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/pHqkVRdi/relics-1.21.1-0.10.7.6.jar",
+          "filename": "relics-1.21.1-0.10.7.6.jar",
+          "primary": true,
+          "size": 2752737,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1rqBbDn5",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.5",
+      "version_number": "0.10.7.5",
+      "changelog": "* Technical changes for addons.",
+      "changelog_url": null,
+      "date_published": "2025-04-20T16:43:54.348147Z",
+      "downloads": 118850,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WgjfF2gW",
+          "hashes": {
+            "sha1": "e2056f00e2dcf72d4e31a288587d07b61708954e",
+            "sha512": "25a59068034ec77c971376b59a590c44d2c46c7e6855ddb5e3cbe9dd277e2d8c7394eccf59d242d13fc872d224df3301d51cb41d35f20f37187ad6739b283a66"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/1rqBbDn5/relics-1.21.1-0.10.7.5.jar",
+          "filename": "relics-1.21.1-0.10.7.5.jar",
+          "primary": true,
+          "size": 2748789,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "aIAoPejl",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.4",
+      "version_number": "0.10.7.4",
+      "changelog": "* Partially prevented Shadow Glaive from targeting immortal entities. When attempting to attack an invulnerable entity, the glaive will simply switch to another target\n* Extended target navigation for Shadow Glaive, Holy Locket and Spore Sack (and some items from addons). Projectiles now prioritize targeting monsters and players first, then neutral mobs, and only after that any other entities\n* Improved Phantom Boot movement prediction. This practically eliminates cases of flying off the bridge at high speeds\n* Made Phantom Boot bridge less bouncy\n* Added ability to descend on Phantom Boot bridge by crouching",
+      "changelog_url": null,
+      "date_published": "2025-04-05T20:51:16.075377Z",
+      "downloads": 9867,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3U5eogCf",
+          "hashes": {
+            "sha1": "894c10d8f7c0dc521bb5f027ad11606585b79a56",
+            "sha512": "475c2ae5266f0f9294c60b1c04a0fa66a3a6aef4a2e5d1bc4a5111ee054d3e3226e6759043486c1d4c8c2a79dcc790d3eb2f0f36c11ec0567b0ce2d7e353fd63"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/aIAoPejl/relics-1.21.1-0.10.7.4.jar",
+          "filename": "relics-1.21.1-0.10.7.4.jar",
+          "primary": true,
+          "size": 2745693,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MCchqSqc",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.3",
+      "version_number": "0.10.7.3",
+      "changelog": "* Fixed experience level limitation in the relic research UI\n* Fixed Ice Breaker NaN health issue\n* Added compatibility between Infinite Ham and Werewolves mod",
+      "changelog_url": null,
+      "date_published": "2025-04-01T17:47:19.046387Z",
+      "downloads": 3052,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "70PKxf6d",
+          "hashes": {
+            "sha1": "921e5d33f6fde83ff20a31940be0e626b3285366",
+            "sha512": "78fe4b5e244fae4c456002b4ff1628668aba205450455abf617b573846be5debc5560818d28a76675adb88efefcd72b320823322ee441133015b4d853a5c07e8"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/MCchqSqc/relics-1.21.1-0.10.7.3.jar",
+          "filename": "relics-1.21.1-0.10.7.3.jar",
+          "primary": true,
+          "size": 2743944,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Q2iZLlv9",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.2",
+      "version_number": "0.10.7.2",
+      "changelog": "* Fixed crash on server",
+      "changelog_url": null,
+      "date_published": "2025-03-15T06:39:57.449170Z",
+      "downloads": 7558,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cbRlI02B",
+          "hashes": {
+            "sha1": "6233174700addb3dd3b111d2b12d2ea31eba1b34",
+            "sha512": "060e6b7913aad19a745e310c83b4d5dd7d57dcd1b069a1c6fcbdd6278257f18bd217196c6ed1aa297944bad91f393c2f5a7db92d95779b421383a9941a91e965"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/Q2iZLlv9/relics-1.21.1-0.10.7.2.jar",
+          "filename": "relics-1.21.1-0.10.7.2.jar",
+          "primary": true,
+          "size": 2743112,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "jT4EgThy",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.1",
+      "version_number": "0.10.7.1",
+      "changelog": "* Fixed particle flickering when picking up items.\n* Minor technical changes for addons.",
+      "changelog_url": null,
+      "date_published": "2025-03-14T17:42:20.844741Z",
+      "downloads": 368,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yB8zxOqj",
+          "hashes": {
+            "sha512": "deb7e8b13ea8e47da9c2432bcdfb2ccec0ee7b7dfdfceebeed9283d32dedc8a849f23064afbbf8c209028e6d190e4b8d2dccb021422b9ea05e8a9fbc3c719624",
+            "sha1": "c6467718fae18328f3faa553f3062d0341a4b886"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/jT4EgThy/relics-1.21.1-0.10.7.1.jar",
+          "filename": "relics-1.21.1-0.10.7.1.jar",
+          "primary": true,
+          "size": 2743066,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9OXiDO1S",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.7.0",
+      "version_number": "0.10.7.0",
+      "changelog": "* The cost of upgrade, reset, reroll, hint, and other actions is now measured in experience points instead of levels.\n* Attributes have been removed from relic tooltips.\n* Fixed shaking of relic indicators in EMI.",
+      "changelog_url": null,
+      "date_published": "2025-03-09T18:13:23.251351Z",
+      "downloads": 3235,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UoG0FJGG",
+          "hashes": {
+            "sha1": "828ad2cb71335a725f27238f22dfd078e675f689",
+            "sha512": "20ac39893c7e4c6d7b15e855dc52676992adfe738c891fd7df6034aa65db6ab57fc10b69cbac2c3953001eba0f06d012ca00f2d56f0b39dbdcfd1fb2733a78d5"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/9OXiDO1S/relics-1.21.1-0.10.7.0.jar",
+          "filename": "relics-1.21.1-0.10.7.0.jar",
+          "primary": true,
+          "size": 2741506,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AZ5gGwpo",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.6.0",
+      "version_number": "0.10.6.0",
+      "changelog": "* Added indicators above the relic icon when an ability is ready for research or an upgrade.\n* Added a lifetime limit for Space Dissector portals, so bugged portals should auto-delete after 1 minute.\n* Fixed the Phantom Boot ability not ticking if the ability is not selected.\n* Fixed the Amphibian Boot not working.\n* Updated the ja_jp translation by okazako.",
+      "changelog_url": null,
+      "date_published": "2025-03-06T14:41:41.000870Z",
+      "downloads": 3729,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uU9Iaw6g",
+          "hashes": {
+            "sha1": "5630dc63a24cb64aa73e842625b5bb4f88ec73f7",
+            "sha512": "fcb1ed7109414b4f0e372812d7bd5394df95148cfd42a4838befed8a4297e56f25650d499e55a12321d70414cb35d7771590ebdd721f1b4b85fa14468381bfef"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/AZ5gGwpo/relics-1.21.1-0.10.6.0.jar",
+          "filename": "relics-1.21.1-0.10.6.0.jar",
+          "primary": true,
+          "size": 2738905,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qYbP8B4K",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.5.4",
+      "version_number": "0.10.5.4",
+      "changelog": "* The descriptions of \"old\" relics that previously had no stats have been fixed, so now you can see their actual attribute values.",
+      "changelog_url": null,
+      "date_published": "2025-02-27T12:32:11.639206Z",
+      "downloads": 2947,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "X8oU7ng7",
+          "hashes": {
+            "sha512": "488b9279d701b7147156f4ee17be65a2a907b60daf91adf8f9b50153912389059e69c037f39e305b2dea1e379545cdf0a9c63dd0348812462ab4a5b0a927b4d0",
+            "sha1": "d85bb6cca7f4d3aa1662968c7ce1cc866da464c3"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/qYbP8B4K/relics-1.21.1-0.10.5.4.jar",
+          "filename": "relics-1.21.1-0.10.5.4.jar",
+          "primary": true,
+          "size": 2724397,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "I3SJTFXc",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.5.3",
+      "version_number": "0.10.5.3",
+      "changelog": "* Added simple pagination in case of abilities amount overflow\n* Some minor fixes and API changes for addons",
+      "changelog_url": null,
+      "date_published": "2025-02-20T16:55:15.039159Z",
+      "downloads": 2619,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "R0bkc8du",
+          "hashes": {
+            "sha512": "1923d4ec6b3289ec0c049319357438f4e1669ab97b382361065d7e07652a2b79378907e971c6bc287ff35147de00290c079b093cec79b354d00a5bc8d3976ba4",
+            "sha1": "2b7cbf820e81c266ddff713625d3c5047763e541"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/I3SJTFXc/relics-1.21.1-0.10.5.3.jar",
+          "filename": "relics-1.21.1-0.10.5.3.jar",
+          "primary": true,
+          "size": 2727628,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "REkh0n6W",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.5.2",
+      "version_number": "0.10.5.2",
+      "changelog": "* Fixed console spam if relic research key is not bound",
+      "changelog_url": null,
+      "date_published": "2025-02-14T20:17:18.105084Z",
+      "downloads": 1542,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ekAFb403",
+          "hashes": {
+            "sha1": "625ebfb46b398d202ea0734cc24e40a21fb7c96b",
+            "sha512": "8181dd4d76ebbd3f1d796413d81a34c14fb250bf571fd30933a32d536cdc6ef9c90c09878ea396158dba1c40987ddb2b6f4e623205aeccf1baad4b9155399735"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/REkh0n6W/relics-1.21.1-0.10.5.2.jar",
+          "filename": "relics-1.21.1-0.10.5.2.jar",
+          "primary": true,
+          "size": 2722705,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "gEJhDnwD",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.5.1",
+      "version_number": "0.10.5.1",
+      "changelog": "* Fixed an issue where Holy Locket provided too many projectiles.\n* Fixed a bug where Shadow Glaive abilities worked without research.\n* Applied technical API changes and other preparations for the release of addons.",
+      "changelog_url": null,
+      "date_published": "2025-02-13T13:53:35.246075Z",
+      "downloads": 262,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "moSks181",
+          "hashes": {
+            "sha512": "e5fb2b9963b3d410db1647383501fb158b99c9f4142f96cbd1774a0777e929020edac57f73d4aaf07084dbb1e447e7d4557adc7c85a976154b976b2c095434d2",
+            "sha1": "24be2ef79b767763761fdaa4e99cb959670b1c61"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/gEJhDnwD/relics-1.21.1-0.10.5.1.jar",
+          "filename": "relics-1.21.1-0.10.5.1.jar",
+          "primary": true,
+          "size": 2722645,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tiFqWeiW",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.5",
+      "version_number": "0.10.5",
+      "changelog": "* Completely reworked the mechanics of Holy Locket.\n* Added the ability to equip multiple Shadow Glaives at once, with their effects stacking.",
+      "changelog_url": null,
+      "date_published": "2025-02-02T19:07:06.919397Z",
+      "downloads": 2281,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EuMYjY3s",
+          "hashes": {
+            "sha512": "f849f67e1e3a7376799e3b7a4e54b4f3759354bdd3dc56c784e1a436510ecddf1c91af0641a95a05fdd382b2519d05feaae6b77e1906711493890914a3f78e37",
+            "sha1": "06d6fb962c1da5a858735d208fce75888add6a30"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/tiFqWeiW/relics-1.21.1-0.10.5.jar",
+          "filename": "relics-1.21.1-0.10.5.jar",
+          "primary": true,
+          "size": 2704594,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1y93qZiW",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.4",
+      "version_number": "0.10.4",
+      "changelog": "* Relic generation logic has been tweaked (once again). This should increase the chances of obtaining relics unique to specific dungeons/biomes from the corresponding chests, compared to other relics that have less stringent generation rules.",
+      "changelog_url": null,
+      "date_published": "2025-01-28T16:22:55.232549Z",
+      "downloads": 911,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "J3Nhe0sW",
+          "hashes": {
+            "sha1": "7ddc5ed2e41c1319de8a19e96678d5a94227b40c",
+            "sha512": "38bf94655fade3faff7b30fa6568b85453693eefafce3d86388c6d0e859578ead2a1b5280e8fe5b34ac79425fb8626fe688827e418a12639bc77b989631e64b7"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/1y93qZiW/relics-1.21.1-0.10.4.jar",
+          "filename": "relics-1.21.1-0.10.4.jar",
+          "primary": true,
+          "size": 2628260,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bWfh5lmm",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.3.2",
+      "version_number": "0.10.3.2",
+      "changelog": "* Fixed an issue where relic researching was impossible when another player was nearby",
+      "changelog_url": null,
+      "date_published": "2025-01-24T14:47:51.030761Z",
+      "downloads": 1134,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZCYzgMf4",
+          "hashes": {
+            "sha512": "df8b8dd6f0f7398cf9b29973db83453496dcd050ec476982a91df5f6ba9067cdd36c74ff9b0f027c4b22d383ddc47b63d867b18f9b95d811acdde7a3230bc3a8",
+            "sha1": "c1eefc36880232c34ae1c5bbe283433b45fe6766"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/bWfh5lmm/relics-1.21.1-0.10.3.2.jar",
+          "filename": "relics-1.21.1-0.10.3.2.jar",
+          "primary": true,
+          "size": 2623225,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "KtnkG9TF",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.3.1",
+      "version_number": "0.10.3.1",
+      "changelog": "* Fixed issues with the relic research progress bar:\n  * Added interpolation for displaying the progress bar at more than 20 FPS.\n  * Research progress now resets when moving the cursor to a different slot.\n  * Opening the research UI now requires 20 ticks instead of 10.\n  * The key for researching an item can now be configured in the control settings.\n* Fixed the targeting of Shadow Glaive and Spore Sack projectiles on armor stands.\n* Fixed the damage resistance formula for the first ability of Holy Locket; the item no longer grants immortality as it previously did.",
+      "changelog_url": null,
+      "date_published": "2025-01-23T22:08:58.039575Z",
+      "downloads": 162,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JwhdQKst",
+          "hashes": {
+            "sha1": "09203b6814a7b26f0ed490612d968a8f59cdada8",
+            "sha512": "9eb1a9be35d7cf3b5aaccd5b58e85c3926045b2df5dfb3ff75e85915359b4c2fd4b2815c1e1c5d4973c0c197c3e83d04ef766d9eba49dee7851b1ce5542cd925"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/KtnkG9TF/relics-1.21.1-0.10.3.1.jar",
+          "filename": "relics-1.21.1-0.10.3.1.jar",
+          "primary": true,
+          "size": 2623262,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZDMzva5C",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.3",
+      "version_number": "0.10.3",
+      "changelog": "* Reworked Spore Sack abilities (icon are still WIP and will be changed soon)\n* Slightly reworked relic generation in chests (again)\n* Fixed Shadow Glaive targeting dead mobs\n* Slightly adjusted the balance of Shadow Glaive\n* Fixed the \"flawless\" status of relics with non-upgradable abilities\n* Ability stats ending in .0 are now rounded (1.0 -> 1)\n* The maximize/minimize commands now automatically adjust the research status of abilities",
+      "changelog_url": null,
+      "date_published": "2025-01-19T12:32:57.577272Z",
+      "downloads": 857,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mFYJulsC",
+          "hashes": {
+            "sha1": "048ba2cab7ef12857f98c4bf4cdd6ed1f4a3ab2f",
+            "sha512": "4fd87e25a5fccc23e3ecba17d9052fa316db9a89ab45d3d134895f8af8b7363eea30abcc0b4a78c87d543658ce964e727e76d0ae0bd54af1c807b5d39edfca8d"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/ZDMzva5C/relics-1.21.1-0.10.3.jar",
+          "filename": "relics-1.21.1-0.10.3.jar",
+          "primary": true,
+          "size": 2622471,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3GCUomo8",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.2",
+      "version_number": "0.10.2",
+      "changelog": "* Relic loot system has been completely overhauled. Instead of being strictly tied to structures, the generation now focuses primarily on biomes, making relic discovery slightly more intuitive.\n* Shadow Glaive has been reworked. It is now an equippable item and provides a greater impact in combat.",
+      "changelog_url": null,
+      "date_published": "2025-01-10T19:11:03.885241Z",
+      "downloads": 2259,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "froPlkmO",
+          "hashes": {
+            "sha1": "d000e545b83e08f2dd8e29b48b9681bcaf5c0e9a",
+            "sha512": "2d3475c323823652f8ca53540c9239c6598edc895ff0c3d4d71cc78d369a031a5d5ff7056981732f1f00993edcc14868f71c74eba9b80ad64d536d0ccded4410"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/3GCUomo8/relics-1.21.1-0.10.2.jar",
+          "filename": "relics-1.21.1-0.10.2.jar",
+          "primary": true,
+          "size": 2530294,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wPuKy8bq",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.1.6",
+      "version_number": "0.10.1.6",
+      "changelog": "* Fixed flawless status of relic abilities",
+      "changelog_url": null,
+      "date_published": "2024-12-28T04:49:12.623617Z",
+      "downloads": 1988,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YFfIkss8",
+          "hashes": {
+            "sha1": "ff85b4a1b23f53cfba5ac95e44dc6b92c6ce2498",
+            "sha512": "cf64b83a36ba9aa3f49295a6a4f128e4d3d9a005a6e34a878bfa44add7a9c097265a4a73bcf8735fea611c71f8b263569e122391a2e6a58fe05ca4af878516f9"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/wPuKy8bq/relics-1.21.1-0.10.1.6.jar",
+          "filename": "relics-1.21.1-0.10.1.6.jar",
+          "primary": true,
+          "size": 2516132,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Ba2CFhaV",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.1.5",
+      "version_number": "0.10.1.5",
+      "changelog": "* Added a glow effect for the flawless relics\n* Fixed an issue with experience spreading for items whose maximum level exceeds 10",
+      "changelog_url": null,
+      "date_published": "2024-12-27T12:47:15.320683Z",
+      "downloads": 292,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WstJLu3w",
+          "hashes": {
+            "sha1": "d51c1a6ca9376a22cffc175417f632087cb9621b",
+            "sha512": "4294acd73bc19fe901b842ffc8646658045254a29f58d6927deb0134474fc443dff061088266ae9a65cb309358c56a38cd77e4a1aa73c52ce45719f359a73077"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/Ba2CFhaV/relics-1.21.1-0.10.1.5.jar",
+          "filename": "relics-1.21.1-0.10.1.5.jar",
+          "primary": true,
+          "size": 2516186,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "IOGgPcdK",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.1.4",
+      "version_number": "0.10.1.4",
+      "changelog": "* Fixed Infinite Ham issue related to Thorns enchantment\n* Fixed Elytra Booster model texture",
+      "changelog_url": null,
+      "date_published": "2024-12-25T19:51:49.233023Z",
+      "downloads": 334,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "q8oLq3fe",
+          "hashes": {
+            "sha512": "cf281034947de848c7aee1d3ef3bab88517087f12c5077cdfac6903ea563db8c2a404908ddfa2d54f2aa73ff7dba8345fe3c87c30dc594e2c6414923bd386e03",
+            "sha1": "938931d76c3765003a39e7bd9158f782c8d6f6a0"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/IOGgPcdK/relics-1.21.1-0.10.1.4.jar",
+          "filename": "relics-1.21.1-0.10.1.4.jar",
+          "primary": true,
+          "size": 2514225,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "a7D0Cmm7",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.1.3",
+      "version_number": "0.10.1.3",
+      "changelog": "* Fixed instant potions duration on the Infinite Ham\n* Fixed overflow of multicast func",
+      "changelog_url": null,
+      "date_published": "2024-12-24T21:25:25.103263Z",
+      "downloads": 186,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VfLl47LX",
+          "hashes": {
+            "sha512": "d94708a5a8990a16f912a90a814f08ffbdd29cd404067afd0580fe9faf9bc6dd50e8914fe00018a93e785e935857941b49b4d5cafbf90ab5947e508f7883d976",
+            "sha1": "7d717c8f740d1813145a719e7da0b0a744f4152c"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/a7D0Cmm7/relics-1.21.1-0.10.1.3.jar",
+          "filename": "relics-1.21.1-0.10.1.3.jar",
+          "primary": true,
+          "size": 2514137,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2hapDGPM",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.1.2",
+      "version_number": "0.10.1.2",
+      "changelog": "* Fixed compatibility with Sophisticated Core. Note that this version requires Sophisticated Core 1.0.5.813 or later, in other case your game will crash.",
+      "changelog_url": null,
+      "date_published": "2024-12-24T04:51:28.892620Z",
+      "downloads": 499,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wS74e6iX",
+          "hashes": {
+            "sha1": "d588a1c69dce304f5fdb567eee5bfa5c97385206",
+            "sha512": "4161868a8485a6cace6d1ca594c4ed8e79b2caa216a1b68840c01f66cf202fb324f7434ade14c73d7f82fd0731633f1f7fbefcb87ee86341488773ea6eb6e8ea"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/2hapDGPM/relics-1.21.1-0.10.1.2.jar",
+          "filename": "relics-1.21.1-0.10.1.2.jar",
+          "primary": true,
+          "size": 2513927,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ft6Zo5ph",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.1.1",
+      "version_number": "0.10.1.1",
+      "changelog": "* Added compatibility between Infinite Ham and Sophisticated Backpacks\n* Added Infinite Ham's applied effects to its tooltip\n* Added ability icons and research entries to Infinite Ham's abilities\n* Fixed rare issue with relic experience reset\n* Fixed saturation formula of Infinite Ham\n* Fixed instant effects duration applied to Infinite Ham\n* Fixed rare crash with maxed Infinite Ham",
+      "changelog_url": null,
+      "date_published": "2024-12-21T20:49:12.171046Z",
+      "downloads": 335,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qqOZA09a",
+          "hashes": {
+            "sha1": "1d4044d6ce1c20cd36e03f1f0c3817fad0b15bb8",
+            "sha512": "dad47a107154e6f3846e389dfbba2884eaf77b87a2b890d900af18d6a793287a5281d306e1194558a4610b73bd35f3ebcddbec89aceaa19cc21cddcc667db8a8"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/ft6Zo5ph/relics-1.21.1-0.10.1.1.jar",
+          "filename": "relics-1.21.1-0.10.1.1.jar",
+          "primary": true,
+          "size": 2513936,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bBjxlljz",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.1",
+      "version_number": "0.10.1",
+      "changelog": "* The mechanics of the Infinite Ham have been significantly reworked: two old abilities have been updated, a new ability has been added, the item design has been revamped, and a tooltip frame has been introduced.\n* To maintain mod stability during updates, extended configuration files are now disabled by default. However, you can enable them manually in the ../config/relics.yaml file if you wish and understand how to handle them.",
+      "changelog_url": null,
+      "date_published": "2024-12-19T19:38:43.050467Z",
+      "downloads": 986,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "15qXM42c",
+          "hashes": {
+            "sha1": "4771427282127f22e25b7953b23b13b5344243fa",
+            "sha512": "0c0ec0a019d212df775fcaa776b471324cebea53a4203db6bbad7c1e4f506e34473672670406260e1eb13817517ec5b1bcbce84101e243b6221414354155039b"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/bBjxlljz/relics-1.21-0.10.1.jar",
+          "filename": "relics-1.21-0.10.1.jar",
+          "primary": true,
+          "size": 2501651,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CuvUzNsW",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.0.2",
+      "version_number": "0.10.0.2",
+      "changelog": "* Potentially fixed empty placeholders in the ability description screen\n* Potentially fixed crash with quick-swapping relics in inventory while researching\n* Temporarily removed adaptive research progress bar and replaced with static width to avoid extra-wide progress bars",
+      "changelog_url": null,
+      "date_published": "2024-12-16T15:29:32.946680Z",
+      "downloads": 563,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sbkCJDJ8",
+          "hashes": {
+            "sha1": "f54cd67de49760ca8afb937102542ae64ea38e37",
+            "sha512": "784fbe5a74d8527c42831568b59208657db8d99a2f955fda9d0dc13c4df5ab551e2bb9c63bee28b5367774eb47b44bcf955e12355b85dc7893502c03744e3daa"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/CuvUzNsW/relics-1.21-0.10.0.2.jar",
+          "filename": "relics-1.21-0.10.0.2.jar",
+          "primary": true,
+          "size": 2473142,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8iEj4h1E",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10.0.1",
+      "version_number": "0.10.0.1",
+      "changelog": "* Fixed relic description UI on servers",
+      "changelog_url": null,
+      "date_published": "2024-12-14T12:44:17.936908Z",
+      "downloads": 286,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "G5Tb6Gik",
+          "hashes": {
+            "sha1": "1a9beda682fede6443ba4469c7410a49b987413a",
+            "sha512": "09151c3e6b4279862179ae536b01ed72be210154e774dfa9d589934552f6ad52782fcc61d1ac2a322e9bfe7f42b5fa61fae6441bb3f04843601cd666ac8a5a37"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/8iEj4h1E/relics-1.21-0.10.0.1.jar",
+          "filename": "relics-1.21-0.10.0.1.jar",
+          "primary": true,
+          "size": 2473154,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "JNMrrM0B",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.10",
+      "version_number": "0.10",
+      "changelog": "- Added a new information block in the relic description – experience sources, detailing the methods of gaining experience for each individual relic. Currently, this feature is available only for two relics from Relics, but we have already implemented it for all items in RAR-Compat and will release an update soon.\n- The relic research interface has been divided into tabs instead of separate interfaces.\n- Added additional obfuscation for the descriptions of abilities that have not yet been researched.\n- The formula for calculating relic quality no longer takes into account abilities that have not yet been unlocked.\n- Increased the speed of opening the relic research GUI.",
+      "changelog_url": null,
+      "date_published": "2024-12-12T18:14:30.265168Z",
+      "downloads": 262,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3sHQpPxT",
+          "hashes": {
+            "sha1": "a97f404eb199ad9bcef6cf8315568e23810d1660",
+            "sha512": "a15abb293511fe4a1de3759318ae4d784fb52daff4bfb2e33198840e937e0cddf80df920b938138c792e762bc31c3ff7f3215413b1fab95f15dbc4daa1039636"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/JNMrrM0B/relics-1.21-0.10.jar",
+          "filename": "relics-1.21-0.10.jar",
+          "primary": true,
+          "size": 2473130,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "13DVbtiX",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9.2.1",
+      "version_number": "0.9.2.1",
+      "changelog": "* Fixed crash with spores from Spore Sack\n* Fixed stars hitbox in the researching UI\n* Fixed Springy Boot leveling",
+      "changelog_url": null,
+      "date_published": "2024-11-27T17:06:31.029610Z",
+      "downloads": 1867,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eDY0Zdb8",
+          "hashes": {
+            "sha1": "e3b6fc4c521baa86cad4cb27a56c41572eaefc40",
+            "sha512": "c3c77fac9e58c5e464f5a0b820fce2d47e3b0d542e4cdf8344284bc70e7ae674ea76a293ccdd8c3ff34d1f6efb9fe8fe1c9e8d5918a75f918f8495c674cbb038"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/13DVbtiX/relics-1.21-0.9.2.1.jar",
+          "filename": "relics-1.21-0.9.2.1.jar",
+          "primary": true,
+          "size": 2440829,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "36A98mJG",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9.2.0",
+      "version_number": "0.9.2.0",
+      "changelog": "* Added new relic - Springy Boot\n* Updated Phantom Boot ability texture\n* Fixed Phantom Boot model centering\n* Fixed toggle status of locked abilities\n* Fixed tooltip background color modifier",
+      "changelog_url": null,
+      "date_published": "2024-10-24T08:59:50.097461Z",
+      "downloads": 4753,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DIYdxTQx",
+          "hashes": {
+            "sha512": "af70ef2501aefd86641dfb2d4bb56a45e1d9fe4e12eb79092a58af68c05380ed3a707ce671a77efcea159a81b49f3a72ab4d84755642d7b6afb554d9abadf4b0",
+            "sha1": "5eccd930bd43b4dac827918a76eb385aeab86737"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/36A98mJG/relics-1.21-0.9.2.0.jar",
+          "filename": "relics-1.21-0.9.2.0.jar",
+          "primary": true,
+          "size": 2440962,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Er4I8ptC",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9.1.1",
+      "version_number": "0.9.1.1",
+      "changelog": "* Potentially fixed Holy Locket allies targeting\n* Fixed Midnight Robe and Magic Mirror inverted stats (You need to reset config files of these items to apply the changes)\n* Added uk_ua translation by Slish562",
+      "changelog_url": null,
+      "date_published": "2024-10-19T04:00:10.330616Z",
+      "downloads": 496,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MRQS8kXe",
+          "hashes": {
+            "sha1": "c9beb49243fa57e1abdc9f53bcbd7ed227621ee9",
+            "sha512": "29f8ce2d6df000b4c8db04819421a76b94dcbd5c1105985aa50475d2c9d657596fd6544c79283b0d5c9c281e3cd331e7c5ce948206fbd0739e34f2e017216227"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/Er4I8ptC/relics-1.21-0.9.1.1.jar",
+          "filename": "relics-1.21-0.9.1.1.jar",
+          "primary": true,
+          "size": 2299590,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8dqOVWvZ",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9.1.0",
+      "version_number": "0.9.1.0",
+      "changelog": "* Added new relic - Phantom Boot\n* Fixed missing talisman slot modifier",
+      "changelog_url": null,
+      "date_published": "2024-10-16T19:10:18.413938Z",
+      "downloads": 300,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "U7VDR7Oo",
+          "hashes": {
+            "sha512": "865392f21418df31f069d6179b9158381efb07e306f88ad6cd25a095709904fb4d12499d65a2f3f7690d942b6fa416fa54586ec518a562b9a6dd7505fffdc78c",
+            "sha1": "cb699d74cce7d910336e7c0daf0158a706440cba"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/8dqOVWvZ/relics-1.21-0.9.1.0.jar",
+          "filename": "relics-1.21-0.9.1.0.jar",
+          "primary": true,
+          "size": 2288089,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7fqxgXsW",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9.0.3",
+      "version_number": "0.9.0.3",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-10T14:34:33.579205Z",
+      "downloads": 1480,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4J3okGve",
+          "hashes": {
+            "sha512": "df0931d2cc22b254062217821151a66fdc9117c0d4c1bc91208d1ddd1753231e7fdd987835e489672427f60d3ba363bc29ac546b7b3f60d2a9268a0aff0ff9e6",
+            "sha1": "cfef2066b0b7cfeba99add48c0af0360067def9f"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/7fqxgXsW/relics-1.21-0.9.0.3.jar",
+          "filename": "relics-1.21-0.9.0.3.jar",
+          "primary": true,
+          "size": 2163807,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3SlCJCGP",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9.0.2",
+      "version_number": "0.9.0.2",
+      "changelog": "◈ Added ability to fix wrong leveling points manually while upgrading Relics from 0.8.x to 0.9.x. Note that this fix still will not help you with AE2 issue! <br/>\n◈ Added Relics' UI to the Dark Mode Everywhere blacklist",
+      "changelog_url": null,
+      "date_published": "2024-09-19T08:23:17.747430Z",
+      "downloads": 3523,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xmzAYMNu",
+          "hashes": {
+            "sha1": "ba7416027d3869ec4e521097dcfeb309e4f38bf2",
+            "sha512": "4e1176107b7f4ea47a792112261593ae82e1fcf3b1e1c1484d6fbe24d439d754a2e53db3136eacef8e15b81fc881a611bbe9a3a7c7874e6a0e2ad56e354f0cbd"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/3SlCJCGP/relics-1.21-0.9.0.2.jar",
+          "filename": "relics-1.21-0.9.0.2.jar",
+          "primary": true,
+          "size": 2144114,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GkjndP6J",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9.0.1",
+      "version_number": "0.9.0.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-09-18T09:36:53.548314Z",
+      "downloads": 162,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "W0KtIe4h",
+          "hashes": {
+            "sha1": "c0da413f6040cddc16a381e6401c6d8b2efaae43",
+            "sha512": "bec1310e994379abf780efec15729389e67b2ab3248687771512b5111a0494f9c45b4b861cffcd275745e77451630b3aff67b8811af4afb2040307ffd033f730"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/GkjndP6J/relics-1.21-0.9.0.1.jar",
+          "filename": "relics-1.21-0.9.0.1.jar",
+          "primary": true,
+          "size": 2135674,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zZFwWX6V",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.9",
+      "version_number": "0.9",
+      "changelog": "◈ Implemented ability unlock mechanic <br/>\n◈ Implemented ability research mechanic *(currently available only for one ability, but already fully implemented in the Artifacts compatibility addon)*<br/>\n◈ Slightly tweaked relic description UI animations<br/>\n◈ Updated active abilities HUD icons<br/>\n<br/>\n**WARNING:** This version will reset all your relics leveling progress!",
+      "changelog_url": null,
+      "date_published": "2024-09-16T16:45:58.368482Z",
+      "downloads": 237,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2BxTYlOG",
+          "hashes": {
+            "sha512": "8c2470e5b455b2c2bdec333e0de559dacfa0e9821ab649fe334a308f5272c799dbff41a4186b16204db5e510d66bc8a706d4a427035ba5009a4e65d31317d6f0",
+            "sha1": "6d3d30e864cf522f0efcb7b9d8891f598fa29f91"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/zZFwWX6V/relics-1.21-0.9.jar",
+          "filename": "relics-1.21-0.9.jar",
+          "primary": true,
+          "size": 2131789,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nIm1Rc34",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": true,
+      "name": "Relics 0.8.4",
+      "version_number": "0.8.4",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-23T13:38:23.742754Z",
+      "downloads": 2230,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "guPnHDFw",
+          "hashes": {
+            "sha1": "13f67d4b1b8537f18274352c66e7d7502dcfae44",
+            "sha512": "f36517f3a1b003ee8912b138e86266ea1de00eed34c2cd7fba7e42d2582e81de7972faca967101c1e47410c632e0184cd342a5bd3b92fb041ed932a3d884cb35"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/nIm1Rc34/relics-1.21-0.8.4.jar",
+          "filename": "relics-1.21-0.8.4.jar",
+          "primary": true,
+          "size": 1588399,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "NWPgaz37",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.8.3",
+      "version_number": "0.8.3",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-21T12:57:48.985174Z",
+      "downloads": 424,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pCC30ikQ",
+          "hashes": {
+            "sha512": "ddde88393b23c0461d0a939aaf4afe8e29789820612d743474fb9420fe784159256a30bda91df4fd3b27570c5c92e4ad7ee05a4063f056600fb677d732038b59",
+            "sha1": "5d762547e9d61079262b7ce674c7d041ccf40ccd"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/NWPgaz37/relics-1.21-0.8.3.jar",
+          "filename": "relics-1.21-0.8.3.jar",
+          "primary": true,
+          "size": 1510786,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6woYADbb",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.8.2",
+      "version_number": "0.8.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-14T13:22:01.886129Z",
+      "downloads": 399,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CMLS516Z",
+          "hashes": {
+            "sha1": "f802b12696e8e47ea6ba92b0ab73ce179b4f976d",
+            "sha512": "b39abc848dec4aaaaa9bdf35c27d64a390d28f29498e80cc6abdfed699d888669f4818f73cd2494c443beb4e88db649bb30cb8f03c1350298fca62de66791eeb"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/6woYADbb/relics-1.21-0.8.2.jar",
+          "filename": "relics-1.21-0.8.2.jar",
+          "primary": true,
+          "size": 1500437,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RjzA84Gw",
+      "project_id": "OCJRPujW",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "Relics 0.8.1",
+      "version_number": "0.8.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-10T02:29:33.822812Z",
+      "downloads": 368,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Lh3pUpnH",
+          "hashes": {
+            "sha512": "525a882984e5d3a28a67642e286a6f910c5492f429a390d9c95bbb0bc9c5bb04d2e8e2bddb61fc162837399a0ad899590faad0ab550690932f4413dc02fe9bf4",
+            "sha1": "668a1937aa381cc1620facea49f15633d62556d2"
+          },
+          "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/RjzA84Gw/relics-1.21-0.8.1.jar",
+          "filename": "relics-1.21-0.8.1.jar",
+          "primary": true,
+          "size": 1471588,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "BaqCltvf",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

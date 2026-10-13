@@ -1,0 +1,78 @@
+{
+  "url": "https://api.modrinth.com/v2/project/enigmatic-addons",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:52.409853+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.19.2",
+      "1.20.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "dxNvj4GU",
+    "slug": "enigmatic-addons",
+    "project_type": "mod",
+    "team": "NKhSGnej",
+    "organization": null,
+    "title": "Enigmatic Addons",
+    "description": "An Addon of Enigmatic Legacy that provides a better gaming experience.",
+    "body": "# This is an Addon of __Enigmatic Legacy__.\nThis Mod added more tools and accessories to help you better deal with the power of curses, especially some curses that were originally unsolvable.\n\nBut for those who choose to constantly bear the curse, this Mod also slightly increases the difficulty of survival. (some mobs' AI are changed)\n\nIn addition, some unsatisfactory aspects in **Enigmatic Legacy** have been repaired.",
+    "body_url": null,
+    "published": "2024-09-26T06:00:06.814925Z",
+    "updated": "2026-09-06T11:58:39.529375Z",
+    "approved": "2024-09-29T04:11:54.462634Z",
+    "queued": "2024-09-27T06:36:37.452582Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "downloads": 1273986,
+    "followers": 40,
+    "categories": [
+      "adventure",
+      "magic"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge"
+    ],
+    "versions": [
+      "tnNDkawP",
+      "MfVMLuWe",
+      "mKZ8Iefh",
+      "wDz50u2H",
+      "Sl3jjWXz",
+      "56hGwehA",
+      "aPY6JZQ4",
+      "EajlN3M4"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/dxNvj4GU/5d18c0c99aa3e6511b1035aac66ebfc43314836b_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/dxNvj4GU/5d18c0c99aa3e6511b1035aac66ebfc43314836b.png",
+    "issues_url": null,
+    "source_url": "https://github.com/Auviotre/Enigmatic-Addons",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/dxNvj4GU/images/5871e469b299c2c8ac2fe35bc591d74b2cd9e777.png",
+        "raw_url": "https://cdn.modrinth.com/data/dxNvj4GU/images/5871e469b299c2c8ac2fe35bc591d74b2cd9e777.png",
+        "featured": false,
+        "title": "Item Preview",
+        "description": null,
+        "created": "2025-01-22T00:22:20.495378Z",
+        "ordering": 1
+      }
+    ],
+    "color": 6028379,
+    "thread_id": "nWgVgo3Z",
+    "monetization_status": "monetized"
+  }
+}

@@ -1,0 +1,1165 @@
+{
+  "url": "https://api.modrinth.com/v2/project/PxQSWIcD/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:43.509541+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "BsbJhy7W",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.10 for 1.21.1",
+      "version_number": "fabric-1.21.1-1.0.10",
+      "changelog": "fix crash with mods using the new LambDynLights API",
+      "changelog_url": null,
+      "date_published": "2025-01-02T01:22:44.897430Z",
+      "downloads": 1598209,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "23phW84l",
+          "hashes": {
+            "sha1": "11bff7127c2d01a97c931cda6012c8d2c3e1f39f",
+            "sha512": "395affdb6d2484c071a2905ad247c8c5b13a4fa82f59e1a4c92a043409958f29fab4b4274a2e4aa6d9b55c6fecb4070d4595627e6d309da90bf83ba665fdc84e"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/BsbJhy7W/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
+          "primary": true,
+          "size": 899434,
+          "file_type": null
+        },
+        {
+          "id": "Wt0zkbxO",
+          "hashes": {
+            "sha512": "080a36073a4021372dd9e9f145fa641deb00d4f2cb76a8d86e368a921ddb0a0efbb43f2d9f541e52c5925a98278e3aa3e9b3d156048359cff7f71948be6d6ac6",
+            "sha1": "30b58b441ca8fcd9fbca0740b7dc11543820a513"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/BsbJhy7W/sodiumdynamiclights-fabric-1.0.10-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.10-1.21.1-sources.jar",
+          "primary": false,
+          "size": 280343,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "XI0WLXdn",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.10 for 1.21.1",
+      "version_number": "neoforge-1.21.1-1.0.10",
+      "changelog": "fix crash with mods using the new LambDynLights API",
+      "changelog_url": null,
+      "date_published": "2025-01-02T01:22:43.914842Z",
+      "downloads": 1992918,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rrektYAU",
+          "hashes": {
+            "sha512": "ec19a81cf2dfde255990a457d8f6d7375df53cb94190dce71c4bfe5d5263f4862027ce4aa0af20cb11d56c7c031d5e149b3bdf95bec6343e5bd4552450b14c0a",
+            "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+          "primary": true,
+          "size": 299353,
+          "file_type": null
+        },
+        {
+          "id": "U89gU2eW",
+          "hashes": {
+            "sha1": "38dbd03a29d65637e78f05b65121eafa6ba30bb0",
+            "sha512": "1684095a16e0c96c663dc62a84905e25df805f5bdb347c44009c6db99b216bdaf358242062a03e5a2bc04599ad1db6b0d79de56470719ef5a468e5cf50c24f18"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1-sources.jar",
+          "primary": false,
+          "size": 280751,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "HSCYNr5X",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.9 for 1.21.1",
+      "version_number": "fabric-1.21.1-1.0.9",
+      "changelog": "fix loading on dedicated servers\r\ndisable dynamic entity lighting by default (performance)",
+      "changelog_url": null,
+      "date_published": "2025-01-01T04:38:04.605053Z",
+      "downloads": 5318,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xP3A6Tc9",
+          "hashes": {
+            "sha1": "b78defccbeb122d0073037bb6d1d795f7c524583",
+            "sha512": "177d18fcd152cc741cf89f7d5c8cec936c682625eb5ddbd3d993b53e24efcb77e58e63b60d6c12aad202fc489fbe7ff5cb7a8b9f4e4e84c4423b52b8ec485302"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/HSCYNr5X/sodiumdynamiclights-fabric-1.0.9-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.9-1.21.1.jar",
+          "primary": true,
+          "size": 898354,
+          "file_type": null
+        },
+        {
+          "id": "kjLTHdqL",
+          "hashes": {
+            "sha1": "cdcbaf6fe2117eccf2d9265ea46957125006eb58",
+            "sha512": "8a94963555da8a02853d3e7d72930c04e7ee5e962a464af1374b7864c3a0f79b46d6d720cb6ed8f029f8e79f4b6652c87e76495df9d670d99d00930b2fe54adc"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/HSCYNr5X/sodiumdynamiclights-fabric-1.0.9-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.9-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279620,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "5VTwEmls",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.9 for 1.21.1",
+      "version_number": "neoforge-1.21.1-1.0.9",
+      "changelog": "fix loading on dedicated servers\r\ndisable dynamic entity lighting by default (performance)",
+      "changelog_url": null,
+      "date_published": "2025-01-01T04:38:03.993629Z",
+      "downloads": 3297,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Rmny9l4m",
+          "hashes": {
+            "sha1": "8222d80e437d39ac343bed3f2e4d0d86d1f21da4",
+            "sha512": "e6e6ba37af4b7440a8fc1d54ede3afa617b9cc7fa4f5193ccf845f0db06e7eb621b7d993b265f0b81fc84f6e44fe95e298b0a60849cad68f5f137bd39485eb6e"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/5VTwEmls/sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar",
+          "primary": true,
+          "size": 298998,
+          "file_type": null
+        },
+        {
+          "id": "xa5YzY00",
+          "hashes": {
+            "sha512": "19c59e0278ad397cf438d034fa8dab0cf5f7e4aad9388a53a9612b46bdbf53be20c0c7de68f09708391a002e67223b0461e7334e8d7746ffdd8135336dc254a4",
+            "sha1": "b0ebc44a9351b42850dd9fc125e466a1f7659ddd"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/5VTwEmls/sodiumdynamiclights-neoforge-1.0.9-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.9-1.21.1-sources.jar",
+          "primary": false,
+          "size": 280039,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "kSSa3FvO",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.9 for 1.21.1",
+      "version_number": "1.0.9",
+      "changelog": "fix loading on dedicated servers\r\ndisable dynamic entity lighting by default (performance)",
+      "changelog_url": null,
+      "date_published": "2024-10-13T03:55:52.421668Z",
+      "downloads": 14476,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZfFTX8D1",
+          "hashes": {
+            "sha512": "34ce6de314bb94f2b92865a32e95baf15bbe796d78104338dd78b1123db1304b135d2c51441a20b3e54b94f94a4641c1a3e2cedf17472c847f53f56175035164",
+            "sha1": "5837f449de183b1c137aad27d6b26ea373fe7fdf"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/kSSa3FvO/sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar",
+          "primary": true,
+          "size": 298786,
+          "file_type": null
+        },
+        {
+          "id": "e5I3LVcE",
+          "hashes": {
+            "sha1": "2a138b74a8039f00be4b504b456951b1905f5132",
+            "sha512": "87ef1fe47b17eadd45a005b6cbeeea33c18d0e1a31ee30673258a10e710d9e37f54c4288b6701779684b601b3c344ae71bf000f40238787cab51a17c90148a4e"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/kSSa3FvO/sodiumdynamiclights-neoforge-1.0.9-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.9-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279426,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "hiAUnekX",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.9 for 1.21.1",
+      "version_number": "1.0.9",
+      "changelog": "fix loading on dedicated servers\r\ndisable dynamic entity lighting by default (performance)",
+      "changelog_url": null,
+      "date_published": "2024-10-13T03:55:52.340223Z",
+      "downloads": 127232,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AjEQFbQU",
+          "hashes": {
+            "sha512": "b7236eabefb3c26326745ad231ccf09437f1e1db36ea87b4fba2cd0b935b8744e194abdf09a652b8e2cd09c23075967781770aeff86aab60e99061ee15f0ae03",
+            "sha1": "ba59769019f90bf6dc3ee1c368024c42af891b42"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/hiAUnekX/sodiumdynamiclights-fabric-1.0.9-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.9-1.21.1.jar",
+          "primary": true,
+          "size": 897342,
+          "file_type": null
+        },
+        {
+          "id": "RaoN2LYa",
+          "hashes": {
+            "sha1": "65f641fa53dc75d7eee477acf5ada61e766f7b92",
+            "sha512": "dd66b5c5a21cd2ea7bfd2b85abfe4fb58c2025c40a6b38d9cee65e235b8f9414e35bd9b6cf8765403ef76b328530ba2e43ada1882852186a328329e455132791"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/hiAUnekX/sodiumdynamiclights-fabric-1.0.9-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.9-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279033,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "cqlNcfN9",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.8 for 1.21.1",
+      "version_number": "1.0.8",
+      "changelog": "fix configs not saving when applying in game",
+      "changelog_url": null,
+      "date_published": "2024-09-24T15:08:19.889188Z",
+      "downloads": 16040,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GASbNjbT",
+          "hashes": {
+            "sha512": "3508c6ea08a3d76f73f03e51e038d7bb53221a5a90f8ef239384f0e1ef7b0ad8c9269c20f1b592b4c69d18caeeb10078772411345f205d301c8968706cbca71a",
+            "sha1": "7e88a691b0d5e52c11bfc5a786243f619144d4d7"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/cqlNcfN9/sodiumdynamiclights-fabric-1.0.8-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.8-1.21.1.jar",
+          "primary": true,
+          "size": 897341,
+          "file_type": null
+        },
+        {
+          "id": "XDqRbjH8",
+          "hashes": {
+            "sha512": "a5e2e949dcaf75cb9d8b963d1680cd7dfb8ec0c7117fa1ecbd599b66b6ed4a66d06b422a987e3e65d27b29bde2244c44b4f69017371377e51cbee3ae021478ad",
+            "sha1": "13a80c64885ac0b3b8478a9720d44766f61e388c"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/cqlNcfN9/sodiumdynamiclights-fabric-1.0.8-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.8-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279022,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "lJh8QP5i",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.8 for 1.21.1",
+      "version_number": "1.0.8",
+      "changelog": "fix configs not saving when applying in game",
+      "changelog_url": null,
+      "date_published": "2024-09-24T15:08:19.604613Z",
+      "downloads": 3682,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "95HnE3lO",
+          "hashes": {
+            "sha512": "59ad7c7a405827fa78e6f2ee475b23325dd4edfa8c925c8acd9d833eb895ed334810def7f8bbcf5e29dae61b20fb93324144b886ff1f1ed327c15d52056ef2dc",
+            "sha1": "c1f3e5dc748667654a78401d0d057e5bd72936a4"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/lJh8QP5i/sodiumdynamiclights-neoforge-1.0.8-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.8-1.21.1.jar",
+          "primary": true,
+          "size": 299299,
+          "file_type": null
+        },
+        {
+          "id": "JNhGXydn",
+          "hashes": {
+            "sha512": "167497c7d53745f3f2f1910628aceb309b48b9474bf276e08651b6a4d3f1e743365a3b5b85c66da2768dfe7f99fe689ebbc67fbdc20d0b5c166edc4c542293fb",
+            "sha1": "fb6f353946f27a1abd695a2e60858f158d849591"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/lJh8QP5i/sodiumdynamiclights-neoforge-1.0.8-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.8-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279415,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "qj3fBGvq",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.7 for 1.21.1",
+      "version_number": "1.0.7",
+      "changelog": "fix configs not saving when applying in game",
+      "changelog_url": null,
+      "date_published": "2024-09-24T14:31:12.562867Z",
+      "downloads": 1223,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8ZffW38X",
+          "hashes": {
+            "sha512": "ce046e99e7c1caa50a4e978ea58507f0865b59ee04e48923af06b5cc41c4307b234de278d9c30b6626fbdaf42f83d3f446fbe083c1ab766fa4f45cde19f10f92",
+            "sha1": "c4c60015ecf467e067cb27b66f66252249a6c66e"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/qj3fBGvq/sodiumdynamiclights-neoforge-1.0.7-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.7-1.21.1.jar",
+          "primary": true,
+          "size": 299301,
+          "file_type": null
+        },
+        {
+          "id": "UMVZnRZP",
+          "hashes": {
+            "sha1": "e04329c9fa443476f85e79be33fc2c6f2439b605",
+            "sha512": "59aabfe9797fc9e08b521f68fe72e907198aa4fc544625cdd544c8f35610be27674a2717c78517286acfa3c838c7c5d9bd491aa5a2b4f98ee1388cfcbaa592b1"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/qj3fBGvq/sodiumdynamiclights-neoforge-1.0.7-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.7-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279415,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "LElCllwJ",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.7 for 1.21.1",
+      "version_number": "1.0.7",
+      "changelog": "fix configs not saving when applying in game",
+      "changelog_url": null,
+      "date_published": "2024-09-24T14:31:12.527177Z",
+      "downloads": 452,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8KlCZ45P",
+          "hashes": {
+            "sha1": "b374015601033d4a0e07f7e96ea80cf537bf3df3",
+            "sha512": "b7692311e9e15923582364a3488934376ec2905bb83a1e300b6251862caf95913cbcd48bb7fc0cc3a12233de409634169fab59337ef270863e9e51d43a787cd1"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/LElCllwJ/sodiumdynamiclights-fabric-1.0.7-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.7-1.21.1.jar",
+          "primary": true,
+          "size": 897257,
+          "file_type": null
+        },
+        {
+          "id": "ehC2jNc5",
+          "hashes": {
+            "sha1": "199204383a91b6117fa87d2d0dbc84b5947c0549",
+            "sha512": "e9893a472e0a230bd9dea99ec4e69c44bcec1242c152ef17069f7adbd05e6b2cd5315c7e2d5dd70c99ec2573acbfe8ed5e439da24c83df727f1ada076a9aa0ad"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/LElCllwJ/sodiumdynamiclights-fabric-1.0.7-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.7-1.21.1-sources.jar",
+          "primary": false,
+          "size": 278995,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "KyZ5utFn",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.6 for 1.21.1",
+      "version_number": "1.0.6",
+      "changelog": "fix options not saving on Fabric\r\nactually fix compat with Spell Engine",
+      "changelog_url": null,
+      "date_published": "2024-09-23T21:10:00.751152Z",
+      "downloads": 699,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9tHEWbTf",
+          "hashes": {
+            "sha1": "b374015601033d4a0e07f7e96ea80cf537bf3df3",
+            "sha512": "b7692311e9e15923582364a3488934376ec2905bb83a1e300b6251862caf95913cbcd48bb7fc0cc3a12233de409634169fab59337ef270863e9e51d43a787cd1"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/KyZ5utFn/sodiumdynamiclights-fabric-1.0.6-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.6-1.21.1.jar",
+          "primary": true,
+          "size": 897257,
+          "file_type": null
+        },
+        {
+          "id": "EJNoe5L1",
+          "hashes": {
+            "sha512": "dda9d572e23c0728951367988e0d9bea8bb11a803939bd0d5331308fbff2f239df03493b37db2a948c2e6e367905948d20a9a5b66180ac04fbd5ce025c508736",
+            "sha1": "e84ea91073c6f09b0b206fba92d6a6e9484d71c9"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/KyZ5utFn/sodiumdynamiclights-fabric-1.0.6-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.6-1.21.1-sources.jar",
+          "primary": false,
+          "size": 278995,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "VThb5jhr",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.6 for 1.21.1",
+      "version_number": "1.0.6",
+      "changelog": "fix options not saving on Fabric\r\nactually fix compat with Spell Engine",
+      "changelog_url": null,
+      "date_published": "2024-09-23T21:10:00.338973Z",
+      "downloads": 351,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZkIOcJ4d",
+          "hashes": {
+            "sha512": "490c34ce02737951766876f74320b96a454265b594c033c87f3bd7ccef7484b537405763b7589b82fd1e4f2dd8203ed25ed9ef7b26b5dff01dc707fbbd67e0bf",
+            "sha1": "80f8c12e4fdba68bb3240aaf88508bf1063c938b"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/VThb5jhr/sodiumdynamiclights-neoforge-1.0.6-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.6-1.21.1.jar",
+          "primary": true,
+          "size": 299217,
+          "file_type": null
+        },
+        {
+          "id": "lWDPZZpd",
+          "hashes": {
+            "sha512": "ef7b9990d586ba2893dba1e877c8470c4b754486284025f884ff9ff7ff2f9c4f28d3c29ae6cdef2a7732bb82bef8a69d90e99511bf36b852cc8e218d8c4b26c3",
+            "sha1": "b71cf00d6ced0816a595dfd0756066b2ac6b0137"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/VThb5jhr/sodiumdynamiclights-neoforge-1.0.6-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.6-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279388,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "wTyO0ol0",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.5 for 1.21.1",
+      "version_number": "1.0.5",
+      "changelog": "Fix LambDynLights API crashing on Fabric\r\nAdd Sodium Options API dependency\r\nFix compat with Ars Nouveau",
+      "changelog_url": null,
+      "date_published": "2024-09-22T16:42:03.280803Z",
+      "downloads": 364,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rcclLNN8",
+          "hashes": {
+            "sha1": "94d3504eb7b3693fc1a886f3cf914cad84d5b66b",
+            "sha512": "e1fd1bf3783460bcd3aa6b3203e2c71e9df97d781b67b2873ece397d1d46c902c84438002cde04ce11ed59c747586798d5c97f85a9ced0151913107c0fe75bc2"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/wTyO0ol0/sodiumdynamiclights-neoforge-1.0.5-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.5-1.21.1.jar",
+          "primary": true,
+          "size": 298997,
+          "file_type": null
+        },
+        {
+          "id": "N18Pmbzz",
+          "hashes": {
+            "sha512": "885f64338d3839382fb58add7356a56c3d059a459a94c5979b2d2eb5d0c52e0d55979843f7225530615f68fe1dd9318a296870cf6ef4cb0650d54b25d8d27910",
+            "sha1": "ddaaad01927d9277719e91c032d835899b154a33"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/wTyO0ol0/sodiumdynamiclights-neoforge-1.0.5-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.5-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279377,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "FRTYj04H",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.5 for 1.21.1",
+      "version_number": "1.0.5",
+      "changelog": "Fix LambDynLights API crashing on Fabric\r\nAdd Sodium Options API dependency\r\nFix compat with Ars Nouveau",
+      "changelog_url": null,
+      "date_published": "2024-09-22T16:42:03.228655Z",
+      "downloads": 914,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JVIr9LZa",
+          "hashes": {
+            "sha512": "782ed11428873a4121d64de611417e5e4afcaa78703931027cbba912a5cbdc2d49cd5888816abac53db85a19279dbb04a6919452dfa5a4cc5365fd82437c19ae",
+            "sha1": "f0529deb70652c4cdc096279c4a72bf181e58e95"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/FRTYj04H/sodiumdynamiclights-fabric-1.0.5-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.5-1.21.1.jar",
+          "primary": true,
+          "size": 896856,
+          "file_type": null
+        },
+        {
+          "id": "sUY7DRru",
+          "hashes": {
+            "sha512": "212e9a11077cfa78c756336718711186ea1d0b5dcf09d06dffdf7f38fd488546c72bae0b0ba63a7d15dba3797cda552e9c7560aeb495ffdfc5fe58ddbe2a89ee",
+            "sha1": "4e93bf5463d787d4e1b437ade6f63b5bcc60a5fc"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/FRTYj04H/sodiumdynamiclights-fabric-1.0.5-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.5-1.21.1-sources.jar",
+          "primary": false,
+          "size": 278966,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "QNs8b2AW",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.4 for 1.21.1",
+      "version_number": "1.0.4",
+      "changelog": "Fix LambDynLights API crashing on Fabric\r\nAdd Sodium Options API dependency",
+      "changelog_url": null,
+      "date_published": "2024-09-22T13:19:59.818826Z",
+      "downloads": 260,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2z2c6Y9h",
+          "hashes": {
+            "sha1": "ff5ad3be8e06d0275d2ee90d2c108088b40df6fb",
+            "sha512": "854a62f4c50d7a531db100cbcbf51bcd26e6a8153524d25b85536dc47a9466c57c665964331d092b5ff66c9d129de15f5e0c55726467d720159d06d076532c8c"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/QNs8b2AW/sodiumdynamiclights-neoforge-1.0.4-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.4-1.21.1.jar",
+          "primary": true,
+          "size": 298884,
+          "file_type": null
+        },
+        {
+          "id": "mZoFhtWI",
+          "hashes": {
+            "sha512": "41ac4489df93c8dcfa13d512faa6d3bff7ede86a53a24d51cb309a73e7df5b82c67ceca69911fc1244faed376dfca5d032dcc17853e991878fa015ea1c70fc5c",
+            "sha1": "8cd420c985f584f813208e3391727d1867d9d05b"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/QNs8b2AW/sodiumdynamiclights-neoforge-1.0.4-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.4-1.21.1-sources.jar",
+          "primary": false,
+          "size": 279295,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "fFYg3XhS",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.4 for 1.21.1",
+      "version_number": "1.0.4",
+      "changelog": "Fix LambDynLights API crashing on Fabric\r\nAdd Sodium Options API dependency",
+      "changelog_url": null,
+      "date_published": "2024-09-22T13:19:59.356993Z",
+      "downloads": 528,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KsL8upv4",
+          "hashes": {
+            "sha512": "02b1c265eb5d706fbbac28be3bff1c8da29ede7137015678fabba047a00f4f7f7f8628c9135f7d6276b01ff8afeeb900deaef652e6ff6933469e433e31526128",
+            "sha1": "f2424cfcbb357e8c0aeb72469ca93273f9d8f26f"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/fFYg3XhS/sodiumdynamiclights-fabric-1.0.4-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.4-1.21.1.jar",
+          "primary": true,
+          "size": 896743,
+          "file_type": null
+        },
+        {
+          "id": "udeDSBLx",
+          "hashes": {
+            "sha512": "e7587413903cdcd44c72eb0af1fa316d6d6ac5df33a8a107e5998cb4e3d6edc4ec8e35e3bcb6acfebc9b8a485960e260523db49736e0e729b8e6e510a48140c6",
+            "sha1": "ddedea4362903f5cfb52b15f802c9a84b386f01c"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/fFYg3XhS/sodiumdynamiclights-fabric-1.0.4-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.4-1.21.1-sources.jar",
+          "primary": false,
+          "size": 278892,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Es5v4eyq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "z57UcDuv",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Neoforge 1.0.2 for 1.21.1",
+      "version_number": "1.0.2",
+      "changelog": "## Changelog\r\n- Initial release",
+      "changelog_url": null,
+      "date_published": "2024-09-07T18:05:20.720713Z",
+      "downloads": 2615,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VihEIta3",
+          "hashes": {
+            "sha1": "86cf314655b50fa0b0d3d9de7e8f6c52e2bb5e41",
+            "sha512": "391e6a6379ca82b2b2c9105f98bbfcc67a0151ea6e586b551ba442f05c3c0d8736b2adfa98603f311a83b62e2c0ecf5538528e96cbbc3dc47856f4800c604deb"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/z57UcDuv/sodiumdynamiclights-neoforge-1.0.2-1.21.1.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.2-1.21.1.jar",
+          "primary": true,
+          "size": 298325,
+          "file_type": null
+        },
+        {
+          "id": "zJMMClLY",
+          "hashes": {
+            "sha512": "88faaada6f6f599c2badd6181d9fc32deedb86c8989b50f6899a4e06c3a8ac1f28d7be6cb5a4c452eb55a49643559d3472a1bc9e090cbd7b421d57afe51d3e0b",
+            "sha1": "b17b57caa06969a3fde6a9f3e38aee40eeeb7d0f"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/z57UcDuv/sodiumdynamiclights-neoforge-1.0.2-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-neoforge-1.0.2-1.21.1-sources.jar",
+          "primary": false,
+          "size": 278519,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "67IEqds3",
+      "project_id": "PxQSWIcD",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumDynamicLights Fabric 1.0.2 for 1.21.1",
+      "version_number": "1.0.2",
+      "changelog": "## Changelog\r\n- Initial release",
+      "changelog_url": null,
+      "date_published": "2024-09-07T18:05:20.718195Z",
+      "downloads": 20840,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lZE5s6wO",
+          "hashes": {
+            "sha512": "8738f92922bfa86a06bd65fb7727771b548dbb5fc0a95aeb1eb6dfcc977dea89bcea4e1944a0654c93246894a1609a1b7bf7aaec3877797dfc921ecce1bfd190",
+            "sha1": "462864be63b5ce462133c57dbadc97f4b4e4604f"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/67IEqds3/sodiumdynamiclights-fabric-1.0.2-1.21.1.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.2-1.21.1.jar",
+          "primary": true,
+          "size": 896173,
+          "file_type": null
+        },
+        {
+          "id": "64DU9Zfe",
+          "hashes": {
+            "sha512": "2389ff122886e6a7b7f4021af87e5c82946b63493a90c65f86c7e7e92197908275b29a188072ed7734668d04c9ee8d856c090672ea62f6a67ea03d08d3cb28e9",
+            "sha1": "f8454986802d8d57426f00a3e2b2171db4d59daf"
+          },
+          "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/67IEqds3/sodiumdynamiclights-fabric-1.0.2-1.21.1-sources.jar",
+          "filename": "sodiumdynamiclights-fabric-1.0.2-1.21.1-sources.jar",
+          "primary": false,
+          "size": 278114,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

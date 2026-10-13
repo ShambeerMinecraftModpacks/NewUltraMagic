@@ -1,0 +1,2777 @@
+{
+  "url": "https://api.modrinth.com/v2/project/fM515JnW/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:47.211056+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "UvvzuMJN",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.10",
+      "version_number": "6.3.10",
+      "changelog": "* Added grass variants of biomeswevegone and regionsunexplored\n* Added support for other water types\n* Removed forest sounds from vampire forest\n",
+      "changelog_url": null,
+      "date_published": "2026-10-08T14:31:31.314362Z",
+      "downloads": 18771,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pYRVeEOY",
+          "hashes": {
+            "sha1": "02c9c790ab84ec8e0d1dc3173e134564362d5b7e",
+            "sha512": "b8979ba7b03a73b54cd63eb65fa15dc3845dce5749c85dc536a0c16a3e809166486244cb107504a0cae5303ef17a2f41c36aec289891a0baeb59d0ca59b616e7"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/UvvzuMJN/AmbientSounds_FABRIC_v6.3.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.10_mc1.21.1.jar",
+          "primary": true,
+          "size": 84823727,
+          "file_type": null
+        },
+        {
+          "id": "S40Yonv1",
+          "hashes": {
+            "sha1": "d0e74107ee0d0a6378d6a6767eeba0f4838160c0",
+            "sha512": "d5d658564337d3a8646f5af241066cfb8b4498de20d918605cee65e1ab5cba78c06fb458f48c90fba2cadeb811601e0e36da891577fff821e68f65a68dca9496"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/UvvzuMJN/AmbientSounds_FABRIC_SOURCE_v6.3.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.10_mc1.21.1.jar",
+          "primary": false,
+          "size": 57779,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "P48d3fOf",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.10",
+      "version_number": "6.3.10",
+      "changelog": "* Added grass variants of biomeswevegone and regionsunexplored\n* Added support for other water types\n* Removed forest sounds from vampire forest\n",
+      "changelog_url": null,
+      "date_published": "2026-10-08T14:29:21.434558Z",
+      "downloads": 30555,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DyjbC8H4",
+          "hashes": {
+            "sha512": "4cc8e10a28f346cd4d08831a95f0225473f1377777cbc490300315d99a8cdb35f42135c388d5d041c633e354fc1bba985c59f6ac4a52cb9c2f947f904090cdd9",
+            "sha1": "aaf9b0a6e193aef8e0c57a25211a6ef02da1602e"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/P48d3fOf/AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.jar",
+          "primary": true,
+          "size": 84814817,
+          "file_type": null
+        },
+        {
+          "id": "L5yJiPQ4",
+          "hashes": {
+            "sha1": "5c8ab84431bccf3945e778783ebbcf0c701e3a0b",
+            "sha512": "5c2c53b02db84ac0ead42625e7bdb7da080618a92b8e5da8a55866d00cdf14c01cf4b68ba37b2a02b01553051c091f28bc3f4b1f1239887de741ffe1c7999b38"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/P48d3fOf/AmbientSounds_NEOFORGE_SOURCE_v6.3.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.10_mc1.21.1.jar",
+          "primary": false,
+          "size": 57779,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ndMpnJJz",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.9",
+      "version_number": "6.3.9",
+      "changelog": "* Close air pocket scanner as soon as a new level is loaded\n* Cache biome regex matches and bound the terrain height scan (Thanks to BonsUnleashed)\n* Compile dimension name patterns once instead of on every tick (Thanks to BonsUnleashed)\n",
+      "changelog_url": null,
+      "date_published": "2026-10-02T12:19:11.616477Z",
+      "downloads": 15206,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yKmBLjmT",
+          "hashes": {
+            "sha512": "c726984ca0529dae218ab3f8b207a2299a97aba291d9a6f702c3677f8a35001ce59f466648c94c82b00fa9ec1732362546bb1ab67d0e5636a5e9a8317a3d5b1e",
+            "sha1": "d0b63397730d6ec2879fe6fd533c252cd920662f"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ndMpnJJz/AmbientSounds_FABRIC_v6.3.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.9_mc1.21.1.jar",
+          "primary": true,
+          "size": 84823072,
+          "file_type": null
+        },
+        {
+          "id": "36Wkh7UU",
+          "hashes": {
+            "sha512": "c0680306f326e8270a990a6c2c45b6624a46ccc852cb1e3b4717f0ff14994ad55bf027b108b02817bf636d335d36d49e3a7c8fdf872950195172b577020e1900",
+            "sha1": "99d29c7e58fdff0dd9c24a1ae3cfee6a4a286ebd"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ndMpnJJz/AmbientSounds_FABRIC_SOURCE_v6.3.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.9_mc1.21.1.jar",
+          "primary": false,
+          "size": 57535,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Q7ssSC2X",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.9",
+      "version_number": "6.3.9",
+      "changelog": "* Close air pocket scanner as soon as a new level is loaded\n* Cache biome regex matches and bound the terrain height scan (Thanks to BonsUnleashed)\n* Compile dimension name patterns once instead of on every tick (Thanks to BonsUnleashed)\n",
+      "changelog_url": null,
+      "date_published": "2026-10-02T12:17:10.609176Z",
+      "downloads": 32701,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oOWswJEI",
+          "hashes": {
+            "sha1": "9f42a0237e94d549771161c9cea2ec827709e72f",
+            "sha512": "7e9dc419e407d5722c884491a67d2239dd05b9dcbeb4e365384b7cc7d9a6a1fb2d13759a2a47e598ac944a621e289f24a560d9ecab1041e9316c112cf9fd66ef"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Q7ssSC2X/AmbientSounds_NEOFORGE_v6.3.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.9_mc1.21.1.jar",
+          "primary": true,
+          "size": 84814209,
+          "file_type": null
+        },
+        {
+          "id": "BmXr3Wlr",
+          "hashes": {
+            "sha512": "c42cdd09518e80f9d85ae1c31caace2cd34fda63ff878c8bd2cc95ff68c9b3419c9ddc57d637c4b6db1b8fee32b1eda92729869e53d0e6267e08734be4294c43",
+            "sha1": "b637e6b236dacc47dc6605f4a93b4ec267b164e8"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Q7ssSC2X/AmbientSounds_NEOFORGE_SOURCE_v6.3.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.9_mc1.21.1.jar",
+          "primary": false,
+          "size": 57535,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "RZyxhsqY",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.8",
+      "version_number": "6.3.8",
+      "changelog": "* Added sound category suspense\n",
+      "changelog_url": null,
+      "date_published": "2026-05-05T12:28:03.067983Z",
+      "downloads": 693051,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "L4QHjiYP",
+          "hashes": {
+            "sha1": "c79ab328b2c46068effebdcb3f26e98dc4404cb0",
+            "sha512": "292a7a61836eb6db31ec225ae4a0dc838416638618635ff60c07740bdc327df44ac0be7788c0ed44912935eb4d85b987fb6c594d11e4604f2d24fa21eabc672a"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/RZyxhsqY/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+          "primary": true,
+          "size": 84811632,
+          "file_type": null
+        },
+        {
+          "id": "yncDl9dm",
+          "hashes": {
+            "sha512": "270d22462cf73029c435eb406c8dea4a0432809739c1503add08ddf1817d5fc8c4c6eed07f6d0f59f0072b886f671d2ceef261dc7a70e5aad9972282e38fdb00",
+            "sha1": "05d179a8ed9cb493b83b72fe8c1cb953126337ea"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/RZyxhsqY/AmbientSounds_NEOFORGE_SOURCE_v6.3.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.8_mc1.21.1.jar",
+          "primary": false,
+          "size": 55802,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "wU311vqz",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.8",
+      "version_number": "6.3.8",
+      "changelog": "* Added sound category suspense\n",
+      "changelog_url": null,
+      "date_published": "2026-05-05T12:25:45.078611Z",
+      "downloads": 408038,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Nn8yKZ4J",
+          "hashes": {
+            "sha512": "d918b7e973be2d3b53cd30d12e02e9f6252e20441ae6694927b050d1b59741946d0f9e48ff558d5a5fc8ab3b454da6305d20ee437ae0378b8367485e90f79f3a",
+            "sha1": "dc7248864901411ec5289d945133c94d8c0e8f64"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/wU311vqz/AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar",
+          "primary": true,
+          "size": 84820510,
+          "file_type": null
+        },
+        {
+          "id": "nVYLdXjM",
+          "hashes": {
+            "sha1": "148e8f2b86aa780263503c0ea0457e45c8d460e6",
+            "sha512": "f77666a1a57ba60b9c5d643c5698806930b7e1002118138c4edec1a7ed78726e4262bcf8b55c59dc48bb3fc3047369b2fb258df384184cf8e57cf7b84c0509a3"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/wU311vqz/AmbientSounds_FABRIC_SOURCE_v6.3.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.8_mc1.21.1.jar",
+          "primary": false,
+          "size": 55802,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "TtdB6dJZ",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.7",
+      "version_number": "6.3.7",
+      "changelog": "* Fixed executing reloader manager off thread\n",
+      "changelog_url": null,
+      "date_published": "2026-04-28T11:31:51.568380Z",
+      "downloads": 50106,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7c4t8VvS",
+          "hashes": {
+            "sha512": "36ac957b2742453bfd382d9634a37f96fafd74b79398a585b25bde24ccd5604f74e23d606e2d5ba3fda0bb2e26f7466bc271c5e5e03fa7efdddd082b27cce6a2",
+            "sha1": "aeb8c151f30ea96a660c96366fe9c2972adaeb1b"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/TtdB6dJZ/AmbientSounds_NEOFORGE_v6.3.7_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.7_mc1.21.1.jar",
+          "primary": true,
+          "size": 84811434,
+          "file_type": null
+        },
+        {
+          "id": "MCWFR5sO",
+          "hashes": {
+            "sha1": "c46d7d3153eaafa05d85eae17c31d61ce04cbef1",
+            "sha512": "cb7fa11610189a2cf2a124e05abf9d78c49c8bdc6eeb550100f8ae3040527c7519eaeb6f75baeb72fff8c26ed2ec6523d230a1ee2b54221a64d4b15ae2707f9e"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/TtdB6dJZ/AmbientSounds_NEOFORGE_SOURCE_v6.3.7_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.7_mc1.21.1.jar",
+          "primary": false,
+          "size": 55802,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "iH2oRiCa",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.6",
+      "version_number": "6.3.6",
+      "changelog": "* Make savanna cicadas and cricket depend on sand or grass being around\n* Renamed light-wind3 to heavy-wind2 (suggested by Catomon)\n* Fixed playing cold (light-wind) in caves\n* Fixed possible crash when reloading\n* Fixed issue reported by ModernFix of registering reloader resource manager too late\n",
+      "changelog_url": null,
+      "date_published": "2026-04-24T09:26:54.687253Z",
+      "downloads": 51788,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gNy6RiL3",
+          "hashes": {
+            "sha512": "d89280fcba01340d8c237807a25b8856faea0702dfad7d8ec06d2520456800b1825a1165110d204ef7d5843e04b8f12e2f07d2469fb6960bf60e739075b5fa7b",
+            "sha1": "9568c927d58959bdf13f6c37906c92b473a58062"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/iH2oRiCa/AmbientSounds_FABRIC_v6.3.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.6_mc1.21.1.jar",
+          "primary": true,
+          "size": 84820291,
+          "file_type": null
+        },
+        {
+          "id": "1vxuVI4K",
+          "hashes": {
+            "sha1": "81c004b153d1db8cebb2a281f726846dc7305f42",
+            "sha512": "e0f2e881234cee65c3c075b150e33d5572af5a8469ec1563fd452e7f87196a205858209765aebb1b1b953a6fd28790c539c5872e2264faa5333cbc9263d58583"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/iH2oRiCa/AmbientSounds_FABRIC_SOURCE_v6.3.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.6_mc1.21.1.jar",
+          "primary": false,
+          "size": 55796,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "wY49aAsW",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.6",
+      "version_number": "6.3.6",
+      "changelog": "* Make savanna cicadas and cricket depend on sand or grass being around\n* Renamed light-wind3 to heavy-wind2 (suggested by Catomon)\n* Fixed playing cold (light-wind) in caves\n* Fixed possible crash when reloading\n* Fixed issue reported by ModernFix of registering reloader resource manager too late\n",
+      "changelog_url": null,
+      "date_published": "2026-04-24T09:23:50.129955Z",
+      "downloads": 21644,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Igz8OzNJ",
+          "hashes": {
+            "sha512": "e8d105f490e1c3219ea72ed545508c94543360c9a677f37050a8b0bcf11c7746788407ba2d4453aab80a4e217a4d19eacf9399cca9530feaf2155976280a0123",
+            "sha1": "5b87943eae44057bc2f276e4d7024bf1ff29db2d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/wY49aAsW/AmbientSounds_NEOFORGE_v6.3.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.6_mc1.21.1.jar",
+          "primary": true,
+          "size": 84811430,
+          "file_type": null
+        },
+        {
+          "id": "nl89Y0UC",
+          "hashes": {
+            "sha512": "e44c5fa86604ede72ea4bb422d2db8f5be83e6684895c9f1c019e8e326628323922cf7a4300a4a6fe83ac505b65de8aa378dc4e3de6718df3bb9355f3c65be71",
+            "sha1": "9c77832cb614dbaf4ce03c7d7be3c00ded39deaa"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/wY49aAsW/AmbientSounds_NEOFORGE_SOURCE_v6.3.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.6_mc1.21.1.jar",
+          "primary": false,
+          "size": 55796,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "D31kF2Wq",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.5",
+      "version_number": "6.3.5",
+      "changelog": "* Added contact information to fabric.mod.json\n",
+      "changelog_url": null,
+      "date_published": "2026-02-11T19:33:27.397883Z",
+      "downloads": 177022,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WzoVVyCb",
+          "hashes": {
+            "sha512": "0c1a9d54d335e878a0b30a74f9b0b9dd27aa956cf31aad26a7758e6d4e9a507a040ae15cb2d984e88918278326b6c11e66669cd81f06b6b861a4cd91055973df",
+            "sha1": "03671b76d1237e5f1ce2d810e29299fe5183b17a"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/D31kF2Wq/AmbientSounds_FABRIC_v6.3.5_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.5_mc1.21.1.jar",
+          "primary": true,
+          "size": 84820113,
+          "file_type": null
+        },
+        {
+          "id": "72fE3Gfp",
+          "hashes": {
+            "sha512": "69410ce7436c6c1657d4a73dea552fd9b5bd986028ddd1e18944f13d128b9799eda749b574c97acd1b3d2a2ce91511eb8cc5a60bbc9e6d1d3dc5351a2be01283",
+            "sha1": "1513c9a48810288461f53fab56e161a6a8448e88"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/D31kF2Wq/AmbientSounds_FABRIC_SOURCE_v6.3.5_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.5_mc1.21.1.jar",
+          "primary": false,
+          "size": 55728,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ZNs2dkwo",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.3",
+      "version_number": "6.3.3",
+      "changelog": "* Added pale garden ambience\n",
+      "changelog_url": null,
+      "date_published": "2026-01-09T09:24:13.815462Z",
+      "downloads": 82363,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zWXi9AQy",
+          "hashes": {
+            "sha512": "68c4e8eae2d714711fe3e1042659a1a8eea2ef48654a376cccbc29debc0d5fd07ace7b5b5d9cbf8656180686072151e6041b71d3846ec2dd655cee1d751d7dfe",
+            "sha1": "4004939ba14a386a3c0dc540a1dfa46d1a35ea58"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ZNs2dkwo/AmbientSounds_FABRIC_v6.3.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.3_mc1.21.1.jar",
+          "primary": true,
+          "size": 84820039,
+          "file_type": null
+        },
+        {
+          "id": "7LI0ffoA",
+          "hashes": {
+            "sha1": "79eb994befd8d6457837686b48de0efa0ec818bb",
+            "sha512": "3de6c9d55ce94fb3d07f6c8e1e042d995089357c1383bcc54a9723eb2dd63ae0834f5278d1eab78b266ddba84817383de4caa2021d5f86f6e3a65d26e6a512dc"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ZNs2dkwo/AmbientSounds_FABRIC_SOURCE_v6.3.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.3_mc1.21.1.jar",
+          "primary": false,
+          "size": 55661,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "6gGI0nu8",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.3",
+      "version_number": "6.3.3",
+      "changelog": "* Added pale garden ambience\n",
+      "changelog_url": null,
+      "date_published": "2026-01-09T09:21:43.788778Z",
+      "downloads": 302567,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "k2xtMEL6",
+          "hashes": {
+            "sha1": "3d88e0e8d987706edf645b2e1617612d3e666358",
+            "sha512": "448306a24be61f250e6c277e21253153786148bdf5e1983b3a732f4e592108a7250b4dc6efe65db03dd3aa73724b454bfe5aeee3f28c4a23e4d6468d0035799d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/6gGI0nu8/AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar",
+          "primary": true,
+          "size": 84811178,
+          "file_type": null
+        },
+        {
+          "id": "eWB31U9s",
+          "hashes": {
+            "sha512": "7eeff1338527e02553527c300a2a0973788ce7ef44ba1d8a5243934d378f5afc6a0b8ce1b08ca63da8a504dfe6711b7df7e9b4b25d8735812c51ec15463010d8",
+            "sha1": "ee343473e60f00261c1c6669038a57e834a7aa78"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/6gGI0nu8/AmbientSounds_NEOFORGE_SOURCE_v6.3.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.3_mc1.21.1.jar",
+          "primary": false,
+          "size": 55661,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ybXRUW4r",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.1",
+      "version_number": "6.3.1",
+      "changelog": "* Added slabs to considered solid list\n",
+      "changelog_url": null,
+      "date_published": "2025-11-15T22:56:55.505707Z",
+      "downloads": 221760,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YWbUEHDY",
+          "hashes": {
+            "sha1": "bfd9c4e3da734283331c0f3a7720f27525904a3d",
+            "sha512": "11cc959f768506329c8938e95f4a0086c4a00cff82852e09c72f60d0938a91beba53499ec4c1cf11abc07f8b853bcb4ff8f87268b67b274fc6972f9abf9a0b92"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ybXRUW4r/AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar",
+          "primary": true,
+          "size": 83840684,
+          "file_type": null
+        },
+        {
+          "id": "aG9uKMQx",
+          "hashes": {
+            "sha1": "d0388cc719029a4b325b11f18a826c1c9158d023",
+            "sha512": "5d135418672e414295c50cfcc81d3dd8c5cb5fd60a98e3090344388b67fd14519cb2145f0db745170588375c6f17a632449e3ec8123f4a2dbdeba539b948afa9"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ybXRUW4r/AmbientSounds_FABRIC_SOURCE_v6.3.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.1_mc1.21.1.jar",
+          "primary": false,
+          "size": 55660,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Tn6XoNdJ",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.1",
+      "version_number": "6.3.1",
+      "changelog": "* Added slabs to considered solid list\n",
+      "changelog_url": null,
+      "date_published": "2025-11-15T22:54:22.918935Z",
+      "downloads": 163787,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YfPQwsam",
+          "hashes": {
+            "sha1": "10e4fbb2da01933b226be9859898d24418c10ff7",
+            "sha512": "4024b0a5096da31a9c21260e53f1c82bac5d05e65e37170308d7cd90e9af3a239ea1bbeaba515d9cac15d1e4ae9b54ad10188b00c3bbee2a680dc89a01395ef9"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Tn6XoNdJ/AmbientSounds_NEOFORGE_v6.3.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.1_mc1.21.1.jar",
+          "primary": true,
+          "size": 83831856,
+          "file_type": null
+        },
+        {
+          "id": "IuLezGgj",
+          "hashes": {
+            "sha512": "2225e6ec7f4a902e26c86119a9a84284c3c4695520c0fb6901949455017304429b66234016faebf044b926e6fd7f1bd8ac0dccc67c7d564e2f4df15c5c007e05",
+            "sha1": "3e2f5987af11eb86ee6349a488d82a7b3d2bee4d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Tn6XoNdJ/AmbientSounds_NEOFORGE_SOURCE_v6.3.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.1_mc1.21.1.jar",
+          "primary": false,
+          "size": 55660,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "uRBpVWUT",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.0",
+      "version_number": "6.3.0",
+      "changelog": "* Fixed light only considering block light\n* Added blockLight condition\n* Added sky condition\n* Added better air and sky calculations\n* Made cave sounds not play when the player is not underground\n* Made cave sounds depend on sky light\n",
+      "changelog_url": null,
+      "date_published": "2025-11-11T15:34:42.400580Z",
+      "downloads": 8447,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9P31NI5q",
+          "hashes": {
+            "sha1": "702fe6c55a64bdd5da2c909e7221c3347982856d",
+            "sha512": "e2c5dcdfc8c3a83a44d4533e05588c621fb76d8eef135c474288f116a9b95d1578ebcdfd21763d00e819dc6422ede9cbe62043fa86dba99a4e6200a311136499"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/uRBpVWUT/AmbientSounds_FABRIC_v6.3.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.3.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 83840678,
+          "file_type": null
+        },
+        {
+          "id": "LuRspvhd",
+          "hashes": {
+            "sha512": "bb1382cb3d3ef0d1c4cc229cc72cd4d89001f871bd1799996cc18b079e538ff7e15e0c7adec74a0ceda6f3516fdd07ab2822186c1dc127950bb9fd34f53038c3",
+            "sha1": "f523a9b40b550133e87b54a232c7f7c9e6847aa9"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/uRBpVWUT/AmbientSounds_FABRIC_SOURCE_v6.3.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.3.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 55659,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "4Kbw9KmE",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.3.0",
+      "version_number": "6.3.0",
+      "changelog": "* Fixed light only considering block light\n* Added blockLight condition\n* Added sky condition\n* Added better air and sky calculations\n* Made cave sounds not play when the player is not underground\n* Made cave sounds depend on sky light\n",
+      "changelog_url": null,
+      "date_published": "2025-11-11T15:30:52.826899Z",
+      "downloads": 10007,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6px33s4p",
+          "hashes": {
+            "sha512": "e483ec112f168a2bb6d8122f923b4aa35287702ae75f78718590a1f28f06c58c8089d4e46c6131e958279659234499860c4f431f334651fef82f63b08d0d2c80",
+            "sha1": "d20f1581d3d42c33896a09a33adaa4284fb58d2a"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/4Kbw9KmE/AmbientSounds_NEOFORGE_v6.3.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.3.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 83831850,
+          "file_type": null
+        },
+        {
+          "id": "EV4ftI8y",
+          "hashes": {
+            "sha1": "7947e759d7cff5768e2e0b0b26ea5fbc4b59cc84",
+            "sha512": "8c83fabe0ef2fb5be3ca5ed6b81375f98ab60b3e73ec1517eaccd6b9e79347814677f9a3059d7f951ad8c4b7bbd94c7e92658fedd632a931079ccebaaef0c511"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/4Kbw9KmE/AmbientSounds_NEOFORGE_SOURCE_v6.3.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 55660,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "WXSP4wh5",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.3",
+      "version_number": "6.2.3",
+      "changelog": "* Made owl sound play more often\n* Fixed light-wind3 not playing correctly\n* Added lush_stacks from biomeswevegone to highlands\n",
+      "changelog_url": null,
+      "date_published": "2025-11-11T13:22:17.785125Z",
+      "downloads": 433,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qahYJUvX",
+          "hashes": {
+            "sha512": "53e23546bfa6b0d5fecd9d8c4786dfac42697e6002cdcc1eac247837b3913bd377285c108279c3efee7c0d818c3ee6a547149b20e44a2ef3039036a8e18f2248",
+            "sha1": "d5a5f0816ad465d5fdbdab2bdb8d888651410f65"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/WXSP4wh5/AmbientSounds_FABRIC_v6.2.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.2.3_mc1.21.1.jar",
+          "primary": true,
+          "size": 83839756,
+          "file_type": null
+        },
+        {
+          "id": "kcpvZX9f",
+          "hashes": {
+            "sha512": "d896a067cca999f13d0c03820adc636caec0c5a85e1996371b7b89e664049ec0f9ff9457dbfa14a3316a33964bbc3fd96e312caa71f4abf696e1f6e6763421e0",
+            "sha1": "e56b06472080f2b1cf84ac104cd096f1c9e1ad08"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/WXSP4wh5/AmbientSounds_FABRIC_SOURCE_v6.2.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.2.3_mc1.21.1.jar",
+          "primary": false,
+          "size": 55291,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "ZYPkiLYq",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.3",
+      "version_number": "6.2.3",
+      "changelog": "* Made owl sound play more often\n* Fixed light-wind3 not playing correctly\n* Added lush_stacks from biomeswevegone to highlands\n",
+      "changelog_url": null,
+      "date_published": "2025-11-11T13:19:53.399011Z",
+      "downloads": 372,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ecd9YhKA",
+          "hashes": {
+            "sha512": "8cc3046c820a79ca0b7e537a1dc245f0824576f7b8e80e2ba091a2f0de2a4941d405b0d7e52a86fa82721301a4e15214ec0aad2f783f328ce02883a561a286ef",
+            "sha1": "b4e0355323e41c967cd35bed8035775be2b34f1d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ZYPkiLYq/AmbientSounds_NEOFORGE_v6.2.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.2.3_mc1.21.1.jar",
+          "primary": true,
+          "size": 83830938,
+          "file_type": null
+        },
+        {
+          "id": "3HPGYSN8",
+          "hashes": {
+            "sha512": "cfb479dc28719341a44517b7056b61996a8a88964a1a61d9c770ee2eb525ecae7198cc58f04e3422b738255fa65824e8672a3324ae8dd30690eec4d8540e3d1b",
+            "sha1": "ba0ab7fe19689d430038a1ad9a6f92f71e00a45f"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ZYPkiLYq/AmbientSounds_NEOFORGE_SOURCE_v6.2.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.2.3_mc1.21.1.jar",
+          "primary": false,
+          "size": 55290,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "1OZ1N3BO",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.2",
+      "version_number": "6.2.2",
+      "changelog": "* Fixed applying volume setting twice which caused some sounds to be silent\n",
+      "changelog_url": null,
+      "date_published": "2025-10-24T14:53:38.933640Z",
+      "downloads": 35687,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AfGOKIIs",
+          "hashes": {
+            "sha512": "2a4d410842e1b95e793a8b40e7a1538e7cfef1562e75a02c6756373c012b5068b5c69122c51788fb6ad1ae179c23e75e3f6d4ff9bf86a2503dfc6c65c3e51ed6",
+            "sha1": "6a3b6a002a2eb51ecdcfe8c4dcd609c3d1df16c1"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/1OZ1N3BO/AmbientSounds_FABRIC_v6.2.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.2.2_mc1.21.1.jar",
+          "primary": true,
+          "size": 83839744,
+          "file_type": null
+        },
+        {
+          "id": "93H105Rf",
+          "hashes": {
+            "sha1": "0769e31fe6d93b60c3a5daff31d05a6b231ac666",
+            "sha512": "bdfbb9400424634605654a444111121a0a80b26ac36f09b8f4eb236106c9292f587dfbb538da5fd9210911648e31542cdc844afe00fbdeaa2656e373dcc908c7"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/1OZ1N3BO/AmbientSounds_FABRIC_SOURCE_v6.2.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.2.2_mc1.21.1.jar",
+          "primary": false,
+          "size": 55290,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Ug37e5vA",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.2",
+      "version_number": "6.2.2",
+      "changelog": "* Fixed applying volume setting twice which caused some sounds to be silent\n",
+      "changelog_url": null,
+      "date_published": "2025-10-24T14:51:38.578821Z",
+      "downloads": 33970,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HA4KK9I0",
+          "hashes": {
+            "sha1": "acb4c34a2b8a38dedb7bead8866db2da44d9aa63",
+            "sha512": "c122e71cb82be4fcbbd01a3639da41e443011fa5a77a9b13be603949779a1636f7e102121d8ab0dc532394131d0817aa2a484cac6b6cb1e7853693f99c884fda"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Ug37e5vA/AmbientSounds_NEOFORGE_v6.2.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.2.2_mc1.21.1.jar",
+          "primary": true,
+          "size": 83830927,
+          "file_type": null
+        },
+        {
+          "id": "gjEGKrQU",
+          "hashes": {
+            "sha1": "f0402962605ee0f4673b6e546214b64cfb3a723e",
+            "sha512": "05709ba14efb6f049a85df9e43ebe7a6f5278fd282804577e63487a2306b7367c2c718c90621288df5bae3b77c5846072c93d9e65c406650bcfffd87e536d1c1"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Ug37e5vA/AmbientSounds_NEOFORGE_SOURCE_v6.2.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.2.2_mc1.21.1.jar",
+          "primary": false,
+          "size": 55291,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "WTEVJRcH",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.1",
+      "version_number": "6.2.1",
+      "changelog": "* Added performance improvement for biome tags check\n* Fixed sound after transition playing with full volume for a split second (this bug has occurred in the past and got fixed, but due to the recent changes it reappeared)\n",
+      "changelog_url": null,
+      "date_published": "2025-09-09T08:59:08.106333Z",
+      "downloads": 124668,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "e8NzGBWa",
+          "hashes": {
+            "sha512": "8e9051fd9654e6ed8d2c01fe3940aa6f6eaa2d243030958fe9bed65f60d4529d25de4d0259f9a02a2b4852be4d6cdcbe1418b893abb338f9cfaf586d898f7eb1",
+            "sha1": "699e64564f080408c6dedfb555ddcb85070e97d4"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/WTEVJRcH/AmbientSounds_FABRIC_v6.2.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.2.1_mc1.21.1.jar",
+          "primary": true,
+          "size": 83839763,
+          "file_type": null
+        },
+        {
+          "id": "OjuOiO6W",
+          "hashes": {
+            "sha1": "42f2de09a5baf8c702d9c26611df41cb7947ee54",
+            "sha512": "09d1dedc56abffe322efe9803580d2bcb1c6e7d1fa3c95c33567691c5038a12a18b545da9fbbc1416942a67795cca468482ede36e0e0e17784622934d8b7673b"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/WTEVJRcH/AmbientSounds_FABRIC_SOURCE_v6.2.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.2.1_mc1.21.1.jar",
+          "primary": false,
+          "size": 55299,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "hkhyPcir",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.1",
+      "version_number": "6.2.1",
+      "changelog": "* Added performance improvement for biome tags check\n* Fixed sound after transition playing with full volume for a split second (this bug has occurred in the past and got fixed, but due to the recent changes it reappeared)\n",
+      "changelog_url": null,
+      "date_published": "2025-09-09T08:56:37.073298Z",
+      "downloads": 64780,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WjauJDGs",
+          "hashes": {
+            "sha1": "1eb9b04957160dce3b0240c55d8c27cc3dc3fc26",
+            "sha512": "256698c7be1af782adb28bdc580894c6189dc54fb9c01e7a9b46bb393484fd7feac0a3d53d8419d808a3e9d25da8fcf7ca30ad7fbcb2e31398d3ef33ddff17f0"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/hkhyPcir/AmbientSounds_NEOFORGE_v6.2.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.2.1_mc1.21.1.jar",
+          "primary": true,
+          "size": 83830944,
+          "file_type": null
+        },
+        {
+          "id": "CivuawNp",
+          "hashes": {
+            "sha512": "06b28aec37e4d2812abe19f44102ea47c97f089d8074cbb412c20c5b401dba11103dca5d861727e734873de3f375305ab1fc1dabe1dc5921ccd71e389652f7c9",
+            "sha1": "66ecae411d8ae3f15a2668fb908a58af50cde41c"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/hkhyPcir/AmbientSounds_NEOFORGE_SOURCE_v6.2.1_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.2.1_mc1.21.1.jar",
+          "primary": false,
+          "size": 55299,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "D0eeePwc",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.0",
+      "version_number": "6.2.0",
+      "changelog": "* Added drylands to the desert biome list\n* Fixed desert region required water to played\n* Fixed random crash occuring from time to time (caused by random generator not being available on different threads)\n* Fixed unwanted volume jumps by separating condition and output volume\n* Fixed bird-ambience2.ogg (thanks to HowardCLH)\n",
+      "changelog_url": null,
+      "date_published": "2025-08-07T14:28:01.761295Z",
+      "downloads": 48877,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zVb18YeQ",
+          "hashes": {
+            "sha1": "7cb1ab79f6bc1520f54ce54648561aa32188f4d3",
+            "sha512": "9d45926d8cee52d0f7c2f59ff64fb2253a9759a9fb32109685a6db0c11a5f012276f9ed5f3edbe2a42253862c7c71073d889c756b04f52847f5f7bf06d0a666d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/D0eeePwc/AmbientSounds_FABRIC_v6.2.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.2.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 83838348,
+          "file_type": null
+        },
+        {
+          "id": "63nJ3MGo",
+          "hashes": {
+            "sha512": "83cad2725e35678ce747984289f8d3232b3a7dfd8764d4ed950542536c259831b5fb996f2aca39adc14f7f3cc6a3b2448a6abf08b3ef6e8a9003ca3c4c050d75",
+            "sha1": "1d4cef3b2d8bfd3330e10d5f57e7c74e5be36c86"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/D0eeePwc/AmbientSounds_FABRIC_SOURCE_v6.2.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.2.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 54761,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "VSyDqL3K",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.2.0",
+      "version_number": "6.2.0",
+      "changelog": "* Added drylands to the desert biome list\n* Fixed desert region required water to played\n* Fixed random crash occuring from time to time (caused by random generator not being available on different threads)\n* Fixed unwanted volume jumps by separating condition and output volume\n* Fixed bird-ambience2.ogg (thanks to HowardCLH)\n",
+      "changelog_url": null,
+      "date_published": "2025-08-07T14:23:56.100567Z",
+      "downloads": 52245,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "92KJIrdd",
+          "hashes": {
+            "sha512": "6a7938b2c356bd0ced86755fac48e1d573eafa98e6a1cb808636b83d974db32eabddd2c92f00189f0e8e73edbb2586075e2819bb3214ca752da79452f28c73fc",
+            "sha1": "8205f3330831bbcb0a6233d2fc6b09f3b8ce56f5"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/VSyDqL3K/AmbientSounds_NEOFORGE_v6.2.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.2.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 83829553,
+          "file_type": null
+        },
+        {
+          "id": "hpj19VvO",
+          "hashes": {
+            "sha1": "3c7ce40637267e4ec3864713c62e1f76240aed53",
+            "sha512": "28c9ac10f3c90f85923942524022a55943005b184c75342a3b2e30593785a2ced2529e3b715162316d58e619ad48a00928fac83fd0c4d7ccbad8ea13ad874b0c"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/VSyDqL3K/AmbientSounds_NEOFORGE_SOURCE_v6.2.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.2.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 54761,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ZdBRTJ6T",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.12",
+      "version_number": "6.1.12",
+      "changelog": "* Reverted Compressed ogg audios to ~160 kbps VBR\n",
+      "changelog_url": null,
+      "date_published": "2025-06-24T12:54:37.160201Z",
+      "downloads": 86452,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bw1nfiZY",
+          "hashes": {
+            "sha1": "e1e290aee647998c9b38fa1098f61dde62a9aa58",
+            "sha512": "d78f509fa432002087dd3315bb971a0d988a180583489483ab0b3de8168661fb223c4df33bf8210b81f241646aa5a42da7f211d69cb5abe0cf43f06950922fb2"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ZdBRTJ6T/AmbientSounds_FABRIC_v6.1.12_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.12_mc1.21.1.jar",
+          "primary": true,
+          "size": 83889016,
+          "file_type": null
+        },
+        {
+          "id": "tgh2E9xs",
+          "hashes": {
+            "sha512": "bf9ee266751412cdec91bab1f7f5e52452426e91193c3846f59c2ef385c2dd078d963077376b05765e4ee8641e7215805b5cb636df16d00b5837dcedea9734bb",
+            "sha1": "452852f59aef5f54d53f7f48cd87fa8b99ae8490"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ZdBRTJ6T/AmbientSounds_FABRIC_SOURCE_v6.1.12_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.12_mc1.21.1.jar",
+          "primary": false,
+          "size": 54502,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "YY79wyx3",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.12",
+      "version_number": "6.1.12",
+      "changelog": "* Reverted Compressed ogg audios to ~160 kbps VBR\n",
+      "changelog_url": null,
+      "date_published": "2025-06-24T12:51:23.027802Z",
+      "downloads": 110098,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1vf0jm2L",
+          "hashes": {
+            "sha512": "9af4fdae4d520924299baea52a56c2bb3ce6997d356ba7e74d5a48cf42ee6353583037fa3cbc36172c97cff806b321bbb8d9b8d4065465cfbf8d883b67c80340",
+            "sha1": "8a07e2f4fe44cd1560c254250412b12967c1ada6"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/YY79wyx3/AmbientSounds_NEOFORGE_v6.1.12_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.12_mc1.21.1.jar",
+          "primary": true,
+          "size": 83880223,
+          "file_type": null
+        },
+        {
+          "id": "nhn2VUQ1",
+          "hashes": {
+            "sha1": "5198a9f9582823bb9c543636e1cde1445d15ec04",
+            "sha512": "cee661b2778bbe10ffd0739765a7137828e4afd7585a0f6929642c1d99eaac228dee1418f42cee9a9ea9166f263ee8988120af238e1651169f56c497eee69576"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/YY79wyx3/AmbientSounds_NEOFORGE_SOURCE_v6.1.12_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.12_mc1.21.1.jar",
+          "primary": false,
+          "size": 54500,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "IHjEmzA1",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.11",
+      "version_number": "6.1.11",
+      "changelog": "* Fixed not playing sounds when using biomeswevegone (Thanks to MylesGit)\n* Fixed not playing anything in Terralith:Shield\n* Compressed ogg audios to ~160 kbps VBR (Thanks to MylesGit)\n",
+      "changelog_url": null,
+      "date_published": "2025-05-23T14:49:10.876333Z",
+      "downloads": 69745,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "weAs0kLF",
+          "hashes": {
+            "sha512": "eb66f7ba4cff5b33d2caf081fd03c819745a46fa695c5c57e8d5c371510fb0a56bcc854dff3777f0baaa724e66c257d801e60eb0cb884873c9cf34cbe1135b64",
+            "sha1": "5a01ffd24c60028d85893a365d9cb618437f9a5d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/IHjEmzA1/AmbientSounds_FABRIC_v6.1.11_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.11_mc1.21.1.jar",
+          "primary": true,
+          "size": 61703818,
+          "file_type": null
+        },
+        {
+          "id": "vqn7IZW4",
+          "hashes": {
+            "sha512": "98561b392f8b891f8f754691e84722efc681cae4387d7d48ef0b5040b4fbaaf82fe70c269519dc79f0002a650be82fb0c100e3dec4bd2c57eb2675ab53e1f2c3",
+            "sha1": "e4100e2ff62afbf9fc8ec0e107140ff87053135c"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/IHjEmzA1/AmbientSounds_FABRIC_SOURCE_v6.1.11_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.11_mc1.21.1.jar",
+          "primary": false,
+          "size": 54499,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "tzIvWYuv",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.11",
+      "version_number": "6.1.11",
+      "changelog": "* Fixed not playing sounds when using biomeswevegone (Thanks to MylesGit)\n* Fixed not playing anything in Terralith:Shield\n* Compressed ogg audios to ~160 kbps VBR (Thanks to MylesGit)\n",
+      "changelog_url": null,
+      "date_published": "2025-05-23T14:46:55.055209Z",
+      "downloads": 33483,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IvQp6iW5",
+          "hashes": {
+            "sha1": "c84495cf7bff34b54c504add54888b68a0972ab9",
+            "sha512": "cd69f9e66dfdad5adb16d628256c9dde8fd79f97fbdf2806f926c7b65bdce41d10509f3a327fa39a2b50f7f0515d9f900eeded705f13e6c4ac8833f1c2c37a8c"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/tzIvWYuv/AmbientSounds_NEOFORGE_v6.1.11_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.11_mc1.21.1.jar",
+          "primary": true,
+          "size": 61695220,
+          "file_type": null
+        },
+        {
+          "id": "Q26PIcUi",
+          "hashes": {
+            "sha512": "be1a32ba307039100c540cfa17f9b72245a08262e1aa1c58ea4d5b7835895ef47dc0178b6772707b831a0e0ce2da376f17546aa53f543cf1eeb4c4c56c1cfc4f",
+            "sha1": "feb8d64970cb95097129c24366dbb1d486fb88a4"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/tzIvWYuv/AmbientSounds_NEOFORGE_SOURCE_v6.1.11_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.11_mc1.21.1.jar",
+          "primary": false,
+          "size": 54501,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ehpyARWS",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.10",
+      "version_number": "6.1.10",
+      "changelog": "* Fixed wind sounds in caves\n",
+      "changelog_url": null,
+      "date_published": "2025-05-13T09:14:09.114699Z",
+      "downloads": 15464,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1DQpiyBc",
+          "hashes": {
+            "sha512": "8cc344fb1ac4964a1a83a40a6555af6fbd1f9f58fd0259445f75e225d6c26150370bc1fef691f02a65bb11d1acc7db1effd62cfb409a5d94cf111a8a81beb7d7",
+            "sha1": "70b714456d712ff983a6185202e089cc5bba2d54"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ehpyARWS/AmbientSounds_FABRIC_v6.1.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.10_mc1.21.1.jar",
+          "primary": true,
+          "size": 83888855,
+          "file_type": null
+        },
+        {
+          "id": "lbBaLFPc",
+          "hashes": {
+            "sha512": "ddfaf9ffd83edc8e29da6be1c9462dbe136903ef3a50bf61793e251ed5926beab8a3d3ea085e4b99cfb1465e0dd7ffa6e027b32ce989eca67b2267c5e1f45929",
+            "sha1": "6e13dcd32b1198165d896d90e525b7e99c557094"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ehpyARWS/AmbientSounds_FABRIC_SOURCE_v6.1.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.10_mc1.21.1.jar",
+          "primary": false,
+          "size": 54501,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "6GGE1nje",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.10",
+      "version_number": "6.1.10",
+      "changelog": "* Fixed wind sounds in caves\n",
+      "changelog_url": null,
+      "date_published": "2025-05-13T09:10:46.477681Z",
+      "downloads": 8649,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "e6ancJgy",
+          "hashes": {
+            "sha512": "b124d669b397cdd2128583fa7e5ff46ed01c0744ea38c213bc22534efb9ab66283f42c25ab6281434e1d4594af0d149da22a4b49d248a193a9678ab4de29bc07",
+            "sha1": "d98c1c4b7b8bc88b610ee94b54ef5e395438a532"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/6GGE1nje/AmbientSounds_NEOFORGE_v6.1.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.10_mc1.21.1.jar",
+          "primary": true,
+          "size": 83880061,
+          "file_type": null
+        },
+        {
+          "id": "f5515XII",
+          "hashes": {
+            "sha1": "d0f8accd7eac88d973a7e44137a297698f231bcd",
+            "sha512": "ea0714e88e49236f8f58e78643b22dd714d0511531d19922d779959a2951af4b179f0b52ebc96c66aaefe90e843a78ff722801870bd004c607d50c13c4f28d8d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/6GGE1nje/AmbientSounds_NEOFORGE_SOURCE_v6.1.10_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.10_mc1.21.1.jar",
+          "primary": false,
+          "size": 54500,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "od6ygWth",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.9",
+      "version_number": "6.1.9",
+      "changelog": "* Fixed not getting biome name in all cases\n",
+      "changelog_url": null,
+      "date_published": "2025-04-22T12:38:17.280762Z",
+      "downloads": 44401,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rjxnF9z3",
+          "hashes": {
+            "sha1": "db2818bf71cdacb7eda6553c8dfb098615eb00cd",
+            "sha512": "fb99100790c70d9ec333f4132b3888b67207dcd0957f5ac082db21f61c8a6c362e6b698f304777517b619cff3902be6dc969a9809869b8ea8e97c95bed13ed68"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/od6ygWth/AmbientSounds_FABRIC_v6.1.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.9_mc1.21.1.jar",
+          "primary": true,
+          "size": 83888841,
+          "file_type": null
+        },
+        {
+          "id": "CNfkeSjM",
+          "hashes": {
+            "sha512": "af609b0ded2fb83f1db1c4bd1f2ed22788ce8a9e77a1db349a56cddf4817f973fc36b4b10d5ab6fd3379b4118249bdcac0cfd31c89441dfac2d3c56475a2bb19",
+            "sha1": "3594c4d6543da5ae87bddc67d733fc21f64134e6"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/od6ygWth/AmbientSounds_FABRIC_SOURCE_v6.1.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.9_mc1.21.1.jar",
+          "primary": false,
+          "size": 54501,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "fRII56Yu",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.9",
+      "version_number": "6.1.9",
+      "changelog": "* Fixed not getting biome name in all cases\n",
+      "changelog_url": null,
+      "date_published": "2025-04-22T12:36:22.426894Z",
+      "downloads": 55539,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bopHN2ps",
+          "hashes": {
+            "sha1": "f2c0ba1476a1819727c6118b126cb242aacf7492",
+            "sha512": "14a926de2211e3bdc0431d0c5a7b1368671930b83c2877d370bd1af89bdb6152bda7c1bac5d90612c43084802bb55202fce14d3f75c93976706e5529baf39679"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/fRII56Yu/AmbientSounds_NEOFORGE_v6.1.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.9_mc1.21.1.jar",
+          "primary": true,
+          "size": 83880048,
+          "file_type": null
+        },
+        {
+          "id": "2S4svSVd",
+          "hashes": {
+            "sha512": "8fb7fee47c23b51247c5ad6a95ed205db154e31c40ab7a879e4497136ea4a0a6fe0162d9ebbb65834b461edf10ab92fc2af7a0e8fdf7885c1638162103598248",
+            "sha1": "41a972c109742e9ecf75d24e6ca53dc81da6b3d3"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/fRII56Yu/AmbientSounds_NEOFORGE_SOURCE_v6.1.9_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.9_mc1.21.1.jar",
+          "primary": false,
+          "size": 54501,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "tVXXWdjY",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.8",
+      "version_number": "6.1.8",
+      "changelog": "* Added pattern matching for silent dimension configuration\n* Made ocean feature require a lot more water (fixes whale sound in small rivers)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-08T22:05:58.147398Z",
+      "downloads": 21728,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ogcxjme5",
+          "hashes": {
+            "sha1": "6fbdb6ec7e4b474192eb0f9a04a9649571a03b77",
+            "sha512": "ade9908e1835e9c55190c30802b0b2cba5526dafe483f265da152fa76ec43c4c2be120682724f2578fb2765e39fe58417095be2fe55cd4b8ce2017a20aca7981"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/tVXXWdjY/AmbientSounds_FABRIC_v6.1.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.8_mc1.21.1.jar",
+          "primary": true,
+          "size": 83889065,
+          "file_type": null
+        },
+        {
+          "id": "ehMQMLfL",
+          "hashes": {
+            "sha512": "89cc8e7bf36f30e1daecb56e5a10d494fa3965aa7579417fd89ae50b57edcec616b0e2dcb0487d16d359de9227fb2c2996b6e07dac1a75aac7de54aceddd5d22",
+            "sha1": "9d206da6dd964f64ef0b3f0f645e2f421b0851c4"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/tVXXWdjY/AmbientSounds_FABRIC_SOURCE_v6.1.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.8_mc1.21.1.jar",
+          "primary": false,
+          "size": 54539,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "l7LYilEL",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.8",
+      "version_number": "6.1.8",
+      "changelog": "* Added pattern matching for silent dimension configuration\n* Made ocean feature require a lot more water (fixes whale sound in small rivers)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-08T22:04:09.929017Z",
+      "downloads": 31753,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JDa2aQcm",
+          "hashes": {
+            "sha1": "667659d21a938402a6c7457685b540bffb5b9475",
+            "sha512": "affdac846c89db68eeadddcf490a196806f6078705ebbacedd4c6c343a18a49884cea81d94172e772e895958d85e59b5166e4f8f6da9d32a8e9032e24c70d83d"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/l7LYilEL/AmbientSounds_NEOFORGE_v6.1.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.8_mc1.21.1.jar",
+          "primary": true,
+          "size": 83880194,
+          "file_type": null
+        },
+        {
+          "id": "o6kOClyJ",
+          "hashes": {
+            "sha1": "70c2bbd4906c919a8c6613d742ed41b761760a3d",
+            "sha512": "15e4ee94117dc0aa1fafd7396692b3e478fbdab71ea8951c386981813a8ac5083b59f0d7e67be01856596fe3f95865d09b30f3e84aa499378e5009bef7c7e0a5"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/l7LYilEL/AmbientSounds_NEOFORGE_SOURCE_v6.1.8_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.8_mc1.21.1.jar",
+          "primary": false,
+          "size": 54539,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "OSWXxFCz",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.7",
+      "version_number": "6.1.7",
+      "changelog": "* Adapted to CreativeCore 2.13.0\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T15:28:12.153774Z",
+      "downloads": 27185,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Im4PmoYT",
+          "hashes": {
+            "sha1": "278bcc9f6fb8a0168bf1c97de907af3aa2421f62",
+            "sha512": "40c6b0754cb3de3f5503225ef998e99f8c7e01c6df31530462c3b0db1ccda38c367afbe197556d1e2ed484c444ffb2f65d446c02940db3e4afe6b24ee6c34c7b"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/OSWXxFCz/AmbientSounds_FABRIC_v6.1.7_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.7_mc1.21.1.jar",
+          "primary": true,
+          "size": 83888947,
+          "file_type": null
+        },
+        {
+          "id": "W23qyU0E",
+          "hashes": {
+            "sha512": "b149e267ad359123e6733a3e5bae5c818a69db38273d00411d8eaf0eece4f99a7340e3f5277593d7c93e2786afea6a5539efe7af13021954c479dc17abcaf32d",
+            "sha1": "b973491c2325724c3ee3957ce0e4c0aedede4735"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/OSWXxFCz/AmbientSounds_FABRIC_SOURCE_v6.1.7_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.7_mc1.21.1.jar",
+          "primary": false,
+          "size": 54492,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "yx2Getiy",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.7",
+      "version_number": "6.1.7",
+      "changelog": "* Adapted to CreativeCore 2.13.0\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T15:21:45.700865Z",
+      "downloads": 16705,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "g3jiokir",
+          "hashes": {
+            "sha512": "656d3d426a0328e8ab838145fcb83c0f6c77c72d2d2621ced670640cce7130c35cde270998a243587ea840339ee1a792dc470aabe69e32bf0436c82586d14d2b",
+            "sha1": "a85e5625283a1b71305c122157e6c46814cda2e3"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/yx2Getiy/AmbientSounds_NEOFORGE_v6.1.7_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.7_mc1.21.1.jar",
+          "primary": true,
+          "size": 83880075,
+          "file_type": null
+        },
+        {
+          "id": "UPSakBqL",
+          "hashes": {
+            "sha1": "6dddb4da4b8bd82f3ec3ba147faac08c4affccea",
+            "sha512": "9be51eb57466c98bbef303680fa27fa3b359442499b61b1db9b59e4b493e460953a4614fc162b579205c066f4063fea6027877843a37135e3d1e00e9a5cd5f71"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/yx2Getiy/AmbientSounds_NEOFORGE_SOURCE_v6.1.7_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.7_mc1.21.1.jar",
+          "primary": false,
+          "size": 54494,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "ILSgR3lY",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.4",
+      "version_number": "6.1.4",
+      "changelog": "* Fixed not playing jungle sounds in rainforest biomes\n",
+      "changelog_url": null,
+      "date_published": "2024-12-06T14:25:10.149350Z",
+      "downloads": 37364,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M1uaAP7l",
+          "hashes": {
+            "sha512": "fa98436c2bdca62f27a54531b2d0e75cec123d56564f4c3fa490cc0f7c9f623e30cf4bce47e844781aefab561850e21a13510072bec9a9424af883c77e59121e",
+            "sha1": "10a17691bcdf38860b5a7cf2c32021491b57b148"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ILSgR3lY/AmbientSounds_NEOFORGE_v6.1.4_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.4_mc1.21.1.jar",
+          "primary": true,
+          "size": 83879978,
+          "file_type": null
+        },
+        {
+          "id": "LJZOzLjm",
+          "hashes": {
+            "sha1": "18c4dcab6a23f267303c8e28b03dc38c5fc3f3ee",
+            "sha512": "31463e55ef8e988e8ed211029a5fbd2b8a5e7d35ef7e4ba9f6ae1974ffde8902207a72920f3ca4a3580faa75c8dc63bf61fef13900bfa9a8b04581e77705aca7"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ILSgR3lY/AmbientSounds_NEOFORGE_SOURCE_v6.1.4_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.4_mc1.21.1.jar",
+          "primary": false,
+          "size": 54495,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "2Q7C9fEN",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.4",
+      "version_number": "6.1.4",
+      "changelog": "* Fixed not playing jungle sounds in rainforest biomes\n",
+      "changelog_url": null,
+      "date_published": "2024-12-06T14:04:39.704554Z",
+      "downloads": 562639,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WQ8jswAH",
+          "hashes": {
+            "sha1": "01a4d6e45b16b96589851ae6ab0bbaf9bd8e1212",
+            "sha512": "4600f0f5ba5d5f979039a971456a984965f4252e84302c7b9b60b7ecabcaa8092ef676dae4d9a3255b371468c659d059d551e4f883227ea764dcaaf3429d222e"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/2Q7C9fEN/AmbientSounds_FABRIC_v6.1.4_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.4_mc1.21.1.jar",
+          "primary": true,
+          "size": 83888852,
+          "file_type": null
+        },
+        {
+          "id": "7pmxlUvN",
+          "hashes": {
+            "sha512": "8b15981bd3e7c92b63af9868e287a0632d49229dea386684707670ef80ee290c35d0e89ebcd30403e8f95d969f681091f974467379fcd92571e4c9feb1e519b8",
+            "sha1": "293f52569d04a240e747071c4f7e9f2d08b112c1"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/2Q7C9fEN/AmbientSounds_FABRIC_SOURCE_v6.1.4_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.4_mc1.21.1.jar",
+          "primary": false,
+          "size": 54495,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ETNYKJWg",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.3",
+      "version_number": "6.1.3",
+      "changelog": "* Added min count to grass, ice, rock and sand feature to prevent it from being active too early\n* Fixed not playing sky wind sound\n* Fixed relative min and max height calculations being off\n* Normalized bird, cricket and cave sounds\n* Updated way of sorting biomes and muting sounds\n",
+      "changelog_url": null,
+      "date_published": "2024-11-01T12:38:53.420747Z",
+      "downloads": 188108,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "k1TowMVN",
+          "hashes": {
+            "sha1": "6aba9dbda9d374ff5f2de9292093722f4a3d9df7",
+            "sha512": "36218999beab2f8123e8e02333a9255d4e64aa589dfcb7ee48a08b7eaac5d627a92c260112faa9df81e9e984e4e929cdc0ad783e9bf48fe319637f558316f03a"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ETNYKJWg/AmbientSounds_FABRIC_v6.1.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.3_mc1.21.1.jar",
+          "primary": true,
+          "size": 83888850,
+          "file_type": null
+        },
+        {
+          "id": "6jZRUUKp",
+          "hashes": {
+            "sha512": "504863ffacfb9843f47ff05d71e5e467f2473f4b064598fead839fe0030bd31a23354a01b1a315b959936b25952814e33cf175225ee9ba9d3dd13fc9432f8d7c",
+            "sha1": "b22082c81f41f7d9a7a4b080cd0d3d6bf1a5ee91"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/ETNYKJWg/AmbientSounds_FABRIC_SOURCE_v6.1.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.3_mc1.21.1.jar",
+          "primary": false,
+          "size": 54495,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "GEq5Lkjz",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.3",
+      "version_number": "6.1.3",
+      "changelog": "* Added min count to grass, ice, rock and sand feature to prevent it from being active too early\n* Fixed not playing sky wind sound\n* Fixed relative min and max height calculations being off\n* Normalized bird, cricket and cave sounds\n* Updated way of sorting biomes and muting sounds\n",
+      "changelog_url": null,
+      "date_published": "2024-10-25T13:08:25.217833Z",
+      "downloads": 5996,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6FIGGDQU",
+          "hashes": {
+            "sha1": "e33cafa5922fc0995c36a104e4a49d1259d5019a",
+            "sha512": "1bb1c6cec272af9144f0e38fc21c330c37e2552a64d0a3c5c3fdbd74ace8f49ec2f831c5500dfca99d5dfffb9874ddccfb43fbda3e722710b0604561f1d86f8b"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/GEq5Lkjz/AmbientSounds_NEOFORGE_v6.1.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.3_mc1.21.1.jar",
+          "primary": true,
+          "size": 83879978,
+          "file_type": null
+        },
+        {
+          "id": "1PRNRAdt",
+          "hashes": {
+            "sha1": "79fc70c269af67ae79eddd5d8363f50e8d4af4ec",
+            "sha512": "e8b74c5fa92e4f70c1315d112583baf82282f0911e323ac85d1b827fae8af826f8b185e8d7c474b48fb4bb6e8382cb9f7e19aa1a2322edde7d276ddf77f5d950"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/GEq5Lkjz/AmbientSounds_NEOFORGE_SOURCE_v6.1.3_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.3_mc1.21.1.jar",
+          "primary": false,
+          "size": 54496,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "VfdkH9Ne",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.2",
+      "version_number": "6.1.2",
+      "changelog": "* Made AmbientSounds not load on server side (NeoForge)\n* Fix async engine reloading (Thanks to Steveplays28)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-21T20:35:11.158265Z",
+      "downloads": 137530,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FFdJvE5m",
+          "hashes": {
+            "sha1": "9b0f00bbcfe0bf840fda39bda79e8a12255f083e",
+            "sha512": "fe325ca2de03b0eb04e7a31019cbf07dd6d145f1d34105c6ec7299822f4fee7918a7c290cc7e3ca55a0abae3b0b517084df81965ad8c8673869a628f2d3d45b8"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/VfdkH9Ne/AmbientSounds_FABRIC_v6.1.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.2_mc1.21.1.jar",
+          "primary": true,
+          "size": 85698835,
+          "file_type": null
+        },
+        {
+          "id": "sluEp54r",
+          "hashes": {
+            "sha1": "c8685ba7d9346cc196551df01eee93b7c7f36134",
+            "sha512": "c35b6df6f3d9c140fe436763e70a1d948e3ab2c091bb3242c80270cf229b12085a62815afa42321ca9d44a8a1124ef48f2a37eb7f966385c94844849ca374c5b"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/VfdkH9Ne/AmbientSounds_FABRIC_SOURCE_v6.1.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.2_mc1.21.1.jar",
+          "primary": false,
+          "size": 54510,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "9CBMzH1G",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.2",
+      "version_number": "6.1.2",
+      "changelog": "* Made AmbientSounds not load on server side (NeoForge)\n* Fix async engine reloading (Thanks to Steveplays28)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-21T20:29:00.870768Z",
+      "downloads": 31285,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2XElNtDQ",
+          "hashes": {
+            "sha512": "92ec206dab6867e4427c762a962fc0d6200f3875c24700ef115628e74dabac67ae4ebdb4ef69d959e0a97b3a932ab54d2bd3bc1f0aaade6b05726bec99019048",
+            "sha1": "e6a80d613c0209db3427bed414a74035e96df9ff"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/9CBMzH1G/AmbientSounds_NEOFORGE_v6.1.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.2_mc1.21.1.jar",
+          "primary": true,
+          "size": 85690000,
+          "file_type": null
+        },
+        {
+          "id": "9FeEXvmA",
+          "hashes": {
+            "sha512": "fabacda478c2a9355502a955b53536aaf359df7aa8bb394671b95c3213845a30d202e4cd332f98ef0d617eada5d83aa898da7601b5cfbb28f83aac5c6e85381d",
+            "sha1": "66416838f7440d25b6c6733617da951cf0cc4d3b"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/9CBMzH1G/AmbientSounds_NEOFORGE_SOURCE_v6.1.2_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.2_mc1.21.1.jar",
+          "primary": false,
+          "size": 54508,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "q0XI5vVc",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.0",
+      "version_number": "6.1.0",
+      "changelog": "* Added creepier wolf sound which plays in savanna during night every 1-6 days (suggested by richarddddy)\n* Added whale sounds (can be heard underwater in the ocean) suggested by richarddddy\n* Added mouring dove to swamp region (only audible in the morning) Suggested by NicoleConcrete\n* Fixed blocks that let light through cases engine to think there is an unblocked way to the sky\n* Made underwater mute all other sound effects entire when being 7 blocks in\n* Fixed random seeking causes sound engine to crash (big thank goes to @Charleychar for his endless amount of testing)\n* Fixed savanna bird sound not transitioning\n* Reload the engine asynchronously (Thanks to Steveplays28)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-12T08:21:43.885377Z",
+      "downloads": 35236,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mORApe6c",
+          "hashes": {
+            "sha1": "61bc4b4f563e3ebfb17e7d7a04ed6149e035bac3",
+            "sha512": "7e10e11ee0d2760d7ec56bba6242d75f4d00895a81a70ad987938828b4f97e4f685f280ce16b74f4bd3740fbfda30c7d0c1ffb48d78eebac7966fafcbaf99a52"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/q0XI5vVc/AmbientSounds_FABRIC_v6.1.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.1.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 85698812,
+          "file_type": null
+        },
+        {
+          "id": "oJ3970SK",
+          "hashes": {
+            "sha1": "d876e62be4b72e1f4308c8097276dfc01b42e0c5",
+            "sha512": "ec592b271e9b41782521eb99ebe08341fc1104cb97089f0afbbba0563b134dfb8ff8966e3d4a67d5318b4d5ee40fc88b650c7232c4811709ef048e9f4e205757"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/q0XI5vVc/AmbientSounds_FABRIC_SOURCE_v6.1.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.1.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 54370,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "6EYhiEoA",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.1.0",
+      "version_number": "6.1.0",
+      "changelog": "* Added creepier wolf sound which plays in savanna during night every 1-6 days (suggested by richarddddy)\n* Added whale sounds (can be heard underwater in the ocean) suggested by richarddddy\n* Added mouring dove to swamp region (only audible in the morning) Suggested by NicoleConcrete\n* Fixed blocks that let light through cases engine to think there is an unblocked way to the sky\n* Made underwater mute all other sound effects entire when being 7 blocks in\n* Fixed random seeking causes sound engine to crash (big thank goes to @Charleychar for his endless amount of testing)\n* Fixed savanna bird sound not transitioning\n* Reload the engine asynchronously (Thanks to Steveplays28)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-12T08:17:44.773629Z",
+      "downloads": 1168,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "k0Jmy0IA",
+          "hashes": {
+            "sha1": "c8f0d11b85e8a6815fdd5099a08d6ed5ca1906f4",
+            "sha512": "c610ef46e94d9efcf09514a7661321fca4b6ff43042dede091077aa012ad012bf2ea7f90a57af93e1ba0cbd925a373d35e0585efeb03bbd6d16bccb8e2b4424a"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/6EYhiEoA/AmbientSounds_NEOFORGE_v6.1.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.1.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 85689952,
+          "file_type": null
+        },
+        {
+          "id": "wwGYQMc2",
+          "hashes": {
+            "sha1": "9c37775f875322643a8da189a0927d48403e97d9",
+            "sha512": "c49e9d79cab353fe175a10a49edf7dc377269db3ccb62396bcc429dfa9c23e632745e59e22bfa068371e85febd176d253ebf2d307ca4cbf164b4da0f844f99bb"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/6EYhiEoA/AmbientSounds_NEOFORGE_SOURCE_v6.1.0_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.1.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 54370,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "mhSfwerM",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.0.6",
+      "version_number": "6.0.6",
+      "changelog": "* Fixed stop playing sounds when game is paused\n",
+      "changelog_url": null,
+      "date_published": "2024-08-28T08:15:55.874246Z",
+      "downloads": 27084,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kQ6AIe3U",
+          "hashes": {
+            "sha512": "8e44011e62243ff836a39d77d8a8460dcf99d9ef7984c39cf3952a0f79ebf4cbbc03bed1c1b0c785a1554393559d152d3822298894f9c38a450394ca31f2d6b2",
+            "sha1": "6ac4060da1f8d870bace939a13e72e95b95b0c1f"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/mhSfwerM/AmbientSounds_FABRIC_v6.0.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_v6.0.6_mc1.21.1.jar",
+          "primary": true,
+          "size": 85330968,
+          "file_type": null
+        },
+        {
+          "id": "DyWRWFe3",
+          "hashes": {
+            "sha1": "1baece2c8b1fa31cbdbe67c269e94b4e06e34c6b",
+            "sha512": "5c863f7b60446be44cf69563a20ef4e92a201db1fb502351a7f5025d125421936ea1edf81309c3d530c41f4e402ca3ad268bc82b6bea9864bbfc7509861da8df"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/mhSfwerM/AmbientSounds_FABRIC_SOURCE_v6.0.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_FABRIC_SOURCE_v6.0.6_mc1.21.1.jar",
+          "primary": false,
+          "size": 85253578,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "8gLfEZAj",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.0.6",
+      "version_number": "6.0.6",
+      "changelog": "* Fixed stop playing sounds when game is paused\n",
+      "changelog_url": null,
+      "date_published": "2024-08-28T08:13:14.270260Z",
+      "downloads": 1990,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XbVDTnM6",
+          "hashes": {
+            "sha1": "5b1bc36fc8e2a2e4f8df3f9dbb167e2b1275e194",
+            "sha512": "e5b197511507679fe20b0f61aef110c57e9a95b714619bc8cd9a193774acd69409d9c3171b034f1b2e9f5f34c59ecb9313a436d8eedb2b75c87292c7b5d8e507"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/8gLfEZAj/AmbientSounds_NEOFORGE_v6.0.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.0.6_mc1.21.1.jar",
+          "primary": true,
+          "size": 85322304,
+          "file_type": null
+        },
+        {
+          "id": "MtkMuUuy",
+          "hashes": {
+            "sha1": "6b636e22b4092906860e41c954910ee3926b1c75",
+            "sha512": "298448ecf34aab926943431477af5dbd78b8242ea175770f85f134c8f313e341da7a8a4e4a5186ee987b45b1f7093700ac691a1be40a2cf06b284da0ec75dda1"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/8gLfEZAj/AmbientSounds_NEOFORGE_SOURCE_v6.0.6_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.0.6_mc1.21.1.jar",
+          "primary": false,
+          "size": 85253578,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "QPKcI4FA",
+      "project_id": "fM515JnW",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "6.0.5",
+      "version_number": "6.0.5",
+      "changelog": "* Fixed cricket day and night not extending crickt sound category\n* Fixed sound category not working properly when setting it to zero volume\n",
+      "changelog_url": null,
+      "date_published": "2024-08-20T21:03:07.210836Z",
+      "downloads": 1102,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2fARnubm",
+          "hashes": {
+            "sha512": "01b694318e7699b4a4fd1bc24a4cb5a4fd3cdf5babc0e044e4ad41de56344e08bad3a77a52f74fe7a547fb874e138a36468249302e01277e73377bc2fa5308dd",
+            "sha1": "d3d8eb3fdd27973f084bc60d5a9c782182ad9c6a"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/QPKcI4FA/AmbientSounds_NEOFORGE_v6.0.5_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_v6.0.5_mc1.21.1.jar",
+          "primary": true,
+          "size": 85322300,
+          "file_type": null
+        },
+        {
+          "id": "tnjNKFBZ",
+          "hashes": {
+            "sha512": "6fde6aa160cb1c2eabb47207bc131336bd4cc147a87794225e42fa0e550a9dc197d745febd35cb1b22912b1d14bf5ea2a8980f8aafec09948bc41b7b8e4ba58e",
+            "sha1": "49a494c0e4039d1c47417a485ef4a5175ca56e2c"
+          },
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/QPKcI4FA/AmbientSounds_NEOFORGE_SOURCE_v6.0.5_mc1.21.1.jar",
+          "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.0.5_mc1.21.1.jar",
+          "primary": false,
+          "size": 85253572,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "OsZiaDHq",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

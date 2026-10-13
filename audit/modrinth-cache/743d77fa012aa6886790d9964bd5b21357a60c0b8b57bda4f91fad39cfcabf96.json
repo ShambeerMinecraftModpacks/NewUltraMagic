@@ -1,0 +1,129 @@
+{
+  "url": "https://api.modrinth.com/v2/project/iZ10HXDj/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:49.254922+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "QcqljX3m",
+      "project_id": "iZ10HXDj",
+      "author_id": "c9EEp7Fr",
+      "featured": false,
+      "name": "FPS Reducer neoforge 1.21-2.10.jar",
+      "version_number": "1.21-2.10",
+      "changelog": "v2.10\n- [Neo] Fixed the crash due to NeoForge's cleaning up config code. (Issue #76)\n- [Neo] fixed the crash caused by IConfigScreenFactory changes in NeoForge-21.0.110.\n- Added Classical Chinese translation. (Thanks to 000729735256)",
+      "changelog_url": null,
+      "date_published": "2024-07-24T12:59:06.242657Z",
+      "downloads": 297988,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iiVM47P9",
+          "hashes": {
+            "sha512": "6c631bc46a3f785fd43356710510a241f6b851ea7e8c59e0dbb9af8c3919a24e3e1eb2ca3075b82979ced5cad2625c92a78ac9eabbd9ff8d8161fc20ac7c7107",
+            "sha1": "edb3e8d90992aae937c79827282f854f4cc5939c"
+          },
+          "url": "https://cdn.modrinth.com/data/iZ10HXDj/versions/QcqljX3m/FpsReducer2-neoforge-1.21-2.10.jar",
+          "filename": "FpsReducer2-neoforge-1.21-2.10.jar",
+          "primary": true,
+          "size": 143137,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "B1AyvHiM",
+      "project_id": "iZ10HXDj",
+      "author_id": "c9EEp7Fr",
+      "featured": false,
+      "name": "FPS Reducer forge 1.21-2.9",
+      "version_number": "1.21-2.9",
+      "changelog": "v2.9\n- Initial release for 1.21 forge.\n- Initial release for 1.21 neoforge.\n- Initial release for 1.21 fabric.",
+      "changelog_url": null,
+      "date_published": "2024-06-14T16:26:45.773371Z",
+      "downloads": 36276,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "phN3iyz5",
+          "hashes": {
+            "sha1": "c73f33bacbeec43ecd7219c86603494fd68c9c85",
+            "sha512": "32ef9ccec6295e1eb0f986ec039795b798b40a8c3a5ce85f98802c96344fa57f2dcdf942e91f66fbe5b3c20c2c82b1b0893f08f8bac9f755f18aa1e52a67e266"
+          },
+          "url": "https://cdn.modrinth.com/data/iZ10HXDj/versions/B1AyvHiM/FpsReducer2-forge-1.21-2.9.jar",
+          "filename": "FpsReducer2-forge-1.21-2.9.jar",
+          "primary": true,
+          "size": 142909,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "9ewqcOwy",
+      "project_id": "iZ10HXDj",
+      "author_id": "c9EEp7Fr",
+      "featured": false,
+      "name": "FPS Reducer fabric 1.21-2.9",
+      "version_number": "1.21-2.9",
+      "changelog": "v2.9\n- Initial release for 1.21 fabric.",
+      "changelog_url": null,
+      "date_published": "2024-06-14T09:43:49.419935Z",
+      "downloads": 642432,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CNwrdQNP",
+          "hashes": {
+            "sha1": "9219d7f657f4adb61315cd15023265d1070d24ca",
+            "sha512": "b4f5c1192c0756ee9226b6cdfa230c49efa5049c9570a9c3f5e7d14250716600e9cc630fe4cf4c26334cc09bfb97705a4f785ad64d7262c1b6394de508c2423a"
+          },
+          "url": "https://cdn.modrinth.com/data/iZ10HXDj/versions/9ewqcOwy/FpsReducer2-fabric-1.21-2.9.jar",
+          "filename": "FpsReducer2-fabric-1.21-2.9.jar",
+          "primary": true,
+          "size": 124879,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

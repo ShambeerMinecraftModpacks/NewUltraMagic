@@ -1,0 +1,113 @@
+{
+  "url": "https://api.modrinth.com/v2/project/jgzwYsAN",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:49.977627+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.20.1",
+      "1.21",
+      "1.21.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "jgzwYsAN",
+    "slug": "malum",
+    "project_type": "mod",
+    "team": "LEOCuCfQ",
+    "organization": null,
+    "title": "Malum",
+    "description": "Malum - A minecraft mod about dark magic.",
+    "body": "![MalumLogo](https://imgur.com/1ANraFD.png)\n\nIntroduction\n\nMalum is a dark magic mod centered around spirit arcana; a dark study of soul magic. It's divided into several interpretations of the strange field of magic, which the player will explore through the use of the Encyclopedia Arcana, a strange journal written by an unknown author.\n\n\n![An introduction to the mod](https://i.imgur.com/CKuQmHN.png)\n![https://i.imgur.com/NZZgKVj.png](https://i.imgur.com/NZZgKVj.png)\n \n\n \n\nThe codex will provide you with everything you need to get started. The codex is very open ended, allowing players to choose their own path. Malum offers little restriction to the order in which any player does things. You're free to prioritize whichever parts of the mod interest you most.\n\n \n\nNatural Wonders\n\n \n![https://i.imgur.com/4obSmZn.png](https://i.imgur.com/4obSmZn.png)\n \n\nNot every color of magic is so grim and dark. Runewood Trees are a mixture of nature and magic, fitted with bark made for magic and a complete set of wood blocks. \n\n \n![https://i.imgur.com/qFwS6Y7.png](https://i.imgur.com/qFwS6Y7.png)\n \n\nThe mod also adds plenty of underground ores for you to find, cthonic gold, soulstone, natural quartz.. and even more that I'll leave up to you to discover. \n\n \n\nSpirit Magics\n\n \n![https://i.imgur.com/CquZC9W.png](https://i.imgur.com/CquZC9W.png)\n \n\nFunctioning as the core system to utilizing spirit arcana, Spirit infusion is a magical process through which the player will create all sorts of miracles. \n\n \n![https://i.imgur.com/SbIVVBp.png](https://i.imgur.com/SbIVVBp.png)\n \n\nSpirit focusing is another powerful system that will accompany you in your daily life. The magic allows you to materialize new resources out of thin air using raw spirit matter.\n\n \n![https://i.imgur.com/ziTDp4N.png](https://i.imgur.com/ziTDp4N.png)\n![https://i.imgur.com/ElM3QtM.png](https://i.imgur.com/ElM3QtM.png)\n \n\nThrough spirit magics you'll be able to create a lot of new and exciting gear. Trinkets, armor, tools, weapons, and even more.\n\nEach trinket and armor set provides it's own unique effect, some even offering some synnergy potential.\n\n \n![https://i.imgur.com/3Msyag7.png](https://i.imgur.com/3Msyag7.png)\n \n\nTotem magic allows you to utilize spirit arcana for various unique effects, each spirit has it's own rituals it allows you to utilize.\n\n \n\nThere's lots to Malum, these are only just a few things I decided to showcase. I encourage you to try the mod for yourself, and see what else it's hiding.\n\n \n\nInformation\n\n- If you like the mod, check out my [Patreon](https://www.patreon.com/sammysemicolon)!\n\n- To use the mod, you will need to download [Lodestone](https://www.curseforge.com/minecraft/mc-mods/lodestone) as well as [Curios Api](https://www.curseforge.com/minecraft/mc-mods/curios)\n\n- If you've got any questions, feel free to leave a comment or preferably visit my [Discord Server](https://discord.gg/JFMwSQsebV)",
+    "body_url": null,
+    "published": "2024-06-14T10:16:34.954823Z",
+    "updated": "2026-01-12T01:38:32.709150Z",
+    "approved": "2024-07-07T06:09:20.229145Z",
+    "queued": "2024-07-04T09:27:18.228441Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-or-later",
+      "name": "GNU Lesser General Public License v3.0 or later",
+      "url": null
+    },
+    "downloads": 602471,
+    "followers": 432,
+    "categories": [
+      "decoration",
+      "equipment",
+      "magic"
+    ],
+    "additional_categories": [
+      "adventure",
+      "technology",
+      "worldgen"
+    ],
+    "loaders": [
+      "fabric",
+      "forge",
+      "neoforge",
+      "quilt"
+    ],
+    "versions": [
+      "TltpeMiy",
+      "OvRVC914",
+      "ks2JyNvN",
+      "X345cRey",
+      "7KGzYX0w",
+      "I01VpnzR",
+      "uUS17IK6",
+      "yPPTybYc",
+      "eNnrHwKO",
+      "59Xhi91C",
+      "J9NeSfqm",
+      "sL7telRE",
+      "h7tcKjRE",
+      "zFSV53nE",
+      "hmpAzpC1",
+      "Qf7QgrTh",
+      "FSc5yaSt",
+      "nHHS815w",
+      "jXmJQMxy",
+      "U88VbrNU",
+      "mLfHXyLG",
+      "DPwO66EL",
+      "BIbVs1fo"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/jgzwYsAN/ca6c59690727d39fd048b22a9be183f96c5d4d81_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/jgzwYsAN/ca6c59690727d39fd048b22a9be183f96c5d4d81.webp",
+    "issues_url": "https://github.com/SammySemicolon/Malum-Mod/issues",
+    "source_url": "https://github.com/SammySemicolon/Malum-Mod",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/JFMwSQsebV",
+    "donation_urls": [
+      {
+        "id": "ko-fi",
+        "platform": "Ko-fi",
+        "url": "https://ko-fi.com/mrsterner"
+      },
+      {
+        "id": "other",
+        "platform": "Other",
+        "url": "https://linktr.ee/sammysemicolon"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/jgzwYsAN/images/7249d913ef451a41ae965e6fca5a728626405ac9_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/jgzwYsAN/images/d164e3ae274229c567ec93c1f873283caa51e458.png",
+        "featured": false,
+        "title": null,
+        "description": null,
+        "created": "2024-07-04T09:19:34.192625Z",
+        "ordering": 0
+      }
+    ],
+    "color": 4394815,
+    "thread_id": "EzflaOAG",
+    "monetization_status": "monetized"
+  }
+}

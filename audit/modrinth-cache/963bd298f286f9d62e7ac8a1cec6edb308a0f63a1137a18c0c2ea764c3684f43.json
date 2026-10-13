@@ -1,0 +1,308 @@
+{
+  "url": "https://api.modrinth.com/v2/project/FTeXqI9v/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:37.158131+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "IwtuwMZy",
+      "project_id": "FTeXqI9v",
+      "author_id": "2ywqhVx5",
+      "featured": false,
+      "name": "1.2.0 for Neoforge 1.21.1",
+      "version_number": "1.2.0+mc1.21.1",
+      "changelog": "Version 1.2.0:\n\n#### Additions\n- Added Street Lights and Lamp Posts\n- Added radiation effect & Geiger counter ticking - [!60 Thank you Auralyn](https://gitlab.com/antarcticgardens/create-new-age/-/merge_requests/60)\n- Reactors now explode upon overheating\n- Added CC:Tweaked compatibility (This is a work in progress feature please send us feedback)\n- New Simplified Chinese translations from abandon0320\n#### Improvements\n- Improve wire rendering and stop crashes with Create Aeronautics - [!68 Thank you tmvkrpxl0](https://gitlab.com/antarcticgardens/create-new-age/-/merge_requests/68)\n",
+      "changelog_url": null,
+      "date_published": "2026-06-08T07:57:10.810928Z",
+      "downloads": 425855,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wBJPV40Y",
+          "hashes": {
+            "sha512": "5075c6482b800af7044b594ad694855e7d56f386cb0354967eafe99d77e84b4e26ee7f880d287672d24d84ea8086fd074b7695e46632f32f215b31ce859ada72",
+            "sha1": "849df57070ffa75c2446b9c460d03f6b49fa089e"
+          },
+          "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/IwtuwMZy/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar",
+          "filename": "create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+          "primary": true,
+          "size": 1644485,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "eQ9rbApE",
+      "project_id": "FTeXqI9v",
+      "author_id": "2ywqhVx5",
+      "featured": false,
+      "name": "1.1.7c for Neoforge 1.21.1",
+      "version_number": "1.1.7c+mc1.21.1",
+      "changelog": "Version 1.1.7c:\n\n#### Bug Fixes\n- Hopefully fix release\n",
+      "changelog_url": null,
+      "date_published": "2025-12-28T12:08:03.278351Z",
+      "downloads": 363694,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XkZVKvfG",
+          "hashes": {
+            "sha1": "ee352726afeaf935098471f12102da4b2a6fe18e",
+            "sha512": "810f5079647e4d3f181b9e42c741379af2d904d3be0fae83efa5dd9f67e7bac3041539e972ecc0bc0e0c53c2b453fcfa0931c749327a5573ee2ecba61ffc5070"
+          },
+          "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/eQ9rbApE/create-new-age-1.1.7c%2Bneoforge-mc1.21.1.jar",
+          "filename": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
+          "primary": true,
+          "size": 1590363,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "18k5Q2Hd",
+      "project_id": "FTeXqI9v",
+      "author_id": "2ywqhVx5",
+      "featured": false,
+      "name": "1.1.7b for Neoforge 1.21.1",
+      "version_number": "1.1.7b+mc1.21.1",
+      "changelog": "Version 1.1.7b:\n\n#### Bug Fixes\n- Fix crash when removing CNA blocks from Electrodynamics' networks\n",
+      "changelog_url": null,
+      "date_published": "2025-12-28T11:54:16.560757Z",
+      "downloads": 436,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iVNmRzDB",
+          "hashes": {
+            "sha1": "da0cf64959fa15232dd44f0a8934505facecb47a",
+            "sha512": "235984e17b62b8480b681e073f187aaaa460bb384f38fbc28b4d3b4ead585f58e68ea5336a13a1e8cd338aad60151965472927b2ca61541f42540b641a2e9f7d"
+          },
+          "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/18k5Q2Hd/create-new-age-1.1.7b%2Bneoforge-mc1.21.1-dev.jar",
+          "filename": "create-new-age-1.1.7b+neoforge-mc1.21.1-dev.jar",
+          "primary": true,
+          "size": 920611,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "jKQGO6gz",
+      "project_id": "FTeXqI9v",
+      "author_id": "kgc7JcMg",
+      "featured": false,
+      "name": "Create: New Age 1.1.7a+mc1.21.1",
+      "version_number": "1.1.7a+mc1.21.1",
+      "changelog": "Fixed compatibility with some mods such as mechanism and AE2",
+      "changelog_url": null,
+      "date_published": "2025-12-21T07:22:04.241767Z",
+      "downloads": 6724,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Nac6Uc6r",
+          "hashes": {
+            "sha1": "91782f1a2674a7ecd3dd992c98346697a14231eb",
+            "sha512": "ea7b69efbffeb53659bb186684ae2c6a3dfcdaf010a7eb18990bcda0afbfbc6535fbd541522f67793a5c7d5f2c5448f3937e89cf5e2434e141c4b7f0c4fbc147"
+          },
+          "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/jKQGO6gz/create-new-age-1.1.7a%2Bneoforge-mc1.21.1.jar",
+          "filename": "create-new-age-1.1.7a+neoforge-mc1.21.1.jar",
+          "primary": true,
+          "size": 1590312,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZyNyY0OA",
+      "project_id": "FTeXqI9v",
+      "author_id": "kgc7JcMg",
+      "featured": false,
+      "name": "1.1.7 for Neoforge 1.21.1",
+      "version_number": "1.1.7+mc1.21.1",
+      "changelog": "1.1.7:\n- a bunch of fixes\n- update to new create for fabric 1.20.1\n- port of new additions from 1.21.1 to 1.20.1\n- merged in localization for a few languages that were sent before\n- Monkey edition is now on 1.21.1",
+      "changelog_url": null,
+      "date_published": "2025-12-11T11:50:27.173512Z",
+      "downloads": 8317,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SCTzjCb4",
+          "hashes": {
+            "sha512": "60ed318e4da1542567e540f84f34e3bcf0414b8b9ad6d9ece429af3e5b89ab25f5ffc2b797f90c0f7c6b1bf8446ce5a0b7188ca9da754cb8872575422047c8a4",
+            "sha1": "9c63ff77623cbf823e9820a2ce4933a131bf619e"
+          },
+          "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ZyNyY0OA/create-new-age-1.1.7%2Bneoforge-mc1.21.1.jar",
+          "filename": "create-new-age-1.1.7+neoforge-mc1.21.1.jar",
+          "primary": true,
+          "size": 1588423,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tBGTUHm8",
+      "project_id": "FTeXqI9v",
+      "author_id": "kgc7JcMg",
+      "featured": false,
+      "name": "1.1.6 for neoforge mc1.21.1",
+      "version_number": "1.1.6+mc1.21.1",
+      "changelog": "Fixed a crash with create 6.0.8",
+      "changelog_url": null,
+      "date_published": "2025-11-05T14:47:54.645576Z",
+      "downloads": 21735,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2UBTVyfz",
+          "hashes": {
+            "sha1": "15d25ecfc40e3cefeef4a7ff9301b797e5770ec7",
+            "sha512": "3748d7a42c8dca1ceef54b9163de7554f36b92a37e6cc4cc20e79fde141fdc304a716ecf0d0be664a5ebb392bb8e5c971e95c4e6365669d87670b466c55bc96f"
+          },
+          "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/tBGTUHm8/create-new-age-1.1.6%2Bneoforge-mc1.21.1.jar",
+          "filename": "create-new-age-1.1.6+neoforge-mc1.21.1.jar",
+          "primary": true,
+          "size": 1545717,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BwDq3HzX",
+      "project_id": "FTeXqI9v",
+      "author_id": "kgc7JcMg",
+      "featured": false,
+      "name": "1.1.5 for 1.21.1 neoforge",
+      "version_number": "1.1.5",
+      "changelog": "- Updated to 1.21.1\n- Updated some models and textures to avoid mixels and improve them\n- Added some wire spool blocks that serve as a decoration\n- Botarium isn't required to run the mod anymore\n\nThank you Constantly and andromeda for working on this release",
+      "changelog_url": null,
+      "date_published": "2025-10-25T05:42:59.652378Z",
+      "downloads": 7196,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JpI3uMhl",
+          "hashes": {
+            "sha1": "b09733302825a180c517b5cd4e8a9eb6eda38cb8",
+            "sha512": "4195963e9867b2eeb946617fcef166579e880d6397384934e789cc2880d395b1a80d717428ea3a5b391eb9b0a62847706bbad73d55cfaf3e760e56e5d03d75d2"
+          },
+          "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/BwDq3HzX/create-new-age-1.1.5%2Bneoforge-mc1.21.1.jar",
+          "filename": "create-new-age-1.1.5+neoforge-mc1.21.1.jar",
+          "primary": true,
+          "size": 1543354,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

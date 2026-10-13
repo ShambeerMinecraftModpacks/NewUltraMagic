@@ -1,0 +1,303 @@
+{
+  "url": "https://api.modrinth.com/v2/project/DGaH8Rh0/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:35.993941+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "64fZbLnj",
+      "project_id": "DGaH8Rh0",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Apothic-Attributes 1.21.1-2.11.0",
+      "version_number": "1.21.1-2.11.0",
+      "changelog": "https://github.com/Shadows-of-Fire/Apothic-Attributes/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-09-29T04:49:30.492394Z",
+      "downloads": 20930,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FLLw3SYm",
+          "hashes": {
+            "sha512": "568580e68016161151fc0254fb0da949b42cf285fa2bf7c3aec1cd320405c430483e9eb990aaddef537bfac4aa4beb21db82fbff9249131e05b15063b6839611",
+            "sha1": "7ff0e452e10cb582c188626a413037e63db9ca04"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/64fZbLnj/ApothicAttributes-1.21.1-2.11.0.jar",
+          "filename": "ApothicAttributes-1.21.1-2.11.0.jar",
+          "primary": true,
+          "size": 319609,
+          "file_type": null
+        },
+        {
+          "id": "Zy9kikUy",
+          "hashes": {
+            "sha512": "920630351ee549755af0c406c8c27863d4b8271bac37b9e8e02f3ef7f335d4a2c11cba1541ff1f937ef95f607a9dae67dd79b00ea8186a10070e8df914ec8e8d",
+            "sha1": "52eae289f6f1bbdd5990f71b91d19ea5cf6dbb5a"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/64fZbLnj/ApothicAttributes-1.21.1-2.11.0-sources.jar",
+          "filename": "ApothicAttributes-1.21.1-2.11.0-sources.jar",
+          "primary": false,
+          "size": 196153,
+          "file_type": null
+        },
+        {
+          "id": "jyjBM8SS",
+          "hashes": {
+            "sha512": "382d34926213117adbce1170002e03321a3a749326288c2d4c94fb769448022c16886774002834772f7f73500408c61b9da4845278dd1725069d3849e13fa71c",
+            "sha1": "71b79ae249ec12c4d7a08d2dd2a402950e4d0955"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/64fZbLnj/ApothicAttributes-1.21.1-2.11.0-stock_data.zip",
+          "filename": "ApothicAttributes-1.21.1-2.11.0-stock_data.zip",
+          "primary": false,
+          "size": 15258,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tCkE8p2N",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Xtaunf84",
+      "project_id": "DGaH8Rh0",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Apothic-Attributes 1.21.1-2.10.1",
+      "version_number": "1.21.1-2.10.1",
+      "changelog": "https://github.com/Shadows-of-Fire/Apothic-Attributes/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-07-24T20:35:13.359105Z",
+      "downloads": 63810,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VqqlNj5h",
+          "hashes": {
+            "sha512": "ecfa2c6b9eca3793977a29d57961a0f552cfc1995ee5d7c6e6dcca888d4c427c4d940c484ebd13c6d2db7c7341d4da0d212e6897ec1f26f0e5c093ce508d4858",
+            "sha1": "cdcf0c7a6398913efa76b5b4e41e4fb67033156e"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Xtaunf84/ApothicAttributes-1.21.1-2.10.1.jar",
+          "filename": "ApothicAttributes-1.21.1-2.10.1.jar",
+          "primary": true,
+          "size": 323265,
+          "file_type": null
+        },
+        {
+          "id": "ZrCNYSEV",
+          "hashes": {
+            "sha512": "63ac25ae8595c3ab7363da21c8555f669bcc387370294d0c403a4911fe70a3b7bfa7eb010409edaca4ca320166df198b997627f174bb656e73a47e6ab760596e",
+            "sha1": "01d5048c6e2c32651f14873b9227450e5d740d59"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Xtaunf84/ApothicAttributes-1.21.1-2.10.1-sources.jar",
+          "filename": "ApothicAttributes-1.21.1-2.10.1-sources.jar",
+          "primary": false,
+          "size": 199878,
+          "file_type": null
+        },
+        {
+          "id": "7luzndy3",
+          "hashes": {
+            "sha1": "71b79ae249ec12c4d7a08d2dd2a402950e4d0955",
+            "sha512": "382d34926213117adbce1170002e03321a3a749326288c2d4c94fb769448022c16886774002834772f7f73500408c61b9da4845278dd1725069d3849e13fa71c"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Xtaunf84/ApothicAttributes-1.21.1-2.10.1-stock_data.zip",
+          "filename": "ApothicAttributes-1.21.1-2.10.1-stock_data.zip",
+          "primary": false,
+          "size": 15258,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tCkE8p2N",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7r6iuon2",
+      "project_id": "DGaH8Rh0",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Apothic-Attributes 1.21.1-2.10.0",
+      "version_number": "1.21.1-2.10.0",
+      "changelog": "https://github.com/Shadows-of-Fire/Apothic-Attributes/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-07-20T04:31:31.848872Z",
+      "downloads": 6144,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pQAjoAES",
+          "hashes": {
+            "sha512": "9d429a7efc650eb4c6124eb454fbc92f9d007488fb7637031fb741837f6f3e492add913b98395def434d74792de6f6b39804744f3e21250b2e0be57bac48ac9d",
+            "sha1": "bbae9d6a87db1523966e4fad0412d90863e159a8"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/7r6iuon2/ApothicAttributes-1.21.1-2.10.0.jar",
+          "filename": "ApothicAttributes-1.21.1-2.10.0.jar",
+          "primary": true,
+          "size": 320691,
+          "file_type": null
+        },
+        {
+          "id": "pKCizXGf",
+          "hashes": {
+            "sha512": "21ad8afa41ef5091a6f738d942a49eef2ba6786b7bd839dc5c2d5192aa64d1097c6becb64bc9ee102b1f5aaa01f936aa6c460593d77aaa7127cabbb07b12d746",
+            "sha1": "5bec167a9d0df786280c94213ed3aebd2434a864"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/7r6iuon2/ApothicAttributes-1.21.1-2.10.0-sources.jar",
+          "filename": "ApothicAttributes-1.21.1-2.10.0-sources.jar",
+          "primary": false,
+          "size": 198846,
+          "file_type": null
+        },
+        {
+          "id": "FfdZ3xDU",
+          "hashes": {
+            "sha512": "382d34926213117adbce1170002e03321a3a749326288c2d4c94fb769448022c16886774002834772f7f73500408c61b9da4845278dd1725069d3849e13fa71c",
+            "sha1": "71b79ae249ec12c4d7a08d2dd2a402950e4d0955"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/7r6iuon2/ApothicAttributes-1.21.1-2.10.0-stock_data.zip",
+          "filename": "ApothicAttributes-1.21.1-2.10.0-stock_data.zip",
+          "primary": false,
+          "size": 15258,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tCkE8p2N",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Z0nG7STl",
+      "project_id": "DGaH8Rh0",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Apothic-Attributes 1.21.1-2.9.1",
+      "version_number": "1.21.1-2.9.1",
+      "changelog": "https://github.com/Shadows-of-Fire/Apothic-Attributes/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-06-19T01:22:52.160851Z",
+      "downloads": 21349,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kbGxZ2Rr",
+          "hashes": {
+            "sha1": "55f1201784b250d4304c67ccf6274928bc894f29",
+            "sha512": "e8e40e2f5c7f400b31050e08cae444b9133808208d1455fa9cf864677953232922688d2587d9c7b4cd538197d50457d50711890634900ebf3310b94076ef7993"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Z0nG7STl/ApothicAttributes-1.21.1-2.9.1.jar",
+          "filename": "ApothicAttributes-1.21.1-2.9.1.jar",
+          "primary": true,
+          "size": 316034,
+          "file_type": null
+        },
+        {
+          "id": "tfolYGoM",
+          "hashes": {
+            "sha1": "c5933202fe77630f2c7515438cdc474ff467f8bf",
+            "sha512": "d3bf8fff9ceee23a1258452743ea35638ec25274b6c2541b27a9d83e4840afdb4e28a19885d145b50bcbbc2b3cba376d3029cfa067634f13223c2673536a3e6d"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Z0nG7STl/ApothicAttributes-1.21.1-2.9.1-sources.jar",
+          "filename": "ApothicAttributes-1.21.1-2.9.1-sources.jar",
+          "primary": false,
+          "size": 195867,
+          "file_type": null
+        },
+        {
+          "id": "XweAP1zL",
+          "hashes": {
+            "sha512": "382d34926213117adbce1170002e03321a3a749326288c2d4c94fb769448022c16886774002834772f7f73500408c61b9da4845278dd1725069d3849e13fa71c",
+            "sha1": "71b79ae249ec12c4d7a08d2dd2a402950e4d0955"
+          },
+          "url": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Z0nG7STl/ApothicAttributes-1.21.1-2.9.1-stock_data.zip",
+          "filename": "ApothicAttributes-1.21.1-2.9.1-stock_data.zip",
+          "primary": false,
+          "size": 15258,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "tCkE8p2N",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

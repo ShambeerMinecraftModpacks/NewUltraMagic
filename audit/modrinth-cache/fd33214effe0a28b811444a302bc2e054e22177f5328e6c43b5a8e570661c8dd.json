@@ -1,0 +1,169 @@
+{
+  "url": "https://api.modrinth.com/v2/project/vMoHe8uI/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:57.477738+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "AUOz1hMI",
+      "project_id": "vMoHe8uI",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Clean Tooltips 1.1",
+      "version_number": "1.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-11-03T10:39:22.760338Z",
+      "downloads": 148645,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2bWLj4jR",
+          "hashes": {
+            "sha1": "893010d73142d9c997bf537f8ee8dfa53524d858",
+            "sha512": "ab7fb5f9be7f4a859ce9a36be59e6041d23b2d354f742ce9ef5dd0c6e43ceedfcf797c6b45f2cddc9ec12407b03a77e8133a9c80149a27a377d23a903e3619c6"
+          },
+          "url": "https://cdn.modrinth.com/data/vMoHe8uI/versions/AUOz1hMI/clean_tooltips-1.1-fabric-1.21.1.jar",
+          "filename": "clean_tooltips-1.1-fabric-1.21.1.jar",
+          "primary": true,
+          "size": 23242,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "F8TicG1p",
+      "project_id": "vMoHe8uI",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Clean Tooltips 1.1",
+      "version_number": "1.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-31T13:40:47.483587Z",
+      "downloads": 51798,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "y5EOZ8GI",
+          "hashes": {
+            "sha512": "935f2a18528ae722a628098a33a6d7512f3f029271637738810fc6ed8f5589cd715435a2e66dbd70911e4ddebfd7ea9df17a9766fe4d7ae876dff31b248649fc",
+            "sha1": "36b42f526885c45a62546cc9888ac63012ee3f87"
+          },
+          "url": "https://cdn.modrinth.com/data/vMoHe8uI/versions/F8TicG1p/clean_tooltips-1.1-neoforge-1.21.1.jar",
+          "filename": "clean_tooltips-1.1-neoforge-1.21.1.jar",
+          "primary": true,
+          "size": 24652,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "8WhEDNiq",
+      "project_id": "vMoHe8uI",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Clean Tooltips 1.0",
+      "version_number": "1.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-04T15:31:11.023012Z",
+      "downloads": 2178,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qJ84yhVO",
+          "hashes": {
+            "sha512": "2a8c926d16307810ea21fbc0c44b2ac0ce189e9b897b986b06acae4e451e23c5567d10c3cd9d8e25d2c120589e1468a31c3ab1d5c2f4f74e07af9027e3323862",
+            "sha1": "a203570e2a26b63b16d6ddc5c4127b98690bff7e"
+          },
+          "url": "https://cdn.modrinth.com/data/vMoHe8uI/versions/8WhEDNiq/clean_tooltips-1.0-fabric-1.21.1.jar",
+          "filename": "clean_tooltips-1.0-fabric-1.21.1.jar",
+          "primary": true,
+          "size": 23072,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "agttm4BW",
+      "project_id": "vMoHe8uI",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Clean Tooltips 1.0",
+      "version_number": "1.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-02T19:10:29.491354Z",
+      "downloads": 637,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DSuxDTsQ",
+          "hashes": {
+            "sha1": "ed0a2ec575739f5240baa1b253827baa948c50b4",
+            "sha512": "c516f53ffe98348505d9c8267ddad7164b3a0d619b90e1262c659072d58e987dd3c8d18ba45e5204de26d5a105ba7a05d72f85b241c2c559fe2054696679a182"
+          },
+          "url": "https://cdn.modrinth.com/data/vMoHe8uI/versions/agttm4BW/clean_tooltips-1.0-neoforge-1.21.1.jar",
+          "filename": "clean_tooltips-1.0-neoforge-1.21.1.jar",
+          "primary": true,
+          "size": 24486,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

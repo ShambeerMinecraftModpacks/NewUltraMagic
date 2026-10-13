@@ -1,0 +1,240 @@
+{
+  "url": "https://api.modrinth.com/v2/project/tCkE8p2N/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:56.183092+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "B5zbSVlT",
+      "project_id": "tCkE8p2N",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Placebo 1.21.1-9.9.4",
+      "version_number": "1.21.1-9.9.4",
+      "changelog": "https://github.com/Shadows-of-Fire/Placebo/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-10-13T02:09:52.058831Z",
+      "downloads": 3656,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8NfF6HJn",
+          "hashes": {
+            "sha512": "4f3a9c5974132f3638c262c56b0c2886df2bc58027c961aa11d06d0ae2e608b63f24f949b2f8c240989e2a1bfe303fd237c5f2d49269453ad6c2ff1f85f2c648",
+            "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/B5zbSVlT/Placebo-1.21.1-9.9.4.jar",
+          "filename": "Placebo-1.21.1-9.9.4.jar",
+          "primary": true,
+          "size": 326063,
+          "file_type": null
+        },
+        {
+          "id": "98CSoLX8",
+          "hashes": {
+            "sha512": "1b836f9df91812ff89e682f4a175b13eb0d58b38bdbdbe15d5560807e99c3ca6e0ed6c95d58c6b0f18f1d46c89a67fb2005cb5bbb2e7d75f77ed2ce6eeb0d829",
+            "sha1": "2352db9605cd75438db37a6e40cabc5902184bd3"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/B5zbSVlT/Placebo-1.21.1-9.9.4-sources.jar",
+          "filename": "Placebo-1.21.1-9.9.4-sources.jar",
+          "primary": false,
+          "size": 164269,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "h326cnw1",
+      "project_id": "tCkE8p2N",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Placebo 1.21.1-9.9.3",
+      "version_number": "1.21.1-9.9.3",
+      "changelog": "https://github.com/Shadows-of-Fire/Placebo/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-10-06T07:37:30.970954Z",
+      "downloads": 26400,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "g2VQuQvM",
+          "hashes": {
+            "sha1": "37b1cf95c23a72caafc5d5c9671bbf1fa62bee14",
+            "sha512": "bf6f770eef68c699e0f9c88be26ddc65015d067d9c99079a5312766906c6310e8cb4027007ff70b9da3bdc33aaafabf58a989b840ddd54a44f14cfd6cd572337"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/h326cnw1/Placebo-1.21.1-9.9.3.jar",
+          "filename": "Placebo-1.21.1-9.9.3.jar",
+          "primary": true,
+          "size": 325017,
+          "file_type": null
+        },
+        {
+          "id": "tHjUTqEW",
+          "hashes": {
+            "sha1": "1591b566555dffb7da58b0f8ac87cec942c5663f",
+            "sha512": "ec70c6be2eef5df3469d91b67a86677c35b21ae6f0bc7aac24062aea9985c26acb8acef5b70918ed50547aa65240c7ef4911211e9647a75fca26526e4fb95c69"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/h326cnw1/Placebo-1.21.1-9.9.3-sources.jar",
+          "filename": "Placebo-1.21.1-9.9.3-sources.jar",
+          "primary": false,
+          "size": 163294,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "1Ypo4tf4",
+      "project_id": "tCkE8p2N",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Placebo 1.21.1-9.9.2",
+      "version_number": "1.21.1-9.9.2",
+      "changelog": "https://github.com/Shadows-of-Fire/Placebo/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-07-19T09:43:58.304102Z",
+      "downloads": 175026,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xXtxvGnD",
+          "hashes": {
+            "sha512": "e8b4ba06fdbcdef8f936c39e7ba18bbfd326fad8d2512fd6cec80c899001b506a501b1aeac5eef2a1c2d7dd98f89ae3d94fac357c243027d623e59622bd295b5",
+            "sha1": "d44335094cf2db64998cb3ee31e58d8c01e80b4a"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2.jar",
+          "filename": "Placebo-1.21.1-9.9.2.jar",
+          "primary": true,
+          "size": 324058,
+          "file_type": null
+        },
+        {
+          "id": "NFxbgHWv",
+          "hashes": {
+            "sha512": "19bc511c5a6fe2ee637cf28990cb0d6e5ffdeb1fc434431e10478bda585138569c06aaeb28898671c2749d0f1db87ca49bd85b8b7abb8ed0b47aeb0aa20b04b7",
+            "sha1": "008fde54c96826da319e0613769f528a52914e72"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2-sources.jar",
+          "filename": "Placebo-1.21.1-9.9.2-sources.jar",
+          "primary": false,
+          "size": 162786,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "nU7CXkMr",
+      "project_id": "tCkE8p2N",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Placebo 1.21.1-9.9.1",
+      "version_number": "1.21.1-9.9.1",
+      "changelog": "https://github.com/Shadows-of-Fire/Placebo/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-06-19T01:16:03.621300Z",
+      "downloads": 64366,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RVVCDok5",
+          "hashes": {
+            "sha512": "ba98da321bff664da3ada53ff573a29a55aa11dc5eb50f0ccfe829a076b3ff1771bf27f3a1408646ffd3af7a5f493295ac200860f65736ab357b0f1e5200912b",
+            "sha1": "40d33020762f4e03e5375acb6c6067aa76add7bb"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/nU7CXkMr/Placebo-1.21.1-9.9.1.jar",
+          "filename": "Placebo-1.21.1-9.9.1.jar",
+          "primary": true,
+          "size": 324054,
+          "file_type": null
+        },
+        {
+          "id": "xy8jmLN6",
+          "hashes": {
+            "sha1": "0ba7ed1933343de721a90fb74083abb37701eae5",
+            "sha512": "849c6b0fe2de9adf551ce5a17c89b88709b6f7aa758dc39246de82d14b37ec9d6a8a7a680af1128315b23d80071dc24c70bc012d1a857c483e1263ba24318937"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/nU7CXkMr/Placebo-1.21.1-9.9.1-sources.jar",
+          "filename": "Placebo-1.21.1-9.9.1-sources.jar",
+          "primary": false,
+          "size": 162782,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "kb8pGRQR",
+      "project_id": "tCkE8p2N",
+      "author_id": "8Wslh1Np",
+      "featured": false,
+      "name": "Placebo 9.9.1",
+      "version_number": "9.9.1",
+      "changelog": "https://github.com/Shadows-of-Fire/Placebo/blob/1.21/changelog.md",
+      "changelog_url": null,
+      "date_published": "2026-06-14T08:32:12.535654Z",
+      "downloads": 83383,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lGIcg4as",
+          "hashes": {
+            "sha1": "1c2b8c38066d6f36209c5dadee25c184ef65202e",
+            "sha512": "ca0f45d55ef242679ebe8ec191fb7de9882d051c9e995d6674f79f628e21e363eb60f54a7026b20093e9ab3ba773349420f6d73c5d49a23ed97998c20e8f8031"
+          },
+          "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/kb8pGRQR/Placebo-1.21.1-9.9.1.jar",
+          "filename": "Placebo-1.21.1-9.9.1.jar",
+          "primary": true,
+          "size": 324056,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

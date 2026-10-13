@@ -1,0 +1,303 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Disenchanting&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:07.705839+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "oytHeCkq",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "easy-disenchanting",
+        "author": "Txni",
+        "author_id": "dSn53j6E",
+        "organization": null,
+        "organization_id": null,
+        "title": "Easy Disenchanting",
+        "description": "Allows transferring enchantments from items onto books using an anvil",
+        "categories": [
+          "equipment",
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "equipment",
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.20",
+          "1.20.1",
+          "1.21.1",
+          "1.21.4",
+          "1.21.5"
+        ],
+        "downloads": 917747,
+        "follows": 68,
+        "icon_url": "https://cdn.modrinth.com/data/oytHeCkq/c8fe227bb099a98bdefbdf8fe787eb406d3c797e_96.webp",
+        "date_created": "2025-05-18T23:32:16.617626+00:00",
+        "date_modified": "2025-05-16T07:47:29.244449+00:00",
+        "latest_version": "TPpECjwz",
+        "license": "LicenseRef-Tonis-MMC-License",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/oytHeCkq/images/5ff2f4c9c772af0e9ad298138db92cc84e15d949.png"
+        ],
+        "featured_gallery": null,
+        "color": 10263804
+      },
+      {
+        "project_id": "qwgbtiVV",
+        "project_type": "mod",
+        "all_project_types": [
+          "datapack",
+          "mod"
+        ],
+        "slug": "disenchanting-book",
+        "author": "paul90317",
+        "author_id": "c4oipgy1",
+        "organization": null,
+        "organization_id": null,
+        "title": "Disenchanting Book",
+        "description": "Move the enchantment onto a book.",
+        "categories": [
+          "datapack",
+          "economy",
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "management",
+          "neoforge",
+          "quilt"
+        ],
+        "display_categories": [
+          "datapack",
+          "economy",
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "management",
+          "neoforge",
+          "quilt"
+        ],
+        "versions": [
+          "1.17",
+          "1.17.1",
+          "1.18",
+          "1.18.1",
+          "1.18.2",
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.2",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10"
+        ],
+        "downloads": 12473,
+        "follows": 30,
+        "icon_url": "https://cdn.modrinth.com/data/qwgbtiVV/0950e0970dbd038c0141aa43abe51191a033a6ac_96.webp",
+        "date_created": "2023-08-08T04:12:03.282556+00:00",
+        "date_modified": "2025-11-02T10:55:31.614006+00:00",
+        "latest_version": "WYIRWtQm",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "server_only",
+          "unknown"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/qwgbtiVV/images/d4b5d0f0b2b9a7eb4d3dc27eddc710ff2f4789c7_350.webp",
+          "https://cdn.modrinth.com/data/qwgbtiVV/images/9c2ddb06266f569bd5624038eb17f7b628215801.png",
+          "https://cdn.modrinth.com/data/qwgbtiVV/images/1dd05a2d21d5a03aab5b138ee85ccac2f5e843ed.png"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/qwgbtiVV/images/ad8aec7fa41f266567584c59d2a1a7fcbe668d9e.png",
+        "color": 15454217
+      },
+      {
+        "project_id": "aFH6Wmr4",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "disenchantlite",
+        "author": "lambhuna",
+        "author_id": "YEANPanh",
+        "organization": null,
+        "organization_id": null,
+        "title": "DisenchantLite",
+        "description": "A lightweight server-side Fabric mod that adds disenchanting features using vanilla anvils.",
+        "categories": [
+          "equipment",
+          "fabric",
+          "game-mechanics",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "utility"
+        ],
+        "versions": [
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2"
+        ],
+        "downloads": 13180,
+        "follows": 17,
+        "icon_url": "https://cdn.modrinth.com/data/aFH6Wmr4/4e08010f1aa7bea718eef6e34faf3661daad070a_96.webp",
+        "date_created": "2025-10-20T03:24:31.711090+00:00",
+        "date_modified": "2026-08-11T13:56:50.120094+00:00",
+        "latest_version": "g7vneLOo",
+        "license": "MIT",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/aFH6Wmr4/images/c4103305f273a02da7d33515123bf651255b284d.gif",
+          "https://cdn.modrinth.com/data/aFH6Wmr4/images/5357eb8f3c850cf3f9a38a3b6f6ca5f3b1527a15_350.webp",
+          "https://cdn.modrinth.com/data/aFH6Wmr4/images/b0a6390a6d63460658e6cd3e68ab9a317f492dba_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 2499880
+      },
+      {
+        "project_id": "5fnh5I50",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "magikos-disenchantment",
+        "author": "Code-Arcanist",
+        "author_id": "XJwSlpNE",
+        "organization": null,
+        "organization_id": null,
+        "title": "Magikos - Disenchantment",
+        "description": "The Magikos Disenchanting Mod introduces a powerful new way for players to manage enchantments in Minecraft.",
+        "categories": [
+          "equipment",
+          "fabric",
+          "game-mechanics",
+          "magic",
+          "management",
+          "storage",
+          "utility"
+        ],
+        "display_categories": [
+          "equipment",
+          "fabric",
+          "magic",
+          "management"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6",
+          "1.21.4",
+          "1.21.11",
+          "26.1.2"
+        ],
+        "downloads": 958,
+        "follows": 1,
+        "icon_url": "https://cdn.modrinth.com/data/5fnh5I50/080efe0feed3fb88c5c51e7b55716745c5f4f8e7_96.webp",
+        "date_created": "2025-01-23T00:36:42.926232+00:00",
+        "date_modified": "2026-06-22T09:16:48.602015+00:00",
+        "latest_version": "8mCURaBy",
+        "license": "CC-BY-NC-SA-4.0",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 1186590
+      },
+      {
+        "project_id": "vavey597",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "m23_more_enchantments",
+        "author": "moumoumou2333",
+        "author_id": "pUhPgzYL",
+        "organization": null,
+        "organization_id": null,
+        "title": "More Enchantments",
+        "description": "Add a disenchanting table, an anvil and more enchantments.",
+        "categories": [
+          "fabric",
+          "magic"
+        ],
+        "display_categories": [
+          "fabric",
+          "magic"
+        ],
+        "versions": [
+          "1.20.1"
+        ],
+        "downloads": 481,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/vavey597/437a812595496918d36a2c980d5ab8dc21a175bc.png",
+        "date_created": "2026-03-20T07:40:43.357788+00:00",
+        "date_modified": "2026-10-12T05:09:39.292607+00:00",
+        "latest_version": "KngAiqln",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/vavey597/images/bb52b1f061cc42d367d71938795acf4cff71f8db_350.webp",
+          "https://cdn.modrinth.com/data/vavey597/images/a2ab0f64914ad358b1f11da93bce66c7098b1b57_350.webp",
+          "https://cdn.modrinth.com/data/vavey597/images/81ee2da3996122d6eb28ca7dbe1e52c24e9cabab_350.webp",
+          "https://cdn.modrinth.com/data/vavey597/images/ac212395596c451832da3cd7431a466e87968180_350.webp",
+          "https://cdn.modrinth.com/data/vavey597/images/43ca593dc9bdcb6dead39fddcfcfebdcb43b4c40_350.webp",
+          "https://cdn.modrinth.com/data/vavey597/images/86f58d5a40309019f5691aedfc246e8376df8d61_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 2116741
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 5
+  }
+}

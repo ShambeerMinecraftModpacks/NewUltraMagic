@@ -1,0 +1,78 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=T.O+Magic+%27n+Extras&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:20.950164+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "uoNbtac8",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "somake-spells-irons-spells-addon",
+        "author": "somakenetwork",
+        "author_id": "KsLDN3Bi",
+        "organization": null,
+        "organization_id": null,
+        "title": "Somake Spells - Iron's Spells Addon",
+        "description": "An addon for Iron's Spellbooks, with integration with Cataclysm, Born In Chaos and Companions compatibility. Inspired by T.O Magic 'n Extras.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic",
+          "neoforge"
+        ],
+        "display_categories": [
+          "adventure",
+          "equipment",
+          "magic",
+          "neoforge"
+        ],
+        "versions": [
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11"
+        ],
+        "downloads": 13649,
+        "follows": 26,
+        "icon_url": "https://cdn.modrinth.com/data/uoNbtac8/6d4997e6aa87e092b496757c423518e87966e1d6.gif",
+        "date_created": "2026-02-15T01:27:56.890588+00:00",
+        "date_modified": "2026-09-01T07:11:03.882581+00:00",
+        "latest_version": "65ZxAgl8",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/uoNbtac8/images/0749f95d052cb511219721e901b7cdcd9bf98cd7_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/31171889fe3f66c0200505ede10ea842a61fd202_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/25e9fad1577d00e4dbc6d571dbb3d37db522beb7_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/210d07f5737ccc06680afa85427388612de80181_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/081565ad5654dbc005c65410dc81740bce5b2930_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/f938f5282817f06e16ceb4b0c0954d88cb4d9277_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/7e90845438ba46fb711295a5c9d684930eedc8d6_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/dbb62bcbba92a35a7a3604ceba43bb83ff3e88eb_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/0474037e6463b533e19ca2c397ad5a4343b0f9f8_350.webp",
+          "https://cdn.modrinth.com/data/uoNbtac8/images/9500a29cd06e351a7e0e56bdd2fbd0e2f452d736_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 789007
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 1
+  }
+}

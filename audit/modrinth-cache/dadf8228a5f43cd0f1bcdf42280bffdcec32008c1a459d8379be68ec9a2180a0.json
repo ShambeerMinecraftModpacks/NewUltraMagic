@@ -1,0 +1,3196 @@
+{
+  "url": "https://api.modrinth.com/v2/project/8BmcQJ2H/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:33.548361+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Grwn5rUB",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.9.3",
+      "changelog": "v4.9.3\n\n- Fixed an issue where the start/end of a catmull-rom (smooth) easing would be ignored (#895)\n- Fixed incorrectly parsed MathFunctions sometimes causing crashes on load\n- Fixed `OR` and `AND` molang operators eagerly resolving the right-hand side of the operation even if the left-hand side precludes it\n- Added `&` and `|` molang operator aliases for `&&` and `||` respectively\n- Fixed lower-level molang operators not having the correct precedence\n- Fixed empty molang sub-statements resulting in an error\n- Improved error messages for molang parsing\n- Fixed negative variable references in molang sometimes failing to parse\n- Fixed negative functions in molang sometimes failing to parse\n- Fixed some numeric values not being parsed as values in Molang\n- Fixed DieRollIntegerFunction calling itself `die_roll`\n- Fixed nested Ternary expressions in Molang cannibalising themselves\n- Fixed LoopType.DEFAULT not being serializable\n- Fix Serverbound packets (of which we have none currently) crashing on forge dedicated servers\n- Fixed Molang query names being case-sensitive\n- Add support for single-entry vector arrays in models\n- Fixed potentially dodgy `RawAnimation` equality comparisons\n- Fixed `easeinquint` only using a quadruple modifier\n- Fixed some loose optional networking on Forge\n- Prevent some rare crashes from `ItemArmorGeoLayer`\n- Prevent some rare crashes when multiple mods load at the same time and add synced singleton animatables\n- Fixed potentially inversely scaled arguments causing problems for randomizing MathFunctions (DieRollInteger, RandomInteger)\n- Fix asin/acos/atan functions wrongfully reducing inputs to radians, and not accounting for out-of-range edge cases\n- Added support for more direction BlockState properties for GeoBlock rendering\n- Fixed `KeyframeData` and its child classes not handling `equals` properly\n- Fixed assignments with ternaries or calculations not evaluating properly\n- Added the `math.min_angle` molang function",
+      "changelog_url": null,
+      "date_published": "2026-09-16T07:34:19.892008Z",
+      "downloads": 368974,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fVcmWrFp",
+          "hashes": {
+            "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+            "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
+          "primary": true,
+          "size": 634531,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "nOfQUA8r",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.9.3",
+      "changelog": "v4.9.3\n\n- Fixed an issue where the start/end of a catmull-rom (smooth) easing would be ignored (#895)\n- Fixed incorrectly parsed MathFunctions sometimes causing crashes on load\n- Fixed `OR` and `AND` molang operators eagerly resolving the right-hand side of the operation even if the left-hand side precludes it\n- Added `&` and `|` molang operator aliases for `&&` and `||` respectively\n- Fixed lower-level molang operators not having the correct precedence\n- Fixed empty molang sub-statements resulting in an error\n- Improved error messages for molang parsing\n- Fixed negative variable references in molang sometimes failing to parse\n- Fixed negative functions in molang sometimes failing to parse\n- Fixed some numeric values not being parsed as values in Molang\n- Fixed DieRollIntegerFunction calling itself `die_roll`\n- Fixed nested Ternary expressions in Molang cannibalising themselves\n- Fixed LoopType.DEFAULT not being serializable\n- Fix Serverbound packets (of which we have none currently) crashing on forge dedicated servers\n- Fixed Molang query names being case-sensitive\n- Add support for single-entry vector arrays in models\n- Fixed potentially dodgy `RawAnimation` equality comparisons\n- Fixed `easeinquint` only using a quadruple modifier\n- Fixed some loose optional networking on Forge\n- Prevent some rare crashes from `ItemArmorGeoLayer`\n- Prevent some rare crashes when multiple mods load at the same time and add synced singleton animatables\n- Fixed potentially inversely scaled arguments causing problems for randomizing MathFunctions (DieRollInteger, RandomInteger)\n- Fix asin/acos/atan functions wrongfully reducing inputs to radians, and not accounting for out-of-range edge cases\n- Added support for more direction BlockState properties for GeoBlock rendering\n- Fixed `KeyframeData` and its child classes not handling `equals` properly\n- Fixed assignments with ternaries or calculations not evaluating properly\n- Added the `math.min_angle` molang function",
+      "changelog_url": null,
+      "date_published": "2026-09-16T07:33:29.808285Z",
+      "downloads": 15757,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZOdgeA7f",
+          "hashes": {
+            "sha1": "4842be5819120e003f57f2ebe5a8082f1fc560f4",
+            "sha512": "a4d04303b4f4659e8e9383a2daed4ba3bdae3d07c683d289ac021cd0532fec082982c909934b442322146d55bd423a55bbd405c7b60b785cbacfb9fb3f06e37c"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/nOfQUA8r/geckolib-forge-1.21.1-4.9.3.jar",
+          "filename": "geckolib-forge-1.21.1-4.9.3.jar",
+          "primary": true,
+          "size": 1267756,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "tmxM7U4W",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.9.3",
+      "changelog": "v4.9.3\n\n- Fixed an issue where the start/end of a catmull-rom (smooth) easing would be ignored (#895)\n- Fixed incorrectly parsed MathFunctions sometimes causing crashes on load\n- Fixed `OR` and `AND` molang operators eagerly resolving the right-hand side of the operation even if the left-hand side precludes it\n- Added `&` and `|` molang operator aliases for `&&` and `||` respectively\n- Fixed lower-level molang operators not having the correct precedence\n- Fixed empty molang sub-statements resulting in an error\n- Improved error messages for molang parsing\n- Fixed negative variable references in molang sometimes failing to parse\n- Fixed negative functions in molang sometimes failing to parse\n- Fixed some numeric values not being parsed as values in Molang\n- Fixed DieRollIntegerFunction calling itself `die_roll`\n- Fixed nested Ternary expressions in Molang cannibalising themselves\n- Fixed LoopType.DEFAULT not being serializable\n- Fix Serverbound packets (of which we have none currently) crashing on forge dedicated servers\n- Fixed Molang query names being case-sensitive\n- Add support for single-entry vector arrays in models\n- Fixed potentially dodgy `RawAnimation` equality comparisons\n- Fixed `easeinquint` only using a quadruple modifier\n- Fixed some loose optional networking on Forge\n- Prevent some rare crashes from `ItemArmorGeoLayer`\n- Prevent some rare crashes when multiple mods load at the same time and add synced singleton animatables\n- Fixed potentially inversely scaled arguments causing problems for randomizing MathFunctions (DieRollInteger, RandomInteger)\n- Fix asin/acos/atan functions wrongfully reducing inputs to radians, and not accounting for out-of-range edge cases\n- Added support for more direction BlockState properties for GeoBlock rendering\n- Fixed `KeyframeData` and its child classes not handling `equals` properly\n- Fixed assignments with ternaries or calculations not evaluating properly\n- Added the `math.min_angle` molang function",
+      "changelog_url": null,
+      "date_published": "2026-09-16T07:32:34.701811Z",
+      "downloads": 189927,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NGf9z6SF",
+          "hashes": {
+            "sha512": "e26a1c15d10cf5c1234309dbb82fb23d4783b2594b2454b16a9c964fab9e9912be66904b03eb01ebb94dada298d98de18d66f5e3f4173f771579b56e13f7da16",
+            "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tmxM7U4W/geckolib-fabric-1.21.1-4.9.3.jar",
+          "filename": "geckolib-fabric-1.21.1-4.9.3.jar",
+          "primary": true,
+          "size": 664463,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "tPkJmim6",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.9.2",
+      "changelog": "v4.9.2\n\n- Fixed GeckoLib passing the wrong partialTick to GeoRenderLayer#preRender (#877)",
+      "changelog_url": null,
+      "date_published": "2026-07-01T03:42:04.254010Z",
+      "downloads": 1380010,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ESu3dflP",
+          "hashes": {
+            "sha512": "c91012b16cc40c8f48f69b78cb8e2e5c006486ae2431fbd289dfc01be7a4217294becea22d83a155d6b32b3969450df871352a3695e1452168b84f41355f7b9e",
+            "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tPkJmim6/geckolib-neoforge-1.21.1-4.9.2.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.9.2.jar",
+          "primary": true,
+          "size": 630584,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "54HVH8sg",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.9.2",
+      "changelog": "v4.9.2\n\n- Fixed GeckoLib passing the wrong partialTick to GeoRenderLayer#preRender (#877)",
+      "changelog_url": null,
+      "date_published": "2026-07-01T03:40:18.921525Z",
+      "downloads": 57797,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ezh5fWjQ",
+          "hashes": {
+            "sha512": "e9c886c36502465b6c3f66c83c23b7c56adf3af76c091e3c9f6485270fc33bf31e87a096cf47333134d7c83ed77f642e91334fa1b99c4478682f7d84fe1c0508",
+            "sha1": "3f7a08e14528deaaf00a557f6d27d415468d424b"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/54HVH8sg/geckolib-forge-1.21.1-4.9.2.jar",
+          "filename": "geckolib-forge-1.21.1-4.9.2.jar",
+          "primary": true,
+          "size": 1263786,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "dnJdtm0u",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.9.2",
+      "changelog": "v4.9.2\n\n- Fixed GeckoLib passing the wrong partialTick to GeoRenderLayer#preRender (#877)",
+      "changelog_url": null,
+      "date_published": "2026-07-01T03:37:36.255616Z",
+      "downloads": 1949943,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yNTVcIuv",
+          "hashes": {
+            "sha1": "b95b1d631baeada54c6773ca8f6ede40d57fea46",
+            "sha512": "2442ebe35e84ab9dc564f059d4003b6a9d2a3f304f02427e8710ad35b3547637f292b2aced021f765c4cbac7c4e9b5043fe9cb84ac85912151cf6d0e9c09696d"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dnJdtm0u/geckolib-fabric-1.21.1-4.9.2.jar",
+          "filename": "geckolib-fabric-1.21.1-4.9.2.jar",
+          "primary": true,
+          "size": 660416,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "hv8CwiCV",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.9.1",
+      "changelog": "v4.9.1\n\n- Fixed GeckoLib blocks being completely broken (#869)",
+      "changelog_url": null,
+      "date_published": "2026-06-23T22:50:38.202034Z",
+      "downloads": 124328,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cDWGQ8qm",
+          "hashes": {
+            "sha1": "b24f275983126d9e8e6c568cd0f2d2d7e92333c8",
+            "sha512": "9e2f7b2565bf0e8cc1d6a13149b224903d13391032db5d0efb1382ff0d7431e3663ebe727470413e79dd66acff7bf5ccb80c64256771e138224950647ec8c1bc"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/hv8CwiCV/geckolib-neoforge-1.21.1-4.9.1.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.9.1.jar",
+          "primary": true,
+          "size": 630581,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ScuUdmQ4",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.9.1",
+      "changelog": "v4.9.1\n\n- Fixed GeckoLib blocks being completely broken (#869)",
+      "changelog_url": null,
+      "date_published": "2026-06-23T22:49:15.780028Z",
+      "downloads": 5435,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7RQrxTcx",
+          "hashes": {
+            "sha512": "83cc99ac9e43133e293675d5e7820c63a52a56d43f0d4b2bfe99de6ac62d247b1e7d6a992ff6cb6034adbaaa2601dcf539585ffe44b2f0b14b1e9d21f3ff7f6f",
+            "sha1": "a953583b7529b06becf2017bad233902f1295065"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/ScuUdmQ4/geckolib-forge-1.21.1-4.9.1.jar",
+          "filename": "geckolib-forge-1.21.1-4.9.1.jar",
+          "primary": true,
+          "size": 1263787,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "sLlRgyS8",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.9.1",
+      "changelog": "v4.9.1\n\n- Fixed GeckoLib blocks being completely broken (#869)",
+      "changelog_url": null,
+      "date_published": "2026-06-23T22:48:07.914570Z",
+      "downloads": 44375,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TYUc7d6p",
+          "hashes": {
+            "sha512": "bee859834dc3b9e2c14fb964766c346b5297139928ca13b341aa1c0bd43a9eceadd9eb0f5f820d7895d9a283b53cfe3aabc96d0f337e432d80f3033f63aa078f",
+            "sha1": "0096909ed6619673b63f943b14208ac35d6ce377"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/sLlRgyS8/geckolib-fabric-1.21.1-4.9.1.jar",
+          "filename": "geckolib-fabric-1.21.1-4.9.1.jar",
+          "primary": true,
+          "size": 660426,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "nVVifqqD",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.9",
+      "changelog": "v4.9\n\n- Added `AttachedAnimatableRenderLayer` and a handful of subclasses to make rendering GeckoLib objects on vanilla models (such as players) a lot easier\n- Fixed GeoBlockEntities not having correct bone positions (#841)\n- Prevent invalid animation mcmetas being loaded by GeckoLib",
+      "changelog_url": null,
+      "date_published": "2026-06-22T20:57:09.063843Z",
+      "downloads": 1123,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "saPLbWFA",
+          "hashes": {
+            "sha512": "14b36a74002dc7640042fca5bb1204a843f5c778d53250fc778ea96d5731db0b3cd2ade386c515aeaf0dd5abf7bdcf31f644cc5261bb3ed1a6c512482dea9187",
+            "sha1": "5bb2bf9e9d3d59abc852a8a78fd6c7002aa270bf"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/nVVifqqD/geckolib-forge-1.21.1-4.9.jar",
+          "filename": "geckolib-forge-1.21.1-4.9.jar",
+          "primary": true,
+          "size": 1263780,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "F3JBWthV",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.9",
+      "changelog": "v4.9\n\n- Added `AttachedAnimatableRenderLayer` and a handful of subclasses to make rendering GeckoLib objects on vanilla models (such as players) a lot easier\n- Fixed GeoBlockEntities not having correct bone positions (#841)\n- Prevent invalid animation mcmetas being loaded by GeckoLib",
+      "changelog_url": null,
+      "date_published": "2026-06-22T11:03:56.278897Z",
+      "downloads": 26992,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "20pjkynw",
+          "hashes": {
+            "sha512": "0548e7459874c744b87fcea3e7f8129e96a3010c02dd305f92ad3cc920cbd32195b3f5b7811f3594b73f4c4372cc366011da2f840e789fbf33c30762982bf685",
+            "sha1": "05596e6f9735d896ca9dae8173210dc1c428c0df"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/F3JBWthV/geckolib-neoforge-1.21.1-4.9.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.9.jar",
+          "primary": true,
+          "size": 630587,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "pd0AQbbN",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.9",
+      "changelog": "v4.9\n\n- Added `AttachedAnimatableRenderLayer` and a handful of subclasses to make rendering GeckoLib objects on vanilla models (such as players) a lot easier\n- Fixed GeoBlockEntities not having correct bone positions (#841)\n- Prevent invalid animation mcmetas being loaded by GeckoLib",
+      "changelog_url": null,
+      "date_published": "2026-06-22T11:02:24.475341Z",
+      "downloads": 18844,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WliqyQHf",
+          "hashes": {
+            "sha1": "76d92d4226620b88f23834a5a0a3fe178829746e",
+            "sha512": "18bc7461215517258c7e5f4f2d811f76fed1c389766e0012be9af114c2f8ad55f15645ac05bc97321121760d377efcd0a08b88b9c28898858cf226ea400066a2"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/pd0AQbbN/geckolib-fabric-1.21.1-4.9.jar",
+          "filename": "geckolib-fabric-1.21.1-4.9.jar",
+          "primary": true,
+          "size": 660418,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "gFmrC8Ru",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.8.4",
+      "changelog": "v4.8.4\n\n- Prevent crashing from an empty molang string\n- Fixed Molang calculations sometimes parsing math incorrectly (#820)\n- Fixed MathParser not parsing group negatives properly (#820)",
+      "changelog_url": null,
+      "date_published": "2026-03-03T20:06:25.035771Z",
+      "downloads": 1425162,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EwiII4Jp",
+          "hashes": {
+            "sha512": "340d96149a04c57c09485f5b1c69e7f8ec3b68223c618e38b7d84c58f4280dcba3d0e9480b8fc79735d9ef5fd7da5fc8f3081d575bf4bbcd2c44b6dcf21d98c0",
+            "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "primary": true,
+          "size": 622582,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "1f8hO2Hu",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.8.4",
+      "changelog": "v4.8.4\n\n- Prevent crashing from an empty molang string\n- Fixed Molang calculations sometimes parsing math incorrectly (#820)\n- Fixed MathParser not parsing group negatives properly (#820)",
+      "changelog_url": null,
+      "date_published": "2026-03-03T20:05:17.684328Z",
+      "downloads": 46263,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DNkbt2PH",
+          "hashes": {
+            "sha1": "847c7dadf5da4565e7f2e9711841b87e28641526",
+            "sha512": "d9b3a258d48a6a946e8bec4b05f8b9cb4edf650599db6a4da653f34bad2738fa035197f0e79dc098ce0364a3bca57c971590c329c047e22580191df01bf3ece2"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/1f8hO2Hu/geckolib-forge-1.21.1-4.8.4.jar",
+          "filename": "geckolib-forge-1.21.1-4.8.4.jar",
+          "primary": true,
+          "size": 806279,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "3GjkJptS",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.8.4",
+      "changelog": "v4.8.4\n\n- Prevent crashing from an empty molang string\n- Fixed Molang calculations sometimes parsing math incorrectly (#820)\n- Fixed MathParser not parsing group negatives properly (#820)",
+      "changelog_url": null,
+      "date_published": "2026-03-03T20:04:18.809708Z",
+      "downloads": 1654244,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ScBzrvCg",
+          "hashes": {
+            "sha1": "4285fbb6222b5b49869aea8a3a2f67c086b1c8bc",
+            "sha512": "fe2592bce89898c5dadba718cc3b58f4201c0a19fe3561cdab6a410155f43073ea57b9c1a83229589c8816c8e89a42336c4f0ae09c77640d3dfbadc07afb5f9e"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/3GjkJptS/geckolib-fabric-1.21.1-4.8.4.jar",
+          "filename": "geckolib-fabric-1.21.1-4.8.4.jar",
+          "primary": true,
+          "size": 653722,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "lWsXauBN",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.8.3",
+      "changelog": "v4.8.3\n\n- Added a safety check for mods attempting to render GeckoLib armor without using GeoRenderProvider. (#755, #804, etc)\n- Marked GeckoAnimFix as an incompatible mod since they refuse to stop breaking GeckoLib with their download-farming mod.",
+      "changelog_url": null,
+      "date_published": "2026-01-04T07:23:41.319169Z",
+      "downloads": 431100,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YHK97OxE",
+          "hashes": {
+            "sha1": "fb0ac6ad63dc5f401c15c66a037c08e9709d1c42",
+            "sha512": "4b8f3bcdc04450aa97af136353341f136921259f16f2363f3cfe77956860455f27c38f9701b3f0e8a78ea86067411ecd35d391803b753276934057481e770556"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/lWsXauBN/geckolib-neoforge-1.21.1-4.8.3.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.8.3.jar",
+          "primary": true,
+          "size": 622121,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "nbKhaX8Z",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.8.3",
+      "changelog": "v4.8.3\n\n- Added a safety check for mods attempting to render GeckoLib armor without using GeoRenderProvider. (#755, #804, etc)\n- Marked GeckoAnimFix as an incompatible mod since they refuse to stop breaking GeckoLib with their download-farming mod.",
+      "changelog_url": null,
+      "date_published": "2026-01-04T07:22:55.624214Z",
+      "downloads": 16287,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rGChmMAJ",
+          "hashes": {
+            "sha512": "60c675764c4c0cff912ca91f1b0def1fbc11d8d22aa32e591b4028de4ac27e36f99e41070e6e0ea1800fd310c5f6707e6a09c7168ad7b8f7e106984200968e67",
+            "sha1": "20e1287ba8bdcc2d8c04042674dbbeff0417a406"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/nbKhaX8Z/geckolib-forge-1.21.1-4.8.3.jar",
+          "filename": "geckolib-forge-1.21.1-4.8.3.jar",
+          "primary": true,
+          "size": 805818,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fvT8GY10",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.8.3",
+      "changelog": "v4.8.3\n\n- Added a safety check for mods attempting to render GeckoLib armor without using GeoRenderProvider. (#755, #804, etc)\n- Marked GeckoAnimFix as an incompatible mod since they refuse to stop breaking GeckoLib with their download-farming mod.",
+      "changelog_url": null,
+      "date_published": "2026-01-04T07:21:59.231744Z",
+      "downloads": 1412226,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EcbNFgLh",
+          "hashes": {
+            "sha512": "a7249f519b1dcd07678cb0469e6d55c043f5240ca109b5c7269e94fd00e1e38a6acf816cd7afed435a593afd8d9f7a0231aebccbe19021a493db8b1eae192d8c",
+            "sha1": "b82cb945e22f32d519c8a10face78149279e12ef"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fvT8GY10/geckolib-fabric-1.21.1-4.8.3.jar",
+          "filename": "geckolib-fabric-1.21.1-4.8.3.jar",
+          "primary": true,
+          "size": 653263,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "RVIo5f6E",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.8.2",
+      "changelog": "v4.8.2\n\n- Fix a double-space in DynamicGeoBlockRenderer's javadocs\n- Fix an incorrect link in StatelessAnimatable\n- Clean up an ugly javadoc entry in GeoReplacedEntity\n- Clean up some javadocs in GeoModel\n- Clean up some javadocs in GeoAnimatable\n- Clean up some javadocs in ContextAwareAnimatableManager\n- Clean up some javadocs in AnimatableManager\n- Fixed Singleton Geo animatables not showing a triggered anim when newly created for other players in multiplayer",
+      "changelog_url": null,
+      "date_published": "2025-09-22T19:52:43.235896Z",
+      "downloads": 865342,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JkR6mlnd",
+          "hashes": {
+            "sha1": "b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a",
+            "sha512": "6b70d7dc11adb68cd590110c6b29de39eaae40b55f934026288a2018f6d529a2579124d0596825126db4a499f0dfc26248e4005a452bc1b0d4d05c0279e33602"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/RVIo5f6E/geckolib-neoforge-1.21.1-4.8.2.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.8.2.jar",
+          "primary": true,
+          "size": 621848,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "IC1LrNId",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.8.2",
+      "changelog": "v4.8.2\n\n- Fix a double-space in DynamicGeoBlockRenderer's javadocs\n- Fix an incorrect link in StatelessAnimatable\n- Clean up an ugly javadoc entry in GeoReplacedEntity\n- Clean up some javadocs in GeoModel\n- Clean up some javadocs in GeoAnimatable\n- Clean up some javadocs in ContextAwareAnimatableManager\n- Clean up some javadocs in AnimatableManager\n- Fixed Singleton Geo animatables not showing a triggered anim when newly created for other players in multiplayer",
+      "changelog_url": null,
+      "date_published": "2025-09-22T19:51:05.789230Z",
+      "downloads": 20469,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pcCytLS2",
+          "hashes": {
+            "sha512": "875bf4a1a847326866fd3a3fa3162e0c4bbfe1f27601cad39efe106f4d4bd51521adcb4209d21ed379e50070c6f1e18c47928aab55c752eec0bead35179e429c",
+            "sha1": "191148f604dccd9cac8dfa6bd593ba61848bd7d9"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/IC1LrNId/geckolib-forge-1.21.1-4.8.2.jar",
+          "filename": "geckolib-forge-1.21.1-4.8.2.jar",
+          "primary": true,
+          "size": 805529,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fHBvu50G",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.8.2",
+      "changelog": "v4.8.2\n\n- Fix a double-space in DynamicGeoBlockRenderer's javadocs\n- Fix an incorrect link in StatelessAnimatable\n- Clean up an ugly javadoc entry in GeoReplacedEntity\n- Clean up some javadocs in GeoModel\n- Clean up some javadocs in GeoAnimatable\n- Clean up some javadocs in ContextAwareAnimatableManager\n- Clean up some javadocs in AnimatableManager\n- Fixed Singleton Geo animatables not showing a triggered anim when newly created for other players in multiplayer",
+      "changelog_url": null,
+      "date_published": "2025-09-22T19:48:15.610112Z",
+      "downloads": 2087973,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bG1QVE1U",
+          "hashes": {
+            "sha1": "849535bb1c7809b0d3adcff85db2d22005ca8329",
+            "sha512": "6a82ec0ab222838daecbbc2e2ad8347057a5078b038f071a9791e75a2510e0f84be2f247102b0b3c1d9e96d89fedb81b77741786f6250a2c7b96655a49ad4f96"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fHBvu50G/geckolib-fabric-1.21.1-4.8.2.jar",
+          "filename": "geckolib-fabric-1.21.1-4.8.2.jar",
+          "primary": true,
+          "size": 652999,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "5TEe2zHc",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.8.1",
+      "changelog": "v4.8.1\n\n- Make NeoForge's network registration optional, allowing for client-only GeckoLib usage",
+      "changelog_url": null,
+      "date_published": "2025-09-20T01:02:28.430855Z",
+      "downloads": 15610,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zp1mup9A",
+          "hashes": {
+            "sha1": "49cefea77a422bb03f780ad669e8a41ef0403825",
+            "sha512": "dd85864fdde892de91110e91170f6643ed020de9409250fd566520387d5071e191fa152e12df7e4c2f8efc635c69b17c5bbdcc140459111d95820bb56a186bd0"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/5TEe2zHc/geckolib-neoforge-1.21.1-4.8.1.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.8.1.jar",
+          "primary": true,
+          "size": 620617,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "oWecvjWB",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.8.1",
+      "changelog": "v4.8.1\n\n- Make NeoForge's network registration optional, allowing for client-only GeckoLib usage",
+      "changelog_url": null,
+      "date_published": "2025-09-20T01:00:32.195786Z",
+      "downloads": 976,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BdS3bk0z",
+          "hashes": {
+            "sha512": "c36131eeb199a32f5ad194b447e72282f3e3dba605034bad9090972db59509e7a8f7487446bb9043e791fdc33e71f1bc3f483ba633038c503a1e24374c1946c9",
+            "sha1": "4d1588df2026e0f6a794cc840af2834528f3e95d"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/oWecvjWB/geckolib-forge-1.21.1-4.8.1.jar",
+          "filename": "geckolib-forge-1.21.1-4.8.1.jar",
+          "primary": true,
+          "size": 804298,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "GYci37uq",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.8.1",
+      "changelog": "v4.8.1\n\n- Make NeoForge's network registration optional, allowing for client-only GeckoLib usage",
+      "changelog_url": null,
+      "date_published": "2025-09-20T00:58:53.804858Z",
+      "downloads": 13170,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FR2PO2kt",
+          "hashes": {
+            "sha512": "0d558a7a51af38df1ee2f196ec70d4d4e0ca1b9d29b2ff46e9ef5fa41bbe3dc7309160fec118f392f72c739aa7d1441501d0e2678cca7ec1dec5e3829579ebbd",
+            "sha1": "9d0dd9b0fc68898d579e2ad8c45fdf2a31fc6788"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/GYci37uq/geckolib-fabric-1.21.1-4.8.1.jar",
+          "filename": "geckolib-fabric-1.21.1-4.8.1.jar",
+          "primary": true,
+          "size": 651705,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "8fUygmio",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.8",
+      "changelog": "v4.8\n\n- Added \"Stateless\" animatables. These are an alternate way of handling animations for GeckoLib animatables.\n  - See: https://github.com/bernie-g/geckolib/wiki/Stateless-Animatable-Handling-(Geckolib4)\n  - Added:\n    - `StatelessGeoBlockEntity`\n    - `StatelessGeoEntity`\n    - `StatelessGeoObject`\n    - `StatelessGeoReplacedEntity`\n    - `StatelessGeoSingletonAnimatable`\n    - `StatelessAnimationController`\n- Added `attack.punch` DefaultAnimation constant\n- Added `misc.idle.flying` DefaultAnimation constant\n- Added `move.dive` DefaultAnimation constant\n- Added `DefaultAnimations#triggerOnlyController` for creating a controller specifically for arbitrary triggered animations\n- Added a StreamCodec implementation for `Animation.Stage`\n- Added a StreamCodec implementation for `RawAnimation`\n- Added `RawAnimation#getStageCount`\n- Added `AnimationController#getStateHandler`\n- Added `DefaultAnimations#genericWalkFlyIdleController`\n- Added a constructor overload for various GeckoLib renderers that takes the item directly and creates a defaulted instance using the object's registered ID for quick and easy handling\n    - E.G. `new GeoEntityRenderer(ModEntities.MY_ENTITY);`",
+      "changelog_url": null,
+      "date_published": "2025-09-18T19:29:15.072027Z",
+      "downloads": 7080,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IMxJ960R",
+          "hashes": {
+            "sha1": "4ca6a6aedce49d051c3b1ff2422a0b4b6d9880c0",
+            "sha512": "b7417b3a64c662809adf9bf6fa57d7223d8a41bab56de3dcaf21bf67d579b5f20308035cfafd8518c14394236eba65948e5997a4ca7a0e90b667c2bbdf6a1f39"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/8fUygmio/geckolib-neoforge-1.21.1-4.8.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.8.jar",
+          "primary": true,
+          "size": 620595,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "rRDd6C0a",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.8",
+      "changelog": "v4.8\n\n- Added \"Stateless\" animatables. These are an alternate way of handling animations for GeckoLib animatables.\n  - See: https://github.com/bernie-g/geckolib/wiki/Stateless-Animatable-Handling-(Geckolib4)\n  - Added:\n    - `StatelessGeoBlockEntity`\n    - `StatelessGeoEntity`\n    - `StatelessGeoObject`\n    - `StatelessGeoReplacedEntity`\n    - `StatelessGeoSingletonAnimatable`\n    - `StatelessAnimationController`\n- Added `attack.punch` DefaultAnimation constant\n- Added `misc.idle.flying` DefaultAnimation constant\n- Added `move.dive` DefaultAnimation constant\n- Added `DefaultAnimations#triggerOnlyController` for creating a controller specifically for arbitrary triggered animations\n- Added a StreamCodec implementation for `Animation.Stage`\n- Added a StreamCodec implementation for `RawAnimation`\n- Added `RawAnimation#getStageCount`\n- Added `AnimationController#getStateHandler`\n- Added `DefaultAnimations#genericWalkFlyIdleController`\n- Added a constructor overload for various GeckoLib renderers that takes the item directly and creates a defaulted instance using the object's registered ID for quick and easy handling\n    - E.G. `new GeoEntityRenderer(ModEntities.MY_ENTITY);`",
+      "changelog_url": null,
+      "date_published": "2025-09-18T19:28:21.350922Z",
+      "downloads": 492,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "go6xeVUG",
+          "hashes": {
+            "sha1": "ab79ba9bc917d27ba33cb6b60eb07c337b4cf6f1",
+            "sha512": "559d98ed87a85e9dfa88d2bcc5ee6b5c95ee738dc453d96e670c182c70e00374bd90686a1eebcb2f91b9432a176154cbcd4c64e9f7b01ab4346f101b5fccf021"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/rRDd6C0a/geckolib-forge-1.21.1-4.8.jar",
+          "filename": "geckolib-forge-1.21.1-4.8.jar",
+          "primary": true,
+          "size": 804299,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Ws2cGGMx",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.8",
+      "changelog": "v4.8\n\n- Added \"Stateless\" animatables. These are an alternate way of handling animations for GeckoLib animatables.\n  - See: https://github.com/bernie-g/geckolib/wiki/Stateless-Animatable-Handling-(Geckolib4)\n  - Added:\n    - `StatelessGeoBlockEntity`\n    - `StatelessGeoEntity`\n    - `StatelessGeoObject`\n    - `StatelessGeoReplacedEntity`\n    - `StatelessGeoSingletonAnimatable`\n    - `StatelessAnimationController`\n- Added `attack.punch` DefaultAnimation constant\n- Added `misc.idle.flying` DefaultAnimation constant\n- Added `move.dive` DefaultAnimation constant\n- Added `DefaultAnimations#triggerOnlyController` for creating a controller specifically for arbitrary triggered animations\n- Added a StreamCodec implementation for `Animation.Stage`\n- Added a StreamCodec implementation for `RawAnimation`\n- Added `RawAnimation#getStageCount`\n- Added `AnimationController#getStateHandler`\n- Added `DefaultAnimations#genericWalkFlyIdleController`\n- Added a constructor overload for various GeckoLib renderers that takes the item directly and creates a defaulted instance using the object's registered ID for quick and easy handling\n    - E.G. `new GeoEntityRenderer(ModEntities.MY_ENTITY);`",
+      "changelog_url": null,
+      "date_published": "2025-09-18T19:27:21.895109Z",
+      "downloads": 8653,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DaDj9Pbq",
+          "hashes": {
+            "sha1": "c6b439039bc9abff9bc699609e57ba95a9279fb3",
+            "sha512": "920c6bf0dfb2cfa54fb065165b86f4d1dc3be45931c1ad96251c2db8cba08238c77e06d94fe1bcb4d95644547ae2e66690141f3c50fbeffd9c587c0d39e5e0e0"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Ws2cGGMx/geckolib-fabric-1.21.1-4.8.jar",
+          "filename": "geckolib-fabric-1.21.1-4.8.jar",
+          "primary": true,
+          "size": 651704,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "18qeSgOb",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.7",
+      "changelog": "v4.7.7\n\n- Properly handle exception when attempting to glowmask an animated texture (Pull #758)\n- Changed DefaultedEntityGeoModel to use a nullable bone name input for its head turning instead of a flat boolean (#753)\n- Fixed some specific bedrock-format animations failing to parse if exported on newer versions of Blockbench",
+      "changelog_url": null,
+      "date_published": "2025-08-24T00:29:07.703428Z",
+      "downloads": 118066,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Wx7cheiP",
+          "hashes": {
+            "sha1": "36883f8ea9117932bb5f2643a29578c6506e2339",
+            "sha512": "4ad5e086bfe25150268e3cce9d1ee8e1aaa37b843fc4cd9b117d195c9a2141e14941debfd63dbac7f803bdc6994d3e038891fd502f70ae530af76280e4913331"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/18qeSgOb/geckolib-neoforge-1.21.1-4.7.7.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.7.jar",
+          "primary": true,
+          "size": 593507,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "M7nLbNU3",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.7",
+      "changelog": "v4.7.7\n\n- Properly handle exception when attempting to glowmask an animated texture (Pull #758)\n- Changed DefaultedEntityGeoModel to use a nullable bone name input for its head turning instead of a flat boolean (#753)\n- Fixed some specific bedrock-format animations failing to parse if exported on newer versions of Blockbench",
+      "changelog_url": null,
+      "date_published": "2025-08-24T00:28:13.680615Z",
+      "downloads": 4488,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uSntuS7B",
+          "hashes": {
+            "sha1": "cf0215e980d5b9fa4f946f9232981892f2a793b6",
+            "sha512": "593c02b5a289ee87c103d1fe889dcba0d790f43763779e403abaebd17d86ad06711329192debbc723164c43ffa033b25f69c8607fb0a7415597b3452c1d3dcd0"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/M7nLbNU3/geckolib-forge-1.21.1-4.7.7.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.7.jar",
+          "primary": true,
+          "size": 777213,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "6UTA5nCc",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.7",
+      "changelog": "v4.7.7\n\n- Properly handle exception when attempting to glowmask an animated texture (Pull #758)\n- Changed DefaultedEntityGeoModel to use a nullable bone name input for its head turning instead of a flat boolean (#753)\n- Fixed some specific bedrock-format animations failing to parse if exported on newer versions of Blockbench",
+      "changelog_url": null,
+      "date_published": "2025-08-24T00:27:17.256649Z",
+      "downloads": 921032,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YlOJWKrs",
+          "hashes": {
+            "sha512": "307687b55b2ea779906a3fd96308506c341d641c5d15753d6f92404b232cb4bcc0a0428f8b0aa2149696187769b2dbd86f85f0e4f88834ad2787a9fb06f52c60",
+            "sha1": "5062839015de5f68f89b6414806331e3d96e9e94"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/6UTA5nCc/geckolib-fabric-1.21.1-4.7.7.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.7.jar",
+          "primary": true,
+          "size": 624690,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "DTo3uxPN",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.6",
+      "changelog": "v4.7.6\n\n- Clean up javadoc and param naming for GeckoLibUtil#getSyncedAnimatable\n- Allow for manually changed GeckoLib stack ids (???) to be synced as normal\n- Fix GeoArmorRenderer sharing its animations when not registered as a synced animatable (#730)",
+      "changelog_url": null,
+      "date_published": "2025-06-16T20:34:41.658540Z",
+      "downloads": 515332,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EZ895rjk",
+          "hashes": {
+            "sha1": "0e1a29a8b0bafa8bf0cf3c44149cc5e0636f33d6",
+            "sha512": "bb493b082e3a871d0b5df3f9eaee08d47d931a38daa37a9debf6d3e7bfdcc490dc98008f631c2282ea405c383c4b05afdb19a898e4419ed7616e4128fe5460d0"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DTo3uxPN/geckolib-neoforge-1.21.1-4.7.6.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.6.jar",
+          "primary": true,
+          "size": 592929,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "KH9ft8mq",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.6",
+      "changelog": "v4.7.6\n\n- Clean up javadoc and param naming for GeckoLibUtil#getSyncedAnimatable\n- Allow for manually changed GeckoLib stack ids (???) to be synced as normal\n- Fix GeoArmorRenderer sharing its animations when not registered as a synced animatable (#730)",
+      "changelog_url": null,
+      "date_published": "2025-06-16T20:32:28.179599Z",
+      "downloads": 14478,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cqIgPLnm",
+          "hashes": {
+            "sha512": "db8ddc0e5c02bec8d5126413490aa3ebb1923b2bf648857faf9e8121f698f09be775d9779eff26b0d56dd16215d6f6c12f512f5d8315809616c4debf9b398978",
+            "sha1": "c3bd4cf7e69de9aec354004c7b8cee23083dfd4c"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/KH9ft8mq/geckolib-forge-1.21.1-4.7.6.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.6.jar",
+          "primary": true,
+          "size": 776635,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "aHSu8jaP",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.6",
+      "changelog": "v4.7.6\n\n- Clean up javadoc and param naming for GeckoLibUtil#getSyncedAnimatable\n- Allow for manually changed GeckoLib stack ids (???) to be synced as normal\n- Fix GeoArmorRenderer sharing its animations when not registered as a synced animatable (#730)",
+      "changelog_url": null,
+      "date_published": "2025-06-16T20:30:54.024715Z",
+      "downloads": 817614,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uaV6oWMI",
+          "hashes": {
+            "sha1": "5d03126e0d912156e774bbde6e985c7b76315e03",
+            "sha512": "d63df86738904cd16528397cbfb1abf2e327dd81bca1550151b702c6f6d6604283beabfa07d8386f468ec66f1be78f9dbe29586b6a413437986f49bd6d9bb0be"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aHSu8jaP/geckolib-fabric-1.21.1-4.7.6.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.6.jar",
+          "primary": true,
+          "size": 624091,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "QEqpUJ1G",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.5.1",
+      "changelog": "v4.7.5.1\n\n- Remove frame extrapolation from spline lerping",
+      "changelog_url": null,
+      "date_published": "2025-03-14T22:45:42.742353Z",
+      "downloads": 709373,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aK3GwBmT",
+          "hashes": {
+            "sha512": "0cb7c45ce6aaf8b04e6490db20b0187d2e8cb622fb72ea15fee7476f2600e96ef7cbdef4c96a620dc30f818698605d3969b5145a6c317456befb9862154b6c6f",
+            "sha1": "d7e93af8a9b097ef8da7244bb33e9c40a2ca83f6"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/QEqpUJ1G/geckolib-neoforge-1.21.1-4.7.5.1.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.5.1.jar",
+          "primary": true,
+          "size": 592730,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "QTUzWrmO",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.5.1",
+      "changelog": "v4.7.5.1\n\n- Remove frame extrapolation from spline lerping",
+      "changelog_url": null,
+      "date_published": "2025-03-14T22:43:57.655664Z",
+      "downloads": 17042,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Rm648Uke",
+          "hashes": {
+            "sha512": "932ae82507fecd2b298a48d6b1887fa5f4388abadc3114f2f95a9b5c710dbb9975447182352782f104c42f7d6e40b4f8d4e28b40839ab3dfbabf6564efffa235",
+            "sha1": "0413a6ee92d0b7661ba63f2fad2d8f9f71a4be1e"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/QTUzWrmO/geckolib-forge-1.21.1-4.7.5.1.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.5.1.jar",
+          "primary": true,
+          "size": 776436,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "PEvrTvgj",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.5.1",
+      "changelog": "v4.7.5.1\n\n- Remove frame extrapolation from spline lerping",
+      "changelog_url": null,
+      "date_published": "2025-03-14T22:42:59.277427Z",
+      "downloads": 949887,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NoA0nsDA",
+          "hashes": {
+            "sha512": "8f2f95c8801c609c96834d06f14046cde2877dc18aa351e35b957d3d123688f61b673f8c9f1cf8fbffe345d2ada61c61d5dea0864595422d82351dcfca49090c",
+            "sha1": "04f89794373ef193df4285818760db002413f5c6"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/PEvrTvgj/geckolib-fabric-1.21.1-4.7.5.1.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.5.1.jar",
+          "primary": true,
+          "size": 623913,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "TSeTaM0B",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.5",
+      "changelog": "v4.7.5\n\n- Re-handle invalid case animation keyframe. Succeed gracefully rather than failing\n- Add `query.controller_speed` Molang Query.\n- Remove the forRemoval deprecations in GeoModel for `getTextureResource` and `getModelResource`",
+      "changelog_url": null,
+      "date_published": "2025-03-13T19:06:31.513062Z",
+      "downloads": 4696,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VyIGAHXf",
+          "hashes": {
+            "sha1": "c254a89f5788f571fc5a339868ca76e0147733ae",
+            "sha512": "9578acb669fa494b144242ba741f09129b28c5b8fc38fd8af7441c17ad4b953e901bf85fad77221751bb3d1cfc1e4605100cb842cd2218b482c008ddfef8d5dd"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/TSeTaM0B/geckolib-neoforge-1.21.1-4.7.5.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.5.jar",
+          "primary": true,
+          "size": 592825,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "AfzYyxkk",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.5",
+      "changelog": "v4.7.5\n\n- Re-handle invalid case animation keyframe. Succeed gracefully rather than failing\n- Add `query.controller_speed` Molang Query.\n- Remove the forRemoval deprecations in GeoModel for `getTextureResource` and `getModelResource`",
+      "changelog_url": null,
+      "date_published": "2025-03-13T19:05:20.247694Z",
+      "downloads": 476,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FnwHKW30",
+          "hashes": {
+            "sha1": "ccb3780c1c2c8acd059e1bac4ed1687cc589d364",
+            "sha512": "2684fdb728690f71b99f75931aeb35a1c5f70c507789039d19439c2a9aaba803cef1a3eca7b26b015295c06a99873302587efd224d244e720766fef261839eb3"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/AfzYyxkk/geckolib-forge-1.21.1-4.7.5.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.5.jar",
+          "primary": true,
+          "size": 776530,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "dkHaH4vl",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.5",
+      "changelog": "v4.7.5\n\n- Re-handle invalid case animation keyframe. Succeed gracefully rather than failing\n- Add `query.controller_speed` Molang Query.\n- Remove the forRemoval deprecations in GeoModel for `getTextureResource` and `getModelResource`",
+      "changelog_url": null,
+      "date_published": "2025-03-13T19:03:56.248130Z",
+      "downloads": 6308,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9P5Xk3Zs",
+          "hashes": {
+            "sha512": "a6a8fbfe46cf260cdb41b3f3fb9098bd4861a96d95e02d358ba32f3b3a1c068f3023cd25797c83fd21037d0a4e48ff70c3c6fc473fd9bfc5b1d673474a2e2392",
+            "sha1": "ae73db877dbee72400fa1979e1e4186542d232de"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dkHaH4vl/geckolib-fabric-1.21.1-4.7.5.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.5.jar",
+          "primary": true,
+          "size": 624004,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "dY3XtlLl",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.4.1",
+      "changelog": "v4.7.4.1\n\n- Fix a loading issue with some non-standard animation jsons\n- Fixed the stop triggered anim for singleton animatables not working properly, mostly\n- Fixed animated glowing textures with only partial glowing not loading right",
+      "changelog_url": null,
+      "date_published": "2025-03-12T06:53:53.160249Z",
+      "downloads": 3516,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5AJSfy4K",
+          "hashes": {
+            "sha1": "3d00ebc896144d1e7cce6bb7bd29e11699412d07",
+            "sha512": "2db5e0b59adf54361020b8f87a7490031a11dbb24a67271287bb8cc8dbfedec37dec51a62141cec4038ea92340e302683331682670344a9661222762c4688387"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dY3XtlLl/geckolib-neoforge-1.21.1-4.7.4.1.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.4.1.jar",
+          "primary": true,
+          "size": 592663,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "thvNnaxZ",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.4.1",
+      "changelog": "v4.7.4.1\n\n- Fix a loading issue with some non-standard animation jsons\n- Fixed the stop triggered anim for singleton animatables not working properly, mostly\n- Fixed animated glowing textures with only partial glowing not loading right",
+      "changelog_url": null,
+      "date_published": "2025-03-12T06:52:06.914362Z",
+      "downloads": 349,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QRI2PYBK",
+          "hashes": {
+            "sha1": "2b25eebdfb3e2e84c45aaafe8b74d6d12b300856",
+            "sha512": "75cdc5d306794b4f26aad2bd2482f7299214a1ea980aa4504e08c780c843ae93d2f6cc0069a7930452f66c7c81e6a1a4c082e831b98b630257d8e84983570429"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/thvNnaxZ/geckolib-forge-1.21.1-4.7.4.1.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.4.1.jar",
+          "primary": true,
+          "size": 776369,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ICThr24D",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.4.1",
+      "changelog": "v4.7.4.1\n\n- Fix a loading issue with some non-standard animation jsons\n- Fixed the stop triggered anim for singleton animatables not working properly, mostly\n- Fixed animated glowing textures with only partial glowing not loading right",
+      "changelog_url": null,
+      "date_published": "2025-03-12T06:49:28.644871Z",
+      "downloads": 3470,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hRoWMrWZ",
+          "hashes": {
+            "sha1": "2a6dfb26fd0bf47a8a1335d8f9f39171294c643a",
+            "sha512": "35e84f79ae5edec815c8a8c07b630a60eb61450d967103723d406377936fb4588bacd33dafad88c8ad2f693f8af213b8004629040ff6eb507d6fd3e07fd42c87"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/ICThr24D/geckolib-fabric-1.21.1-4.7.4.1.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.4.1.jar",
+          "primary": true,
+          "size": 623840,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "2pI8Vu0b",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.4",
+      "changelog": "v4.7.4\n\n- Added native support for catmull-rom (smooth) easings for bedrock-style animation jsons (thanks for the initial work Zigy)\n- Made GeoArmorRenderer inherit bone visibility from HumanoidArmorLayer#setPartVisibility to better work with third-party mods\n- Default boneResetTime to 5-ticks, and auto-complete the reset the tick time is 0. This prevents unavoidable partial-tick bone resets\n- Introduced an identity-based lookup for synced singleton animatables, to hopefully eliminate class-duplication collisions\n- Fixed middle-clicking on synced animatable items causing them to conflict when using triggered animations or synced data (#681)\n- Synced animatable items no longer prevent stacking with each other\n- Bones that now use animations to do a full rotation _should_ now no longer counter-rotate when resetting, allowing for cleaner rotation animations\n- Marked AnimationState#getData as nullable to avoid confusion\n- Added `triggerArmorAnim` for triggering armor animations (#433)\n- Animated textures now support glowmasks (#456)\n- Marked the easingType argument in EasingType as nullable to avoid confusion\n- Added memory compression to animation data. Larger modpacks should receive a reduction in memory usage",
+      "changelog_url": null,
+      "date_published": "2025-03-11T18:46:24.073461Z",
+      "downloads": 1238,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iC2Y9mvK",
+          "hashes": {
+            "sha1": "5e5f1d130c47e4daa93eaa76b0b62d4cba05c8b1",
+            "sha512": "4c23170de2c46507e9f5e45dd4ed9c6decff6b55512980e02924578b79f5e7e4213a1b588cf5d8f33eab9253469d80399bce9aa4f3cf5f1a8e62f4c2db0fead5"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/2pI8Vu0b/geckolib-neoforge-1.21.1-4.7.4.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.4.jar",
+          "primary": true,
+          "size": 592162,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "qqrJGCOV",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.4",
+      "changelog": "v4.7.4\n\n- Added native support for catmull-rom (smooth) easings for bedrock-style animation jsons (thanks for the initial work Zigy)\n- Made GeoArmorRenderer inherit bone visibility from HumanoidArmorLayer#setPartVisibility to better work with third-party mods\n- Default boneResetTime to 5-ticks, and auto-complete the reset the tick time is 0. This prevents unavoidable partial-tick bone resets\n- Introduced an identity-based lookup for synced singleton animatables, to hopefully eliminate class-duplication collisions\n- Fixed middle-clicking on synced animatable items causing them to conflict when using triggered animations or synced data (#681)\n- Synced animatable items no longer prevent stacking with each other\n- Bones that now use animations to do a full rotation _should_ now no longer counter-rotate when resetting, allowing for cleaner rotation animations\n- Marked AnimationState#getData as nullable to avoid confusion\n- Added `triggerArmorAnim` for triggering armor animations (#433)\n- Animated textures now support glowmasks (#456)\n- Marked the easingType argument in EasingType as nullable to avoid confusion\n- Added memory compression to animation data. Larger modpacks should receive a reduction in memory usage",
+      "changelog_url": null,
+      "date_published": "2025-03-11T18:44:45.959560Z",
+      "downloads": 270,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kwBN6XCN",
+          "hashes": {
+            "sha512": "9e9f9335966e9a02414469b0027e904501c2fda3fc968e87396aca9f11f03cfe410c70a04a16a5fed68d1e8243197ee68a02999900ade0a9fbed4481fd44af19",
+            "sha1": "43cd5322048e91843a88c90c65c6956c072e871a"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qqrJGCOV/geckolib-forge-1.21.1-4.7.4.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.4.jar",
+          "primary": true,
+          "size": 775868,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "DbLejTIu",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.4",
+      "changelog": "v4.7.4\n\n- Added native support for catmull-rom (smooth) easings for bedrock-style animation jsons (thanks for the initial work Zigy)\n- Made GeoArmorRenderer inherit bone visibility from HumanoidArmorLayer#setPartVisibility to better work with third-party mods\n- Default boneResetTime to 5-ticks, and auto-complete the reset the tick time is 0. This prevents unavoidable partial-tick bone resets\n- Introduced an identity-based lookup for synced singleton animatables, to hopefully eliminate class-duplication collisions\n- Fixed middle-clicking on synced animatable items causing them to conflict when using triggered animations or synced data (#681)\n- Synced animatable items no longer prevent stacking with each other\n- Bones that now use animations to do a full rotation _should_ now no longer counter-rotate when resetting, allowing for cleaner rotation animations\n- Marked AnimationState#getData as nullable to avoid confusion\n- Added `triggerArmorAnim` for triggering armor animations (#433)\n- Animated textures now support glowmasks (#456)\n- Marked the easingType argument in EasingType as nullable to avoid confusion\n- Added memory compression to animation data. Larger modpacks should receive a reduction in memory usage",
+      "changelog_url": null,
+      "date_published": "2025-03-11T18:43:44.454339Z",
+      "downloads": 1931,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nWdjeIrP",
+          "hashes": {
+            "sha512": "2ca4697a9d64a691b5c8eacfbde8e41b3ce9c16f2bf174357a4c9c5771999cb2221d70507c105b19e7a2caba18ec1a8ce990bb5430d581045864b1916c0d8f80",
+            "sha1": "f4ba5740d47c14b4627ccba7a91099205a1c3dce"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DbLejTIu/geckolib-fabric-1.21.1-4.7.4.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.4.jar",
+          "primary": true,
+          "size": 623303,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "oNBe6h9g",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.3",
+      "changelog": "v4.7.3\n\n- Fixed entity velocity being determined mostly from x-coordinate velocity\n- `getTextureResource` and `getModelResource` now receive the renderer for context-sensitive variants",
+      "changelog_url": null,
+      "date_published": "2024-12-27T16:34:25.596233Z",
+      "downloads": 119927,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OTFVCzy2",
+          "hashes": {
+            "sha1": "310dfa7ce2d24af3827f3fe4a73b524da0422987",
+            "sha512": "462e1bc3c3be6d66aa85c31936011b89e3e89f21970ba8347bb2f5f3f8370765a29d6b1b377c925aec0104996ca0f8f0719276bb0b95e5e222c7695237be6d2c"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/oNBe6h9g/geckolib-neoforge-1.21.1-4.7.3.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.3.jar",
+          "primary": true,
+          "size": 583525,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "cuO4p6CU",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.3",
+      "changelog": "v4.7.3\n\n- Fixed entity velocity being determined mostly from x-coordinate velocity\n- `getTextureResource` and `getModelResource` now receive the renderer for context-sensitive variants",
+      "changelog_url": null,
+      "date_published": "2024-12-27T16:32:29.861037Z",
+      "downloads": 5349,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1fzJs0Nm",
+          "hashes": {
+            "sha1": "29574d6e9599ce29cd29330d35548bd2e9bc2f67",
+            "sha512": "8c975931cb33048cb2bc17dc735cd8ee8db2b5aed20680e6863bbcc8563015eefa52da17519c0488827ccd3dc0e48a6178bd1c70f8f8b8fce21603702e170da1"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/cuO4p6CU/geckolib-forge-1.21.1-4.7.3.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.3.jar",
+          "primary": true,
+          "size": 743183,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "zupl9zNX",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.3",
+      "changelog": "v4.7.3\n\n- Fixed entity velocity being determined mostly from x-coordinate velocity\n- `getTextureResource` and `getModelResource` now receive the renderer for context-sensitive variants",
+      "changelog_url": null,
+      "date_published": "2024-12-27T16:30:52.827775Z",
+      "downloads": 514065,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rjzB8SAs",
+          "hashes": {
+            "sha1": "92b371ef4649c884ee17d517d3040e4d2dfc4f3d",
+            "sha512": "d908f3a7f2e014f645fb467f9207006dde87955b6f7946ff8292da712588e573db385925c23df6e7c1b60890680c60ec2b2260842f11c5ab3ed6baf9220775dd"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/zupl9zNX/geckolib-fabric-1.21.1-4.7.3.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.3.jar",
+          "primary": true,
+          "size": 614236,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "C1TFEOhy",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.2",
+      "changelog": "v4.7.2\n\n- Fix Singleton animatable Stop trigger actions not actually stopping",
+      "changelog_url": null,
+      "date_published": "2024-12-27T11:29:37.109695Z",
+      "downloads": 517,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IqiOA1Vs",
+          "hashes": {
+            "sha512": "329e08397973b3dc01d1a14737265126e30237561b76d1610df61835320cc667a70c3db7d9720c8c528cc1702ae5d18bea64bd49edcce1cf77307b7ac42020aa",
+            "sha1": "417eaa0d0a97d3cb9fc89fe84463253631942d53"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/C1TFEOhy/geckolib-neoforge-1.21.1-4.7.2.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.2.jar",
+          "primary": true,
+          "size": 583281,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "HCy8drhk",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.2",
+      "changelog": "v4.7.2\n\n- Fix Singleton animatable Stop trigger actions not actually stopping",
+      "changelog_url": null,
+      "date_published": "2024-12-27T11:27:14.137439Z",
+      "downloads": 233,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ynO23V1R",
+          "hashes": {
+            "sha1": "3b9d760f1cc11baed43ef2a3bb42aa38f7877504",
+            "sha512": "7c2109b510a63f62ac6e09592d9af358b793529ceef7adb6fc6a1fa492d5beaae4ffc0c24ff4772b10f940b5262b289a14c6359f789e5f6bb39d4027259891dc"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HCy8drhk/geckolib-forge-1.21.1-4.7.2.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.2.jar",
+          "primary": true,
+          "size": 742939,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "YNNRKLcD",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.2",
+      "changelog": "v4.7.2\n\n- Fix Singleton animatable Stop trigger actions not actually stopping",
+      "changelog_url": null,
+      "date_published": "2024-12-27T11:25:47.217965Z",
+      "downloads": 1198,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ESn34BD0",
+          "hashes": {
+            "sha512": "e88087c4eb109ae9e731d0135d024629772d62b2e004cb408f081aeb2ac32c8e08c8a2de46de5cc513d9ac4cfbfd2968059df031c463cac46acb926a69113121",
+            "sha1": "17c3b96224fe1a8c2e1db63900f8d2e0e28e60ff"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/YNNRKLcD/geckolib-fabric-1.21.1-4.7.2.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.2.jar",
+          "primary": true,
+          "size": 614000,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "OB5syBkW",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7.1",
+      "changelog": "v4.7.1\n\n- Add minimum version requirement to Forge\n- Cleaned up Geckolib animated texture loading to be a bit more efficient\n- Improved the documentation for ItemArmorGeoLayers\n- Extract ItemArmorGeoLayer's ModelPart bone matcher to its own method for easy overriding",
+      "changelog_url": null,
+      "date_published": "2024-12-26T11:28:42.432556Z",
+      "downloads": 891,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "c5SQbiSt",
+          "hashes": {
+            "sha512": "ca5cd19c23f1c753cab6b0105f95ca8c55cd7172acdc0e1bb2340341a353a71f59166e401bf571abb8f30fcd403c9137aecc84a57c33bb7b0858e2f1f1f4f80b",
+            "sha1": "9e0947e33ad535f0cfa51d31f8a02c26e6c6c075"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/OB5syBkW/geckolib-neoforge-1.21.1-4.7.1.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.1.jar",
+          "primary": true,
+          "size": 583278,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "VHca6ZzY",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7.1",
+      "changelog": "v4.7.1\n\n- Add minimum version requirement to Forge\n- Cleaned up Geckolib animated texture loading to be a bit more efficient\n- Improved the documentation for ItemArmorGeoLayers\n- Extract ItemArmorGeoLayer's ModelPart bone matcher to its own method for easy overriding",
+      "changelog_url": null,
+      "date_published": "2024-12-26T11:28:18.095118Z",
+      "downloads": 273,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WGCLVfJe",
+          "hashes": {
+            "sha1": "bf66b3ca50ae1723529c32ad58bac68286cb2268",
+            "sha512": "9c80e896487b9bae0cf01120e197328a615c156dd9146204127b8bf93ccab48a126a2ff0f51113a923be3d89f68ddb823b5dbf75b43e4bb403d6367aada5671b"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/VHca6ZzY/geckolib-forge-1.21.1-4.7.1.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.1.jar",
+          "primary": true,
+          "size": 742936,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "1RxvPb8N",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7.1",
+      "changelog": "v4.7.1\n\n- Add minimum version requirement to Forge\n- Cleaned up Geckolib animated texture loading to be a bit more efficient\n- Improved the documentation for ItemArmorGeoLayers\n- Extract ItemArmorGeoLayer's ModelPart bone matcher to its own method for easy overriding",
+      "changelog_url": null,
+      "date_published": "2024-12-26T11:27:50.892527Z",
+      "downloads": 92953,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TjLxlXTJ",
+          "hashes": {
+            "sha1": "36354df689f2c521d08064b055c2459552f624da",
+            "sha512": "6f319421dfe0745f5117f9660f6e20a370ae177f21c426d22279c85adda8c00f6de40d1c7575c18c63ffc417f1f3377d605cb8415cd52075d0b768845733dbee"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/1RxvPb8N/geckolib-fabric-1.21.1-4.7.1.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.1.jar",
+          "primary": true,
+          "size": 614003,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "qHj5WJHI",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.7",
+      "changelog": "v4.7\n\n- Added support for UV Rotation\n- Added stopTriggeredAnimation, allowing for stopping a triggered animation in a similar manner in which it was started\n- Add DeferredGeoRenderProvider, to support split sources\n- Change crashes to warnings for unsupported model format versions for geo models\n- Fix incorrect version range for NeoForge mods\n- Fixed controller-agnostic triggerAnim either crashing or not working\n- Fixed Color#ofARGB using RGBA\n- Various internal cleanup",
+      "changelog_url": null,
+      "date_published": "2024-11-04T08:02:52.064804Z",
+      "downloads": 39986,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MjCYr9aE",
+          "hashes": {
+            "sha512": "9054e6513d41c32d0892179984339c77b637db92e7ef71e46ccb1c531e6c92f1bbd0a9d30302c119069e2513a9711c14464562aea2b59c64f74287eb1df5804a",
+            "sha1": "4ccf2ab7e47f970d81c5dde4522b75eafbb438c1"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qHj5WJHI/geckolib-neoforge-1.21.1-4.7.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.7.jar",
+          "primary": true,
+          "size": 583514,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "VGKkirAM",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.7",
+      "changelog": "v4.7\n\n- Added support for UV Rotation\n- Added stopTriggeredAnimation, allowing for stopping a triggered animation in a similar manner in which it was started\n- Add DeferredGeoRenderProvider, to support split sources\n- Change crashes to warnings for unsupported model format versions for geo models\n- Fix incorrect version range for NeoForge mods\n- Fixed controller-agnostic triggerAnim either crashing or not working\n- Fixed Color#ofARGB using RGBA\n- Various internal cleanup",
+      "changelog_url": null,
+      "date_published": "2024-11-04T08:01:44.837259Z",
+      "downloads": 2783,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BDIJWGQy",
+          "hashes": {
+            "sha512": "6cd9a15c55df227873c2c4bb7bdd072a61522e7a0c038703576168656a0925b3fd1d0dd5f107c97e94377c3a1372798b803b89cf2f08757fb98d35288707cb5e",
+            "sha1": "38c983969735ba53c1b5f6057c8f35f4b7fd0d8c"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/VGKkirAM/geckolib-forge-1.21.1-4.7.jar",
+          "filename": "geckolib-forge-1.21.1-4.7.jar",
+          "primary": true,
+          "size": 743173,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "o8mnPMLv",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.7",
+      "changelog": "v4.7\n\n- Added support for UV Rotation\n- Added stopTriggeredAnimation, allowing for stopping a triggered animation in a similar manner in which it was started\n- Add DeferredGeoRenderProvider, to support split sources\n- Change crashes to warnings for unsupported model format versions for geo models\n- Fix incorrect version range for NeoForge mods\n- Fixed controller-agnostic triggerAnim either crashing or not working\n- Fixed Color#ofARGB using RGBA\n- Various internal cleanup",
+      "changelog_url": null,
+      "date_published": "2024-11-04T08:00:24.944549Z",
+      "downloads": 48893,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rAr476k9",
+          "hashes": {
+            "sha512": "ae38b16d930b42efc8482c1a97173f217c61cd8693962bb0410777b69ccccea9ea12cb2c01c9248800204122b06aa53b4f520f1ef3ebdac9c5b1bee3a299c8f3",
+            "sha1": "dd308dc5d5cab9a7f5e95ff55344b2eee586537a"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/o8mnPMLv/geckolib-fabric-1.21.1-4.7.jar",
+          "filename": "geckolib-fabric-1.21.1-4.7.jar",
+          "primary": true,
+          "size": 614245,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "qj2pTqCr",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.6.6",
+      "changelog": "v4.6.6\n\n- Fix incompatibility with Neoforge 21.1.62. Fixes #634\n- GeckoLib can now render any Equipable item, not just ArmorItems, allowing for more flexibility in armor rendering\n- GeoArmorRenderer now captures additional render context data for use",
+      "changelog_url": null,
+      "date_published": "2024-09-28T00:09:24.859047Z",
+      "downloads": 44232,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "osGn5oPu",
+          "hashes": {
+            "sha512": "6355127ce8fc74fe55e295ddbcf0cb23e6c7a4d4a1cb22c9b78c11e7b76b4c2ea738e9d408cfbfe2fd96fc3e5b43f2a24e20297563f35bee659e97d93a27f14a",
+            "sha1": "c69c30c59db895e9af6a5a458b32c41060eb4b3a"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qj2pTqCr/geckolib-neoforge-1.21.1-4.6.6.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.6.6.jar",
+          "primary": true,
+          "size": 570291,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "hlSQRh4u",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.6.6",
+      "changelog": "v4.6.6\n\n- Fix incompatibility with Neoforge 21.1.62. Fixes #634\n- GeckoLib can now render any Equipable item, not just ArmorItems, allowing for more flexibility in armor rendering\n- GeoArmorRenderer now captures additional render context data for use",
+      "changelog_url": null,
+      "date_published": "2024-09-28T00:07:05.787445Z",
+      "downloads": 3532,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BsAeJFPl",
+          "hashes": {
+            "sha1": "c4f1e48ec975cb677e43fa82fa62f57e573d5771",
+            "sha512": "0ba417834359eaf70d23364968b901f5beb7669cbe198cb1be04557ab630500de9bf67a702b57b724af41692fabb85f1024afbf4116e764c194352d780696c97"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/hlSQRh4u/geckolib-forge-1.21.1-4.6.6.jar",
+          "filename": "geckolib-forge-1.21.1-4.6.6.jar",
+          "primary": true,
+          "size": 730188,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "qV4OzASD",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.6.6",
+      "changelog": "v4.6.6\n\n- Fix incompatibility with Neoforge 21.1.62. Fixes #634\n- GeckoLib can now render any Equipable item, not just ArmorItems, allowing for more flexibility in armor rendering\n- GeoArmorRenderer now captures additional render context data for use",
+      "changelog_url": null,
+      "date_published": "2024-09-28T00:06:40.201226Z",
+      "downloads": 39505,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UjUPgGJv",
+          "hashes": {
+            "sha1": "b8fe699be8f48f5e599496992e35af39d9e54e89",
+            "sha512": "33c3f37260c10a6c5ca3ca2412aa40c97cd89da8b5ede1b09e3949e3d59434a7f6709fee246263648bdf8af3227b2be1520a1769c1d9a6291c34cb836773e1c0"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qV4OzASD/geckolib-fabric-1.21.1-4.6.6.jar",
+          "filename": "geckolib-fabric-1.21.1-4.6.6.jar",
+          "primary": true,
+          "size": 600599,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "hfGBFl1O",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.6.5",
+      "changelog": "v4.6.5\n\n- Fix incorrect classname lookup for SingletonGeoAnimatables. Fixes #632",
+      "changelog_url": null,
+      "date_published": "2024-09-15T20:13:36.491233Z",
+      "downloads": 9695,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1gmwHMsr",
+          "hashes": {
+            "sha1": "83321271c4fb2d0cf2c297bef4582940ea420622",
+            "sha512": "d6b8e90f23b9410d95481bcfdf770af4ab0c465a03f356850697404c4175a41717eb68de3ee6abb8acff331b8960848142ec13a2c7eedc771158a73090e1fa6a"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/hfGBFl1O/geckolib-neoforge-1.21.1-4.6.5.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.6.5.jar",
+          "primary": true,
+          "size": 568251,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "DCJ4wE6H",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.6.5",
+      "changelog": "v4.6.5\n\n- Fix incorrect classname lookup for SingletonGeoAnimatables. Fixes #632",
+      "changelog_url": null,
+      "date_published": "2024-09-15T20:12:13.467201Z",
+      "downloads": 3387,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mvZvv9xK",
+          "hashes": {
+            "sha1": "41f9e140f20081ae63f3618302b29fa0a6dcb1da",
+            "sha512": "f74bbf02828aae3bc1198f2cc972c913d0a896744af9290b4419193f29c3e7a2852ffc11991245c1238baee102c4f2476d37d87434334dc551b5e8cb27ac0eca"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DCJ4wE6H/geckolib-forge-1.21.1-4.6.5.jar",
+          "filename": "geckolib-forge-1.21.1-4.6.5.jar",
+          "primary": true,
+          "size": 728096,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "5jcq814u",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.6.5",
+      "changelog": "v4.6.5\n\n- Fix incorrect classname lookup for SingletonGeoAnimatables. Fixes #632",
+      "changelog_url": null,
+      "date_published": "2024-09-15T20:11:05.624258Z",
+      "downloads": 9310,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "R4kV5Kuy",
+          "hashes": {
+            "sha1": "bc8b6444a30cd9ad12502a5040690fc521a395ec",
+            "sha512": "f8275fc0fe9cdd9e598bf3b0ad94313f89092abb95c5a03ae3f37ac1a24a01d6630d1af962079b264ec2f976ef581f134ca0dd0c7b95ebf6242efb2f9472d28f"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/5jcq814u/geckolib-fabric-1.21.1-4.6.5.jar",
+          "filename": "geckolib-fabric-1.21.1-4.6.5.jar",
+          "primary": true,
+          "size": 598370,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "C77f294m",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.6.4",
+      "changelog": "v4.6.4\n\n- Fix some broken singleton networking calls. Fixes #631",
+      "changelog_url": null,
+      "date_published": "2024-09-15T00:27:29.078640Z",
+      "downloads": 872,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RztGHyBd",
+          "hashes": {
+            "sha512": "f43ec98feaf6b1da2cc7af925f54ef70903c2531aced577b36a131a3e9c5395b65a47cf8c76c09df01be6fca5baf83868de3ee46246e183c5886670b4bff81bb",
+            "sha1": "325f72b571beff56021ff33cf1c735f55f148a37"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/C77f294m/geckolib-neoforge-1.21.1-4.6.4.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.6.4.jar",
+          "primary": true,
+          "size": 568282,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "NiAiTxKy",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.6.4",
+      "changelog": "v4.6.4\n\n- Fix some broken singleton networking calls. Fixes #631",
+      "changelog_url": null,
+      "date_published": "2024-09-15T00:25:40.125741Z",
+      "downloads": 280,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nd1hkY5s",
+          "hashes": {
+            "sha1": "7d233fb30eaf765f3bedd7960afe2b48e6cd8222",
+            "sha512": "0e968e4aa0eb778c57d7045ae03e979abfda64cfd86bcda141c4dd4a455fa628b61f71d66c905a757d042500a7bce8246bb56267d65f03cae12813e538518088"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/NiAiTxKy/geckolib-forge-1.21.1-4.6.4.jar",
+          "filename": "geckolib-forge-1.21.1-4.6.4.jar",
+          "primary": true,
+          "size": 728127,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "rrjbDKGC",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.6.4",
+      "changelog": "v4.6.4\n\n- Fix some broken singleton networking calls. Fixes #631",
+      "changelog_url": null,
+      "date_published": "2024-09-15T00:23:38.486151Z",
+      "downloads": 1980,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5P4EoscV",
+          "hashes": {
+            "sha1": "230a161ca3e4992873350efee52cb38f869b8c39",
+            "sha512": "31688d3ada0f81021bfce5c2cc6d846d59c5ab600ae40a2f38e7e6b9b70b23292e69677e9b7323efbf657cb4bcfe6f202a81028e38b393e4572499d87a1bbf1c"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/rrjbDKGC/geckolib-fabric-1.21.1-4.6.4.jar",
+          "filename": "geckolib-fabric-1.21.1-4.6.4.jar",
+          "primary": true,
+          "size": 598412,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "tTc5B1mR",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.6.3",
+      "changelog": "v4.6.3\n\n- Add post-render cleanup to eliminate memory leaks and reduce overall memory usage\n- Added some additional error logging information related to model FormatVersion",
+      "changelog_url": null,
+      "date_published": "2024-08-31T03:46:13.750440Z",
+      "downloads": 3457,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JBu59ip7",
+          "hashes": {
+            "sha512": "321382d5e31ab0f59cc442e60c3de2b4a0b4ffcfc0d9aeb2c42c86f08543172e3b6d810839a40bb8d1d475120f12789e96f2caa681d34b390c3692013b7dec58",
+            "sha1": "4988e8a845f29a55c8574db5c10343a0a0544f52"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tTc5B1mR/geckolib-neoforge-1.21.1-4.6.3.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.6.3.jar",
+          "primary": true,
+          "size": 568047,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "GqYm6Lwn",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.6.3",
+      "changelog": "v4.6.3\n\n- Add post-render cleanup to eliminate memory leaks and reduce overall memory usage\n- Added some additional error logging information related to model FormatVersion",
+      "changelog_url": null,
+      "date_published": "2024-08-31T03:43:58.487699Z",
+      "downloads": 1505,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "K2HrQ3sw",
+          "hashes": {
+            "sha1": "dd18e22debb90758ba540b2138cacf2070aeb06d",
+            "sha512": "8008310c5029198880c0f69619f1f2918e60e98ff8eef3278b7da29982e41ea891ca5f72bfe0213037ae9d09c2fa2e42b84061a7edff5d6c3a3c330ce8ba1451"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/GqYm6Lwn/geckolib-forge-1.21.1-4.6.3.jar",
+          "filename": "geckolib-forge-1.21.1-4.6.3.jar",
+          "primary": true,
+          "size": 727892,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "6zWPwCie",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.6.3",
+      "changelog": "v4.6.3\n\n- Add post-render cleanup to eliminate memory leaks and reduce overall memory usage\n- Added some additional error logging information related to model FormatVersion",
+      "changelog_url": null,
+      "date_published": "2024-08-31T03:42:28.896544Z",
+      "downloads": 20524,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tWzDg1ZE",
+          "hashes": {
+            "sha1": "153f64b7cae81fa93f69f260a42382df1834eee3",
+            "sha512": "709d3e7a1ea1dd47e1af406312b48856294550a92f3cdf8f1131bd83450effbc42138cf6cdf91d99f72bdcf6517bef83b02c77b1b9be9e1c015340f790ee0be3"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/6zWPwCie/geckolib-fabric-1.21.1-4.6.3.jar",
+          "filename": "geckolib-fabric-1.21.1-4.6.3.jar",
+          "primary": true,
+          "size": 598149,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "EQjSCHx7",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.6.2",
+      "changelog": "v4.6.2\n\n- Fix no-arg functions (oxymoron?) being left out of parsing",
+      "changelog_url": null,
+      "date_published": "2024-08-26T08:26:51.340409Z",
+      "downloads": 956,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Xwdt241d",
+          "hashes": {
+            "sha1": "798e0033982d4586d876022e7e4fb05380abfdb7",
+            "sha512": "27ff3702847bb8e5f0b246f42b7600d1e23c5fb3df1791a9fe2e2ad4f273f6325430fea63967f5f0c5bf25d3f71d1ab80bde2952320bdeed9a73452c52447676"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/EQjSCHx7/geckolib-neoforge-1.21.1-4.6.2.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.6.2.jar",
+          "primary": true,
+          "size": 567265,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "UEEQy93Y",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.6.2",
+      "changelog": "v4.6.2\n\n- Fix no-arg functions (oxymoron?) being left out of parsing",
+      "changelog_url": null,
+      "date_published": "2024-08-26T08:24:51.921651Z",
+      "downloads": 504,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OF0Sogw4",
+          "hashes": {
+            "sha512": "7681e78606f28540631df808234894609460ae720b6bed85d38528a3253e1b90b26f8fdac2d69486c0b1c44209999d637384571d3b106e882e2905f046531080",
+            "sha1": "799237ac801d6361714826adab2542745defb65c"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/UEEQy93Y/geckolib-forge-1.21.1-4.6.2.jar",
+          "filename": "geckolib-forge-1.21.1-4.6.2.jar",
+          "primary": true,
+          "size": 727111,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "49hYyB76",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.6.2",
+      "changelog": "v4.6.2\n\n- Fix no-arg functions (oxymoron?) being left out of parsing",
+      "changelog_url": null,
+      "date_published": "2024-08-26T08:21:44.628333Z",
+      "downloads": 2666,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3Ga4rJjD",
+          "hashes": {
+            "sha512": "833fb328fd70ff43c795304918ce47820098f973e39027372b40f43633a88e2e15395b1c04ff5400388e9bd8b6e10be2191f0d69bea9088f1e6ff16a18e6522b",
+            "sha1": "5cb4dbeac1dc097642bb0383dea90c2e1a4aba05"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/49hYyB76/geckolib-fabric-1.21.1-4.6.2.jar",
+          "filename": "geckolib-fabric-1.21.1-4.6.2.jar",
+          "primary": true,
+          "size": 597372,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "5GMEfuAh",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.6.1",
+      "changelog": "v4.6.1\n\n- Fix a bug with negation of functions in molang",
+      "changelog_url": null,
+      "date_published": "2024-08-25T20:43:26.055957Z",
+      "downloads": 318,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UdL91eyn",
+          "hashes": {
+            "sha512": "90da4c496a092d1cb91ef30d01ae64a806e2e723e5ac564d5b9dd88a48148229be98d1f14df7568888fa4b9453b4e70fca3ceee96e1564a6f1a5455f79466066",
+            "sha1": "71586b63bd3bc92a11bd728ba535f8ce2393eecc"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/5GMEfuAh/geckolib-neoforge-1.21.1-4.6.1.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.6.1.jar",
+          "primary": true,
+          "size": 567241,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "q8EL6UFi",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.6.1",
+      "changelog": "v4.6.1\n\n- Fix a bug with negation of functions in molang",
+      "changelog_url": null,
+      "date_published": "2024-08-25T20:41:15.625981Z",
+      "downloads": 178,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8dshBr59",
+          "hashes": {
+            "sha1": "e56040918ef419632d5be6065e6bd3d375e0dd5f",
+            "sha512": "09800868544c97b95444e924f6a0e96e301f8b2558b57959c2413db54a58954a9e79dc9e69ccc2791590bdec960ec79bed2950386cfa338ebfc298a98b2d94d3"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/q8EL6UFi/geckolib-forge-1.21.1-4.6.1.jar",
+          "filename": "geckolib-forge-1.21.1-4.6.1.jar",
+          "primary": true,
+          "size": 727087,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fb4SJGVE",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.6.1",
+      "changelog": "v4.6.1\n\n- Fix a bug with negation of functions in molang",
+      "changelog_url": null,
+      "date_published": "2024-08-25T20:39:10.252390Z",
+      "downloads": 669,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MQO2myPA",
+          "hashes": {
+            "sha1": "bedcd55e79b56551011c1b1c35ccd599f3a5078b",
+            "sha512": "616d20a178c2db904ff8f4b08910e07f527103f30a64ef203a4bbef3bfb159125b5bbbf16b914955d11f73802ea5cf8568b24f48dff8151a250c0109884d8a85"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fb4SJGVE/geckolib-fabric-1.21.1-4.6.1.jar",
+          "filename": "geckolib-fabric-1.21.1-4.6.1.jar",
+          "primary": true,
+          "size": 597346,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "rkC3L2FR",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21.1",
+      "version_number": "4.6",
+      "changelog": "v4.6\n\n- Fix GeckoLib breaking PBR compatibility in iris/oculus\n- Move fabric loader dependency to its own value, to prevent Geckolib forcing players to need the latest fabric at all times\n- Add 'q.' alias for queries in molang\n- Fix compound molang statements not being parsed\n- Fixed ternary expressions not being compiled properly\n- Add clarifying javadoc timing comment on GeckoLibUtil#addDataTicket\n- Improve false-positive avoidance on function and variable recognition when parsing complex molang statements\n- Further refine general molang parsing to improve stability and performance\n- Further improve bufferbuilder bandaid for 1.21 breaking issue to account for more edge-cases\n- Moved the default Molang queries to an 'actor' system\n    All default queries now no longer need to be updated every render pass, and instead we just update the current actor.\n    This should improve performance overall, and allows for O(1) complexity for increased query count\n- Fix `query.actor_count` not representing the correct value\n- Fix `query.is_in_water_or_rain` not representing the correct value\n- Fix `query.is_on_fire` not applying to non-living entities\n- Fix `query.yaw_speed` not applying to non-living entities\n- Fix `query.yaw_speed` not representing the correct value\n- Add `query.block_state` molang query\n- Add `query.blocking` molang query\n- Add `query.body_x_rotation` molang query\n- Add `query.body_y_rotation` molang query\n- Add `query.can_climb` molang query\n- Add `query.can_fly` molang query\n- Add `query.can_swim` molang query\n- Add `query.can_walk` molang query\n- Add `query.cardinal_facing_2d` molang query\n- Add `query.cardinal_facing` molang query\n- Add `query.cardinal_player_facing` molang query\n- Add `query.day` molang query\n- Add `query.death_ticks` molang query\n- Add `query.equipment_count` molang query\n- Add `query.frame_alpha` molang query\n- Add `query.get_actor_info_id` molang query\n- Add `query.has_cape` molang query\n- Add `query.has_collision` molang query\n- Add `query.has_gravity` molang query\n- Add `query.has_head_gear` molang query\n- Add `query.has_owner` molang query\n- Add `query.has_player_rider` molang query\n- Add `query.has_rider` molang query\n- Add `query.head_x_rotation` molang query\n- Add `query.head_y_rotation` molang query\n- Add `query.hurt_time` molang query\n- Add `query.invulnerable_ticks` molang query\n- Add `query.is_alive` molang query\n- Add `query.is_angry` molang query\n- Add `query.is_baby` molang query\n- Add `query.is_breathing` molang query\n- Add `query.is_enchanted` molang query\n- Add `query.is_fire_immune` molang query\n- Add `query.is_first_person` molang query\n- Add `query.is_in_contact_with_water` molang query\n- Add `query.is_in_lava` molang query\n- Add `query.is_invisible` molang query\n- Add `query.is_leashed` molang query\n- Add `query.is_moving` molang query\n- Add `query.is_powered` molang query\n- Add `query.is_riding` molang query\n- Add `query.is_saddled` molang query\n- Add `query.is_silent` molang query\n- Add `query.is_sleeping` molang query\n- Add `query.is_sneaking` molang query\n- Add `query.is_sprinting` molang query\n- Add `query.is_stackable` molang query\n- Add `query.is_swimming` molang query\n- Add `query.is_using_item` molang query\n- Add `query.is_wall_climbing` molang query\n- Add `query.item_max_use_duration` molang query\n- Add `query.main_hand_item_max_duration` molang query\n- Add `query.main_hand_item_use_duration` molang query\n- Add `query.max_durability` molang query\n- Add `query.moon_brightness` molang query\n- Add `query.movement_direction` molang query\n- Add `query.player_level` molang query\n- Add `query.remaining_durability` molang query\n- Add `query.rider_body_x_rotation` molang query\n- Add `query.rider_body_x_rotation` molang query\n- Add `query.rider_head_x_rotation` molang query\n- Add `query.rider_head_y_rotation` molang query\n- Add `query.scale` molang query\n- Add `query.sleep_rotation` molang query\n- Add `query.time_stamp` molang query\n- Add `query.vertical_speed` molang query\n- Remove internal usage of RenderUtil#booleanToFloat to allow for compile-time optimisations\n- Various minor codebase cleanups",
+      "changelog_url": null,
+      "date_published": "2024-08-25T00:11:05.534004Z",
+      "downloads": 845,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BCao6jV9",
+          "hashes": {
+            "sha512": "13efd7e0d806007e70c80728b434ae8e23abf1a67b98fccf8fd67dd33ec1f6dbb1b8aea396cc8111163a04c3e8ccb522e8a9eded1f5573e18e537cdad102d1d5",
+            "sha1": "149a1ef12093f8d4c6b165ec1716c102259c61cd"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/rkC3L2FR/geckolib-neoforge-1.21.1-4.6.jar",
+          "filename": "geckolib-neoforge-1.21.1-4.6.jar",
+          "primary": true,
+          "size": 567241,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "hrAmyr94",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21.1",
+      "version_number": "4.6",
+      "changelog": "v4.6\n\n- Fix GeckoLib breaking PBR compatibility in iris/oculus\n- Move fabric loader dependency to its own value, to prevent Geckolib forcing players to need the latest fabric at all times\n- Add 'q.' alias for queries in molang\n- Fix compound molang statements not being parsed\n- Fixed ternary expressions not being compiled properly\n- Add clarifying javadoc timing comment on GeckoLibUtil#addDataTicket\n- Improve false-positive avoidance on function and variable recognition when parsing complex molang statements\n- Further refine general molang parsing to improve stability and performance\n- Further improve bufferbuilder bandaid for 1.21 breaking issue to account for more edge-cases\n- Moved the default Molang queries to an 'actor' system\n    All default queries now no longer need to be updated every render pass, and instead we just update the current actor.\n    This should improve performance overall, and allows for O(1) complexity for increased query count\n- Fix `query.actor_count` not representing the correct value\n- Fix `query.is_in_water_or_rain` not representing the correct value\n- Fix `query.is_on_fire` not applying to non-living entities\n- Fix `query.yaw_speed` not applying to non-living entities\n- Fix `query.yaw_speed` not representing the correct value\n- Add `query.block_state` molang query\n- Add `query.blocking` molang query\n- Add `query.body_x_rotation` molang query\n- Add `query.body_y_rotation` molang query\n- Add `query.can_climb` molang query\n- Add `query.can_fly` molang query\n- Add `query.can_swim` molang query\n- Add `query.can_walk` molang query\n- Add `query.cardinal_facing_2d` molang query\n- Add `query.cardinal_facing` molang query\n- Add `query.cardinal_player_facing` molang query\n- Add `query.day` molang query\n- Add `query.death_ticks` molang query\n- Add `query.equipment_count` molang query\n- Add `query.frame_alpha` molang query\n- Add `query.get_actor_info_id` molang query\n- Add `query.has_cape` molang query\n- Add `query.has_collision` molang query\n- Add `query.has_gravity` molang query\n- Add `query.has_head_gear` molang query\n- Add `query.has_owner` molang query\n- Add `query.has_player_rider` molang query\n- Add `query.has_rider` molang query\n- Add `query.head_x_rotation` molang query\n- Add `query.head_y_rotation` molang query\n- Add `query.hurt_time` molang query\n- Add `query.invulnerable_ticks` molang query\n- Add `query.is_alive` molang query\n- Add `query.is_angry` molang query\n- Add `query.is_baby` molang query\n- Add `query.is_breathing` molang query\n- Add `query.is_enchanted` molang query\n- Add `query.is_fire_immune` molang query\n- Add `query.is_first_person` molang query\n- Add `query.is_in_contact_with_water` molang query\n- Add `query.is_in_lava` molang query\n- Add `query.is_invisible` molang query\n- Add `query.is_leashed` molang query\n- Add `query.is_moving` molang query\n- Add `query.is_powered` molang query\n- Add `query.is_riding` molang query\n- Add `query.is_saddled` molang query\n- Add `query.is_silent` molang query\n- Add `query.is_sleeping` molang query\n- Add `query.is_sneaking` molang query\n- Add `query.is_sprinting` molang query\n- Add `query.is_stackable` molang query\n- Add `query.is_swimming` molang query\n- Add `query.is_using_item` molang query\n- Add `query.is_wall_climbing` molang query\n- Add `query.item_max_use_duration` molang query\n- Add `query.main_hand_item_max_duration` molang query\n- Add `query.main_hand_item_use_duration` molang query\n- Add `query.max_durability` molang query\n- Add `query.moon_brightness` molang query\n- Add `query.movement_direction` molang query\n- Add `query.player_level` molang query\n- Add `query.remaining_durability` molang query\n- Add `query.rider_body_x_rotation` molang query\n- Add `query.rider_body_x_rotation` molang query\n- Add `query.rider_head_x_rotation` molang query\n- Add `query.rider_head_y_rotation` molang query\n- Add `query.scale` molang query\n- Add `query.sleep_rotation` molang query\n- Add `query.time_stamp` molang query\n- Add `query.vertical_speed` molang query\n- Remove internal usage of RenderUtil#booleanToFloat to allow for compile-time optimisations\n- Various minor codebase cleanups",
+      "changelog_url": null,
+      "date_published": "2024-08-25T00:09:41.088328Z",
+      "downloads": 634,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WEa03s9i",
+          "hashes": {
+            "sha512": "64e5ba70353314c38d39ce34f0fc0a4bcf9978da0d10b8ba315fac12b77c3f5e7344db1039c78a03e54464f3faab3034d3bd0a87a959c9aeec38bcde849142a0",
+            "sha1": "327d3283ab97fb05743f4974af14e7e3bf054a57"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/hrAmyr94/geckolib-forge-1.21.1-4.6.jar",
+          "filename": "geckolib-forge-1.21.1-4.6.jar",
+          "primary": true,
+          "size": 727086,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "im0Li2mm",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21.1",
+      "version_number": "4.6",
+      "changelog": "v4.6\n\n- Fix GeckoLib breaking PBR compatibility in iris/oculus\n- Move fabric loader dependency to its own value, to prevent Geckolib forcing players to need the latest fabric at all times\n- Add 'q.' alias for queries in molang\n- Fix compound molang statements not being parsed\n- Fixed ternary expressions not being compiled properly\n- Add clarifying javadoc timing comment on GeckoLibUtil#addDataTicket\n- Improve false-positive avoidance on function and variable recognition when parsing complex molang statements\n- Further refine general molang parsing to improve stability and performance\n- Further improve bufferbuilder bandaid for 1.21 breaking issue to account for more edge-cases\n- Moved the default Molang queries to an 'actor' system\n    All default queries now no longer need to be updated every render pass, and instead we just update the current actor.\n    This should improve performance overall, and allows for O(1) complexity for increased query count\n- Fix `query.actor_count` not representing the correct value\n- Fix `query.is_in_water_or_rain` not representing the correct value\n- Fix `query.is_on_fire` not applying to non-living entities\n- Fix `query.yaw_speed` not applying to non-living entities\n- Fix `query.yaw_speed` not representing the correct value\n- Add `query.block_state` molang query\n- Add `query.blocking` molang query\n- Add `query.body_x_rotation` molang query\n- Add `query.body_y_rotation` molang query\n- Add `query.can_climb` molang query\n- Add `query.can_fly` molang query\n- Add `query.can_swim` molang query\n- Add `query.can_walk` molang query\n- Add `query.cardinal_facing_2d` molang query\n- Add `query.cardinal_facing` molang query\n- Add `query.cardinal_player_facing` molang query\n- Add `query.day` molang query\n- Add `query.death_ticks` molang query\n- Add `query.equipment_count` molang query\n- Add `query.frame_alpha` molang query\n- Add `query.get_actor_info_id` molang query\n- Add `query.has_cape` molang query\n- Add `query.has_collision` molang query\n- Add `query.has_gravity` molang query\n- Add `query.has_head_gear` molang query\n- Add `query.has_owner` molang query\n- Add `query.has_player_rider` molang query\n- Add `query.has_rider` molang query\n- Add `query.head_x_rotation` molang query\n- Add `query.head_y_rotation` molang query\n- Add `query.hurt_time` molang query\n- Add `query.invulnerable_ticks` molang query\n- Add `query.is_alive` molang query\n- Add `query.is_angry` molang query\n- Add `query.is_baby` molang query\n- Add `query.is_breathing` molang query\n- Add `query.is_enchanted` molang query\n- Add `query.is_fire_immune` molang query\n- Add `query.is_first_person` molang query\n- Add `query.is_in_contact_with_water` molang query\n- Add `query.is_in_lava` molang query\n- Add `query.is_invisible` molang query\n- Add `query.is_leashed` molang query\n- Add `query.is_moving` molang query\n- Add `query.is_powered` molang query\n- Add `query.is_riding` molang query\n- Add `query.is_saddled` molang query\n- Add `query.is_silent` molang query\n- Add `query.is_sleeping` molang query\n- Add `query.is_sneaking` molang query\n- Add `query.is_sprinting` molang query\n- Add `query.is_stackable` molang query\n- Add `query.is_swimming` molang query\n- Add `query.is_using_item` molang query\n- Add `query.is_wall_climbing` molang query\n- Add `query.item_max_use_duration` molang query\n- Add `query.main_hand_item_max_duration` molang query\n- Add `query.main_hand_item_use_duration` molang query\n- Add `query.max_durability` molang query\n- Add `query.moon_brightness` molang query\n- Add `query.movement_direction` molang query\n- Add `query.player_level` molang query\n- Add `query.remaining_durability` molang query\n- Add `query.rider_body_x_rotation` molang query\n- Add `query.rider_body_x_rotation` molang query\n- Add `query.rider_head_x_rotation` molang query\n- Add `query.rider_head_y_rotation` molang query\n- Add `query.scale` molang query\n- Add `query.sleep_rotation` molang query\n- Add `query.time_stamp` molang query\n- Add `query.vertical_speed` molang query\n- Remove internal usage of RenderUtil#booleanToFloat to allow for compile-time optimisations\n- Various minor codebase cleanups",
+      "changelog_url": null,
+      "date_published": "2024-08-25T00:06:17.839637Z",
+      "downloads": 3392,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ymEgFLbi",
+          "hashes": {
+            "sha1": "39f455ed9d5fc63c536d36de477d50c897fbbb05",
+            "sha512": "daac7813d82f9b1e581ffe25f25c59d875ea18ec5cb62c54f32362972af7ade71f54a739df8f80a1d03f72f91d4cac989b42ee4f84e248850e6e86c7f81262cd"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/im0Li2mm/geckolib-fabric-1.21.1-4.6.jar",
+          "filename": "geckolib-fabric-1.21.1-4.6.jar",
+          "primary": true,
+          "size": 597343,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "UvKZBX05",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "NeoForge 1.21",
+      "version_number": "4.5.8",
+      "changelog": "v4.5.8\n\n- Add support for invisible, partially-invisible, and glowing entities for AutoGlowingGeoLayer\n- Add additional checks for invalid buffer states while rendering. This is still a temporary fix util I can rewrite the underlying API in the next breaking version\n- Account for translucent rendering when rendering invisible entities in spectator mode\n- Make AutoGlowingGeoLayer account for overlay colouring when rendering",
+      "changelog_url": null,
+      "date_published": "2024-08-07T19:40:33.439874Z",
+      "downloads": 47671,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yCj99kza",
+          "hashes": {
+            "sha1": "e36b5506ad6a0e6c5c9bc4a3230906117088ef8e",
+            "sha512": "6b323155da2f8a27d3af7a1ae88f94bc6c8cdefc92752d170bd0842f50d4ea98b6a21d64fa50bac6f22118594649ec4d5784f88c1b33c4cb262ddb391b6aecd8"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/UvKZBX05/geckolib-neoforge-1.21-4.5.8.jar",
+          "filename": "geckolib-neoforge-1.21-4.5.8.jar",
+          "primary": true,
+          "size": 554852,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "TUMEJhCC",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Forge 1.21",
+      "version_number": "4.5.8",
+      "changelog": "v4.5.8\n\n- Add support for invisible, partially-invisible, and glowing entities for AutoGlowingGeoLayer\n- Add additional checks for invalid buffer states while rendering. This is still a temporary fix util I can rewrite the underlying API in the next breaking version\n- Account for translucent rendering when rendering invisible entities in spectator mode\n- Make AutoGlowingGeoLayer account for overlay colouring when rendering",
+      "changelog_url": null,
+      "date_published": "2024-08-07T19:39:45.311588Z",
+      "downloads": 29496,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hmoTHUb7",
+          "hashes": {
+            "sha512": "6cba5a4c21cacc0151ccb8d30a05901545dc1ecc44397a585bfb58053a336feaa643b8be63c71c43a445bbae699f73e753a3344ff66c982fa1ec8e9517104a55",
+            "sha1": "235afd0dc0e98916b74363341a84d378ce24859c"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/TUMEJhCC/geckolib-forge-1.21-4.5.8.jar",
+          "filename": "geckolib-forge-1.21-4.5.8.jar",
+          "primary": true,
+          "size": 714695,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "11VBhLU2",
+      "project_id": "8BmcQJ2H",
+      "author_id": "GIhCykJ9",
+      "featured": false,
+      "name": "Fabric 1.21",
+      "version_number": "4.5.8",
+      "changelog": "v4.5.8\n\n- Add support for invisible, partially-invisible, and glowing entities for AutoGlowingGeoLayer\n- Add additional checks for invalid buffer states while rendering. This is still a temporary fix util I can rewrite the underlying API in the next breaking version\n- Account for translucent rendering when rendering invisible entities in spectator mode\n- Make AutoGlowingGeoLayer account for overlay colouring when rendering",
+      "changelog_url": null,
+      "date_published": "2024-08-07T19:39:09.435498Z",
+      "downloads": 394515,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SP3zY94L",
+          "hashes": {
+            "sha512": "3d6f5e5b05ff9eb033dbb9d621b4494d891f31af069787fcaccf23cf3a179fc5ed9f25c26218480058c4330b72b488659be536ced2f2b9da24b3757041417338",
+            "sha1": "a326a14a6eab1b82bbcf7fb4fd27b9655ffb9d1b"
+          },
+          "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/11VBhLU2/geckolib-fabric-1.21-4.5.8.jar",
+          "filename": "geckolib-fabric-1.21-4.5.8.jar",
+          "primary": true,
+          "size": 584998,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

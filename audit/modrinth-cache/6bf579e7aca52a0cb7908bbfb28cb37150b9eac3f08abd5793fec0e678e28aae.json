@@ -1,0 +1,835 @@
+{
+  "url": "https://api.modrinth.com/v2/project/kU1G12Nn/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:51.040284+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hsjVajlP",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "Create Crafts & Additions 1.7.2",
+      "version_number": "neoforge-1.21.1-1.7.2",
+      "changelog": "## Release 1.7.2\n\n### Added\n\n- Added support for Charging in Sequenced Assembly\n- Additional ponder scenes for Connectors, Electric Pump, and Electric Servo\n- Electric Servo can now be rotated around its axis with the wrench\n\n### Fixed\n\n- Reworked Connectors should now function across unloaded chunks\n- Improved Connector wire rendering and culling\n- Fixed Servo rotating in the wrong direction when facing north, west, and down\n- Liquid Blaze Burner should now properly handle refueling using fluid container items\n",
+      "changelog_url": null,
+      "date_published": "2026-10-01T17:49:20.743820Z",
+      "downloads": 76839,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aXkPvJAO",
+          "hashes": {
+            "sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8",
+            "sha512": "f3a3ddb5600189da818fc71ea659d17f0d1097c5ad664433eed400b3ecc67d0f9305b348e5b7c5fd872d7a6e51330c7158b3181e77192c576c205a74dd0298ff"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar",
+          "filename": "createaddition-1.7.2.jar",
+          "primary": true,
+          "size": 1772844,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vD7sHwsm",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "Create Crafts & Additions 1.7.1",
+      "version_number": "neoforge-1.21.1-1.7.1",
+      "changelog": "## Release 1.7.1\n\n### Added\n\n- Electric Pump block.\n\n### Fixes\n\n- Various bug fixes.",
+      "changelog_url": null,
+      "date_published": "2026-09-15T17:08:02.519602Z",
+      "downloads": 80756,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "m8vZCx3d",
+          "hashes": {
+            "sha512": "2f839213f43b311378659ee1d643b444b3ce2b2cc2c3fa6239c176c17ee3cf53b9f471e1d13442813e5683d40e0da8ca3609498ee1690cb87efb21bdeeae9598",
+            "sha1": "779c49416643a6c5f176d5d500bf1bcbe75a5d18"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/vD7sHwsm/createaddition-1.7.1.jar",
+          "filename": "createaddition-1.7.1.jar",
+          "primary": true,
+          "size": 1726257,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zlC557Yg",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "Create Crafts & Additions 1.7.0",
+      "version_number": "neoforge-1.21.1-1.7.0",
+      "changelog": "+ New servo motor\n+ Improved Sable support, connector support",
+      "changelog_url": null,
+      "date_published": "2026-08-16T19:33:13.450713Z",
+      "downloads": 168576,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MbY2GHbq",
+          "hashes": {
+            "sha512": "267779bf2a215a0be39748e6a8e387322df697bc9de8e7e9558e6885aa790a2e73f334a55bfc5f97f4130d22262011433675fd0830ab1e3e3b10c9898d8a702c",
+            "sha1": "fd73ba9809ed6656a8c2aae81c9badb382085657"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/zlC557Yg/createaddition-1.7.0.jar",
+          "filename": "createaddition-1.7.0.jar",
+          "primary": true,
+          "size": 1705668,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qPr8V4G2",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "Create Crafts & Additions 1.6.0",
+      "version_number": "neoforge-1.21.1-1.6.0",
+      "changelog": "### Added\n\n- Capacitor can now be charged with FE.\n\n### Changed\n\n- Alternator now has shaft on both sides.\n- Reworked Pale Gold Amulet, how charges items with shock effect.\n- Updated textures for Alternator Pale Gold Amulet, Barbed wire.\n- Tesla Coil now emit light when active.\n\n### Fixes\n\n- Improved Sable compat (docking).\n- Tesla Coil now reports the correct remaining time when starved for energy.",
+      "changelog_url": null,
+      "date_published": "2026-06-02T21:53:52.493801Z",
+      "downloads": 718962,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "moN1qZvU",
+          "hashes": {
+            "sha512": "e3a31eefb15d37bd1a2ba9012d0c00ec92f7c9e57b7a35c993676ea0cc85ba4f35a055a9f98d57636f24a0562d6da18b4e90713f4f46d47959666a097a6a5cea",
+            "sha1": "87b539d41ed238e98b26c607c0c81a973323147e"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/qPr8V4G2/createaddition-1.6.0.jar",
+          "filename": "createaddition-1.6.0.jar",
+          "primary": true,
+          "size": 1661802,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3ptU8Nq9",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.11",
+      "version_number": "neoforge-1.21.1-1.5.11",
+      "changelog": "## Release 1.5.11\n\n### Added\n\n- Ignitable fluids\n- Create: Aeronautics docking compatibility\n\n### Fixed\n\n- Create: Aeronautics crash\n- Recycling recipe conflict\n- Girder texture warning\n- Connector cache logic",
+      "changelog_url": null,
+      "date_published": "2026-05-13T16:07:15.916782Z",
+      "downloads": 200686,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ifOyFGhy",
+          "hashes": {
+            "sha1": "455dc8907be32193a89a34b98a1e24a08e8b65a1",
+            "sha512": "3a5066223ea6b583cc0bbe9f2bb0adbe7d7ff90625291f483a0f4bb1df3d6c5da1dfd3cfcfec4e9d90eebc4732328c64127e835f96dfe29016642728e21c1b97"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/3ptU8Nq9/createaddition-1.5.11.jar",
+          "filename": "createaddition-1.5.11.jar",
+          "primary": true,
+          "size": 1623047,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "UjX6dr61",
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CP8Lhuwu",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.10",
+      "version_number": "neoforge-1.21.1-1.5.10",
+      "changelog": "~ General fixes",
+      "changelog_url": null,
+      "date_published": "2026-01-24T15:14:20.831858Z",
+      "downloads": 706921,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EVD2oZNd",
+          "hashes": {
+            "sha512": "22522c86d5ca798c9ee9f3c20f18f540be125fa1c76d736d1c2e876a31469b5ee61eef27829e7b69f16940675186519448f6b4978635b6010db1422da8edca0d",
+            "sha1": "2bd194da923dd38239ef49df30ecf1a720d38997"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/CP8Lhuwu/createaddition-1.5.10.jar",
+          "filename": "createaddition-1.5.10.jar",
+          "primary": true,
+          "size": 1595173,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hbhImJGs",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.9",
+      "version_number": "neoforge-1.21.1-1.5.9",
+      "changelog": "~ Fixed sound crash (hopefully)\n~ Fixed stress tooltips",
+      "changelog_url": null,
+      "date_published": "2025-11-25T22:46:58.373617Z",
+      "downloads": 188578,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "W8xoRAiy",
+          "hashes": {
+            "sha512": "4d41895c909f37db53118d4d43b5ed060c02074ba6be63c28b02b675db0f72d1b15059d8df262d5c29f9566ab800b649eaf1c6e34ffd8124243a15e9f5039537",
+            "sha1": "039e3cf4ba526fd10204834b8ad6df8f549f86c3"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hbhImJGs/createaddition-1.5.9.jar",
+          "filename": "createaddition-1.5.9.jar",
+          "primary": true,
+          "size": 1595080,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "cKTFwyEF",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.8",
+      "version_number": "neoforge-1.21.1-1.5.8",
+      "changelog": "~ Updated to Create 6.0.8\n~ Fixed Liquid Blaze Burner",
+      "changelog_url": null,
+      "date_published": "2025-11-02T21:14:32.533019Z",
+      "downloads": 47239,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "C5ZaWkmG",
+          "hashes": {
+            "sha512": "2b8d588669c4da12e125ba2c36cb9bdad7186cc0ce8f6552181d914f48cd53ccae37b373f941eff4987c9ea9d1e12db04d1b6a11118884b35c038c8f407d000d",
+            "sha1": "6328ec9c1da173dfb4527b8931d5e76a7414d7d2"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/cKTFwyEF/createaddition-1.5.8.jar",
+          "filename": "createaddition-1.5.8.jar",
+          "primary": true,
+          "size": 1594758,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5ej8jlzg",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.7",
+      "version_number": "neoforge-1.21.1-1.5.7",
+      "changelog": "~ Fixed Liquid Blaze Burner crash",
+      "changelog_url": null,
+      "date_published": "2025-11-01T11:38:21.140179Z",
+      "downloads": 4245,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tPIwVrX8",
+          "hashes": {
+            "sha1": "2136c03cce333c626ef094e3c71b3b6ecc9c80d3",
+            "sha512": "e07c5d7b118e1e4de1e9897bfe2848e2f52ca548d3e700a4740ea75c580cda36b53b4aab03079088aaa07fa7be1cb51bddd7ef14a82cf19124904ae93c41e4e3"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/5ej8jlzg/createaddition-1.5.7.jar",
+          "filename": "createaddition-1.5.7.jar",
+          "primary": true,
+          "size": 1594723,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Q9CnMDF0",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.5",
+      "version_number": "neoforge-1.21.1-1.5.5",
+      "changelog": "~ Fixed uncommon crash on launch",
+      "changelog_url": null,
+      "date_published": "2025-10-12T13:52:04.557224Z",
+      "downloads": 37394,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "E6ynIujB",
+          "hashes": {
+            "sha1": "9f33ef74eceab2c47381c55dafe854ab7eb87144",
+            "sha512": "74a3d1a43e27dedb3cd9506c1aefe3d21dc4e0a597481fee9019cb0e0e56d54ead6674c523cc95d7289c4a525b14694081ae2835cf828d3716e4e35b9b4728cb"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/Q9CnMDF0/createaddition-1.5.5.jar",
+          "filename": "createaddition-1.5.5.jar",
+          "primary": true,
+          "size": 1605855,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "kuAQz2AJ",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.4",
+      "version_number": "neoforge-1.21.1-1.5.4",
+      "changelog": "~ Fix wirespool stacking issue\n~ Upgraded neoforge version",
+      "changelog_url": null,
+      "date_published": "2025-10-08T20:37:04.856067Z",
+      "downloads": 7522,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tBeBp6bb",
+          "hashes": {
+            "sha1": "d8a93e8487fed38573c03820eec73193cf291b62",
+            "sha512": "aba77da438fee0cc2e39c379282f564f57f962d338c08490a835d3865a6974db4b8df5c844b53196501cc4eac0b2096e876e5521bedbdf9973aed167dd93c9f2"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/kuAQz2AJ/createaddition-1.5.4.jar",
+          "filename": "createaddition-1.5.4.jar",
+          "primary": true,
+          "size": 1605682,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "A5IpLV4E",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.3",
+      "version_number": "neoforge-1.21.1-1.5.3",
+      "changelog": "~ Barbed wire is now waterloggable\n~ Fixed teslacoil and barbed wire death message\n~ General bugfixes",
+      "changelog_url": null,
+      "date_published": "2025-09-03T21:50:39.525519Z",
+      "downloads": 75387,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JJYccLUg",
+          "hashes": {
+            "sha512": "09dc9cb40d41920fe2ac043a292acf19d7cf4ab24f7864beb729375dd8e84c48e4131150f3189dfd4e4c0d003481b97ab334652719162b7cb69e20b173c2e6a1",
+            "sha1": "5611742460d7dc633bd7b26201afa12c939e53a2"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/A5IpLV4E/createaddition-1.5.3.jar",
+          "filename": "createaddition-1.5.3.jar",
+          "primary": true,
+          "size": 1605665,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "WrlIVx0v",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neofroge-1.21.1-1.5.2",
+      "version_number": "neoforge-1.21.1-1.5.2",
+      "changelog": "+ Added alternative recipe for Straw\n~ Fixed Redstone Relay\n~ Fixed broken compatibility recipes\n~ Other general fixes",
+      "changelog_url": null,
+      "date_published": "2025-08-25T10:03:15.979336Z",
+      "downloads": 21632,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9OcHFBDr",
+          "hashes": {
+            "sha512": "c3292153f95509a3e493955afbfbb87110a06d41a76fbf87b88447727ab86091787f5e8845961044c7a7f18910533b3443660b830a07bafcdadd6748bab1b7f5",
+            "sha1": "6b75a30d34903383d4421cd059e5691d8ae1f29e"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/WrlIVx0v/createaddition-1.5.2.jar",
+          "filename": "createaddition-1.5.2.jar",
+          "primary": true,
+          "size": 1604381,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zBlHCLs2",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.5.1",
+      "version_number": "neoforge-1.21.1-1.5.1",
+      "changelog": "~ Fixed missing recipes",
+      "changelog_url": null,
+      "date_published": "2025-07-15T22:42:55.157194Z",
+      "downloads": 112751,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lxUoX45D",
+          "hashes": {
+            "sha512": "fb69b73def632135ccb8041f7949f300e8de202b71c2eaf11cb3fe91ba632a672d26a77205fef60bf6d9184a8ed4057f4f915ee70bf18ae7d6f74cf88df3606d",
+            "sha1": "9b04f81e14739275e198e492c14364702720808b"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/zBlHCLs2/createaddition-1.5.1.jar",
+          "filename": "createaddition-1.5.1.jar",
+          "primary": true,
+          "size": 1609075,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "k3vtnT8F",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.4.2",
+      "version_number": "neoforge-1.21.1-1.4.2",
+      "changelog": "+ Added missing tags\n+ Added tooltip to Tesla Coil and Liquid Blaze Burner\n~ Fixed broken recipes\n~ Fixed crash",
+      "changelog_url": null,
+      "date_published": "2025-04-20T21:19:06.569275Z",
+      "downloads": 124620,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NdGHm3dh",
+          "hashes": {
+            "sha512": "f0f17987d24eabd269f3da6aac10fafa91152235daa5bad02c73abaffc6ac81585efd866ea24702d26ccf80450d3ec33db31acdb07c0f3101b876b089b5b07d9",
+            "sha1": "dbb2a6d5cf509da8c460d1ffe57db06c5272070f"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/k3vtnT8F/createaddition-1.4.2.jar",
+          "filename": "createaddition-1.4.2.jar",
+          "primary": true,
+          "size": 1634683,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "94nPrXZX",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.21.1-1.4.1",
+      "version_number": "neoforge-1.21.1-1.4.1",
+      "changelog": "~ Re-added CC support, Thanks skippyall!\n~ Fixed de-oxidize recipes\n~ Fixed crash",
+      "changelog_url": null,
+      "date_published": "2025-04-19T15:18:27.563449Z",
+      "downloads": 1768,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fosasTQy",
+          "hashes": {
+            "sha1": "6aaa5b4afa067d65dbc5dba87bc156ef57d483af",
+            "sha512": "fbec9ccc05b7dadf5215c9a28629946c9d816757a2522b2e764a9a0389117ef3d3e7c45aec34ab49e277b6f239171b1a508abba80176e3c5a7ba0fc7dbe5ddb0"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/94nPrXZX/createaddition-1.4.1.jar",
+          "filename": "createaddition-1.4.1.jar",
+          "primary": true,
+          "size": 1621711,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "WI7xXjbx",
+      "project_id": "kU1G12Nn",
+      "author_id": "ykMIV3rU",
+      "featured": false,
+      "name": "createaddition-neoforge-1.4.0-1.21.1",
+      "version_number": "neoforge-1.4.0-1.21.1",
+      "changelog": "~ Updated to support Minecraft Neoforge 1.21.1 with Create 6\n\nMany thanks to the community contributors for helping with the update!",
+      "changelog_url": null,
+      "date_published": "2025-04-18T17:52:05.990758Z",
+      "downloads": 1612,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vb5RVKYz",
+          "hashes": {
+            "sha1": "d4bcf26a144d6e54bbeeaabec3b7f9c36d57a154",
+            "sha512": "ffde441034d8356fcb2dd7e34be199fff2ad27a4fa680973f6c0f2173b69ef014a40a0aa451bf43606fc25aef9d7b80b4e3fdd45d922a1404eee671ed1e5d7ce"
+          },
+          "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/WI7xXjbx/createaddition-1.4.0.jar",
+          "filename": "createaddition-1.4.0.jar",
+          "primary": true,
+          "size": 1608480,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "LNytGWDc",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

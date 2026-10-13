@@ -1,0 +1,295 @@
+{
+  "url": "https://api.modrinth.com/v2/project/jgzwYsAN/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:50.612650+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BIbVs1fo",
+      "project_id": "jgzwYsAN",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Malum 1.8.2",
+      "version_number": "1.8.2",
+      "changelog": "See curseforge for changelog",
+      "changelog_url": null,
+      "date_published": "2026-01-12T01:38:32.709150Z",
+      "downloads": 84890,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lotP7ACO",
+          "hashes": {
+            "sha1": "7bea3f874f186a17ad3e271df145c179e81c2a1d",
+            "sha512": "dd9ccc1dea3b090f69f807be3e7a8b99ec6d3d7d6b047e2893cb49ca505860bbf640cf767082c1a32ea403b35e2a9f9d1755327890bbfb2f8778058a9597a99e"
+          },
+          "url": "https://cdn.modrinth.com/data/jgzwYsAN/versions/BIbVs1fo/malum-1.21.1-1.8.2.jar",
+          "filename": "malum-1.21.1-1.8.2.jar",
+          "primary": true,
+          "size": 33585331,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "DPwO66EL",
+      "project_id": "jgzwYsAN",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Malum 1.7.3.1",
+      "version_number": "1.7.3.1",
+      "changelog": "- Fix Spriit Spoils applying itself permenantely onto entity spirit data",
+      "changelog_url": null,
+      "date_published": "2025-06-15T21:55:12.242673Z",
+      "downloads": 50207,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "p8yBqcb7",
+          "hashes": {
+            "sha1": "e838ccd28f4083439830363495db4609af3743c7",
+            "sha512": "7cb0a59252f89770c602d85b574a3ab734c3374389198afcd37a08d8158a253b45c7de5003189e5bbeb42eb2cc8ff7dccb8a644e654de1c580806529cf2dcca0"
+          },
+          "url": "https://cdn.modrinth.com/data/jgzwYsAN/versions/DPwO66EL/malum-1.21.1-1.7.3.1.jar",
+          "filename": "malum-1.21.1-1.7.3.1.jar",
+          "primary": true,
+          "size": 30769743,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "bN3xUWdo",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "mLfHXyLG",
+      "project_id": "jgzwYsAN",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Malum 1.7.3",
+      "version_number": "1.7.3",
+      "changelog": "Added the missing Soul Stained Steel Scythe Arcane Restoration Recipe\n\nAdded missing recipes for Repairing Weeping Well Gear using the Repair Pylon\n\nAdded the missing Warp Flux Block\n\nThe Sundering Anchor can now only hit a single target up to five times and will return early if it cannot find any other valid target afterwards\n\nThe Sundering Anchor Projectile no longer deals double the intended damage\n\nBig Boner Necklace in the Works\n\nUpdated Spirit Entity Behavior and Visuals\nWhen Spirits are created without the help of a player they will now enter a passive state\n- While in this passive state, spirits will slowly fall towards the ground, becoming an actual item upon collision\n- Passive spirits can still be collected by a player however the range is much shorter and requires line of sight with the player\n- This should hopefully allow for a more innate and automation-friendly behavior\n\nUpdated Several Rune Effects\n\nRune of Idle Restoration -> Rune of Vitality\n\n+Passive Healing -> +20% Healing Received\n\nRune of Culling\n\n+20% Scythe Proficiency -> +Scythes Exploit Wounds\n\nRune of Reactive Shielding -> Rune of Protection\n\n+Damage Resistance when Struck -> +20% Armor\n\nRune of Sacrificial Empowerment -> Rune of Farsweeping\n\n+Scythe Kill Chaining -> +Deadlier Scythe Sweeping\n\nRune of Toughness -> Rune of Indomitability\n\n+20% Armor Toughness -> +100% Knockback Resistance\n\nUpdated Some Geas Effects\n\nPact of The Liveweaver:\n- Added Passive Healing Effect no longer present on the rune\n\nPact of Reciprocation:\n- Now only applies to Magic Damage as was intended\n\nAll Magic Damage in Malum now pierces Half of the Armor Value as opposed to All of It. Magic Damage still does not damage Armor despite this change.\nThis can be disabled using a config option\n\nUpdated the textures for the Alchemical Calx Block\nUpdated the textures for the Catalyst Lobber\n\nRemoved the entire Spirit Ritual system that utilized the Ritual Plinth\n- It was nowhere near the ideal state I now imagine Spirit Rituals to be, and was causing some issues so I figured that since I'll end up replacing it in the future I might as well remove it now.\n\nActually Fixed Create Compat not Working\n\nFixed Repair Pylon not correctly repairing Fractured Impetuses\n\nFixed Copper and Iron Impetuses incorrectly having two separate Arcane Restoration Recipes\n\nFixed Repair Pylon Causing Network Issues when Repairing Enchanted Items\n\nFixed the Spirit Crucible and Spirit Altar not properly continuing work after being loaded from chunk memory\n\nFixed the Ring of the Howling Maelstrom taking effect when hitting an enemy with a rebound scythe when wearing the Necklace of the Narrow Edge even without the ring\n\nFixed Scarstone dropping even without proper tools\n\nFixed Transmutation Tree Pages Displaying Translation Keys instead of Translated Headlines\n\nFixed Max Durability still being transfered across gear during Spirit Infusion\n\nFixed Enchantments not carring if the newly created item can actually support them when carrying over the enchantment during Spirit Infusion\n\nFix Modded Metal Node Smelting Recipes not actually working despite JEI showing so",
+      "changelog_url": null,
+      "date_published": "2025-06-15T11:07:18.594070Z",
+      "downloads": 619,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HnjfORO1",
+          "hashes": {
+            "sha512": "6bb2f614b549ec920c5bce62ba45003a4ca4b65369e264972079191712a0c6233467502ef9dbeb07f5a4261f022eb16be637ed4ad7ffd6d5317f62f53fb8aee4",
+            "sha1": "f4039ed3adccf8d3a1bfbb1a1ef535d07f51efe2"
+          },
+          "url": "https://cdn.modrinth.com/data/jgzwYsAN/versions/mLfHXyLG/malum-1.21.1-1.7.3.jar",
+          "filename": "malum-1.21.1-1.7.3.jar",
+          "primary": true,
+          "size": 30769756,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "bN3xUWdo",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "jXmJQMxy",
+      "project_id": "jgzwYsAN",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Malum 1.7.2",
+      "version_number": "1.7.2",
+      "changelog": "Added a Particle Effect for the Rite of Growth\n\nAdded the ability to put Malum Plants into Pots\n\nAdded Scarstone, Strangeroots and Strange Crystals\n- These are rare new world generation features you can create by spreading blight\n\nAdded the missing Soulwoven Banner Pattern for the Wicked Spirit; Sword\n\nAdded new sounds for Brilliance and Natural Quartz Ore\n\nUpdated the charge-up particle effect for the Unwinding Chaos\n\nUpdated Blight Propagation particle effects\n\nUpdated the looks of various Blight Decals\n\nCorrected some Codex entries\n\nCorrected any use of the word \"Aliment\" in place of \"Ailment\"\n\nMade the requirement for a blood sacrifice in the gease entry a bit more descriptive\n\nSplit the Totemic Runes entry across all the respective totem rite entries\n\nRemoved Runic and Cursed Sap Blocks\n- These may return in the future, but at the moment I do not see a way to make them interesting\n\nFixed Spirit Infusion copying durability and attribute data from gear over to the result\n - This is done through a blacklist tag for component types\n\nFixed a crash tied to the Sundering Anchor encountered when loading into a world with the thrown anchor loaded from memory\n\nFixed Arcanaphage Geas crashing when taking sourceless damage\n\nFixed Hereic Rune crashing when taking sourecless damage\n\nFixed detailed spirit descriptions still being wrong\n\nFixed certain totem effect particles appearing excessively\n\nFixed Create Recipe Compat Not Working\n\nFixed Raw Brilliance and Raw Soulstone becoming Raw Soulstone in Weeping Well Transmutation\n\nFixed the Malignant Stronghold Scarf remaining even when the associated entity is killed\n\nFixed the Geas Effect book page having misaligned text when using the easy reading book style\n\nFixed other stuff too",
+      "changelog_url": null,
+      "date_published": "2025-06-08T14:02:19.115802Z",
+      "downloads": 552,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zIaTRBI0",
+          "hashes": {
+            "sha512": "c7fe0bcca8f3e2f11a8341f09e0f5b93fd69a5c74167f944ea67ed30dfb0a1da1ca740879c32bf3a51a34d68c2c67e8de149a903614ed49f73305422c2c2f276",
+            "sha1": "1036fd1b162fb5c2a50275bcf13f339e0514b179"
+          },
+          "url": "https://cdn.modrinth.com/data/jgzwYsAN/versions/jXmJQMxy/malum-1.21.1-1.7.2.jar",
+          "filename": "malum-1.21.1-1.7.2.jar",
+          "primary": true,
+          "size": 30813529,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "bN3xUWdo",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nHHS815w",
+      "project_id": "jgzwYsAN",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Malum 1.7.1",
+      "version_number": "1.7.1",
+      "changelog": "- Added a config option to control the maximum length of the Malignant Stronghold Scarf\n- Added two new Blight Plants\n- Condensed the two Blighted Blocks into one\n- Updated Blight Generation and Visuals\n - Should hopefully be less intrusive and *slightly* more visually pleasing\n - This isn't the last update Blight will receive, the goal is to make it at least slightly pleasant to look at ahaha\n- Updated the Repair Pylon Visuals Slightly\n- The Sundering Anchor now goes on Cooldown when Thrown in addition to when Returned\n - This is to prevent the player from being able to throw 9 anchors at once\n- The Sundering Anchor now more eagerly attacks targets when there is only one in range\n- Updated Recipes for Soul Stained Steel Repair using the Repair Pylon\n\n- Fixed Particle Networking Related Crashes On Clients when connected to a server\n- Fixed Ether and Weapons Armor Tools etc. not carrying over data components when used in spirit infusion\n- Fixed Edge of Deliverance not having proper Better Combat integration\n- Fixed the Repair Pylon not accepting recipes\n- Fixed Soul Ward not being visible\n- Fixed Weeping Well Blocks being movable via Rite of Gravity\n- Fixed Weeping Well not accepting items in some cases\n- Hopefully Fixed Weeping Well not displaying particle previews for items that can be transmutated\n- Fixed Spirit Rite Pages displaying the wrong name and hover info\n- Fixed some Hat Layer Clipping with the Soul Hunter Cloak\n- Fixed the tophat not rendering",
+      "changelog_url": null,
+      "date_published": "2025-05-26T23:31:16.430175Z",
+      "downloads": 1092,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IJq23BDJ",
+          "hashes": {
+            "sha512": "876b8092eecc9126ad900074e03a5e4e2d185064d71cd309cce47b3c32eacb951aa013d4d97e4f11a5493c47d78492df51eeddcc1aa45caab0a156872073846a",
+            "sha1": "92b867bef5da854de8f129f98b4027779935d121"
+          },
+          "url": "https://cdn.modrinth.com/data/jgzwYsAN/versions/nHHS815w/malum-1.21.1-1.7.1.jar",
+          "filename": "malum-1.21.1-1.7.1.jar",
+          "primary": true,
+          "size": 29499029,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "bN3xUWdo",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "FSc5yaSt",
+      "project_id": "jgzwYsAN",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Malum 1.7.0",
+      "version_number": "1.7.0",
+      "changelog": "- Ported To 1.21\n- Added A New Major System; Geas\n- Added 36 New Geas for you to swear to, 8 of which are exclusive to the void;\n- Added 2 New Lategame Weapons To The Void Path\n- Added Entries For Fused Consciousness Content\n- Added New Scythe Related Trinkets\n- Added The Wind Nucleus And The Zephyr Impetus\n- Added A Cobalt Impetus\n- Added New Ornate and Gilded Pedestals\n- Changed Spirit Fabric to Soulwoven Silk\n- Changed The Spirit Pouch To The Soulwoven Pouch\n- Added Soulwoven Banners\n- Added Waveform Redstone Components\n- Added New Core Augments For The Crucible\n- Updated Ether Particles\n- Updated The Weeping Well\n- Updated The Malignant Armor Model\n - It Has A Cool Scarf Now Too\n- Added And/Or Improved Tooltip Displays For Various Items And Their Effects\n- Retextured The Entire Book\n- Retextured All Impetuses\n- Retextured All Runes\n\n\nWhat to Watch Out For;\n- The Wicked Spirit is Missing A Banner Pattern\n- Some Variants of the new Malignant Scarf have missing textures\n- Naturally, As with any new update, there will be bugs, beware!",
+      "changelog_url": null,
+      "date_published": "2025-05-25T17:41:48.283247Z",
+      "downloads": 292,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "37icU7Ow",
+          "hashes": {
+            "sha512": "a6c3559995e173bd93aca7f7c0c01401cc70f1642557d6bb544de392bc7edef69211eec4597f35f94d1630033deade47241a288cb54e79721e59bd752cf743a2",
+            "sha1": "2f19619576e1cce3b6edf3663b05b750c431c90b"
+          },
+          "url": "https://cdn.modrinth.com/data/jgzwYsAN/versions/FSc5yaSt/malum-1.21.1-1.7.0.jar",
+          "filename": "malum-1.21.1-1.7.0.jar",
+          "primary": true,
+          "size": 29502990,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "bN3xUWdo",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=EvilCraft&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:09.424261+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "3ANq2btA",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "evilcraft",
+        "author": "rubensworks",
+        "author_id": "nJY7PIen",
+        "organization": null,
+        "organization_id": null,
+        "title": "EvilCraft",
+        "description": "An evil mod for Minecraft",
+        "categories": [
+          "forge",
+          "magic",
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "magic",
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "versions": [
+          "1.18.2",
+          "1.19",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20.1",
+          "1.20.4",
+          "1.21",
+          "1.21.1",
+          "1.21.4",
+          "1.21.8",
+          "1.21.10",
+          "1.21.11",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 124392,
+        "follows": 94,
+        "icon_url": "https://cdn.modrinth.com/data/3ANq2btA/4a3de92c4cab2b622027d46b5de67862ce5ef6cc_96.webp",
+        "date_created": "2022-06-05T19:01:33.057969+00:00",
+        "date_modified": "2026-10-03T12:56:29.585092+00:00",
+        "latest_version": "wazJNCKD",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 16777215
+      },
+      {
+        "project_id": "Z9DM0LJ4",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "cyclops-core",
+        "author": "rubensworks",
+        "author_id": "nJY7PIen",
+        "organization": null,
+        "organization_id": null,
+        "title": "Cyclops Core",
+        "description": "Library mod for EvilCraft, Integrated Dynamics and others.",
+        "categories": [
+          "fabric",
+          "forge",
+          "library",
+          "neoforge",
+          "quilt",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "library",
+          "neoforge",
+          "quilt",
+          "utility"
+        ],
+        "versions": [
+          "1.18.2",
+          "1.19",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20.1",
+          "1.20.4",
+          "1.21",
+          "1.21.1",
+          "1.21.4",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 602516,
+        "follows": 57,
+        "icon_url": "https://cdn.modrinth.com/data/Z9DM0LJ4/icon.png",
+        "date_created": "2022-06-05T12:19:03.317108+00:00",
+        "date_modified": "2026-10-10T06:41:15.286788+00:00",
+        "latest_version": "5hsTovx4",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 6052977
+      },
+      {
+        "project_id": "35hUUUwA",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "recipe-integration",
+        "author": "CelestialFox",
+        "author_id": "8EE5CPdt",
+        "organization": null,
+        "organization_id": null,
+        "title": "Recipe Integration",
+        "description": "Integration for many mods including Ars Nouveau, Biomes O Plenty, Create, Evilcraft, Farmer's Delight, GTCEU, Immersive Engineering, Integrated Dynamics, Mekanism, Powah, and more!",
+        "categories": [
+          "game-mechanics",
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "display_categories": [
+          "game-mechanics",
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "versions": [
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2"
+        ],
+        "downloads": 17776,
+        "follows": 49,
+        "icon_url": "https://cdn.modrinth.com/data/35hUUUwA/09ceb639e33f00a14b20674647bcabda0919d2bc_96.webp",
+        "date_created": "2025-08-22T04:31:12.824104+00:00",
+        "date_modified": "2026-04-07T21:59:46.316300+00:00",
+        "latest_version": "6vxfvFCK",
+        "license": "LicenseRef-Custom-License",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "server_only_client_optional"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/35hUUUwA/images/f5858381975101659897ef0c6c5f196731dd3322.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/a28a5729fd1a8d875908193e1e7bd1d84596b52f.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/1df80d15a8fd318da5ed8fba8c32496d8f67bc6b.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/bc453728f1b6943b0c891e0f979400637a95b535.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/1e3b5dd417594914d68d0848d348bcd343db73c1.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/3d23ea768058d8976babc2aba36d2dc1449f4b92.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/9d1a8e0aa2216f698f6906724047df14f5eaf8bb.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/f500abb3fb247870a7afddf01396b3f1a1489b36.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/444cdecf48808a5ce1171a151662e545f66a11d0.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/b44e79c56daf92d2a56a562f0dd063e440bd6edb.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/4b8ba760aa9bfc2652100f8d82d87884958ed701.png",
+          "https://cdn.modrinth.com/data/35hUUUwA/images/1f37968c05f09853ff6772be0058861b236e9ade.png"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/35hUUUwA/images/6ff32116a82af83c262ad9dbcec49a4b1da28791.png",
+        "color": 7701332
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 3
+  }
+}

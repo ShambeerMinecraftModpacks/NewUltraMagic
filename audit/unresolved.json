@@ -1,0 +1,542 @@
+[
+  {
+    "source_file": "AE2-Things-1.2.1.jar",
+    "names": [
+      "AE2 Things"
+    ],
+    "source_links": [
+      "https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge"
+    ],
+    "search_candidates": [
+      {
+        "project_id": "veunMwU3",
+        "slug": "ae2things",
+        "title": "AE2 Things",
+        "author": "ProjectET",
+        "versions": [
+          "1.18.1",
+          "1.18.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1"
+        ]
+      },
+      {
+        "project_id": "DrpENU67",
+        "slug": "ijo-pona-poki",
+        "title": "ijo pona poki (AE2Things rewrite)",
+        "author": "MadelineSparkles",
+        "versions": [
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3"
+        ]
+      },
+      {
+        "project_id": "ayN3DZKb",
+        "slug": "expanded-ae",
+        "title": "Expanded AE",
+        "author": "Kolja07",
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ]
+      },
+      {
+        "project_id": "SaLsAr3W",
+        "slug": "jdt-time-accelerators",
+        "title": "JDT Time Accelerators",
+        "author": "Uncraftbar",
+        "versions": [
+          "1.21.1",
+          "26.1.2"
+        ]
+      },
+      {
+        "project_id": "FFQXRXv7",
+        "slug": "ae2-objects",
+        "title": "AE2 Objects",
+        "author": "Chiloven945",
+        "versions": [
+          "26.1",
+          "26.1.1",
+          "26.1.2"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "betterfpsdist-1.20.1-6.0.jar",
+    "names": [
+      "betterfpsdist mod"
+    ],
+    "source_links": [],
+    "search_candidates": [],
+    "error": null
+  },
+  {
+    "source_file": "biomemusic-1.20.1-3.5.jar",
+    "names": [
+      "biomemusic mod"
+    ],
+    "source_links": [],
+    "search_candidates": [],
+    "error": null
+  },
+  {
+    "source_file": "buildinggadgets2-1.0.8.jar",
+    "names": [
+      "Building Gadgets 2"
+    ],
+    "source_links": [
+      "https://github.com/Direwolf20-MC/BuildingGadgets2"
+    ],
+    "search_candidates": [
+      {
+        "project_id": "YRv1yXzF",
+        "slug": "building-gadget-refined-storage",
+        "title": "Building Gadget Refined Storage Bridge",
+        "author": "r4ai",
+        "versions": [
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1"
+        ]
+      },
+      {
+        "project_id": "D8dFzhT2",
+        "slug": "gadgetsmenetwork",
+        "title": "GadgetsmeNetwork",
+        "author": "Chatterjay",
+        "versions": [
+          "1.21.1"
+        ]
+      },
+      {
+        "project_id": "FYyyV9y2",
+        "slug": "bg2-cut-all",
+        "title": "BG2 Cut All",
+        "author": "Mametaro",
+        "versions": [
+          "1.20.1"
+        ]
+      },
+      {
+        "project_id": "EGAENKgA",
+        "slug": "building-gadgets2-ae2-addon",
+        "title": "Building Gadgets2 AE2 Addon",
+        "author": "CZHMC",
+        "versions": [
+          "1.21.1"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "Chunk-Pregenerator-1.20-4.4.4.jar",
+    "names": [
+      "Chunk Pregenerator"
+    ],
+    "source_links": [],
+    "search_candidates": [
+      {
+        "project_id": "3PDHuC6e",
+        "slug": "chunk-pregenerator",
+        "title": "Chunk Pregenerator",
+        "author": "XAVI333",
+        "versions": [
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ]
+      },
+      {
+        "project_id": "AsjPpia1",
+        "slug": "fabricquilt-chunk-pregenerator",
+        "title": "Fabric/Quilt Chunk Pregenerator",
+        "author": "jaskarth",
+        "versions": [
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.20",
+          "1.20.1",
+          "1.21.1"
+        ]
+      },
+      {
+        "project_id": "a7ZtSmv6",
+        "slug": "passivepregen",
+        "title": "Passive Chunk Pregenerator",
+        "author": "liliandev",
+        "versions": [
+          "1.18.2",
+          "1.19.2"
+        ]
+      },
+      {
+        "project_id": "APIm2c3e",
+        "slug": "chunkmill",
+        "title": "ChunkMill",
+        "author": "Lynk",
+        "versions": [
+          "26.1",
+          "26.1.1",
+          "26.1.2"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "cosmeticarmorreworked-1.20.1-v1a.jar",
+    "names": [
+      "CosmeticArmorReworked"
+    ],
+    "source_links": [],
+    "search_candidates": [],
+    "error": null
+  },
+  {
+    "source_file": "cupboard-1.20.1-2.7.jar",
+    "names": [
+      "Cupboard utilities"
+    ],
+    "source_links": [],
+    "search_candidates": [],
+    "error": null
+  },
+  {
+    "source_file": "Disenchanting-forge-1.20.1-2.2.4.jar",
+    "names": [
+      "Disenchanting"
+    ],
+    "source_links": [
+      "https://gitlab.com/chirptheboy/disenchanting/issues",
+      "https://www.curseforge.com/minecraft/mc-mods/disenchantingforge"
+    ],
+    "search_candidates": [
+      {
+        "project_id": "oytHeCkq",
+        "slug": "easy-disenchanting",
+        "title": "Easy Disenchanting",
+        "author": "Txni",
+        "versions": [
+          "1.20",
+          "1.20.1",
+          "1.21.1",
+          "1.21.4",
+          "1.21.5"
+        ]
+      },
+      {
+        "project_id": "qwgbtiVV",
+        "slug": "disenchanting-book",
+        "title": "Disenchanting Book",
+        "author": "paul90317",
+        "versions": [
+          "1.17",
+          "1.17.1",
+          "1.18",
+          "1.18.1",
+          "1.18.2",
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.2",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10"
+        ]
+      },
+      {
+        "project_id": "aFH6Wmr4",
+        "slug": "disenchantlite",
+        "title": "DisenchantLite",
+        "author": "lambhuna",
+        "versions": [
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2"
+        ]
+      },
+      {
+        "project_id": "5fnh5I50",
+        "slug": "magikos-disenchantment",
+        "title": "Magikos - Disenchantment",
+        "author": "Code-Arcanist",
+        "versions": [
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6",
+          "1.21.4",
+          "1.21.11",
+          "26.1.2"
+        ]
+      },
+      {
+        "project_id": "vavey597",
+        "slug": "m23_more_enchantments",
+        "title": "More Enchantments",
+        "author": "moumoumou2333",
+        "versions": [
+          "1.20.1"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "Ez-ae2-universal.jar",
+    "names": [
+      "EZ AE2",
+      "EZ AE2",
+      "Ez-ae2"
+    ],
+    "source_links": [
+      "https://github.com/DevDyna/EZ-ae2",
+      "https://github.com/DevDyna/EZ-ae2/issues",
+      "https://legacy.curseforge.com/minecraft/mc-mods/ez-ae2"
+    ],
+    "search_candidates": [],
+    "error": null
+  },
+  {
+    "source_file": "ftb-library-forge-2001.2.13.jar",
+    "names": [
+      "FTB Library"
+    ],
+    "source_links": [
+      "https://go.ftb.team/support-mod-issues"
+    ],
+    "search_candidates": [
+      {
+        "project_id": "1KLyhGRz",
+        "slug": "item-filters",
+        "title": "Item Filters",
+        "author": "Lat",
+        "versions": [
+          "1.19.2",
+          "1.20.1"
+        ]
+      },
+      {
+        "project_id": "UNCI38gZ",
+        "slug": "tensura-compat-ftb",
+        "title": "Tensura Compat: FTB",
+        "author": "MinhEragon",
+        "versions": [
+          "1.21.1"
+        ]
+      },
+      {
+        "project_id": "E25HIGa8",
+        "slug": "open-quests-api",
+        "title": "Open Quests API",
+        "author": "ArchonicCinnamon",
+        "versions": [
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "26.1.2"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "ftb-teams-forge-2001.3.2.jar",
+    "names": [
+      "FTB Teams"
+    ],
+    "source_links": [
+      "https://go.ftb.team/support-mod-issues"
+    ],
+    "search_candidates": [
+      {
+        "project_id": "WFWJ2H8D",
+        "slug": "better-party-x-ftb-teams",
+        "title": "Better Party X FTB Teams",
+        "author": "MrStilu2k6",
+        "versions": [
+          "1.20.1",
+          "1.21.1",
+          "26.1",
+          "26.1.1",
+          "26.1.2"
+        ]
+      },
+      {
+        "project_id": "V4OaNOOH",
+        "slug": "irons-spell-n-ftb-teams",
+        "title": "Irons Spell N FTB Teams",
+        "author": "HenryCROSS",
+        "versions": [
+          "1.21.1"
+        ]
+      },
+      {
+        "project_id": "SWZGEk5x",
+        "slug": "quests-teams-fixes",
+        "title": "Quests & Teams Fixes",
+        "author": "Stalemated",
+        "versions": [
+          "1.20.1"
+        ]
+      },
+      {
+        "project_id": "UNCI38gZ",
+        "slug": "tensura-compat-ftb",
+        "title": "Tensura Compat: FTB",
+        "author": "MinhEragon",
+        "versions": [
+          "1.21.1"
+        ]
+      },
+      {
+        "project_id": "hQGQrFbZ",
+        "slug": "adminshop",
+        "title": "AdminShop",
+        "author": "Ammonium",
+        "versions": [
+          "1.19.2",
+          "1.19.4",
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "ftbbackups2-forge-1.20-1.0.23.jar",
+    "names": [
+      "FTB Backups 2"
+    ],
+    "source_links": [],
+    "search_candidates": [],
+    "error": null
+  },
+  {
+    "source_file": "ItemProductionLib-1.20.1-1.0.2a-all.jar",
+    "names": [
+      "Item Production Lib"
+    ],
+    "source_links": [],
+    "search_candidates": [],
+    "error": null
+  },
+  {
+    "source_file": "jerintegration-5.5.0.jar",
+    "names": [
+      "JER Integration"
+    ],
+    "source_links": [],
+    "search_candidates": [
+      {
+        "project_id": "7WyzX2FH",
+        "slug": "jer-ore-integration-fork",
+        "title": "JER Ore Integration (Fork)",
+        "author": "MonsieurFeb",
+        "versions": [
+          "1.12.2"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "lionfishapi-2.4-Fix.jar",
+    "names": [
+      "LionfishAPI"
+    ],
+    "source_links": [],
+    "search_candidates": [
+      {
+        "project_id": "lcl84AyI",
+        "slug": "betterendfix",
+        "title": "Better End Fix",
+        "author": "RedCraft86",
+        "versions": [
+          "1.20.1"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source_file": "traveloptics-6.1.0-1.20.1.jar",
+    "names": [
+      "T.O Magic 'n Extras"
+    ],
+    "source_links": [
+      "https://discord.gg/BKyvxfdykN",
+      "https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells"
+    ],
+    "search_candidates": [
+      {
+        "project_id": "uoNbtac8",
+        "slug": "somake-spells-irons-spells-addon",
+        "title": "Somake Spells - Iron's Spells Addon",
+        "author": "somakenetwork",
+        "versions": [
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11"
+        ]
+      }
+    ],
+    "error": null
+  }
+]

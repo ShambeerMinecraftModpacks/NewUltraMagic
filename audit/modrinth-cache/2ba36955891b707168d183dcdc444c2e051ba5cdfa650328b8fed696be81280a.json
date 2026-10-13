@@ -1,0 +1,156 @@
+{
+  "url": "https://api.modrinth.com/v2/project/yPlaLxD1/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:59.329911+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "WZ25JeYB",
+      "project_id": "yPlaLxD1",
+      "author_id": "DUB7akZT",
+      "featured": false,
+      "name": "Iron Furnaces 4.3.2",
+      "version_number": "4.3.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-09-26T05:23:41.957150Z",
+      "downloads": 314457,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zIxTgICF",
+          "hashes": {
+            "sha1": "9a40f949ec9794cdef79bdabb61a12a918613194",
+            "sha512": "88edbca1bd136dddba6da253973800771d5ca3c5632429c4d502326d640da2868f47a41f752492b4bbaf15357652a31c944af23f398b5d480a2e5318860fe7ea"
+          },
+          "url": "https://cdn.modrinth.com/data/yPlaLxD1/versions/WZ25JeYB/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+          "filename": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+          "primary": true,
+          "size": 576866,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BX6fcXBb",
+      "project_id": "yPlaLxD1",
+      "author_id": "DUB7akZT",
+      "featured": false,
+      "name": "Iron Furnaces 4.3.1",
+      "version_number": "4.3.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-07-27T05:37:30.005562Z",
+      "downloads": 100894,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3tBjFJKi",
+          "hashes": {
+            "sha1": "9e698e4ba86249fc3a206e3aebcbeb1d8dd9ea0f",
+            "sha512": "58311e0d54440eea7445ae73fee0646777dd8f390537d4102b6b8869496baf389997039b3d5bebc58defd39b216664d4e00b9dbd04a375669ebe58e9f0bb9975"
+          },
+          "url": "https://cdn.modrinth.com/data/yPlaLxD1/versions/BX6fcXBb/ironfurnaces-neoforge-1.21.1-4.3.1.jar",
+          "filename": "ironfurnaces-neoforge-1.21.1-4.3.1.jar",
+          "primary": true,
+          "size": 576857,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "JlMfdPxK",
+      "project_id": "yPlaLxD1",
+      "author_id": "DUB7akZT",
+      "featured": false,
+      "name": "Iron Furnaces 4.3.0",
+      "version_number": "4.3.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-05-29T06:40:40.926312Z",
+      "downloads": 40401,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "B42fccog",
+          "hashes": {
+            "sha512": "16d916f902c185c59c29ed6a5481f840ad5659eecc3598e0be7418802f5ca802ce4e40bcbe07a23e70adfd8a30c9a3e985cc8162b29e2df8a3ce9fade22af51d",
+            "sha1": "ad439b118b5409914ff0cee8919e2cc7af4739ae"
+          },
+          "url": "https://cdn.modrinth.com/data/yPlaLxD1/versions/JlMfdPxK/ironfurnaces-neoforge-1.21.1-4.3.0.jar",
+          "filename": "ironfurnaces-neoforge-1.21.1-4.3.0.jar",
+          "primary": true,
+          "size": 576831,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MfRtaT6s",
+      "project_id": "yPlaLxD1",
+      "author_id": "DUB7akZT",
+      "featured": false,
+      "name": "4.2.6",
+      "version_number": "4.2.6",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-03T14:58:49.299172Z",
+      "downloads": 65501,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pxlMI24j",
+          "hashes": {
+            "sha1": "d30d0903c86c9589d1f06ef97172b60f977a13d4",
+            "sha512": "50d2b1f5dd27e14583c47694b75e74826bacf740dd66aa200a72f0f659042d33d8e1f70c8ddd112e63f66942085b65c8b740383a2d0b562c46ea4d3964e878df"
+          },
+          "url": "https://cdn.modrinth.com/data/yPlaLxD1/versions/MfRtaT6s/ironfurnaces-neoforge-1.21.1-4.2.6.jar",
+          "filename": "ironfurnaces-neoforge-1.21.1-4.2.6.jar",
+          "primary": true,
+          "size": 575427,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

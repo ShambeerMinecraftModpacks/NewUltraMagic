@@ -1,0 +1,3503 @@
+{
+  "url": "https://api.modrinth.com/v2/project/49ZofO4f/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:31.863388+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2bHl1dCW",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": true,
+      "name": "Ender IO - v8.2.12-beta",
+      "version_number": "v8.2.12-beta",
+      "changelog": "## Ender IO 8.2.12-beta\r\n\r\n### Features\r\n\r\n- Added tooltips to item, fluid and redstone filter slots\r\n- Travel anchors render full-block icons as blocks instead of items\r\n- Crowdin translation updates\r\n\r\n### Bug Fixes\r\n\r\n- Coldfire not going out or generating grains\r\n- Prevent powered spawner putting too many items in the output\r\n- Avoid crashes when checking for valid souls\r\n- ME conduit not listening for capability invalidation\r\n- Conduit inventories not dropping if the last conduit in a bundle is broken\r\n- Farming station GUI background width incorrect\r\n- Prevent self-feeding energy conduits\r\n- Farming station blocks when out of seeds, even when there are other tasks to perform\r\n- Machines can dupe items under specific conditions\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-09-07T19:45:28.654035Z",
+      "downloads": 15626,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XtfKVHMf",
+          "hashes": {
+            "sha512": "c4415c1e835fa7eaf7f4528fd685412151968b092e9be91528add11dd981943ba6243eee41ff73923df64d59d8f907901cb006edcb5c02783e73ab656524c995",
+            "sha1": "4e1d16a227eb36a6ac16d9f615765480027b8e82"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/2bHl1dCW/enderio-8.2.12-beta.jar",
+          "filename": "enderio-8.2.12-beta.jar",
+          "primary": true,
+          "size": 6598496,
+          "file_type": null
+        },
+        {
+          "id": "q5q8pzy9",
+          "hashes": {
+            "sha512": "54272e11d661e9fb955cd7ba12a09c473cdf0df28eb77ed041257d7bb540574464ce494be10ee45430916fe77a39fd0232d9b7365392d468c0291109b1c3db12",
+            "sha1": "5fb9ebc72e2ef80d57a3670df39d39725ea3fdc6"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/2bHl1dCW/enderio-8.2.12-beta-api.jar",
+          "filename": "enderio-8.2.12-beta-api.jar",
+          "primary": false,
+          "size": 251390,
+          "file_type": null
+        },
+        {
+          "id": "8CexemP6",
+          "hashes": {
+            "sha1": "4cc30df690d73bc7b6f903fc595ba32d17945171",
+            "sha512": "57bfedd3332df239039470422d4937ea659f65a34b7573a50e24db10c8445f6946c28d046e57f5ec2a498b1b0779f1a0344a7941a60d3e743582ed5f2ee25b17"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/2bHl1dCW/enderio-8.2.12-beta-sources.jar",
+          "filename": "enderio-8.2.12-beta-sources.jar",
+          "primary": false,
+          "size": 955245,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Tfs8aJPH",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.11-beta",
+      "version_number": "v8.2.11-beta",
+      "changelog": "## Ender IO 8.2.11-beta\r\n\r\n### Features\r\n\r\n- Improved fire crafting handling\r\n- Fire water can now properly be used for fire crafting\r\n- New translations\r\n\r\n### Bug Fixes\r\n\r\n- Discard networks corrupted by the update from 8.0.7 to 8.2.9\r\n- Coordinate selector causing crash on server\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-06-03T19:42:24.348775Z",
+      "downloads": 38728,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "e27ZO8FC",
+          "hashes": {
+            "sha1": "87b7218eed2e2f325ddcb8d3ce94a67aabaa17ca",
+            "sha512": "93ac9f1304d317690ad551ad85ff7dc563cc1b0c3143335116ee2d9199d2d13ce2bcbde1c20a00dafd02f87ce36a94bf07f5097922028f88ff16d34aee5c0de9"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/Tfs8aJPH/enderio-8.2.11-beta.jar",
+          "filename": "enderio-8.2.11-beta.jar",
+          "primary": true,
+          "size": 6592813,
+          "file_type": null
+        },
+        {
+          "id": "DXFCsFze",
+          "hashes": {
+            "sha1": "013c4d2154ee03977a3699eca2f42f0846307b44",
+            "sha512": "a94386f83dce0d5ce5775beb1060a9c94d974e524041bed6a0d9c01c47663268112bda24931d81bc2eb30a3eb7c77df5909da230b2d216b1fceb11b71031d837"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/Tfs8aJPH/enderio-8.2.11-beta-api.jar",
+          "filename": "enderio-8.2.11-beta-api.jar",
+          "primary": false,
+          "size": 251278,
+          "file_type": null
+        },
+        {
+          "id": "SGCzLqe0",
+          "hashes": {
+            "sha512": "ecfd17bb32c63fca46a3b42ed479a4d9d66b909eaeba1b15a4ed63c1961fae4518ea3c41e9d40ef87f8b079a14829304d4a70d850b17b1d5e6fd1c540c95ce79",
+            "sha1": "04ce56c263922a232b886334c3ab0730a8dea90a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/Tfs8aJPH/enderio-8.2.11-beta-sources.jar",
+          "filename": "enderio-8.2.11-beta-sources.jar",
+          "primary": false,
+          "size": 953946,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9kbAHooJ",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.10-beta",
+      "version_number": "v8.2.10-beta",
+      "changelog": "## Ender IO 8.2.10-beta\r\n\r\nA quick bugfix release.\r\n\r\n### Bug Fixes\r\n\r\n- Fixed loading conduit data from saved data\r\n- Increase the pickup range for vacuum blocks.",
+      "changelog_url": null,
+      "date_published": "2026-05-17T18:19:48.746556Z",
+      "downloads": 6741,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vlDVBdGP",
+          "hashes": {
+            "sha512": "0897bf835b8f2282ffb98df59bfcc261ab97bc522ecbb20bfc3186af556ba02652f130538aa1d17e39eb4cd89b3f7c822e95f227d7d256a1db6f91f24b657d7e",
+            "sha1": "6459bb0f9bae10f3f0da66d98c2a88380413f009"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/9kbAHooJ/enderio-8.2.10-beta.jar",
+          "filename": "enderio-8.2.10-beta.jar",
+          "primary": true,
+          "size": 6586318,
+          "file_type": null
+        },
+        {
+          "id": "GBN98WfX",
+          "hashes": {
+            "sha512": "678d821df1dcf34ba7f0863102a2fc9ff8089a3eeec57b45bfe0c21dbc16b754e0641dc889fafa2882272fbdd8c84680ff05b7cd50fdb9c6d2c4fec67a225eeb",
+            "sha1": "80418181dd83dc993e4147f30d8f382f7ea65569"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/9kbAHooJ/enderio-8.2.10-beta-api.jar",
+          "filename": "enderio-8.2.10-beta-api.jar",
+          "primary": false,
+          "size": 251277,
+          "file_type": null
+        },
+        {
+          "id": "ec7ag7SY",
+          "hashes": {
+            "sha1": "156e272bcc42bf714ad5de3c6d165459f5b61299",
+            "sha512": "38954624cac04e98f0386f097053424145b76f90b8dd11a41ed728c08462d18df4bbfeb975ef4c5a1a8aa9a776c3064569529569d41275cb49e09045933829e4"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/9kbAHooJ/enderio-8.2.10-beta-sources.jar",
+          "filename": "enderio-8.2.10-beta-sources.jar",
+          "primary": false,
+          "size": 951654,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5iSb68hN",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.9-beta",
+      "version_number": "v8.2.9-beta",
+      "changelog": "## Ender IO 8.2.9-beta\r\n\r\nA quick bugfix release.\r\n\r\n### Bug Fixes\r\n\r\n- Fixed missing jade translation\r\n- Add a potential fix for both energy conduit poor performance and crashes.\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-05-09T16:41:00.962895Z",
+      "downloads": 6135,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ymv8S1Uv",
+          "hashes": {
+            "sha512": "318bbd3da2bcab1f3efa01335cc2a1624a19a3ce3e93842e6dc4811467e9e6e7ee1d47f50bdc61c080ef48edf307245d503ff6fdd5205fbddfa61419850b0b52",
+            "sha1": "67d07c7613ee885f7467fbf73ea9a38bfd435062"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/5iSb68hN/enderio-8.2.9-beta.jar",
+          "filename": "enderio-8.2.9-beta.jar",
+          "primary": true,
+          "size": 6586333,
+          "file_type": null
+        },
+        {
+          "id": "9JFt7wk6",
+          "hashes": {
+            "sha1": "772dc83fefb5b776b53175266dec2cfef3231e2d",
+            "sha512": "e9c80654d7064391d785c853b6781fb07604c640fcb788148c0f8894dd96f2d629cd7b5e61342bf733702d541517808154531daadfa29be02cb8f1ebaa6d8581"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/5iSb68hN/enderio-8.2.9-beta-api.jar",
+          "filename": "enderio-8.2.9-beta-api.jar",
+          "primary": false,
+          "size": 251277,
+          "file_type": null
+        },
+        {
+          "id": "VaHtXAnb",
+          "hashes": {
+            "sha1": "4c7bf06a6fce9ba5b876bc20f11463971fb79ee8",
+            "sha512": "d6fdb4c21b8a3ef8ce523844a21711c8df426d1ffdc2ba057dd9cf560effa31874e9f212fb83b5b58bbf0981fd624cc2187dc2be8e4f38e620a7b241f72dfaf1"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/5iSb68hN/enderio-8.2.9-beta-sources.jar",
+          "filename": "enderio-8.2.9-beta-sources.jar",
+          "primary": false,
+          "size": 951618,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CVue8NE8",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.8-beta",
+      "version_number": "v8.2.8-beta",
+      "changelog": "## Ender IO 8.2.8-beta\r\n\r\nAnother release focussing on polishing content and fixing bugs.\r\n\r\n### Features\r\n\r\n- Improved filter tooltips\r\n  - Shows filter settings and slot contents in the tooltip like the bundle\r\n- Added connected textures for glass\r\n- Changed the behaviour and texture of the 'vial of the void'\r\n- Re-added the experience rod\r\n- Added soul bound tooltips to Jade for machines and solar panels\r\n- Reworked conduit break logic to help compatibility with other mods (like JDT's Paxels)\r\n- Tweaks to Soul saving/loading to ensure compatibility with older versions\r\n- New Crowdin updates\r\n\r\n### Bug Fixes\r\n\r\n- Fixed conduits not having enough information to expose reasonable capabilities on the client. Resolves crash with Powah.\r\n- Fixed conduit network loading issue coming from 8.0.x to 8.1.x.\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-05-07T19:32:02.914496Z",
+      "downloads": 150,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VAkXirf1",
+          "hashes": {
+            "sha512": "eccf7cbaa8814c4d712293883e4842c2c7f75a277f4e03719385290d71a7d0490593d92ccedfeb116ee5322919cc8ae0d7c0e880a86dc1b3b3f1b873e3f3ef46",
+            "sha1": "dbe49133b97845055a206bf3dbb6e3196908a928"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/CVue8NE8/enderio-8.2.8-beta.jar",
+          "filename": "enderio-8.2.8-beta.jar",
+          "primary": true,
+          "size": 6586154,
+          "file_type": null
+        },
+        {
+          "id": "xqixX2Rc",
+          "hashes": {
+            "sha1": "4171154f80c9a3cc97c1b2dd534b02f47e56e6bb",
+            "sha512": "9d92141016bc70ce9ecdad9e21d02714c5c5037ab56baed9278e4dc18b1313d644df1354921e911b7b39d0f3f978506e6bb2312d5d66a8f46cc319ce9bcaa97c"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/CVue8NE8/enderio-8.2.8-beta-api.jar",
+          "filename": "enderio-8.2.8-beta-api.jar",
+          "primary": false,
+          "size": 251339,
+          "file_type": null
+        },
+        {
+          "id": "CWicpsLk",
+          "hashes": {
+            "sha1": "3202e45d1fe1489ec593c7b93ad93972095d2bec",
+            "sha512": "d8d7c5f38ca45a3962486c0a82c280cbd4e2473ad1f2b6319ddbfd7e8daf657fa9e4120c0946a704d7e25454b92510b085d76859895e41d37340a27f7149bad2"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/CVue8NE8/enderio-8.2.8-beta-sources.jar",
+          "filename": "enderio-8.2.8-beta-sources.jar",
+          "primary": false,
+          "size": 951547,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "eZLhhXlc",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.7-beta",
+      "version_number": "v8.2.7-beta",
+      "changelog": "## Ender IO 8.2.7-beta\n\nA small feature release, centered around polishing the mod.\n\n### Features\n\n- Added XyCraft and Mekanism SAG Mill recipes\n- Added some particle and sound effects to machines\n- Some recipe changes\n  - Buffed some alloy recipes to return more metal depending on the number of input ingots\n  - Buffed photovoltaic recipe\n- Added powered spawner config for missing mobs\n- Added a texture for suspicious seeds (thanks Gigaherz)\n- Added a config flag to enable setting spawner mobs using a soul vial (disabled by default)\n- Added missing copper ingot -> powder recipe\n- Enable conduits to opt out of neighbor change events (technical feature, not player-facing)\n  - Backwards compatible API changes, will default to old behaviour if nothing is changed\n\n### Bug Fixes\n\n- Removed a compiler plugin occasionally causing 'called on server' errors\n- Energy conduits not respecting redstone signals\n- Solar panels with liquid sunshine/darkness not working when it isn't day/night\n- Capacitor data/energy bar not loading when a broken block is placed back down\n- Burn widget was misaligned in the stirling generator\n- Recipes not using the silicon tag properly\n- Capacitors not respecting registry nullability\n- Fixed totemic capacitor (and other custom-behaviour capacitors) not being insertable\n\n### Experiments\n\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\n\n- The Ender IO\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-04-28T07:49:56.934288Z",
+      "downloads": 3707,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "466g65x8",
+          "hashes": {
+            "sha512": "1847f271e45b0538eafab150ac0dbd20f783df25e440ddbf03788ea594193fbdf096e718329363be4c84ff3b8c800eb3dc84f60336b6dfebd0a155a9d27ebdd8",
+            "sha1": "a02186b8ff3fdc61a8856513edf10fc57f8774d1"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/eZLhhXlc/enderio-8.2.7-beta.jar",
+          "filename": "enderio-8.2.7-beta.jar",
+          "primary": true,
+          "size": 6318705,
+          "file_type": null
+        },
+        {
+          "id": "iaqtZxm6",
+          "hashes": {
+            "sha1": "a047bff7f4c7b6371fa4fc5065c05c55e44bf42e",
+            "sha512": "b6c28ca60cef4dbcf1ee319a200cc201463167ee8d0acd53fb07782f43bb95fd258c9d3e90233067083eb8495199702c18608abe56094582d26816f8f2c5920a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/eZLhhXlc/enderio-8.2.7-beta-api.jar",
+          "filename": "enderio-8.2.7-beta-api.jar",
+          "primary": false,
+          "size": 249134,
+          "file_type": null
+        },
+        {
+          "id": "7c6AWDGW",
+          "hashes": {
+            "sha1": "f2b84cbcdc97e9dc2a9fc6ba489b08145d70fb45",
+            "sha512": "a9c2e9a16c64e7ace7d29657f9ea810f90e9016aaa489c382bacadfbcdda1170b0680f2aba9496577b5146b6d43b8730e3ec57f683148768179c49fdda248ba2"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/eZLhhXlc/enderio-8.2.7-beta-sources.jar",
+          "filename": "enderio-8.2.7-beta-sources.jar",
+          "primary": false,
+          "size": 943036,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZuveB25r",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.6-beta",
+      "version_number": "v8.2.6-beta",
+      "changelog": "## Ender IO 8.2.6-beta\r\n\r\nA small feature release with improvements made during the 26.1 porting process.\r\n\r\n### Features\r\n\r\n- Do not auto-focus on the travel anchor text box\r\n- Removed logs to sticks recipe\r\n- Rewrote solar panels\r\n- Added support for capability invalidation listeners for conduits\r\n  - Efforts have been made to keep existing conduit addons binary compatible, please reach out if we broke your addon.\r\n- Changed how tasks are found by machines, should reduce 'activity' flickering\r\n\r\n### Bug Fixes\r\n\r\n- Fixed an issue with heat conduits\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-04-15T18:43:41.357469Z",
+      "downloads": 4682,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1BhIwstb",
+          "hashes": {
+            "sha1": "c607655f5b7d15a98814ac5d89b853bf73f9736f",
+            "sha512": "d500266b298b751226aa4e3eab746d989b2329290c8992f0228d3b1e9bf4cbe231dfc7f2744d500afb8dfbe1cdaf5d45d2b60b3811f63f00096626a18a312c19"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/ZuveB25r/enderio-8.2.6-beta.jar",
+          "filename": "enderio-8.2.6-beta.jar",
+          "primary": true,
+          "size": 5728104,
+          "file_type": null
+        },
+        {
+          "id": "7xzLY0OA",
+          "hashes": {
+            "sha1": "295e497ecea341de06d5d68984a1690da5cc8921",
+            "sha512": "01ca65ec0b31a0b2a54bbc2990e1f3b4a659924db45cdd9d4ec28b49eb2cfd7e1e267365a8d1428d169f3680897ec3b6f32e3ef1ecbd204db9b2e62ad57d8808"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/ZuveB25r/enderio-8.2.6-beta-api.jar",
+          "filename": "enderio-8.2.6-beta-api.jar",
+          "primary": false,
+          "size": 249816,
+          "file_type": null
+        },
+        {
+          "id": "9taQkm1x",
+          "hashes": {
+            "sha512": "4750e5b3070dd0c95b0259f43191028732efe20270642e187b6f2707799d113c73e1bef4287aae6db7f4e780dfd06f763f8307c41ed6c26d17cb873375bef87f",
+            "sha1": "4f2670209c915d64ea4b8651e1c259bca5b0ed7e"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/ZuveB25r/enderio-8.2.6-beta-sources.jar",
+          "filename": "enderio-8.2.6-beta-sources.jar",
+          "primary": false,
+          "size": 937455,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3DQLXt3U",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.5-beta",
+      "version_number": "v8.2.5-beta",
+      "changelog": "## Ender IO 8.2.5-beta\r\n\r\n### Features\r\n\r\n- Added keybinds and curio support to the staff of travelling and the electrromagnet (thanks @TheUnderTaker11!)\r\n- Updated translations from Crowdin\r\n\r\n### Bug Fixes\r\n\r\n- Prevent machine state tooltips from overlapping other UI elements\r\n- Fixed energy conduits broken by last update (and added tests to prevent it happening again)\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-30T20:51:25.927472Z",
+      "downloads": 8196,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "b4qCtKe2",
+          "hashes": {
+            "sha512": "443ad182ba63aa8f7e8774973f4a6c031d03efb1287e16c0a9036f0db6fcff80417977cd7ebacd03ffa73a74755126490df51352034929e1e8e23a944266c853",
+            "sha1": "e0a19f468fd150a7d01481ea999d921ee6ef050e"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/3DQLXt3U/enderio-8.2.5-beta.jar",
+          "filename": "enderio-8.2.5-beta.jar",
+          "primary": true,
+          "size": 5724826,
+          "file_type": null
+        },
+        {
+          "id": "TDGLFRO9",
+          "hashes": {
+            "sha1": "74e95424f247ab3e45ceb66e2f8d11feb8ea9a5a",
+            "sha512": "27815a9f3e8d77bf2192f8c486fb297ad8c6bdef548ee5d153d5b76a93cc1775bd78878d1fc1a7a1ce7797f0439c3f2e854f124b4e531effb7ecb8391f06100c"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/3DQLXt3U/enderio-8.2.5-beta-api.jar",
+          "filename": "enderio-8.2.5-beta-api.jar",
+          "primary": false,
+          "size": 247836,
+          "file_type": null
+        },
+        {
+          "id": "y3gC4Czq",
+          "hashes": {
+            "sha512": "a78e991c781eeaf238b433900e338eee29dc476401e6b630847f62e27770b8a8d9122bfdcd5fb80596abdb6cfaa7fc26a4150481e919b63a90f4794c94df8649",
+            "sha1": "17227070425b255943f6c5e294d676b3ad5cae33"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/3DQLXt3U/enderio-8.2.5-beta-sources.jar",
+          "filename": "enderio-8.2.5-beta-sources.jar",
+          "primary": false,
+          "size": 934599,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1u0hwwMY",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.4-beta",
+      "version_number": "v8.2.4-beta",
+      "changelog": "## Ender IO 8.2.4-beta\r\n\r\n### Bug Fixes\r\n\r\n- ConcurrentModificationException crash occasionally when ticking conduit networks\r\n- All facades in a chunk disappear when breaking one conduit in that chunk\r\n- Cannot remove filters from refined storage grid\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-29T13:22:43.561969Z",
+      "downloads": 484,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oUKvGg4o",
+          "hashes": {
+            "sha512": "15175262ad767c289212f919c7fc64c9802eb6b225a30b17e0b3f7f1b646ec479d32510102004c55aeeca575f35655b847f80644a152707cad213c70717db5b0",
+            "sha1": "15932d58468fc21d4fcec2beadc24aa9de145664"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/1u0hwwMY/enderio-8.2.4-beta.jar",
+          "filename": "enderio-8.2.4-beta.jar",
+          "primary": true,
+          "size": 5709485,
+          "file_type": null
+        },
+        {
+          "id": "mp6Ix83a",
+          "hashes": {
+            "sha1": "ae8a91c804b49babcec22cc39be53fdbe57dc5f3",
+            "sha512": "c277681a7451dc583dedbaae149cf31c67275161da83d97b6fa6a2f8f41fc1b310aaa29524e2e18797b6d5668b387668897db3b38abf13456ab3915b9cc60e68"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/1u0hwwMY/enderio-8.2.4-beta-api.jar",
+          "filename": "enderio-8.2.4-beta-api.jar",
+          "primary": false,
+          "size": 247835,
+          "file_type": null
+        },
+        {
+          "id": "SGD2sXmC",
+          "hashes": {
+            "sha512": "9c53ceb5c95c49192ca4d9ae0ef0cc215d657242ec939c0127949eabe4781898ee38d4ff0dea9adf8b2da102f4dd26c93e62904c23aa063a271cf3fcbce0ffca",
+            "sha1": "53601d52863139ccf6e82a5ccecb937de4183ba2"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/1u0hwwMY/enderio-8.2.4-beta-sources.jar",
+          "filename": "enderio-8.2.4-beta-sources.jar",
+          "primary": false,
+          "size": 929243,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "j7hVMHNk",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.3-beta",
+      "version_number": "v8.2.3-beta",
+      "changelog": "## Ender IO 8.2.3-beta\r\n\r\nThis is a small bugfix release and moves the 8.2 branch of Ender IO into the main 'slot'.\r\n\r\n### Bug Fixes\r\n\r\n- Painted blocks not copying data to the placed block correctly.\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-22T17:03:59.573247Z",
+      "downloads": 5658,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "siaWdseR",
+          "hashes": {
+            "sha512": "9057d8312ec226d4d8c240dc047f8277fb8322049cbaa3a1c5abc73bae6b1deea9f6de4cc2fa0e649a13a2103055be24d1e31866b0f410892e5b93a84d10ab20",
+            "sha1": "1bbca21faa06f921309dbc57ee5dc5cc23369773"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/j7hVMHNk/enderio-8.2.3-beta.jar",
+          "filename": "enderio-8.2.3-beta.jar",
+          "primary": true,
+          "size": 5705448,
+          "file_type": null
+        },
+        {
+          "id": "rFC33ETP",
+          "hashes": {
+            "sha512": "204b9f1f7560e088d48e39b0a0cf4d6e1defebafb696342698ce829069379eaa42602521a2a88e6d617cc09b1b5990a682a63a14ed428f05a71fef2159037799",
+            "sha1": "d93bda187da1630a53de84a9477aa87b5b24ae3b"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/j7hVMHNk/enderio-8.2.3-beta-api.jar",
+          "filename": "enderio-8.2.3-beta-api.jar",
+          "primary": false,
+          "size": 247891,
+          "file_type": null
+        },
+        {
+          "id": "npIXIJ7a",
+          "hashes": {
+            "sha1": "edf6e70b6dba030b24214e9628a470db5eabed90",
+            "sha512": "da01bfeb1a770a97c65d17b514273738e04316d26349f78ccc8147f84f5c86b0529d2697f9c3064051d9c53ce2a2f9c9db5d5e3177c91a6d94aaa666d2b6573a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/j7hVMHNk/enderio-8.2.3-beta-sources.jar",
+          "filename": "enderio-8.2.3-beta-sources.jar",
+          "primary": false,
+          "size": 928103,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5gTvdFmL",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": true,
+      "name": "Ender IO - v8.2.2-alpha",
+      "version_number": "v8.2.2-alpha",
+      "changelog": "## Ender IO 8.2.2-alpha\r\n\r\nThis is a small bugfix release.\r\n\r\n**Release Base**: This release contains all changes from v8.1.3-beta.\r\n\r\n### Bug Fixes\r\n\r\n- Disconnecting two conduits of differing tiers causes a crash\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-13T22:52:07.889684Z",
+      "downloads": 3067,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "e1RGzHpj",
+          "hashes": {
+            "sha1": "5e333793db5046f6b36ec3b35f63a3273a116aa0",
+            "sha512": "86222e43d29b11b75961464bb337bd7ce850dc59829b0d3419b94129da8c91d9bb89704f982905d8e04ecb40933fb19d416ecdb976300987ea30fbdf4931d108"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/5gTvdFmL/enderio-8.2.2-alpha.jar",
+          "filename": "enderio-8.2.2-alpha.jar",
+          "primary": true,
+          "size": 5705131,
+          "file_type": null
+        },
+        {
+          "id": "Kh2LndK0",
+          "hashes": {
+            "sha512": "389297bcc2265fd67cce4b2ddb21bdfb65178f560cb6291fcfbccc63d66e48eba8e1341025f64b47099f7a47cb53498e930e3da816eca730d8e8bf6eba07e61b",
+            "sha1": "866f78a380b9b430ec04f1e98ad5b740de856f1f"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/5gTvdFmL/enderio-8.2.2-alpha-api.jar",
+          "filename": "enderio-8.2.2-alpha-api.jar",
+          "primary": false,
+          "size": 247892,
+          "file_type": null
+        },
+        {
+          "id": "fj9gTap0",
+          "hashes": {
+            "sha1": "9b5d273fa6ca16e662cd0509bac5069dcf027308",
+            "sha512": "ce0b5e80c6d761ce3cd300ec885f5efc757c6d3daf00dc947a4b40f1018549222dfa11b811c851976bb86b5e8dfb74469eaa039ca47a00a23945efb36843fad4"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/5gTvdFmL/enderio-8.2.2-alpha-sources.jar",
+          "filename": "enderio-8.2.2-alpha-sources.jar",
+          "primary": false,
+          "size": 927658,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "a6PXkRkq",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.1-alpha",
+      "version_number": "v8.2.1-alpha",
+      "changelog": "## Ender IO 8.2.1-alpha\r\n\r\nThis is a quick hotfix release to deal with an issue when disconnecting conduit graphs\r\n\r\n**Release Base**: This release contains all changes from v8.1.3-beta.\r\n\r\n### Bug Fixes\r\n\r\n- Conduit networks not recomputing correctly after graph splitting\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-06T23:35:10.707557Z",
+      "downloads": 2763,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eBKaj511",
+          "hashes": {
+            "sha512": "cbcc5130500bd8dc8c5c30c11ffc8d4811466ca8912740fdf165de38abe1ded25c4ff2b682bb19e39fdfee87c62dac4051da73cd7417b89d1b0e6dfc4ebd521b",
+            "sha1": "7056395c68a18315d19cb48af4534730b57361bc"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/a6PXkRkq/enderio-8.2.1-alpha.jar",
+          "filename": "enderio-8.2.1-alpha.jar",
+          "primary": true,
+          "size": 5705172,
+          "file_type": null
+        },
+        {
+          "id": "AzlSAKFb",
+          "hashes": {
+            "sha1": "1116784b29611d75070c172cb0a7cc14a519203b",
+            "sha512": "725e43ef7cdb56f0e41f6e7b1b8e05fff86b3f8d591f5fd23e5f80e11f6cc7bb84adc0a9439370aa590107a84579cbc56ea0529fe63b45d7a23504d19f8e418a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/a6PXkRkq/enderio-8.2.1-alpha-api.jar",
+          "filename": "enderio-8.2.1-alpha-api.jar",
+          "primary": false,
+          "size": 247891,
+          "file_type": null
+        },
+        {
+          "id": "qgC9uAtz",
+          "hashes": {
+            "sha1": "62023b8cf8496fd63c9da732bb4c242f5ee3e694",
+            "sha512": "bf86ab35b07504f43c6f6647f78c8e0b6942b3d4fc2c6642fba6383d2e7727941c26309044d79bd69821eb9431ce25216939103a14a184cf1a00ec032aaefd28"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/a6PXkRkq/enderio-8.2.1-alpha-sources.jar",
+          "filename": "enderio-8.2.1-alpha-sources.jar",
+          "primary": false,
+          "size": 927600,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vWHOxY3b",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.1.3-beta",
+      "version_number": "v8.1.3-beta",
+      "changelog": "## Ender IO 8.1.3-beta\r\n\r\n### Features\r\n\r\n- Improvements to travel anchor rendering\r\n- Uncapped machine fluid push/pull speed\r\n- New translation updates\r\n\r\n### Bug Fixes\r\n\r\n- Sponges can be duplicated using the fluid tank\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-06T23:22:57.173295Z",
+      "downloads": 243,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KOHWrytH",
+          "hashes": {
+            "sha512": "4bdbb59633ba44dfb0471c7b07ac8788d25e5cceb0545d7bcbd344c736c4635d6fc1a7f50556ce4d1b310292a82280f944034eded6956134c1bded69bcc08400",
+            "sha1": "4a0e30c451388b944e2680363ed08be2ae7b5251"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/vWHOxY3b/enderio-8.1.3-beta.jar",
+          "filename": "enderio-8.1.3-beta.jar",
+          "primary": true,
+          "size": 5520896,
+          "file_type": null
+        },
+        {
+          "id": "LA5PX87L",
+          "hashes": {
+            "sha512": "b704ad8cf87a2b9f4de429e8e681423c96dc19c3615960cfe0d5fbe2efd29b1c7e70b82e5fe0d685749478d29823637c4cb749ddaafe1bd2160784a228ddbc61",
+            "sha1": "3a4addf84a438580fa8ceb3b00c35a90c7360287"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/vWHOxY3b/enderio-8.1.3-beta-api.jar",
+          "filename": "enderio-8.1.3-beta-api.jar",
+          "primary": false,
+          "size": 225520,
+          "file_type": null
+        },
+        {
+          "id": "GWLK3Nwv",
+          "hashes": {
+            "sha512": "9b5820545503ff4ae088db6d9b95fa459e452a1368128163436888efd9b8758bc98cfcfcf2c1e91ceacaca759f610b5257490c2e6ed97b54930ab3f86fc4f627",
+            "sha1": "339949b6c146ef2d84c4497c7546a4077d6adb7c"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/vWHOxY3b/enderio-8.1.3-beta-sources.jar",
+          "filename": "enderio-8.1.3-beta-sources.jar",
+          "primary": false,
+          "size": 913487,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "HEAa9wqx",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.2.0-alpha",
+      "version_number": "v8.2.0-alpha",
+      "changelog": "## Ender IO 8.2.0-alpha\r\n\r\nThis is the first release for a new way of delivering improvements to Ender IO.\r\n8.2 builds will be kept in alpha until we're satisfied with the changes, however we'll still continue to deliver bugfixes to Ender IO 8.1. As such, each 8.2 alpha release will mention what 8.1 version it is based on.\r\n\r\nIn this release we're introducing the ability to connect different tiers of conduit together in the same network - this is configurable by modpack developers.\r\n\r\nNote due to this change, it will not be possible to downgrade to Ender IO 8.1.x after loading a world. Doing so will result in loss of data.\r\n\r\nWe'll also be releasing an early official port of Endergy compatible with Ender IO 8.2+.\r\n\r\n**Release Base**: This release contains all changes from v8.1.2-beta.\r\n\r\n### Features\r\n\r\n- Energy, Item, Fluid and Chemical conduits of different tiers can now connect to one-another. Transfer speeds will be reduced when travelling through a lower tier of conduit.\r\n  - Conduits will always use the shortest path to a destination, even if a faster path exists but is a larger distance to travel\r\n  - Distance is now calculated in conduit blocks, rather than comparing coordinates of the start and endpoints of a path\r\n  - To support this change, Energy conduits are peer-to-peer again. As such they no longer have an energy buffer (and any previously stored energy will unfortunately be voided - sorry!)\r\n  - This can be enabled/disabled per-conduit type in the config for the mod.\r\n- Removed fluid/chemical locking, all fluid and chemical conduits support any number of fluids/chemicals at a time\r\n- All tiers of fluid and chemical conduit support priority, just like their item and energy counterparts\r\n- Added the limited item filter\r\n- Moved grinding ball data from components to a NeoForge data map\r\n  - Add-on's like Ender IO Kube JS will need time to update and support this change.\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-02T13:55:21.920718Z",
+      "downloads": 1429,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8G8C6cxS",
+          "hashes": {
+            "sha512": "cfdf410c0c14607a82800af93582fbfa0f2db0f0c4045fcd392881d67a53e8065d18ed87ed40e5967db255b658a0e2e5514636aee51ba56730a634e84aa33f6e",
+            "sha1": "de73432bc195abce511b106bf7bf6270630e0515"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/HEAa9wqx/enderio-8.2.0-alpha.jar",
+          "filename": "enderio-8.2.0-alpha.jar",
+          "primary": true,
+          "size": 5702910,
+          "file_type": null
+        },
+        {
+          "id": "6Fy272qO",
+          "hashes": {
+            "sha1": "f1489ae478ff3ec79406e6f8f2dea271cdb416fe",
+            "sha512": "1a5ca6a47606760f87afc83843ccf0a3d85f017a2ca2736164a5e97b48a98d6097be653eb3b0f6fe6e3c5f81c537718a0b602187fb9d186d71cd676171c2cf4a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/HEAa9wqx/enderio-8.2.0-alpha-api.jar",
+          "filename": "enderio-8.2.0-alpha-api.jar",
+          "primary": false,
+          "size": 247851,
+          "file_type": null
+        },
+        {
+          "id": "R8gPjn72",
+          "hashes": {
+            "sha1": "8e6c27d9e0fbb4a7a66ca0ceeb2a5cd9d70d8cb6",
+            "sha512": "eb4475e128ccb724aafeee674b7bb4cee1c68084d90bacbc47c22337096359000114a289978501f333192650c31e32518a860a7beef23d4954ed2d0cfc889e38"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/HEAa9wqx/enderio-8.2.0-alpha-sources.jar",
+          "filename": "enderio-8.2.0-alpha-sources.jar",
+          "primary": false,
+          "size": 926765,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "aK4EJhyQ",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - v8.1.2-beta",
+      "version_number": "v8.1.2-beta",
+      "changelog": "## Ender IO 8.1.2-beta\r\n\r\n### Features\r\n\r\n- Added recipes for big item filters\r\n- Enable pumping fluids out of the weather obelisk\r\n- Removed Yeta Wrench block rotations due to issues with some mod blocks\r\n- Avoid potentially adding the same modifier to a loot capacitor while generating loot\r\n- New translation updates\r\n\r\n### Bug Fixes\r\n\r\n- Soul Filter logic issue\r\n- Fixed issue with Norwegian language files\r\n- Ensure facade visibility checks only run for the local user\r\n- Capacitor tooltip not displaying correctly\r\n- Crash when destroying a conduit bundle block\r\n- Crash when quickly loading/unloading a chunk with energy conduits\r\n- SAG Mill could duplicate cobblestone using the mossy cobblestone recipe\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-03-01T21:26:57.720164Z",
+      "downloads": 624,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CUHe97Zj",
+          "hashes": {
+            "sha512": "3b0e9c49d1a2e4ee6a31417b30f710583d50ed36e10a30ca7a355be3e822c037d6b1bff8ceb466594a812cab1cfd7285bee4b5d618da02953a10a0e5f5eda1fe",
+            "sha1": "8600c03a6fe90e3c0c8c90b3f23d32eb776984b8"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/aK4EJhyQ/enderio-8.1.2-beta.jar",
+          "filename": "enderio-8.1.2-beta.jar",
+          "primary": true,
+          "size": 5518737,
+          "file_type": null
+        },
+        {
+          "id": "Ax6xy8ka",
+          "hashes": {
+            "sha512": "46b75b144d4707f932996ea897f578727a9611be126458b721b7b842f625f95f8028082b5148e1847ad8c3bba5da40cc4f0e768eca6fa189a2ffe697870a5ef6",
+            "sha1": "e12351ef6db193683ce6b1424a4f37b77fa8c148"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/aK4EJhyQ/enderio-8.1.2-beta-api.jar",
+          "filename": "enderio-8.1.2-beta-api.jar",
+          "primary": false,
+          "size": 225480,
+          "file_type": null
+        },
+        {
+          "id": "dnZnlSdQ",
+          "hashes": {
+            "sha1": "4a7db802a2c55ba9ec9eaf6b339161c22a5f75b0",
+            "sha512": "1d8dfafbff6219ccfccf50480cee38098065b77073f59d3a8aa27109f1fabe856c29712fe748ae677681b7d84c215f9b95a7c76d5469260f4d8c6ef7a15679cb"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/aK4EJhyQ/enderio-8.1.2-beta-sources.jar",
+          "filename": "enderio-8.1.2-beta-sources.jar",
+          "primary": false,
+          "size": 912709,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "JZapEEvP",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.1.1-beta",
+      "version_number": "8.1.1-beta",
+      "changelog": "## Ender IO 8.1.1-beta\r\n\r\nThis is a small feature + bug fix release, enjoy!\r\n\r\n### Features\r\n\r\n- Remove energy throttling and ensure machines that send energy distribute it evenly.\r\n- Add a whitelist tag for capturing and spawning mobs\r\n\r\n### Bug Fixes\r\n\r\n- When Iris shaders are in use, hide facades instead of trying to make them transparent (#1062)\r\n- Unable to in-place upgrade item conduits\r\n- Logic problem with travel anchors (#1175)\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-01-29T23:39:41.055346Z",
+      "downloads": 22286,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ECu6Eaw1",
+          "hashes": {
+            "sha1": "26b7d074e56ea950a61aa077d37f5194ea7b95ff",
+            "sha512": "bdd4beef038b2c345edd03dbbacf00d97ce662646ba05c4f5fd977f4b7886053e2b4d1cdef42dba4c46b0ec364c7c8e1e319c4e97b8706420e99a0139538354a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/JZapEEvP/enderio-8.1.1-beta.jar",
+          "filename": "enderio-8.1.1-beta.jar",
+          "primary": true,
+          "size": 5518718,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wB7CxVgn",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.1.0",
+      "version_number": "8.1.0",
+      "changelog": "## Ender IO 8.1.0-beta\r\n\r\nFor this release, we have focussed on Ender IO's internals in preparation for newer versions of Minecraft. With that said, we have added a number of new features and squashed a bunch of bugs.\r\nAs we've changed a lot in the backgronud, please let us know about any new issues discovered during play.\r\n\r\nNote that this probably won't drop in and play nicely immediately with some modpacks - you'll need to give modpacks time to update any custom recipes or questlines to match.\r\n\r\nWe've still got more features that we would've liked to get into this release, but we don't want to sit on all these bug fixes. Of note is the Killer Joe which should be following shortly after this release.\r\n\r\n### Addon Developers\r\n\r\nThis release marks an API freeze, its now safe for you to update your integrations - we won't break anything again on 1.21.1. Some APIs are still marked as experimental, but we don't see any reason to change these at this time.\r\n\r\n### Features\r\n\r\n- Recipe rebalance and alloy reshuffle\r\n  - Removed Copper Alloy\r\n  - Changed recipes for other alloys, most notably pulsating alloy is now cheaper.\r\n  - Sag mill no longer requires dark steel.\r\n  - Conduits are now all named similarly to cap banks etc. (normal, energetic and vibrant) and recipes are adjusted to match\r\n  - Removed a number of unused items.\r\n- Farming Station has been moved out of experimental\r\n- Capacitors can now be fed into machines from automation (they cannot be removed, this would be irritating).\r\n- Added tooltip to explain how to configure filters (#1067)\r\n- Addressed some performance issues (#1185)\r\n- Added config options for ME Conduit energy consumption rates (and changed defaults to 0)\r\n- Updated translations from Crowdin\r\n- Tank recipes now use SizedFluidIngredient - this will unfortunately break custom tank recipes, but is definitely a change for the better.\r\n  - Tags for outputs will prefer Ender IO resources first, then will pick the first valid match, we may improve on this in future.\r\n  - We've updated the XP bottle recipes to use the experience tag.\r\n- Added a validator to ensure soul binding soul data properteis are mutually exclusive (#1163)\r\n- Changed visibility of OutputItem codecs (#1159)\r\n\r\n### Bug Fixes\r\n\r\n- Powah Energizing Rod not connecting to energy conduits (#1184)\r\n- Unintentional mutation of ItemStack in a recipe (#1174)\r\n- Fluid tank duplicating fluids\r\n- VAT duplicating outputs\r\n- Problems with Redstone Filters (#1190)\r\n- Crash when breaking Apothic Spawner via EvilCraft Broom (#1199)\r\n- Heat Conduit crashes when reconnected using the wrench (#1214)\r\n- VAT inputs should be order independent (#1212)\r\n- ME Conduits couldn't be replaced with Dense ME Conduits\r\n- Unable to craft Cloud Seed Concentrated\r\n- Facades appearing in other dimensions that they shouldn't (#1226)\r\n- Soul Binder allows XP Juice to be pushed out (#1013)\r\n- Energy bars go above the maximum (#1106)\r\n- Animated modded fluids render incorrectly in the fluid tank (#1180, #1081)\r\n- Fluid tank voids buckets if a bucketed fluid does not exist for the stored fluid (#1181)\r\n- Exception ticking level (conduits related, #1157)\r\n- Block Detector Block Update leaves powered neighbours (#1171)\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n8.1.0 removes the dark steel tools/armor experiment because it was in notably poor shape - these will return once again once we have rebuilt this part of Ender IO.\r\n\r\n- The Ender IO\r\n  - Early work in progress",
+      "changelog_url": null,
+      "date_published": "2026-01-25T22:09:36.932834Z",
+      "downloads": 1693,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rcKN83wM",
+          "hashes": {
+            "sha1": "0f7816e1c9245068e252b5f8645f4341e953e747",
+            "sha512": "0a8f0b9fb3c49569c5011b1c679d39285f7e953999e4673f2e914a8f4ac7675b17ff32a33421f74a80715893084963130301b57f1b59e4055c5c74a06b720d79"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/wB7CxVgn/enderio-8.1.0.jar",
+          "filename": "enderio-8.1.0.jar",
+          "primary": true,
+          "size": 5586060,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "WahABQeG",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.7-alpha",
+      "version_number": "8.0.7-alpha",
+      "changelog": "## Ender IO 8.0.7-alpha\r\n\r\nThis is a hotfix release to address more issues in 8.0 as we work on 8.1.\r\n\r\n### Addon Developers\r\n\r\nThere have been extensive API breaks in this release, and we're not finished.\r\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\r\nThis notice will be removed when this is no longer an issue. We're aiming for stability by the time we release the first 8.1 build.\r\n\r\n### Bug Fixes\r\n\r\n- Fixed a hang-on-load when using the attractor obelisk.\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- Dark steel tools + armor\r\n  - Very early start on this work, expect breaking changes\r\n- The Ender IO\r\n  - Early work in progress\r\n- Farming Machine\r\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-11-09T19:17:21.827471Z",
+      "downloads": 42942,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NiVGCt0o",
+          "hashes": {
+            "sha1": "e3636ea7ed47064f38b399ff03407a8c7934259c",
+            "sha512": "a3daddc1b49d318e23c4b51a19a275b47644ee9e1c272ad09ab8909a2ffed08658044789e7a29a267304e1f529ceec9259eadd6e52c30c1837d7bc01a2fc3af6"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/WahABQeG/enderio-8.0.7-alpha.jar",
+          "filename": "enderio-8.0.7-alpha.jar",
+          "primary": true,
+          "size": 4216077,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Qsra6LhR",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.6-alpha",
+      "version_number": "8.0.6-alpha",
+      "changelog": "## Ender IO 8.0.6-alpha\r\n\r\nThis is a hotfix release to address more issues in 8.0 as we work on 8.1.\r\n\r\n### Addon Developers\r\n\r\nThere have been extensive API breaks in this release, and we're not finished.\r\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\r\nThis notice will be removed when this is no longer an issue. We're aiming for stability by the time we release the first 8.1 build.\r\n\r\n### Bug Fixes\r\n\r\n- Fixed a crash-on-load issue with conduits (#1177)\r\n- Fixed a crash when the attractor obelisk next to a flux point (or other block that reacts to neighbors) (#1179)\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- Dark steel tools + armor\r\n  - Very early start on this work, expect breaking changes\r\n- The Ender IO\r\n  - Early work in progress\r\n- Farming Machine\r\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-11-01T23:19:08.510071Z",
+      "downloads": 4040,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5Nqnbqvx",
+          "hashes": {
+            "sha1": "2aab9d1cb09bfbab1fb82da44cc12ea488da27b8",
+            "sha512": "24be751712a27e78399fe8f708707a1e421506896a08e5314cb9bc164be3ab2f5a10e6f1d8875a5f52e8b34d20c7609aa72da17af5f1ca10ae1d167858a3e74d"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/Qsra6LhR/enderio-8.0.6-alpha.jar",
+          "filename": "enderio-8.0.6-alpha.jar",
+          "primary": true,
+          "size": 4215912,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6pOrdngv",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.5-alpha",
+      "version_number": "8.0.5-alpha",
+      "changelog": "## Ender IO 8.0.5-alpha\r\n\r\nThis is a small update with a couple of new features and a bugfix.\r\n\r\n### General Info\r\n\r\nThis is a minor hotfix release containing a range of bugfixes made for Ender IO 8.1 (which is still work in progress) that shouldn't wait until that work is completed.\r\n\r\n### Addon Developers\r\n\r\nThere have been extensive API breaks in this release, and we're not finished.\r\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\r\nThis notice will be removed when this is no longer an issue. We're aiming for stability by the time we release the first 8.1 build.\r\n\r\n### Features\r\n\r\n- Allow resulting vials to stack in the powered spawner using capture mode\r\n- Improved filtering of souls and stacking of soul vials by filtering the stored NBT.\r\n\r\n### Bug Fixes\r\n\r\n- Fixed issues with dense and normal ME conduits connecting\r\n- Significant conduit network slowdown due to a cache not being cleared\r\n- Breaking conduit facade painted as an ME controller causes a crash (and a Jade error)\r\n- Fixed an issue with item filters\r\n- Change tracking on StoredEntityDataSyncSlot not working properly\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- Dark steel tools + armor\r\n  - Very early start on this work, expect breaking changes\r\n- The Ender IO\r\n  - Early work in progress\r\n- Farming Machine\r\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-10-21T20:33:03.918526Z",
+      "downloads": 4785,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2M4xQ6Fm",
+          "hashes": {
+            "sha1": "79348c1145ca53411b74520c738fa83b203d05d7",
+            "sha512": "87caf3ff0ad5217b29b52fd53e03f0248661663f05bf94a7dd5431f62d6ade9349e88719378a28a49a996984470b74d2433e196e382e13dea60adabec270b9f6"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/6pOrdngv/enderio-8.0.5-alpha.jar",
+          "filename": "enderio-8.0.5-alpha.jar",
+          "primary": true,
+          "size": 4215634,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "c28eJVov",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.4-alpha",
+      "version_number": "8.0.4-alpha",
+      "changelog": "## Ender IO 8.0.4-alpha\r\n\r\nThis is a small update with a couple of new features and a bugfix.\r\n\r\n### General Info\r\n\r\nThis version of Ender IO has been extensively tested in multiplayer, and should work without major issues - however this upgrade is one way to due save data format changes, reverting to 7.x is not supported.\r\n\r\n### Addon Developers\r\n\r\nThere have been extensive API breaks in this release, and we're not finished.\r\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\r\nThis notice will be removed when this is no longer an issue.\r\n\r\n### Features\r\n\r\n- Ported Conduit Probe to 1.21.1 (thanks @mosesyu1028)\r\n- Added Soul Vial whitelist tag to allow bypassing the blacklist in modpacks.\r\n\r\n### Bug Fixes\r\n\r\n- Releasing a mob from a stack of vials deletes the rest of the vials in the stack\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- Dark steel tools + armor\r\n  - Very early start on this work, expect breaking changes\r\n- The Ender IO\r\n  - Early work in progress\r\n- Farming Machine\r\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-09-26T20:55:23.781635Z",
+      "downloads": 11415,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WoXQg3XX",
+          "hashes": {
+            "sha1": "831e1a151e90cb33fd9db429792ee708ee7f657a",
+            "sha512": "91b25524f1c5d15158eb8e91ae13547a6d5662f38e51f2e53fb9087952781b25ce51e2b1fda431b9febe689dc3e0f219508346d09f97c40a53ba8bc2f3e02f13"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/c28eJVov/enderio-8.0.4-alpha.jar",
+          "filename": "enderio-8.0.4-alpha.jar",
+          "primary": true,
+          "size": 4208039,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2qPLSVdJ",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.3-alpha",
+      "version_number": "8.0.3-alpha",
+      "changelog": "## Ender IO 8.0.3-alpha\n\nThis is another important hotfix release to fix world load issues from v7 -> v8 relating to upgraded conduits. This time we've addressed the freeze during world load.\n\n### General Info\n\nThis version of Ender IO has been extensively tested in multiplayer, and should work without major issues - however this upgrade is one way to due save data format changes, reverting to 7.x is not supported.\n\n### Addon Developers\n\nThere have been extensive API breaks in this release, and we're not finished.\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\nThis notice will be removed when this is no longer an issue.\n\n### Features\n\n- Conduit block rewrite\n  - Rewrote the core conduit block logic and data storage\n  - Much more efficient ticking logic\n  - Added ability to open filter GUI from conduit GUI\n  - Automated testing of conduits to avoid functionality regressions\n  - Added FTB Ultimine integration, making it possible to vein mine individual conduits or facades within bundles\n  - Item conduits\n    - Added priority option\n  - Energy conduits\n    - Added priority option\n    - Buffed rates\n    - Distributes energy equally across all outputs with the same priority\n  - Redstone conduits\n    - Added \"strong power\" option\n    - Updated UI labels and layout to match 1.12.2\n  - Fluid conduits\n    - Added priority option\n  - Chemical conduits\n    - Added priority option\n- Filter improvements\n  - Increased size of all filters\n  - Added advanced item filter\n  - Added big item filter variants\n- Removed the primitive alloy smelter. Alloy Smelter and SAG Mill no longer require dark steel to craft.\n- Powered spawner capture mode\n- Added suspicious seed and renamed exp rod (textures pending)\n- Changed recipes for: void chassis, enchanter and stirling generator\n- Improved usability of picker widgets\n- Removed old enchantments code - we've decided to not re-add enchantments to Ender IO at this time\n- Removed light and powered light blocks\n- Added wireless charger and range extending antennas\n- Added VAT recipes\n- Added Attractor Obelisk\n- Added Weather Obelisk\n- Under-the-hood changes to soul vial\n- Buffed raw ore SAG Mill recipes\n- Removed wood + stone gear\n- Simplified yeta wrench recipe\n- Allow binding machines in creative mode by right-clicking with a soul vial or spawn egg\n- Soul binding recipes for infested stone blocks\n- Mind killer upgrade for the powered spawner\n\n### Bug Fixes\n\n- **Conduit legacy data conversion causing deadlock during world load** (8.0.3 hotfix)\n- **Conduits failing to load due to removed filters.** (8.0.2 hotfix)\n- **Refined storage conduits not loading from 7.x saves.** (8.0.1 hotfix)\n- XP Obelisk doesn't pull fluid XP from attached tank, unless externally triggered\n- It's possible to charge capacitor banks while they are stacked items\n- Machines voiding secondary outputs\n- 'fixed' Enderios\n- Tag recipe outputs were not preferring Ender IO items first\n- Avoid modifying itemstack instance\n- Passing incorrect position into getAnalogOutputSignal\n\n### Experiments\n\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\n\n- Dark steel tools + armor\n  - Very early start on this work, expect breaking changes\n- The Ender IO\n  - Early work in progress\n- Farming Machine\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-09-23T00:00:59.694265Z",
+      "downloads": 935,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JTzr2zxS",
+          "hashes": {
+            "sha1": "161c22213381047599bcc163598043fbcd41bbe9",
+            "sha512": "65bd08838c71e664f7c9fbdaea28bbe89badc36d45942b21125cf6e9f7d74b65dc8b4c25ad4b8aa3301048f062c03138641901cc3bf6f916a97baba91e45791f"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/2qPLSVdJ/enderio-8.0.3-alpha.jar",
+          "filename": "enderio-8.0.3-alpha.jar",
+          "primary": true,
+          "size": 4172292,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "K5IC0NJp",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.2-alpha",
+      "version_number": "8.0.2-alpha",
+      "changelog": "## Ender IO 8.0.2-alpha\r\n\r\nThis is another important hotfix release to fix world load issues from v7 -> v8 relating to upgraded conduits. Apolgies for all of the issues - we're still investigating a world loading freeze at the moment too - if you haven't upgraded, perhaps wait and watch this space for a few days.\r\n\r\n### General Info\r\n\r\nThis version of Ender IO has been extensively tested in multiplayer, and should work without major issues - however this upgrade is one way to due save data format changes, reverting to 7.x is not supported.\r\n\r\n### Addon Developers\r\n\r\nThere have been extensive API breaks in this release, and we're not finished.\r\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\r\nThis notice will be removed when this is no longer an issue.\r\n\r\n### Features\r\n\r\n- Conduit block rewrite\r\n  - Rewrote the core conduit block logic and data storage\r\n  - Much more efficient ticking logic\r\n  - Added ability to open filter GUI from conduit GUI\r\n  - Automated testing of conduits to avoid functionality regressions\r\n  - Added FTB Ultimine integration, making it possible to vein mine individual conduits or facades within bundles\r\n  - Item conduits\r\n    - Added priority option\r\n  - Energy conduits\r\n    - Added priority option\r\n    - Buffed rates\r\n    - Distributes energy equally across all outputs with the same priority\r\n  - Redstone conduits\r\n    - Added \"strong power\" option\r\n    - Updated UI labels and layout to match 1.12.2\r\n  - Fluid conduits\r\n    - Added priority option\r\n  - Chemical conduits\r\n    - Added priority option\r\n- Filter improvements\r\n  - Increased size of all filters\r\n  - Added advanced item filter\r\n  - Added big item filter variants\r\n- Removed the primitive alloy smelter. Alloy Smelter and SAG Mill no longer require dark steel to craft.\r\n- Powered spawner capture mode\r\n- Added suspicious seed and renamed exp rod (textures pending)\r\n- Changed recipes for: void chassis, enchanter and stirling generator\r\n- Improved usability of picker widgets\r\n- Removed old enchantments code - we've decided to not re-add enchantments to Ender IO at this time\r\n- Removed light and powered light blocks\r\n- Added wireless charger and range extending antennas\r\n- Added VAT recipes\r\n- Added Attractor Obelisk\r\n- Added Weather Obelisk\r\n- Under-the-hood changes to soul vial\r\n- Buffed raw ore SAG Mill recipes\r\n- Removed wood + stone gear\r\n- Simplified yeta wrench recipe\r\n- Allow binding machines in creative mode by right-clicking with a soul vial or spawn egg\r\n- Soul binding recipes for infested stone blocks\r\n- Mind killer upgrade for the powered spawner\r\n\r\n### Bug Fixes\r\n\r\n- **Conduits failing to load due to removed filters.** (8.0.2 hotfix)\r\n- **Refined storage conduits not loading from 7.x saves.** (8.0.1 hotfix)\r\n- XP Obelisk doesn't pull fluid XP from attached tank, unless externally triggered\r\n- It's possible to charge capacitor banks while they are stacked items\r\n- Machines voiding secondary outputs\r\n- 'fixed' Enderios\r\n- Tag recipe outputs were not preferring Ender IO items first\r\n- Avoid modifying itemstack instance\r\n- Passing incorrect position into getAnalogOutputSignal\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- Dark steel tools + armor\r\n  - Very early start on this work, expect breaking changes\r\n- The Ender IO\r\n  - Early work in progress\r\n- Farming Machine\r\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-09-22T20:32:19.170187Z",
+      "downloads": 181,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4QxfWCeX",
+          "hashes": {
+            "sha1": "4e79939037049dd9645be59007e1aab0e5e4ecff",
+            "sha512": "ab83d83144e50f2c6119279d52fc5c2e8a50490c94ef6ef200be2a1b69556f0364ca1cbad5c3db9bdc4d80d442c41980f2ffcf730d0b92db5895b3f2f2ce69bb"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/K5IC0NJp/enderio-8.0.2-alpha.jar",
+          "filename": "enderio-8.0.2-alpha.jar",
+          "primary": true,
+          "size": 4172030,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "fveCMBvT",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.1-alpha",
+      "version_number": "8.0.1-alpha",
+      "changelog": "## Ender IO 8.0.1-alpha\r\n\r\nThis is a hotfix release to fix world load issues from v7 -> v8 relating to refined storage conduits.\r\n\r\n### General Info\r\n\r\nThis version of Ender IO has been extensively tested in multiplayer, and should work without major issues - however this upgrade is one way to due save data format changes, reverting to 7.x is not supported.\r\n\r\n### Addon Developers\r\n\r\nThere have been extensive API breaks in this release, and we're not finished.\r\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\r\nThis notice will be removed when this is no longer an issue.\r\n\r\n### Features\r\n\r\n- Conduit block rewrite\r\n  - Rewrote the core conduit block logic and data storage\r\n  - Much more efficient ticking logic\r\n  - Added ability to open filter GUI from conduit GUI\r\n  - Automated testing of conduits to avoid functionality regressions\r\n  - Added FTB Ultimine integration, making it possible to vein mine individual conduits or facades within bundles\r\n  - Item conduits\r\n    - Added priority option\r\n  - Energy conduits\r\n    - Added priority option\r\n    - Buffed rates\r\n    - Distributes energy equally across all outputs with the same priority\r\n  - Redstone conduits\r\n    - Added \"strong power\" option\r\n    - Updated UI labels and layout to match 1.12.2\r\n  - Fluid conduits\r\n    - Added priority option\r\n  - Chemical conduits\r\n    - Added priority option\r\n- Filter improvements\r\n  - Increased size of all filters\r\n  - Added advanced item filter\r\n  - Added big item filter variants\r\n- Removed the primitive alloy smelter. Alloy Smelter and SAG Mill no longer require dark steel to craft.\r\n- Powered spawner capture mode\r\n- Added suspicious seed and renamed exp rod (textures pending)\r\n- Changed recipes for: void chassis, enchanter and stirling generator\r\n- Improved usability of picker widgets\r\n- Removed old enchantments code - we've decided to not re-add enchantments to Ender IO at this time\r\n- Removed light and powered light blocks\r\n- Added wireless charger and range extending antennas\r\n- Added VAT recipes\r\n- Added Attractor Obelisk\r\n- Added Weather Obelisk\r\n- Under-the-hood changes to soul vial\r\n- Buffed raw ore SAG Mill recipes\r\n- Removed wood + stone gear\r\n- Simplified yeta wrench recipe\r\n- Allow binding machines in creative mode by right-clicking with a soul vial or spawn egg\r\n- Soul binding recipes for infested stone blocks\r\n- Mind killer upgrade for the powered spawner\r\n\r\n### Bug Fixes\r\n\r\n- **Refined storage conduits not loading from 7.x saves.** (8.0.1 hotfix)\r\n- XP Obelisk doesn't pull fluid XP from attached tank, unless externally triggered\r\n- It's possible to charge capacitor banks while they are stacked items\r\n- Machines voiding secondary outputs\r\n- 'fixed' Enderios\r\n- Tag recipe outputs were not preferring Ender IO items first\r\n- Avoid modifying itemstack instance\r\n- Passing incorrect position into getAnalogOutputSignal\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- Dark steel tools + armor\r\n  - Very early start on this work, expect breaking changes\r\n- The Ender IO\r\n  - Early work in progress\r\n- Farming Machine\r\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-09-21T01:54:53.237722Z",
+      "downloads": 379,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MLN12tc0",
+          "hashes": {
+            "sha1": "ef51c0f1db33bc74a4060ada3479bcb2417a2e6d",
+            "sha512": "2fe88f5a0581853248f7db7d587618d698894cb2827474dbb7d0b89c97cb8b94bbf7d9bcda4533190f9d30ba7f66e845a4a700509669650c89e50d8e39979db8"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/fveCMBvT/enderio-8.0.1-alpha.jar",
+          "filename": "enderio-8.0.1-alpha.jar",
+          "primary": true,
+          "size": 4172345,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SsTzjUSR",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 8.0.0-alpha",
+      "version_number": "8.0.0-alpha",
+      "changelog": "## Ender IO 8.0.0-alpha\r\n\r\n\r\n### General Info\r\n\r\nThis version of Ender IO has been extensively tested in multiplayer, and should work without major issues - however this upgrade is one way to due save data format changes, reverting to 7.x is not supported.\r\n\r\n### Addon Developers\r\n\r\nThere have been extensive API breaks in this release, and we're not finished.\r\nWe'd recommend waiting until the package reshuffle we have planned later in the v8 alpha phase before updating your addons.\r\nThis notice will be removed when this is no longer an issue.\r\n\r\n### Features\r\n\r\n- Conduit block rewrite\r\n  - Rewrote the core conduit block logic and data storage\r\n  - Much more efficient ticking logic\r\n  - Added ability to open filter GUI from conduit GUI\r\n  - Automated testing of conduits to avoid functionality regressions\r\n  - Added FTB Ultimine integration, making it possible to vein mine individual conduits or facades within bundles\r\n  - Item conduits\r\n    - Added priority option\r\n  - Energy conduits\r\n    - Added priority option\r\n    - Buffed rates\r\n    - Distributes energy equally across all outputs with the same priority\r\n  - Redstone conduits\r\n    - Added \"strong power\" option\r\n    - Updated UI labels and layout to match 1.12.2\r\n  - Fluid conduits\r\n    - Added priority option\r\n  - Chemical conduits\r\n    - Added priority option\r\n- Filter improvements\r\n  - Increased size of all filters\r\n  - Added advanced item filter\r\n  - Added big item filter variants\r\n- Removed the primitive alloy smelter. Alloy Smelter and SAG Mill no longer require dark steel to craft.\r\n- Powered spawner capture mode\r\n- Added suspicious seed and renamed exp rod (textures pending)\r\n- Changed recipes for: void chassis, enchanter and stirling generator\r\n- Improved usability of picker widgets\r\n- Removed old enchantments code - we've decided to not re-add enchantments to Ender IO at this time\r\n- Removed light and powered light blocks\r\n- Added wireless charger and range extending antennas\r\n- Added VAT recipes\r\n- Added Attractor Obelisk\r\n- Added Weather Obelisk\r\n- Under-the-hood changes to soul vial\r\n- Buffed raw ore SAG Mill recipes\r\n- Removed wood + stone gear\r\n- Simplified yeta wrench recipe\r\n- Allow binding machines in creative mode by right-clicking with a soul vial or spawn egg\r\n- Soul binding recipes for infested stone blocks\r\n- Mind killer upgrade for the powered spawner\r\n\r\n### Bug Fixes\r\n\r\n- XP Obelisk doesn't pull fluid XP from attached tank, unless externally triggered\r\n- It's possible to charge capacitor banks while they are stacked items\r\n- Machines voiding secondary outputs\r\n- 'fixed' Enderios\r\n- Tag recipe outputs were not preferring Ender IO items first\r\n- Avoid modifying itemstack instance\r\n- Passing incorrect position into getAnalogOutputSignal\r\n\r\n### Experiments\r\n\r\nExperiments are new features locked behind feature flags, these are work-in-progress and shouldn't be enabled on your primary world.\r\n\r\n- Dark steel tools + armor\r\n  - Very early start on this work, expect breaking changes\r\n- The Ender IO\r\n  - Early work in progress\r\n- Farming Machine\r\n  - Nearly there",
+      "changelog_url": null,
+      "date_published": "2025-09-20T16:37:41.799299Z",
+      "downloads": 173,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "m1MAAyhB",
+          "hashes": {
+            "sha512": "d5f5ce00633e302e9994bba95a59ee1e36b2d25a6bee4a0f08e316f34c82d5539b9714e6fbfa6d2bf5594d23affa678ff425b4086bbe662af40912893f8dace2",
+            "sha1": "d8d74b3b36b9cbd0d614bae17e999d7ddda0c03c"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/SsTzjUSR/enderio-8.0.0-alpha.jar",
+          "filename": "enderio-8.0.0-alpha.jar",
+          "primary": true,
+          "size": 4171817,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ETpuDdei",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.8-alpha",
+      "version_number": "7.1.8-alpha",
+      "changelog": "## Ender IO 7.1.8-alpha\n\nUPDATE 28/08/2025: This build is now marked as a beta, prefer this over the incoming 8.0 alphas if you want stability. Downgrade from 8 -> 7 will not be possible without data loss/corruption.\n\n### Bug Fixes\n\n- Powered machines not updating state correctly\n- Port fix for loading large conduit networks from 1.20.1\n- Update to beta release of Refined Storage",
+      "changelog_url": null,
+      "date_published": "2025-03-29T15:36:53.435413Z",
+      "downloads": 74870,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eulYiCc6",
+          "hashes": {
+            "sha512": "30af0ba3a329b2c5541b2b23137bb6369b01038795e3b95b9e23b849b9333a0a5f080df8e363e1e9231d9a36dcf017d9cecd6529ec919e861b833e7052fb80e9",
+            "sha1": "363c9a9bfa5de766c30bdd70f3b9a09398f27acd"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/ETpuDdei/enderio-7.1.8-alpha.jar",
+          "filename": "enderio-7.1.8-alpha.jar",
+          "primary": true,
+          "size": 3745801,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2nqaktzb",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.7-alpha",
+      "version_number": "7.1.7-alpha",
+      "changelog": "## Ender IO 7.1.7-alpha\r\n\r\n### Features\r\n\r\n- Rewrite facade rendering for improved compatibility\r\n- Recipes to erase machine data\r\n\r\n### Bug Fixes\r\n\r\n- Progress bars for Painting Machine and Powered Spawner\r\n- Unused count in sized tag output\r\n- Voiding mended item in XP tank\r\n- Rebinding a powered spawner loses it's capacitor and settings\r\n- Cannot hide range of powered spawners\r\n- Fixed using the wrench to break legacy machine blocks not working\r\n- ConcurrentModificationException when updating obelisk AOE ranges\r\n- Redstone is not properly updated when loading the world\r\n- Powered spawner not showing in JEI",
+      "changelog_url": null,
+      "date_published": "2025-03-15T15:13:28.373007Z",
+      "downloads": 3081,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oTEUyFu9",
+          "hashes": {
+            "sha1": "1aabcff1e3e929161586cfa0db706a6cbc28ea0c",
+            "sha512": "d86473a7e0c2aa27ab3d9b4b0eaf0fb7c207690b684b6390d76757a5c0864d8578666cc0864c6c072a5d515b55d892661655368ee305e8b64c954cff6eecf44a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/2nqaktzb/enderio-7.1.7-alpha.jar",
+          "filename": "enderio-7.1.7-alpha.jar",
+          "primary": true,
+          "size": 3746028,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Oz1BEiRd",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.6-alpha",
+      "version_number": "7.1.6-alpha",
+      "changelog": "## Ender IO 7.1.6-alpha\r\n\r\n### Bug Fixes\r\n\r\n- Solar panels not producing energy for the majority of the day\r\n- Conduit energy distribution imbalanced\r\n- Machines only pushing energy once every 5 ticks\r\n- Mistakenly added wheat to c:seeds.\r\n- Remove all testing reagents",
+      "changelog_url": null,
+      "date_published": "2025-01-30T00:28:41.848807Z",
+      "downloads": 8189,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NDLlOOS0",
+          "hashes": {
+            "sha1": "47c5f35adf158b163f07eb2d10b9853037002bbf",
+            "sha512": "5d744ceb82dcd0458ba9923946e5d2a55bd586dccb24bdd82a3113272159b44dfaec152f39dd8ac9d99bba1b24b4bc5fa53ad83d14fb1f1b8ec04d72226b29b0"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/Oz1BEiRd/enderio-7.1.6-alpha.jar",
+          "filename": "enderio-7.1.6-alpha.jar",
+          "primary": true,
+          "size": 3722354,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "v4imixbQ",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.5-alpha",
+      "version_number": "7.1.5-alpha",
+      "changelog": "## Ender IO 7.1.5-alpha\r\n\r\nThis is another bugfix release for some minor issues.\r\nAmong these is a change to how alloy smelter smelting recipe inheritance works. If your modpack is disabling smelting recipes *specifically* in the alloy smelter, you may need functionality from the KubeJS community addon to do this going forward.\r\n\r\n### Bug Fixes\r\n\r\n- IO config overlay not rendering overlay text for machines anymore\r\n- Redstone machine state not updating correctly.\r\n- Unable to place conduits directly into water\r\n- Revert to old recipe manager mixin, fixes some recipe issues\r\n- Ensure we use the correct recipe cache for smelting recipes now",
+      "changelog_url": null,
+      "date_published": "2025-01-12T21:44:18.580985Z",
+      "downloads": 1420,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JOqiTT34",
+          "hashes": {
+            "sha1": "322e39207e29102c19d31decc28e83e9111b22ab",
+            "sha512": "99792ac54f430c9add5d8f50699cf499d91adf939a648afd81d2491830eab41b0fbb5080d9e9aa4cd25542b0aedcea986bb4acfa8e36807d4c344e2906087d78"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/v4imixbQ/enderio-7.1.5-alpha.jar",
+          "filename": "enderio-7.1.5-alpha.jar",
+          "primary": true,
+          "size": 3715346,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vgf4JtoJ",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.4-alpha",
+      "version_number": "7.1.4-alpha",
+      "changelog": "## Ender IO 7.1.4-alpha\r\n\r\nThis is a bugfix release, fixing a power bug with the crafter and an item dupe.\r\nAlso, in addition to these changes we are also buffing machine push/pull IO again, it can now move as many items as are available into and out of machines once per second. As always, we're seeking feedback on these changes - thanks!\r\n\r\n### Features\r\n\r\n- Buff machine IO to push/pull from all slots each second (experiment)\r\n\r\n### Bug Fixes\r\n\r\n- Inserting a capacitor into a crafter doesn't enable energy buffer\r\n- Machine IO push/pull can duplicate resources",
+      "changelog_url": null,
+      "date_published": "2025-01-10T23:21:22.736731Z",
+      "downloads": 278,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rs0Vq83Y",
+          "hashes": {
+            "sha512": "49123256bf831165b83fb2216eb7ae0e39e4040883c70800ff220b77dbfdda7c92cedc09b34792e809ec95ad15eece88980a21fb5ea0bfa3e1923fd54cc3a243",
+            "sha1": "3a4d2be1c37744249b7962ed352b3de683541ac6"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/vgf4JtoJ/enderio-7.1.4-alpha.jar",
+          "filename": "enderio-7.1.4-alpha.jar",
+          "primary": true,
+          "size": 3717148,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "w8xfaloI",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.3-alpha",
+      "version_number": "7.1.3-alpha",
+      "changelog": "## Ender IO 7.1.3-alpha\r\n\r\nWe're now lifting the caution warning for 7.1.x, as we've seen no major bug reports since it was released. Thanks to everyone who has helped to test these updates.\r\n\r\nThis is a bugfix release, closing off the last important issues from the 7.1 update.\r\nIt also contains an experimental change to machine item pushing (with the orange push IO state) to make it faster, it can be made faster again, but we're seeking feedback on this change. Thanks!\r\n\r\n### Features\r\n\r\n- Make item push rate much higher (experiment)\r\n\r\n### Bug Fixes\r\n\r\n- Conduit item model crash with sophisticated storage\r\n- Player movement handler race condition (potentially)\r\n- Machines not pushing items when set to push mode",
+      "changelog_url": null,
+      "date_published": "2025-01-08T11:32:05.442983Z",
+      "downloads": 269,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Gmos1aUk",
+          "hashes": {
+            "sha512": "dd0a0002cc31793c1b20a62b301fe3b2a27eaa73c2844014ff5c52cffd1eb9cf70f97bb9c947d123491ca70c04803c29ad0b0b078d25198bcd68d4c513981b3e",
+            "sha1": "ae451cc8df13f8ea9bca7681e95e4852fcdc9e65"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/w8xfaloI/enderio-7.1.3-alpha.jar",
+          "filename": "enderio-7.1.3-alpha.jar",
+          "primary": true,
+          "size": 3717158,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1g7ctS3s",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.2-alpha",
+      "version_number": "7.1.2-alpha",
+      "changelog": "## Ender IO 7.1.2-alpha\r\n\r\n⚠️ This update should still be used with caution, take backups etc. however we haven't seen any significant issues with these changes. ⚠️\r\n\r\nThis is a bugfix release, resolving many of the issues that arose during testing of 7.1.0 and 7.1.1. In addition, it adds the forgotten recipe for the facades.\r\n\r\n### Features\r\n\r\n- Add chemical conduit locking gui\r\n\r\n### Bug Fixes\r\n\r\n- Missing facade crafting recipes\r\n- Make bundles with no conduits breakable by the player.\r\n- Ghost slot handler not working for rewritten machine screens\r\n- Empty fluid texture look-up\r\n- Wired charger ignoring energy\r\n- Some smelting recipes not being copied to alloy smelter\r\n- Fluid tank data not syncing to block model\r\n- Soul data on items when not needed\r\n- Redstone Count Filter save error\r\n- Ensure energy is generated at the correct time during the day\r\n- Filters can be moved while their menu is open\r\n",
+      "changelog_url": null,
+      "date_published": "2025-01-03T23:10:16.011658Z",
+      "downloads": 381,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Vxs9peog",
+          "hashes": {
+            "sha1": "52123bcb6388249d699c689f122912f2e54d32cf",
+            "sha512": "89fb17e0b57fd48b7dbe36da00bf1b49842a441e6a214f8c8eee8812dc98659f7fadae50f031d1c019e1b3fab3efd0595c47322dcacaab51c0d5142249f5fcbc"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/1g7ctS3s/enderio-7.1.2-alpha.jar",
+          "filename": "enderio-7.1.2-alpha.jar",
+          "primary": true,
+          "size": 3727001,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3er2OlmB",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.1-alpha",
+      "version_number": "7.1.1-alpha",
+      "changelog": "## Ender IO 7.1.1-alpha\r\n\r\n⚠️ This upgrade is more experimental than typical releases, please backup and exercise caution. ⚠️\r\n\r\nThis is a hotfix release with some facade and machine rewrite fixes.\r\n\r\n## Info for Pack Devs\r\n\r\nWe'd recommend avoiding the 7.1 releases for now, we've made a number of changes to machines which cannot be rolled back to 7.0.x without (minor) machine data loss. We'll remove this warning once we're satisfied with the stability.\r\n\r\n## Info for Players\r\n\r\nPlease backup your saves before trying out this build of Ender IO, rolling back will result in loss of some data (IO Config, Redstone Control and similar settings). Please report any and all issues to us on GitHub. Thanks a lot!\r\n\r\n### Features\r\n\r\n- Make conduit bundle inherit light, friction and sound from facades.\r\n\r\n### Bug Fixes\r\n\r\n- Facade ghosts visible after being broken\r\n- Facade duping\r\n- Pressurized fluid tank menu crashes when opening\r\n- IO Config with wrench + GUI not implemented after machine rewrite\r\n- Painted travel anchor crash",
+      "changelog_url": null,
+      "date_published": "2024-12-30T19:30:40.113284Z",
+      "downloads": 1214,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oqQlx5c1",
+          "hashes": {
+            "sha1": "08219c0323ee558515cdd22a35435a36d26441f6",
+            "sha512": "bbe323b0736092ef4eef7e53869753a9ff4c27a2b560b414eddeb7f36ec3f1bc66e0fc1c006a9b8f761e71e26fdaa80336e4170aa751e5088e1002ccda474d65"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/3er2OlmB/enderio-7.1.1-alpha.jar",
+          "filename": "enderio-7.1.1-alpha.jar",
+          "primary": true,
+          "size": 3711428,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "PP6ddFb2",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.1.0-alpha",
+      "version_number": "7.1.0-alpha",
+      "changelog": "## Ender IO 7.1.0-alpha - Facades & Performance Improvements\r\n\r\n⚠️ This upgrade is more experimental than typical releases, please backup and exercise caution. ⚠️\r\n\r\nThis release reintroduces the much-awaited conduit facades, supporting all of the original types of facade (hardened, transparent etc.) as well as integration for AE2 facades. In addition, there are swathes of bug fixes and performance improvements.\r\n\r\n## Info for Pack Devs\r\n\r\nWe'd recommend avoiding the 7.1 releases for now, we've made a number of changes to machines which cannot be rolled back to 7.0.x without (minor) machine data loss. We'll remove this warning once we're satisfied with the stability.\r\n\r\n## Info for Players\r\n\r\nPlease backup your saves before trying out this build of Ender IO, rolling back will result in loss of some data (IO Config, Redstone Control and similar settings). Please report any and all issues to us on GitHub. Thanks a lot!\r\n\r\n### Features\r\n\r\n- Added conduit facades\r\n- Add recipe to rebind powered spawners\r\n- Rewritten machine networking, should improve performance but *may* introduce issues.\r\n- Forced connections for redstone conduits\r\n\r\n### Bug Fixes\r\n\r\n- NamedFluidContents Codec should've allowed optional FluidStacks (Fixes VAT)\r\n- Alloy smelting recipe matcher could match wrongly\r\n- Soul binder JEI shows outputs swapped around\r\n- Hidden travel anchors do not work as elevators\r\n- Conduits broken after new sync system was added\r\n- Crash when right-clicking a machine in spectator mode\r\n- Unable to extract levels from XP Obelisk if it is not XP Juice inside.\r\n- Travel anchor HUD not rendering\r\n- Some conduit recipes not working\r\n- Logic error preventing charging of machines\r\n- Mislabelled Redstone Mode tooltip\r\n- Alloy smelter not working properly for recipes with multiple smelting outputs.\r\n- Fixed some redstone filter problems\r\n- Painted slabs use the wrong tint\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Tag crafter as connectable to redstone conduits\r\n- Replace log4j loggers with slf4j",
+      "changelog_url": null,
+      "date_published": "2024-12-30T01:00:51.324720Z",
+      "downloads": 207,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EfFWkgyK",
+          "hashes": {
+            "sha512": "4469fd14fd5eaa6317628328eea1fbf59270c9c29a5748e198296854d6f84fa78cccb661d290a1cc2ba97c0cf4ba670f394143e5ce9be9a62d3a3fc2828235b6",
+            "sha1": "27cba2082d6aad5661cbb6fc400e92f698caa7dc"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/PP6ddFb2/enderio-7.1.0-alpha.jar",
+          "filename": "enderio-7.1.0-alpha.jar",
+          "primary": true,
+          "size": 3707672,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bG4V6c1y",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.11-alpha",
+      "version_number": "7.0.11-alpha",
+      "changelog": "## Ender IO 7.0.11-alpha\r\n\r\nThis is a hotfix release for a couple important issues following the last bugfix release.\r\n\r\n### Bug Fixes\r\n\r\n- Conduit dupe when breaking with yeta wrench\r\n- Playing unnecessary pickup noise after fixing conduit dupe\r\n- Tweak xp obelisk calculations to avoid reaching a lockup.",
+      "changelog_url": null,
+      "date_published": "2024-12-11T01:38:21.286788Z",
+      "downloads": 2230,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "84PhFyMd",
+          "hashes": {
+            "sha512": "42b295d8b085615a76fa7698bf53e33754e0c070efd66ee9dbae515edd5b1f8888abacaa59e515c29b3561b56cec1921a4167d21f2dc736b9e9a7cf5950f990f",
+            "sha1": "5bfc1387b351d6207d9e7dd6002a83953f6b5126"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/bG4V6c1y/enderio-7.0.11-alpha.jar",
+          "filename": "enderio-7.0.11-alpha.jar",
+          "primary": true,
+          "size": 3560786,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "iKFjllLQ",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.10-alpha",
+      "version_number": "7.0.10-alpha",
+      "changelog": "## Ender IO 7.0.10-alpha\r\n\r\nThis release brings up a range of bugfixes from 1.20.1 - most importantly conduit filters & upgrades are no longer voided by the wrench, item conduits no longer periodically lose items, the XP obelisk works predictably and dragging from JEI into filters is repaired.\r\n\r\n### Features\r\n\r\n- Allow shift r-click with yeta to pick up conduit while flying\r\n- Remove purple borders from conduit connector boxes.\r\n\r\n### Bug Fixes\r\n\r\n- Tank recipes being erroneously mutated by the block entity\r\n- Ensure conduits drop filters & upgrades when shift+r-click with wrench\r\n- Occasional item loss with item conduits\r\n- Crash when clearing fluid lock on conduit\r\n- Filter items not persisting when dragged in from JEI/EMI.\r\n- Crafted capacitors not stacking beyond 1\r\n- Round robin only cycling between inputs if it moved a full stack size (base 4) at once.\r\n- Enchanter recipe conflict between Impaling and Sweeping Edge\r\n- Experience level calculations incorrect for display\r\n- XP Obelisk giving/taking incorrect XP.\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Optimise ItemConduitTicker a tiny bit.\r\n- Add tests for experience methods",
+      "changelog_url": null,
+      "date_published": "2024-12-10T21:05:51.213417Z",
+      "downloads": 138,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QKDuLUiq",
+          "hashes": {
+            "sha512": "6562fe6d7efdfaa79de2ac4ab2c7d594199d97ca358d356cb8ea5563dbc1b8d5245548a3dad2fbc61fa50cfe31789b6fc446aeac3359f32e6e9d5e65825a3ae3",
+            "sha1": "e7ee0ca555b483ac8ea334f7d2e1430f35b439b0"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/iKFjllLQ/enderio-7.0.10-alpha.jar",
+          "filename": "enderio-7.0.10-alpha.jar",
+          "primary": true,
+          "size": 3560611,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CZ7ecOXn",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.9-alpha",
+      "version_number": "7.0.9-alpha",
+      "changelog": "## Ender IO 7.0.9-alpha\r\n\r\nThis release contains a handful of QoL features and bugfixes.\r\n\r\n### Features\r\n\r\n- Support JEI click areas and ghost dragging\r\n- Play item pickup sound when shift r-click conduit with yeta\r\n\r\n### Bug Fixes\r\n\r\n- Catch class cast exceptions when loading crafting recipes\r\n- Crafters were using a shared global crafting container accidentally.\r\n- Redstone control icons were not correct\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Replace checkstyle with spotless\r\n- Some tweaks to the JEI changes",
+      "changelog_url": null,
+      "date_published": "2024-10-29T22:22:14.623791Z",
+      "downloads": 4685,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nIpyY2qI",
+          "hashes": {
+            "sha512": "5834f71d109b6f72b00034155d6d775ec491e41bda2b1b1c32b23ec28bde2406405a071e79f210f2bed2a08a3b7cd54f39d48222feefdc198014e7173ce09c72",
+            "sha1": "38d976bfc20aced3501442f0f18347f0cdb7c7d8"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/CZ7ecOXn/enderio-7.0.9-alpha.jar",
+          "filename": "enderio-7.0.9-alpha.jar",
+          "primary": true,
+          "size": 3555661,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "rfz1As4e",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.8-alpha",
+      "version_number": "7.0.8-alpha",
+      "changelog": "## Ender IO 7.0.8-alpha\r\n\r\n⚠️ Ender IO no longer supports 1.21 from this release forward, upgrade to 1.21.1 to continue receiving updates. ⚠️\r\n\r\nConduit JSON reading changed slightly in this release, if you have custom conduits you may wish to review the transfer rates. Transfer rates are now described as per-tick for almost all conduits except item conduits, which are per-second.\r\n\r\n### Features\r\n\r\n- Fluid conduits ensure they extract from all internal tanks\r\n- Rework conduit tooltips, fix some rates and prepare for fast item conduits\r\n\r\n### Bug Fixes\r\n\r\n- Fixed fluid conduits not working at all\r\n- Redstone conduit not connecting to Copper Bulbs\r\n- Energy conduit outputs max transfer rate despite buffer contents\r\n- Ensure we use ROOT Locale for toLowerCase (crashing Turkish PCs)\r\n- Aversion Obelisk and Entity Filter bugs and crash fixes\r\n- Possible conduit crash if no conduits are in a bundle somehow.\r\n- Alloy smelter not smelting vanilla recipe when all input slots are filled\r\n- Some tag inconsistencies\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Bump minimum Minecraft version to 1.21.1\r\n- Ensure consistent filter serialization for soul filter.",
+      "changelog_url": null,
+      "date_published": "2024-10-12T19:05:18.757433Z",
+      "downloads": 1680,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rWg5mhVG",
+          "hashes": {
+            "sha1": "907f911dd1db3aa752dfc1d5364dd4185416247b",
+            "sha512": "6a7de475e8cf4448c380c40ed418c021e94bda818feb9ef9b2939d66a1b3af28de559161672acdfd9a9c5aaea2293409421b47cd18068ba909ff1fa1aeefce29"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/rfz1As4e/enderio-7.0.8-alpha.jar",
+          "filename": "enderio-7.0.8-alpha.jar",
+          "primary": true,
+          "size": 3546512,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AzTCyAPX",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.7-alpha",
+      "version_number": "7.0.7-alpha",
+      "changelog": "## Ender IO 7.0.7-alpha\r\n\r\n⚠️ This will be the final Ender IO 7 build that is also compatible with Minecraft 1.21. Ender IO 7.1 will be 1.21.1 only. ⚠️\r\n\r\n**Note** Mekanism on 1.21 is not compatible with Ender IO. To use these together you must update to 1.21.1.\r\n\r\nRecipe format changes were made in this release, as such custom datapacks may not work as expected.\r\n\r\n### Features\r\n\r\n- [**breaking**] Make all machine recipes support item components\r\n\r\n### Bug Fixes\r\n\r\n- Ensure Alloy Smelter recipe is_smelting is serialized in JSON\r\n- Do not attempt to assemble a recipe before checking that it is still matching.\r\n- Sunflower grinding recipe incorrectly requiring vines.\r\n- Item duplication with filters\r\n- Items voiding in filters\r\n- Wrong check in FluidFilter equals\r\n- Many conduit bugs, check commit description.\r\n- Conduit missing particles (temporary fix)\r\n- Conduit forget configuration when upgraded\r\n- Entity filter was missing dupe fixes\r\n- Placing a conduit below an existing bundle was not working.\r\n- Breaking the last conduit would not play the breaking sound\r\n- Network error when setting crafter template.\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Ensure consistent naming of OutputItem#item between 1.20 and 1.21\r\n- Some recipe key consistency changes\r\n- Sync changes to filter capabilities from 1.20.1.\r\n- Break-out fluid rate scaling into a method",
+      "changelog_url": null,
+      "date_published": "2024-09-30T16:33:56.371154Z",
+      "downloads": 2608,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tEKmxI3p",
+          "hashes": {
+            "sha1": "3addefb7e35d0127f594c1acba83f8904797f577",
+            "sha512": "ed43c53ddbcab98af31e4c2d5bd2505faeb53d740158b9f559bdbc6783cef972cdc27cc63ab3ad39196115c39f4a8151bc6123a6c08bf5d5ef8cd6baecbef1e9"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/AzTCyAPX/enderio-7.0.7-alpha.jar",
+          "filename": "enderio-7.0.7-alpha.jar",
+          "primary": true,
+          "size": 3538970,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hIu0G6Q2",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.6-alpha",
+      "version_number": "7.0.6-alpha",
+      "changelog": "## Ender IO 7.0.6-alpha\r\n\r\nThis build is also compatible with Minecraft 1.21.\r\n**Note** Mekanism on 1.21 is not compatible with Ender IO. To use these together you must update to 1.21.1.\r\n\r\n### Features\r\n\r\n- Re-add IO Config show/hide neighbour button\r\n\r\n### Bug Fixes\r\n\r\n- Soul vial deleted when capturing using the first slot of a dispenser.\r\n- Ensure isSmelting is synced for alloy smelter recipes.\r\n- Do not show smelting recipes for the primitive alloy smelter in JEI.\r\n- Recipe input filtering is now based on alloy smelter mode.\r\n- Smelting recipes not inherited when KubeJS is in use.\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Ensure all modules have a valid jar manifest.",
+      "changelog_url": null,
+      "date_published": "2024-09-28T23:57:37.117728Z",
+      "downloads": 564,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3fPbUrR0",
+          "hashes": {
+            "sha512": "cc25c0949f328b2c8a00bad6c96484ffab0d94804b1d6365c7ecb6a44657708933e69f3c2dbe84382aa775d19943492298190469cce54b00f3373640554a1b77",
+            "sha1": "e41ec572b7f9c90466b487da77c2e03bee0819e9"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/hIu0G6Q2/enderio-7.0.6-alpha.jar",
+          "filename": "enderio-7.0.6-alpha.jar",
+          "primary": true,
+          "size": 3523105,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Z7kKZxyu",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.5-alpha",
+      "version_number": "7.0.5-alpha",
+      "changelog": "## Ender IO 7.0.5-alpha\n\nThis build is also compatible with Minecraft 1.21.\n**Note** Mekanism on 1.21 is not compatible with Ender IO. To use these together you must update to 1.21.1.\n\n### Bug Fixes\n\n- Revert energy conduit connection defaults to check capability canReceive/canExtract.\n- Crafter works without energy\n- Crafter not checking for the full amount of energy being present.\n- Skip smelting recipe inheritance for recipes that do not have valid result items.",
+      "changelog_url": null,
+      "date_published": "2024-09-28T16:04:21.900522Z",
+      "downloads": 166,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mSPJwEmX",
+          "hashes": {
+            "sha1": "4705a9d654692a81fab88392fda29a0fe099c72f",
+            "sha512": "b207d5e00e36cee4db1b3e79f1fbb8fee714e5bfd8fc0d352b511f71bf02e47a08fc6d763a87e1b25e264ea63f10db305e2ec75c89906948b8354e4c16403dbe"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/Z7kKZxyu/enderio-7.0.5-alpha.jar",
+          "filename": "enderio-7.0.5-alpha.jar",
+          "primary": true,
+          "size": 3521255,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "DQoO4Mv0",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.4-alpha",
+      "version_number": "7.0.4-alpha",
+      "changelog": "## Ender IO 7.0.4-alpha\r\n\r\nThis build is also compatible with Minecraft 1.21.\r\n**Note** Mekanism on 1.21 is not compatible with Ender IO. To use these together you must update to 1.21.1.\r\n\r\n### Bug Fixes\r\n\r\n- Conflicting recipe IDs in smelting recipe inheritance",
+      "changelog_url": null,
+      "date_published": "2024-09-27T10:31:05.970600Z",
+      "downloads": 456,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1QJ5LKn1",
+          "hashes": {
+            "sha512": "14608b9ea48c820edc74bb1bcce4342ba37ed0eb359f37a00918f8bd5eb82024ded96c2865b44cea7d67acfbd767a9a45c83213d04c7a7553badd235b50c5221",
+            "sha1": "6842ab82a53918e5c7983609e333d4e3318a4ed2"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/DQoO4Mv0/enderio-7.0.4-alpha.jar",
+          "filename": "enderio-7.0.4-alpha.jar",
+          "primary": true,
+          "size": 3520435,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wB2AOuRJ",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.3-alpha",
+      "version_number": "7.0.3-alpha",
+      "changelog": "## Ender IO 7.0.3-alpha\n\nThis build is also compatible with Minecraft 1.21.\n**Note** Mekanism on 1.21 is not compatible with Ender IO. To use these together you must update to 1.21.1.\n\n### Features\n\n- Change Energy conduit cap to be per-node instead of per-tick.\n- Ensure shift+clicking a filter on vacuum chest targets filter slot first.\n- [**API breaking**] Handle alloy smelting vanilla inheritance with recipe manager.\n\n### Bug Fixes\n\n- Another attempt at fixing crowdin (will backport to 1.20.1 once complete)\n\n### Miscellaneous\n\n- A handful of performance improvements ported from 1.20.1",
+      "changelog_url": null,
+      "date_published": "2024-09-26T23:42:11.967514Z",
+      "downloads": 118,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AZ1aPPfB",
+          "hashes": {
+            "sha1": "41d5c3e3374cd50593eed83fa380c8e1d2e26a76",
+            "sha512": "57a5712f7a89d6bb7e2d19adc6ee62b68571c7993eaa09cf2cadf49f4510079511b4137ac054b92394ff9504987ec9c21546e26c7bd6448f7c20f3db6f890f61"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/wB2AOuRJ/enderio-7.0.3-alpha.jar",
+          "filename": "enderio-7.0.3-alpha.jar",
+          "primary": true,
+          "size": 3520877,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3cRp7pdm",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.2-alpha",
+      "version_number": "7.0.2-alpha",
+      "changelog": "## Ender IO 7.0.2-alpha\r\n\r\nThis build is also compatible with Minecraft 1.21.\r\n**Note** Mekanism on 1.21 is not compatible with Ender IO. To use these together you must update to 1.21.1.\r\n\r\nSome configuration defaults have been changed in this release, you may need to update your existing config's.\r\n\r\n### Features\r\n\r\n- Add soul chain to c:chains\r\n- Update and fix Crowdin translations\r\n- Add config flag to disable machine energy input throttling\r\n\r\n### Bug Fixes\r\n\r\n- Fill and empty recipes not working as expected.\r\n- Allow null direction on Energy Conduit to allow Jade to display buffer.\r\n- Ensure stirling generator saves burn progress\r\n- Save stored entity on solar panels\r\n- Fix wired charger calculations (Also lowered default speed of wired charger and increased capacity of staff of levity.)",
+      "changelog_url": null,
+      "date_published": "2024-09-25T15:18:03.485616Z",
+      "downloads": 392,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "w2i4ICSF",
+          "hashes": {
+            "sha1": "938a6cd7f51b31d78fdd010276d6be4fccb1e85a",
+            "sha512": "a3cb1c78aa746a8f4bd8024093097feca94e7ab2f6154824150757d736e1a7189a8130c04d30497097e0212a9dafb15cbe37c144ee33c92dc64722ccf134dd5a"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/3cRp7pdm/enderio-7.0.2-alpha.jar",
+          "filename": "enderio-7.0.2-alpha.jar",
+          "primary": true,
+          "size": 3518282,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zfnVB0eL",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.1-alpha",
+      "version_number": "7.0.1-alpha",
+      "changelog": "## Ender IO 7.0.1-alpha\r\n\r\nThis build is also compatible with Minecraft 1.21.\r\n**Note** Mekanism on 1.21 is not compatible with Ender IO. To use these together you must update to 1.21.1.\r\n\r\n### Features\r\n\r\n- Add chemical filters (with laserio compatibility too)\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Update all dependencies in development environment.\r\n- [**API breaking**] Bump minimum AE2 version and add support for exposing capabilities with any context.\r\n- Add guard clause to GridHelper.onFirstTick to avoid calling create twice. (Speculative fix for an AE2 related crash)\r\n- Bump graphlib and use maven mirror.\r\n\r\n### Build\r\n\r\n(Developer changes, you can ignore these as a player)\r\n\r\n- Fix gradle string interpolation for publish versioning [no ci]\r\n- Fix maven publishing and update readme for new maven name [no ci]\r\n- Publish all modules separately with dependencies [no ci]\r\n- Also publish modded conduits [no ci]\r\n- CompileOnly refined storage [no ci]\r\n- RuntimeOnly refined storage in enderio target [no ci]\r\n- Put back data generation that I mistakenly removed [no ci]\r\n- Fixed the ensure compiler plugin\r\n- Add checkstyle gradle plugin and fix warnings.\r\n- Introduce spotbugs gradle plugin [no ci]\r\n- Use api configuration instead of implementation to ensure maven dependencies are scoped correctly [no ci]",
+      "changelog_url": null,
+      "date_published": "2024-09-24T12:11:42.240642Z",
+      "downloads": 195,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "10JZgJgz",
+          "hashes": {
+            "sha1": "f781726e2a25991d3c2cb996c9f3992aff47a4fd",
+            "sha512": "e96040b1a5bd92e4cd10d8cd30158db1690eda9a8d63b055c3ddd06775c47388558167a275914af22dc055529c00e8f50f215dbff27194bae2289b91eeaa5d0e"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/zfnVB0eL/enderio-7.0.1-alpha.jar",
+          "filename": "enderio-7.0.1-alpha.jar",
+          "primary": true,
+          "size": 3457798,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6mFtKQTF",
+      "project_id": "49ZofO4f",
+      "author_id": "mn5uiknm",
+      "featured": false,
+      "name": "Ender IO - 7.0.0-alpha",
+      "version_number": "7.0.0-alpha",
+      "changelog": "Ender IO 7 will remain in alpha until we are satisfied with the stability of existing content.\r\nThere are some planned changes to early-game Ender IO still in the works, expect some recipes to change.\r\n\r\nThis build is also compatible with Minecraft 1.21.\r\n\r\n- Work-in-progress texture overhaul and GUI redesign thanks to CyanideX\r\n- Rewritten conduits with datapack support (facades are work-in-progress currently)\r\n- RS2 conduits\r\n- Enchantments temporarily removed\r\n- Loot capacitor random names are back!\r\n- Added fuel efficiency and burning generation rate properties for capacitors.\r\n- Added The Vat for fluid crafting (recipes still work-in-progress)\r\n- Added the \"Phantom\" solar panel\r\n- Added inhibitor, aversion and relocator obelisks.\r\n- Support for JEI bookmarks\r\n- Grains of Infinity can now be acquired through sag-milling -and- from setting deepslate on fire.\r\n- Support for Laser IO filters in conduits\r\n- Support for NeoForge configuration menu.\r\n- Added sag-mill recipes for raw iron, gold & copper\r\n- Fixed a significant number of bugs\r\n- Many other changes that were made in the transition to NeoForge",
+      "changelog_url": null,
+      "date_published": "2024-09-13T20:16:57.796624Z",
+      "downloads": 971,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wLf3f517",
+          "hashes": {
+            "sha1": "20030cd0dfdc78b7be2e327a7f38b9580f9dc5ea",
+            "sha512": "df04240cd07236bab390036356baba7ef26de3062d6caea790aa37bd58c071a61f8cb24f0317a0356b41a940a54fae7a9f601e54282751846429d1afca289cf0"
+          },
+          "url": "https://cdn.modrinth.com/data/49ZofO4f/versions/6mFtKQTF/enderio-7.0.0-alpha.jar",
+          "filename": "enderio-7.0.0-alpha.jar",
+          "primary": true,
+          "size": 3430656,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gu7yAYhd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "b1ZV3DIJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ce6I4WUE",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}

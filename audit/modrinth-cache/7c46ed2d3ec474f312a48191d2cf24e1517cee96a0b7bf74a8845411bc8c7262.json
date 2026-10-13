@@ -1,0 +1,131 @@
+{
+  "url": "https://api.modrinth.com/v2/project/piercingpaxels",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:54.027976+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.18",
+      "1.18.1",
+      "1.18.2",
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.20",
+      "1.20.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "gHkzYDn7",
+    "slug": "piercingpaxels",
+    "project_type": "mod",
+    "team": "boqt8VEJ",
+    "organization": "COQAHXsa",
+    "title": "Piercing Paxels ⚒️",
+    "description": "Dynamic Upgradable Multi-tools!",
+    "body": "|                 <h2>Want to host a server with Piercing Paxels?</h2>                 |\n|:------------------------------------------------------------------------------------:|\n| <a href=\"http://bloom.amymialee.xyz\"><img src=\"https://i.imgur.com/h4556XW.gif\"></a> |\n|  **Rent your own Minecraft server <a href=\"http://bloom.amymialee.xyz\">here</a>!**   |\n\n## Features\n\nThis mod adds a new selection of tools, Paxels, made with one of each normal tool. They have a lot of features such as:\n\n- They can mine any blocks.\n- They have the durability of all the tools used to make them combined.\n- When they reach zero durability they don't break, instead they become unusable until repaired.\n- They can have upgrades applied to enhance their abilities without needing enchantments:\n  - Ability Upgrades: Hold right click to break an area in front of you.\n  - Auto-Smelt (Smelt any block broken)\n  - Silence (Muffles sounds, including to Sculk creatures)\n  - Vacuum (Drops items directly into your inventory)\n  - Restoration (Repairs the paxel over time)\n  - Unbreakability (The paxel never takes durability damage)\n  - Usage Upgrade: Allows the paxel to act as a hoe, axe, or shovel.\n\n## Using The Mod\n\n\n### Crafting a Paxel\n\nPaxels can be created using all 5 of any individual material.\n\n<img src=\"https://github.com/AmyMialeeMods/piercingpaxels/blob/main/assets/recipe.png?raw=true\"><br>\n\n\n### Creating Upgrades\n\nVarious types of upgrades can be created using the following recipes.\nThey can be inserted into the paxel by opening its inventory with shift right-click, and put into it's particular upgrade slot\n\n<img src=\"https://github.com/AmyMialeeMods/piercingpaxels/blob/main/assets/recipes.png?raw=true\"><br>\n\n\n### Using the Paxel \n\nThe paxel can be used like any other tool, and can break any block.\nIf you install an ability upgrade then you can also hold right click to break an area in front of you, in a different shape depending on the upgrade.\n\n<img src=\"https://github.com/AmyMialeeMods/piercingpaxels/blob/main/assets/max.png?raw=true\"><br>",
+    "body_url": null,
+    "published": "2022-08-06T04:56:20.324505Z",
+    "updated": "2023-08-02T04:54:59.740989Z",
+    "approved": null,
+    "queued": null,
+    "status": "approved",
+    "requested_status": null,
+    "moderator_message": null,
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "downloads": 98564,
+    "followers": 103,
+    "categories": [
+      "cursed",
+      "equipment",
+      "utility"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "forge",
+      "quilt"
+    ],
+    "versions": [
+      "EqBPInbH",
+      "iD6zV4TJ",
+      "pWRnyMZt",
+      "ewH4J2kH",
+      "bQd5NuJm",
+      "9uYDKZjy",
+      "5ucaP2KO",
+      "hf9AJJhO",
+      "kqqLRjDr",
+      "ASaLtLbt",
+      "PeSAJ7hh",
+      "qEgUMHk2",
+      "hej14LzO",
+      "1FJ0pUgS",
+      "AYYMiDHH",
+      "ik2QmtYy",
+      "FavkgDny",
+      "LYykoHJR",
+      "Pw1MWIuM"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/gHkzYDn7/ba09a7acb6275cb0d467ededea2e6ae27e352325_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/gHkzYDn7/icon.png",
+    "issues_url": "https://github.com/AmyMialeeMods/piercingpaxels/issues",
+    "source_url": "https://github.com/AmyMialeeMods/piercingpaxels",
+    "wiki_url": "https://modrinth.com/mod/piercingpaxels/",
+    "discord_url": "http://discord.amymialee.xyz/",
+    "donation_urls": [
+      {
+        "id": "ko-fi",
+        "platform": "Ko-fi",
+        "url": "https://ko-fi.com/amymialee"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/gHkzYDn7/images/1aafc9977d482d0b6908181ed8bc93b138a54b14_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/gHkzYDn7/images/6a29fb917a66c0cc1ab097db54f88c15a831949c.png",
+        "featured": true,
+        "title": "Full Paxel",
+        "description": "A fully upgraded paxel.",
+        "created": "2023-06-13T00:49:51.490153Z",
+        "ordering": 1
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/gHkzYDn7/images/585c67ac908b06a0073413e9e85b982b2c811fad_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/gHkzYDn7/images/5c8bd15901a21c76e7ab540489e9e3d32eb5571e.png",
+        "featured": false,
+        "title": "Recipes",
+        "description": "All of the recipes in the mod.",
+        "created": "2023-06-13T00:49:19.471915Z",
+        "ordering": 2
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/gHkzYDn7/images/e284cc1d653c9a1d9012f965993356ec16b6fe84_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/gHkzYDn7/images/e284cc1d653c9a1d9012f965993356ec16b6fe84.png",
+        "featured": false,
+        "title": "Mod Items",
+        "description": "The items in the mod.",
+        "created": "2023-06-13T00:48:54.580888Z",
+        "ordering": 3
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/gHkzYDn7/images/beb9a387df42f35718f6b0d6f897caf8751b7e04_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/gHkzYDn7/images/a32bfd00e8d95d7c2e889da66024c420ba572c32.png",
+        "featured": false,
+        "title": "Recipe",
+        "description": "The recipe for a paxel.",
+        "created": "2022-08-06T04:56:19.084692Z",
+        "ordering": 4
+      }
+    ],
+    "color": 1118482,
+    "thread_id": "gHkzYDn7",
+    "monetization_status": "monetized"
+  }
+}

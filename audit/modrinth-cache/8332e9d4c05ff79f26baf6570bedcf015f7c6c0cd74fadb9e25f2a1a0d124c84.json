@@ -1,0 +1,183 @@
+{
+  "url": "https://api.modrinth.com/v2/project/RHN9OPTT",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:43.798391+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.20.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "RHN9OPTT",
+    "slug": "terramity",
+    "project_type": "mod",
+    "team": "nlw6Fdw0",
+    "organization": null,
+    "title": "Terramity",
+    "description": "Terramity is a Terraria-inspired mod that adds many new bosses and weapons to diversify your Minecraft experience",
+    "body": "![About Banner](https://cdn.modrinth.com/data/cached_images/fd4bed0702494686936aaaf6cba8ddce4ccc5a10.png)\n\nJoin the Discord! -> https://discord.gg/nvF9BsFep5\n\n**v1.0 COMING SOON! A MASSIVE update that will rework Terramity from the ground up! 4+ new bosses along with reworked bosses, boss music, 100+ new weapons, a revamped gun system, 250+ new curios accessories, and SO MUCH more!**\n\n\n\n_Early Look:_\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/t6gN5plxJhg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/fSZOUE1eMok\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nTerramity is a forge mod inspired by progression-heavy games like Terraria, and aims to solve the problem with the lack of things to do in Minecraft if you tend to get bored quickly.\n\nMany new bosses, weapons, accessories (via the Curios mod), and structures to explore are added to diversify the playing experience. The mod comes a _**Patchouli** guidebook_ that serves as an in-game wiki and a way to know what to do next without googling all the time.\n\nTerramity attempts to also explore the underutilized facets of vanilla, and touches on them to give them more purpose in your Minecraft playthrough, such as sniffers and bees. Multiplayer is a focus, and Terramity adds multiplayer boss health scaling, making the multiplayer experience more balanced and enjoyable.\n\n![Stuff Banner](https://cdn.modrinth.com/data/cached_images/db35128cc8a91b51b3136a100cf71c6538056beb.png)\n# MEDIA\n____________________\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/z1gqnvy87dw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Za3a50aLU_U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/uwgj2zbNf4U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9f6_WrM6F58\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n____________________\n\n![Split Banner](https://cdn.modrinth.com/data/cached_images/fc41cd37b908d8335996dff381fa0772f3f3e9f2.png)\n\nThis mod requires Curios, Patchouli, Geckolib, and Caelus API.\n\n\n\nPlease note that while the mod may be released, not everything is finished. There may still be some bugs that need ironed out. As of now, please DM me on discord (@aurukel) to report bugs. A discord server or github will likely be opened soon!\n\n\n\nFAQ\n\n-Will this mod be ported to fabric?\n\nNope, sorry.\n\n-Will this mod be ported to later versions?\n\nI'm not sure. If I have the time, I'll work on porting everything in the future but as it stands, 1.20.1 is still the most popular modding version and the version I'll be sticking to.\n\n-Will this mod be ported to previous versions?\n\nNope, sorry.\n\n-Can I use this mod in a modpack or in a video?\n\nSure. I'd appreciate if you were to let me know if you do, but it's not required.\n\n-What's planned for future versions?\n\nRight now, a couple bosses are planned and some features like being able to aim down sights with sniper rifles, and potentially boss music.",
+    "body_url": null,
+    "published": "2024-08-14T23:50:45.546202Z",
+    "updated": "2025-01-05T04:37:05.634584Z",
+    "approved": "2024-08-16T02:45:53.261110Z",
+    "queued": "2024-08-15T00:02:09.823638Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "downloads": 2409334,
+    "followers": 680,
+    "categories": [
+      "adventure",
+      "equipment",
+      "mobs"
+    ],
+    "additional_categories": [
+      "decoration",
+      "game-mechanics",
+      "worldgen"
+    ],
+    "loaders": [
+      "forge"
+    ],
+    "versions": [
+      "mY3ZqBjU",
+      "tr0pAgQK",
+      "AI2FQZNa",
+      "Cju5Mpjk",
+      "PIQ5bD8a",
+      "dkGCzgUs",
+      "dGgcJZjo",
+      "BvmOjIuN",
+      "U0z4qezn",
+      "XiNIlWvB",
+      "MOD5TRt0",
+      "A2WkFF6N",
+      "cjrb1wmA"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/RHN9OPTT/eaecdcfe4633e4bf05bc1f3a69bc625de795c585_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/RHN9OPTT/eaecdcfe4633e4bf05bc1f3a69bc625de795c585.png",
+    "issues_url": null,
+    "source_url": null,
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/nvF9BsFep5",
+    "donation_urls": [
+      {
+        "id": "ko-fi",
+        "platform": "Ko-fi",
+        "url": "https://ko-fi.com/aurukel"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/03467f3a934bc881f6fcab5f422524f73753e6ce_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/03467f3a934bc881f6fcab5f422524f73753e6ce.png",
+        "featured": true,
+        "title": "update banner",
+        "description": null,
+        "created": "2024-12-31T16:12:13.992984Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/179c729ddab9260751a4a8851ada73b5fed42fca_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/179c729ddab9260751a4a8851ada73b5fed42fca.png",
+        "featured": false,
+        "title": "Prismatic Pond",
+        "description": "Prismatic Pond",
+        "created": "2024-12-31T16:18:05.041334Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/30e3ca515be8e6629a8656d2341d5b73cb2166db_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/b61ddc6d85ffdd5338d1cdc1d084b2d66c3d9cb0.png",
+        "featured": false,
+        "title": "Boss Fight",
+        "description": "Archmage Gundalf fought in his arena",
+        "created": "2024-08-14T23:57:48.262724Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/834df9b3c542086d6f8e76196ed2108a8d9fc2f4_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/834df9b3c542086d6f8e76196ed2108a8d9fc2f4.png",
+        "featured": false,
+        "title": "Super Sniffer",
+        "description": "Taken with Complementary Reimagined shaders",
+        "created": "2024-08-14T23:58:35.029893Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/8b6a41afceda57de4858508a543c61754b623d49_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/34ec56fec483dc658c94a35fe56cab6b510a28c0.png",
+        "featured": false,
+        "title": "Accessories",
+        "description": "77 of the 160+ accessories found in Terramity",
+        "created": "2024-09-03T17:36:01.683514Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/98215975e609f92b97625287346d3d52784b2eab_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/ba57d3643e9d90e25dcb2c5c0a9c43e6b9088066.png",
+        "featured": false,
+        "title": "Black Hole",
+        "description": "Black holes can be disabled in with /gamerule AllowTerramityExplosives false",
+        "created": "2024-08-14T23:57:29.363927Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/ca3255ea5ed2a34ec13ce4f792a3d5c5677923b6_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/dbe6dcab2fe51207e43d11e3f5937f26d0070c03.png",
+        "featured": false,
+        "title": "Overgrown Facility",
+        "description": "A new structure added by Terramity, with some unique loot",
+        "created": "2024-08-14T23:59:59.321238Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/defea8f6fd308082933cf7d34c0110ced1a838af_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/ab663488dfd664a5a025a4389f26238d6d4bbd3a.png",
+        "featured": false,
+        "title": "Terramity Guidebook",
+        "description": "Guidebook added by Terramity, serves as an in-game wiki",
+        "created": "2024-08-14T23:56:36.903080Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/f8fbee04dd811bea57a4845eafd8cf24b59bcec5_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/a2478e58d2aad5511c4f3f6650205cb49b3cd5ab.png",
+        "featured": false,
+        "title": "The Chthonic Dungeon",
+        "description": "A room found within the Chthonic Dungeon structure",
+        "created": "2024-08-14T23:59:37.772977Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/fe8fe57325949ccd39c51150c27ec6fc41c79303_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/c4fab53fad65e98ab4882212e3a14076bae7bdab.png",
+        "featured": false,
+        "title": "Sword Shrine",
+        "description": "A sword found embedded in stone",
+        "created": "2024-08-14T23:58:57.333883Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/RHN9OPTT/images/0178febd40c5386cbbca1ca46272b9717af23092_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/RHN9OPTT/images/e182e6263966330b45a225190c30971e66f1365c.png",
+        "featured": false,
+        "title": "Trial Spire",
+        "description": "Shaders are Project Luma",
+        "created": "2024-08-14T23:58:15.391375Z",
+        "ordering": 1
+      }
+    ],
+    "color": 10329261,
+    "thread_id": "zXPW3O5I",
+    "monetization_status": "monetized"
+  }
+}

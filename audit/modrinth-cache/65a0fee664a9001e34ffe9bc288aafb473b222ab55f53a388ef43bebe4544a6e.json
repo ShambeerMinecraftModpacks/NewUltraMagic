@@ -1,0 +1,920 @@
+{
+  "url": "https://api.modrinth.com/v2/project/RH2KUdKJ/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:44.360854+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yVCCi6TK",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "ShatterLib | OctoLib 0.6.2",
+      "version_number": "0.6.2",
+      "changelog": "* Added particle trails",
+      "changelog_url": null,
+      "date_published": "2026-05-04T23:51:43.352160Z",
+      "downloads": 1097036,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "luljbK5f",
+          "hashes": {
+            "sha512": "c33faa056c9d5403f06b7aa883290c86c33dcea3502f99720df98eccbd819cd3050fb2ffecf048f2dbee1b69a14e9dc6c23245f35ba3a78e46b056859666a60a",
+            "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+          "filename": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+          "primary": true,
+          "size": 544378,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Sj6w7O0I",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "ShatterLib | OctoLib 0.6.2",
+      "version_number": "0.6.2",
+      "changelog": "* Added particle trails",
+      "changelog_url": null,
+      "date_published": "2026-05-04T23:51:04.725356Z",
+      "downloads": 214745,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D08rRCLj",
+          "hashes": {
+            "sha512": "179c75e7b74da339f87c59c2318c733d15cc17b8bdb9604b1be10fb7d73d1138ae9a4759fa22a8f740707c0fe66bdf26a8eb8d7d40dbfa9479ba1308e3048ad0",
+            "sha1": "e18bf47209c43d2eff882fd906f2cafd887b7378"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/Sj6w7O0I/OctoLib-FABRIC-0.6.2%2B1.21.jar",
+          "filename": "OctoLib-FABRIC-0.6.2+1.21.jar",
+          "primary": true,
+          "size": 543254,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "oCmdIpY6",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.6.1",
+      "version_number": "0.6.1",
+      "changelog": "* Added chromatic aberration API",
+      "changelog_url": null,
+      "date_published": "2026-03-07T12:09:13.593608Z",
+      "downloads": 116923,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rtttgHNE",
+          "hashes": {
+            "sha512": "e7c43be4546b38bf518584913805e3c9481b9c39c686f570d4f9d11e7f3d04fd6a864e0955303e078633caefc39cf380abd8caccab8b8c3fea6a0461b2ddfd1f",
+            "sha1": "7aa8fdce02efcbaaa3c848aff43ac4cb74f206d3"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/oCmdIpY6/OctoLib-FABRIC-0.6.1%2B1.21.jar",
+          "filename": "OctoLib-FABRIC-0.6.1+1.21.jar",
+          "primary": true,
+          "size": 539196,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AbiyvpxR",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.6.1",
+      "version_number": "0.6.1",
+      "changelog": "* Added chromatic aberration API",
+      "changelog_url": null,
+      "date_published": "2026-03-07T12:08:46.225750Z",
+      "downloads": 296444,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ttTh7GuC",
+          "hashes": {
+            "sha512": "6e0194da00ae7cc1e67f0033b97965acc460edaa86e204e5f8498ea83be94a2019cb5a3254e07b59562e66297f12f3ea2262f9f0005a52c12b9a680b6f218c4d",
+            "sha1": "052b71b4897b3a76b4b10afda4d9342e66fb19f1"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/AbiyvpxR/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
+          "filename": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "primary": true,
+          "size": 540285,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "cSBObQER",
+      "project_id": "RH2KUdKJ",
+      "author_id": "lsQM221Y",
+      "featured": false,
+      "name": "OctoLib 0.6.0.4",
+      "version_number": "0.6.0.4",
+      "changelog": "- Fixed Tween thread CPU hogging",
+      "changelog_url": null,
+      "date_published": "2025-08-27T00:32:57.268286Z",
+      "downloads": 394075,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "K0sCkYfz",
+          "hashes": {
+            "sha1": "106ca4d0a3597e1a5c6489e98361c81436c528e0",
+            "sha512": "66b27e29aa3c15b1beef24f219cb1f3ed442aad4cdca2d276fc0516131b65dc977cacd17d6555433bad062ddb9feb8145d71ca87d7b99e70d9c5091542818785"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/cSBObQER/OctoLib-NEOFORGE-0.6.0.4%2B1.21.jar",
+          "filename": "OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
+          "primary": true,
+          "size": 507443,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Y7xho3TM",
+      "project_id": "RH2KUdKJ",
+      "author_id": "lsQM221Y",
+      "featured": false,
+      "name": "OctoLib 0.6.0.4",
+      "version_number": "0.6.0.4",
+      "changelog": "- Fixed Tween thread CPU hogging",
+      "changelog_url": null,
+      "date_published": "2025-08-27T00:32:32.856931Z",
+      "downloads": 1170708,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bGewSR2i",
+          "hashes": {
+            "sha512": "76156670e0d1ae1bf4ac4a3ab05c97f819ed3cedd0aea6c685be91e0de27f9a7b0ba37672d13bb631d58a55d63578c9b0263195d779f86e351660a7be940a0a8",
+            "sha1": "cec4802f4e595d129fd2bcd9f1fca6369d909709"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/Y7xho3TM/OctoLib-FABRIC-0.6.0.4%2B1.21.jar",
+          "filename": "OctoLib-FABRIC-0.6.0.4+1.21.jar",
+          "primary": true,
+          "size": 506830,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "XMZB2Xe6",
+      "project_id": "RH2KUdKJ",
+      "author_id": "lsQM221Y",
+      "featured": false,
+      "name": "OctoLib 0.6.0.3",
+      "version_number": "0.6.0.3",
+      "changelog": "- Fixed a bug in UI Particles\n- that's pretty much it",
+      "changelog_url": null,
+      "date_published": "2025-08-13T19:27:04.119253Z",
+      "downloads": 22720,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2xCYX8xB",
+          "hashes": {
+            "sha512": "cb78de64b211b8a539f779e27598b24c595ebc482dd7b4695543af0219ea78930f07646de06f701eb300e82f5b0a22fcbd78c64124177ef850ab214ca9cbbd0c",
+            "sha1": "9ec459d091b0c7711310fce92a438652077c1e5c"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/XMZB2Xe6/OctoLib-NEOFORGE-0.6.0.3%2B1.21.jar",
+          "filename": "OctoLib-NEOFORGE-0.6.0.3+1.21.jar",
+          "primary": true,
+          "size": 507454,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "IqZQBI6B",
+      "project_id": "RH2KUdKJ",
+      "author_id": "lsQM221Y",
+      "featured": false,
+      "name": "OctoLib 0.6.0.3",
+      "version_number": "0.6.0.3",
+      "changelog": "- Fixed a bug in UI Particles\n- that's pretty much it",
+      "changelog_url": null,
+      "date_published": "2025-08-13T19:26:34.857484Z",
+      "downloads": 25757,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "v2rJZ6Nw",
+          "hashes": {
+            "sha512": "8cc82bad16d74ba914a8b638bee5e4293ffa694c33789af84167b228a78cdf88c68475aae001a0074609b537631f44045b251389f8a893f7fe91558e8178691b",
+            "sha1": "0682002f18147202610d514419edefceccd9c2a4"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/IqZQBI6B/OctoLib-FABRIC-0.6.0.3%2B1.21.jar",
+          "filename": "OctoLib-FABRIC-0.6.0.3+1.21.jar",
+          "primary": true,
+          "size": 506837,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2xkYY8eh",
+      "project_id": "RH2KUdKJ",
+      "author_id": "lsQM221Y",
+      "featured": false,
+      "name": "OctoLib 0.6.0.2",
+      "version_number": "0.6.0.2",
+      "changelog": "- Added Tween system for animating things with keyframes\n- Added UI Particles\n- Added support for child widgets\n- Added OctoColor (custom color class)\n- Added easings and transition types for animations\n- Changed trail shape\n- Revamped trail registration \n- Revamped networking",
+      "changelog_url": null,
+      "date_published": "2025-08-12T18:13:40.659539Z",
+      "downloads": 2342,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "J3ZiyPvQ",
+          "hashes": {
+            "sha1": "0be8ed46ffb1767eac305c7760790d3b94bd0820",
+            "sha512": "0c815ab15a8f1d5e0e6e829bba6c7d2fc717c63924e0ea1f27baf6c278ce00e51226a33a958171c18b91ed6ca8f9663d47ce7585f9f0ceef64ea0f784fcb998a"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/2xkYY8eh/OctoLib-NEOFORGE-0.6.0.2%2B1.21.jar",
+          "filename": "OctoLib-NEOFORGE-0.6.0.2+1.21.jar",
+          "primary": true,
+          "size": 506125,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "gVQD5B77",
+      "project_id": "RH2KUdKJ",
+      "author_id": "lsQM221Y",
+      "featured": false,
+      "name": "OctoLib 0.6.0.2",
+      "version_number": "0.6.0.2",
+      "changelog": "- Added Tween system for animating things with keyframes\n- Added UI Particles\n- Added support for child widgets\n- Added OctoColor (custom color class)\n- Added easings and transition types for animations\n- Changed trail shape\n- Revamped trail registration \n- Revamped networking",
+      "changelog_url": null,
+      "date_published": "2025-08-12T18:13:15.197776Z",
+      "downloads": 1676,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "p3tpfGHL",
+          "hashes": {
+            "sha512": "bfa9dd5dd44ab5a66e212258d528501bebc37e1cc96c1ce792521a6df074395f2e7f4cc0d74d882f51ae769967a72075170fb936c7d4d947842193d91e55e1c5",
+            "sha1": "6bb8da5ad4f5c55338bc0c378c04fb887b86182d"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/gVQD5B77/OctoLib-FABRIC-0.6.0.2%2B1.21.jar",
+          "filename": "OctoLib-FABRIC-0.6.0.2+1.21.jar",
+          "primary": true,
+          "size": 505589,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "b1bY4oKd",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.5.0.1",
+      "version_number": "0.5.0.1",
+      "changelog": "* Fixed trails ticking interpolation",
+      "changelog_url": null,
+      "date_published": "2024-12-21T19:54:42.780712Z",
+      "downloads": 326231,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xfOlDQam",
+          "hashes": {
+            "sha512": "65abdc523833288dc3b14429befe0c68a188572d01049671aa9d186757bce447015852b4898ddd656959d91d903d508767ec07bab070ba2767bb6a66b058c756",
+            "sha1": "54fa72c19b1a162ef4f69561b5529d6e7abbcb78"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/b1bY4oKd/OctoLib-NEOFORGE-0.5.0.1.jar",
+          "filename": "OctoLib-NEOFORGE-0.5.0.1.jar",
+          "primary": true,
+          "size": 423212,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "6d1vaxHI",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.5.0.1",
+      "version_number": "0.5.0.1",
+      "changelog": "* Fixed trails ticking interpolation",
+      "changelog_url": null,
+      "date_published": "2024-12-21T19:54:14.364559Z",
+      "downloads": 521197,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7ED7j2ba",
+          "hashes": {
+            "sha512": "24fcb09cc0b29615eb1d352ede4e8c26869a786a8937e370fcdd7220438b439f993d4c75aa05a4422977d4065a06f090c42698393c327a10b511355a13c63db8",
+            "sha1": "16174341e3b3733316608161ac86f6b2ea43ac49"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/6d1vaxHI/OctoLib-FABRIC-0.5.0.1.jar",
+          "filename": "OctoLib-FABRIC-0.5.0.1.jar",
+          "primary": true,
+          "size": 423202,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "m3ey9qly",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.5.0.1",
+      "version_number": "0.5.0.1",
+      "changelog": "* Fixed trails ticking interpolation",
+      "changelog_url": null,
+      "date_published": "2024-12-21T19:53:33.068367Z",
+      "downloads": 1410,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RHfckjcS",
+          "hashes": {
+            "sha512": "0b3e6d9374b34afcf91df60586191430f4aee5b7ffb17a8a04ac0aae77cc177beaf1ae6dd19e786ef749547611b34a2fea68bf293c5aabee25352bd3d25f4777",
+            "sha1": "31066f4a20baf1bcfcee46da7cdfb9f73cc8c157"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/m3ey9qly/OctoLib-QUILT-0.5.0.1.jar",
+          "filename": "OctoLib-QUILT-0.5.0.1.jar",
+          "primary": true,
+          "size": 423313,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "61oysafJ",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.5",
+      "version_number": "0.5",
+      "changelog": "* Added synchronization of configuration files upon server login\n* Implemented a WIP module for trails rendering",
+      "changelog_url": null,
+      "date_published": "2024-12-14T17:26:22.323190Z",
+      "downloads": 5279,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "b8saz586",
+          "hashes": {
+            "sha1": "310da28b9d0123ac39601db7bf356545369b3129",
+            "sha512": "2dc69962d82ea1f043fffb46054b2f141917c8712390544888fce3ca17c68ce8cda9c4417602a0d435e7ef27caf3a172cea4cc80facf42c06a866700a98074c4"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/61oysafJ/OctoLib-FABRIC-0.5.jar",
+          "filename": "OctoLib-FABRIC-0.5.jar",
+          "primary": true,
+          "size": 423193,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "RH2KUdKJ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uTe3RKZe",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.5",
+      "version_number": "0.5",
+      "changelog": "- Added synchronization of configuration files upon server login\n- Implemented a WIP module for trails rendering",
+      "changelog_url": null,
+      "date_published": "2024-12-12T13:31:32.798564Z",
+      "downloads": 1461,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MyeVyOjH",
+          "hashes": {
+            "sha512": "bba642fb471c5fdba518c8c7107b7168af43f0ff65e04dbb0409bed06893f596f6b9555c31cc66541f1d447d5ee1837ab864dae065ca287b005371fe45a4d74b",
+            "sha1": "b812053a1907a4ffb2c6c0a0e24050b1eafe4bf4"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/uTe3RKZe/OctoLib-NEOFORGE-0.5.jar",
+          "filename": "OctoLib-NEOFORGE-0.5.jar",
+          "primary": true,
+          "size": 423202,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "gKfDvoo6",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.5",
+      "version_number": "0.5",
+      "changelog": "- Added synchronization of configuration files upon server login\n- Implemented a WIP module for trails rendering",
+      "changelog_url": null,
+      "date_published": "2024-12-12T13:31:01.000070Z",
+      "downloads": 275,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kWlRPHEg",
+          "hashes": {
+            "sha512": "cff4a2eb25a32de259d1e73c6039e909c0efe32442c76593e990d6c6162a8bd0af7cc3378e9bc12ed5694b1d49e6c8892d8b2ae212e79b6a7c71a5670ffa48d5",
+            "sha1": "0beb2100bf67a326cb6b9ce28b5f782eaf871155"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/gKfDvoo6/OctoLib-QUILT-0.5.jar",
+          "filename": "OctoLib-QUILT-0.5.jar",
+          "primary": true,
+          "size": 423305,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "8xP9qSXf",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": true,
+      "name": "OctoLib 0.4.2",
+      "version_number": "0.4.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-10T14:42:05.021192Z",
+      "downloads": 1481,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cjAgJga3",
+          "hashes": {
+            "sha1": "fdc685b28c73d3c4698c4eb070518c84a47a87af",
+            "sha512": "c5a159b2250da1a18336e4106b50876be154b5efeee76e17b58ca03915c187ee9c82aa3175a86feaf1a6d7e23c9332ece3527a80a2306b405d6d010f1f597a5b"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/8xP9qSXf/OctoLib-QUILT-0.4.2.jar",
+          "filename": "OctoLib-QUILT-0.4.2.jar",
+          "primary": true,
+          "size": 399679,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "9DWrJgtA",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": true,
+      "name": "OctoLib 0.4.2",
+      "version_number": "0.4.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-10T14:41:40.589575Z",
+      "downloads": 215890,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "V9n4FCZd",
+          "hashes": {
+            "sha512": "169829e38a5ff69ebe87cd55f047270e2282a1ecc6152ff99a23770f43992b9810252a74990d94940b8deeaa3cee09a1809a49febe2551e7110e1851519617b5",
+            "sha1": "b8b6d625dd64a7a4bc5f59a1fbc33b149ebf2ac5"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/9DWrJgtA/OctoLib-FABRIC-0.4.2.jar",
+          "filename": "OctoLib-FABRIC-0.4.2.jar",
+          "primary": true,
+          "size": 399604,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1Yn9tKNv",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": true,
+      "name": "OctoLib 0.4.2",
+      "version_number": "0.4.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-10T14:41:19.352334Z",
+      "downloads": 17936,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6NCNusj3",
+          "hashes": {
+            "sha512": "ad48c7e355f1424a0bce8bba18beedb70523d6ba1edfb41026f226e5c5176fa5620fdeeae462c6fd0c1edd97d35eba2a28151955ff23eb69730ffbe94dd244d9",
+            "sha1": "e85ff956af410a7d761bec1ee1a56a39c0861869"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/1Yn9tKNv/OctoLib-NEOFORGE-0.4.2.jar",
+          "filename": "OctoLib-NEOFORGE-0.4.2.jar",
+          "primary": true,
+          "size": 400265,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "xdYhuXTC",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.4.1",
+      "version_number": "0.4.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-09T16:22:25.240847Z",
+      "downloads": 241,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ncFOGLp0",
+          "hashes": {
+            "sha512": "1b3753c62218bf517d65699db3bfe8bdfa814ec5879d25e70457f0b1dff3b8bca207dbebee389652c6f914de968c24cafb673a29e01376a4e6b77cc00fd14a22",
+            "sha1": "8c66323c85db67263dbf3da6dfa392d0d08760de"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/xdYhuXTC/OctoLib-NEOFORGE-0.4.1.jar",
+          "filename": "OctoLib-NEOFORGE-0.4.1.jar",
+          "primary": true,
+          "size": 400281,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "rh3SAjjz",
+      "project_id": "RH2KUdKJ",
+      "author_id": "9fmUwnzR",
+      "featured": false,
+      "name": "OctoLib 0.4.1",
+      "version_number": "0.4.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-09T16:20:10.491459Z",
+      "downloads": 480,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "77cE2Vm8",
+          "hashes": {
+            "sha512": "d5675c6cd8dbe4e2ec00fc05825ffa5acad372d2665a855be2e4c36f711f64294979d939751f008ccd5279b01cc14fa81072dac763edeeeabd29b15aa47f833c",
+            "sha1": "79802a47d6191d4e22b3bb471878d48fb3e4a68f"
+          },
+          "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/rh3SAjjz/OctoLib-FABRIC-0.4.1.jar",
+          "filename": "OctoLib-FABRIC-0.4.1.jar",
+          "primary": true,
+          "size": 399632,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

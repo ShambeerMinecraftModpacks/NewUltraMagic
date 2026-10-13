@@ -1,0 +1,141 @@
+{
+  "url": "https://api.modrinth.com/v2/project/KuNKN7d2",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:38.873033+00:00",
+  "response": {
+    "client_side": "unsupported",
+    "server_side": "required",
+    "game_versions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6"
+    ],
+    "environment": [
+      "server_only"
+    ],
+    "id": "KuNKN7d2",
+    "slug": "noisium",
+    "project_type": "mod",
+    "team": "F6SbtU9z",
+    "organization": null,
+    "title": "Noisium",
+    "description": "Optimises worldgen performance for a better gameplay experience.",
+    "body": "![Noisium icon](https://github.com/Steveplays28/noisium/raw/24de632923c03864d65568a2cb5ce1e2cee0a304/docs/assets/icon/icon_128x128.png)\n\n# Noisium\n\nOptimises worldgen performance for a better gameplay experience.\n\nNoisium changes some world generation functions that other mods don't touch, to fill in the gaps left by other performance optimisation\nmods.\nMost notably, `NoiseChunkGenerator#populateNoise` is optimised to speed up block state placement when generating new chunks.  \nSetting the block state via abstractions/built-in functions is bypassed. Instead, the block states are set directly in the palette storage,\nthus bypassing calculations Minecraft does that are normally useful when block states are set, but when generating the world only slow it\ndown.  \nThere are also 3 other optimisations, that increase biome population speed, block state sampling speed and chunk unlocking speed (Minecraft\n1.21 and up) during world generation.\n\nNoisium has full 1:1 parity with vanilla Minecraft world generation (world generation without Noisium).\n\nThe performance difference is variable, between a few seconds to a few dozen seconds faster depending on the amount of chunks generated.  \nSee the below Spark profiles for the differences in performance:\n\n- [Vanilla](https://github.com/Steveplays28/noisium/blob/c4e8b51c06b77cfe6ac2e81580945c555aefb496/docs/benchmarks/vanilla_minecraft_1_20_1.sparkprofile)\n- [With Noisium](https://github.com/Steveplays28/noisium/blob/c4e8b51c06b77cfe6ac2e81580945c555aefb496/docs/benchmarks/noisium_minecraft_1_20_1.sparkprofile)\n\n## Dependencies\n\n### Required\n\nNone.\n\n## Compatibility info\n\n### Compatible mods\n\nNoisium should be compatible with most, if not all, of the popular optimisation mods currently on Modrinth/CurseForge for\nMinecraft `1.20.x`, since Noisium aims to fill in the gaps in performance optimisation left by other mods.\nThis includes (but is not limited to) C2ME, Lithium, Nvidium, and Sodium.\n\n- C2ME: every world generation thread runs faster. The biome population multithreading is also done in a much better/more performant way in\n  C2ME, so it's been removed from Noisium since `v1.0.2`. It's suggested to run C2ME alongside Noisium for even better world generation\n  performance.\n- Distant Horizons: Noisium speeds up LOD world generation threads, since LOD generation depends on Minecraft's world generation speed.\n- ReTerraForged: RTF has built-in compatibility with Noisium, to fully utilize the optimisations during RTF world generation.\n\n### Incompatibilities\n\nSee the [issue tracker](https://github.com/Steveplays28/noisium/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Acompatibility) for a list of incompatibilities.\n\n## Download\n\n[![GitHub](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/github_vector.svg)](https://github.com/Steveplays28/noisium)\n[![Modrinth](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/noisium)\n[![CurseForge](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/noisium)\n\n![Fabric](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/fabric_vector.svg)\n![Quilt](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/quilt_vector.svg)\n![Forge](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/forge_vector.svg)\n![NeoForge](https://github.com/Steveplays28/noisium/raw/24de632923c03864d65568a2cb5ce1e2cee0a304/docs/assets/badges/compact/supported/neoforge_vector.svg)\n\nSee the version info in the filename for the supported Minecraft versions.  \nMade for the Fabric, Quilt, Forge, and NeoForge modloaders.  \nServer-side.\n\n## FAQ\n\n- Q: Will you be backporting this mod to lower Minecraft versions?  \n  A: No.\n\n- Q: Does this mod work in multiplayer?  \n  A: Yes, but it'll only improve performance on the server.\n\n- Q: Does only the server need this mod or does the client need it too?  \n  A: Only the server needs this mod (but it works on the client too if you're going to host LAN or play singleplayer).\n\n## Attribution\n\n- Thank you to [Builderb0y](https://modrinth.com/user/Builderb0y) for giving great starting points and helping with issues\n- Thank you to [ishland](https://github.com/ishland) for helping with C2ME compatibility and benchmarking performance\n- Thank you to [Uniter](https://github.com/Uniter343) and [raccoonman2](https://github.com/racoonman2) for benchmarking performance\n\n## License\n\nThis project is licensed under LGPLv3, see [LICENSE](https://github.com/Steveplays28/noisium/blob/1.20-1.20.1/LICENSE).\n",
+    "body_url": null,
+    "published": "2023-10-30T16:01:00.818699Z",
+    "updated": "2025-06-24T21:01:43.862583Z",
+    "approved": "2023-11-01T03:54:07.304317Z",
+    "queued": "2023-10-30T16:14:58.045792Z",
+    "status": "unlisted",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "downloads": 24819544,
+    "followers": 3292,
+    "categories": [
+      "optimization",
+      "worldgen"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "forge",
+      "neoforge",
+      "quilt"
+    ],
+    "versions": [
+      "qbCZ1ELe",
+      "BcqAoKZi",
+      "7p5BqRHp",
+      "k1JxepR1",
+      "AfjBJbK1",
+      "QW2gKBHw",
+      "lloc2Q9r",
+      "ZgEmwDsG",
+      "gNpsN3Vw",
+      "Lb9x1xj2",
+      "Eie3f6ki",
+      "Wocv5ya7",
+      "rS9OSRtd",
+      "uTdy9g9c",
+      "EuQErqo9",
+      "lT2Jvcwv",
+      "4UzpW73F",
+      "ZXBMeSZ0",
+      "a8Lct5Zz",
+      "W8V2bkLB",
+      "P6U3Rw6d",
+      "yYC221hL",
+      "J0TGYoKa",
+      "XwoottNU",
+      "yiyoSmRX",
+      "LOBsEDwp",
+      "8EcAJbKS",
+      "xwm7o9FD",
+      "RmNpWBtf",
+      "ivLgwUFH",
+      "rjcZ5G3m",
+      "5LXPGdF1",
+      "erSJnRcq",
+      "4sGQgiu2",
+      "Oclohbu0",
+      "gbYUKrDP",
+      "nJBE6tif",
+      "M4c8aGZ4",
+      "rx8Lh6ko",
+      "9NHdQfkN",
+      "5JoGTWve",
+      "sUh67T4Y",
+      "O5zHGVkQ",
+      "V9mMIy0f",
+      "w7CLpegm"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/KuNKN7d2/7490b4d8e08bde8df44b2a71774edf2fe3176c83_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/KuNKN7d2/6217fb8bc818c19fdd461a5d4e13ffbbbc95db6b.png",
+    "issues_url": "https://github.com/Steveplays28/noisium/issues",
+    "source_url": "https://github.com/Steveplays28/noisium",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/KbWxgGg",
+    "donation_urls": [
+      {
+        "id": "ko-fi",
+        "platform": "Ko-fi",
+        "url": "https://ko-fi.com/steveplays"
+      },
+      {
+        "id": "patreon",
+        "platform": "Patreon",
+        "url": "https://patreon.com/Steveplays28"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/images/2797cee340d5b4747345d27d321966a3e58d3e9e_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/KuNKN7d2/images/6a66dffa28c076711a3e2462951dc1dd443b5344.png",
+        "featured": true,
+        "title": "Banner",
+        "description": "Alt text: Noisium - Minecraft mod that optimises worldgen performance for a better gameplay experience.",
+        "created": "2023-10-30T16:29:09.866304Z",
+        "ordering": 0
+      }
+    ],
+    "color": 7566449,
+    "thread_id": "EauwiWaj",
+    "monetization_status": "monetized"
+  }
+}

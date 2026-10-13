@@ -1,0 +1,90 @@
+{
+  "url": "https://api.modrinth.com/v2/project/gHoB7SHO/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:56.892775+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "YK5sxWxT",
+      "project_id": "gHoB7SHO",
+      "author_id": "aPiRcn1L",
+      "featured": false,
+      "name": "HT's TreeChop 0.19.3a",
+      "version_number": "0.19.3a",
+      "changelog": "- Fixed crash",
+      "changelog_url": null,
+      "date_published": "2025-03-03T04:50:10.352694Z",
+      "downloads": 390244,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aAN2g0Zy",
+          "hashes": {
+            "sha1": "e6c3de726a8283760a6f56deec7abb7c13062865",
+            "sha512": "6ee779993a1fddccfc202d99a211f41c438844d051d9ccb0c8e9c9a549f8d998ecd9a1eb44ecc5a655748a55bc25738d93bb27b228f57072ff66d221beb9efb3"
+          },
+          "url": "https://cdn.modrinth.com/data/gHoB7SHO/versions/YK5sxWxT/TreeChop-1.21.1-fabric-0.19.3a.jar",
+          "filename": "TreeChop-1.21.1-fabric-0.19.3a.jar",
+          "primary": true,
+          "size": 500212,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "iLXWmfax",
+      "project_id": "gHoB7SHO",
+      "author_id": "aPiRcn1L",
+      "featured": false,
+      "name": "HT's TreeChop 0.19.3",
+      "version_number": "0.19.3",
+      "changelog": "- Added NeoForge port\n- Restored Apotheosis support\n- Restored MultiMine support (hopefully for good this time)\n- Switched from Forge to NeoForge config spec\n- Added leaves-related API features\n- Added config settings for leaves-related compatibility\n- Added config setting to give players credit for indirectly broken (felled) blocks\n- Various minor optimizations and bug fixes\n- More localizations",
+      "changelog_url": null,
+      "date_published": "2025-03-02T06:30:09.950665Z",
+      "downloads": 443033,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1RVvcdMJ",
+          "hashes": {
+            "sha1": "7bf7c1bde0f574e3fb9077115a2d4f59e534486c",
+            "sha512": "f7e2dba5b40d544383048e9cb846977b01eca7f653d6513cf9d2b26abd10ab5d73eefe3956a0759cb342c7ac8af41e61fc338873ca47a8e4899e4407cb44b17d"
+          },
+          "url": "https://cdn.modrinth.com/data/gHoB7SHO/versions/iLXWmfax/TreeChop-1.21.1-neoforge-0.19.3.jar",
+          "filename": "TreeChop-1.21.1-neoforge-0.19.3.jar",
+          "primary": true,
+          "size": 517750,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

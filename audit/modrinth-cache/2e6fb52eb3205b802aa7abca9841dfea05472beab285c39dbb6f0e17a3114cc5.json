@@ -1,0 +1,928 @@
+{
+  "url": "https://api.modrinth.com/v2/project/s4OWxYQQ/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:55.571993+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "slKLosTb",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "virons_spellbooks-1.21.1-3.16.3",
+      "version_number": "1.21.1-3.16.3",
+      "changelog": "https://iron.wiki/changelog",
+      "changelog_url": null,
+      "date_published": "2026-08-18T20:35:24.636459Z",
+      "downloads": 145741,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Pb7J3ADC",
+          "hashes": {
+            "sha512": "fd782f98c6c59b193c4832f33775291d2a7e639e1e23dd47510bfb494d99d182bec1253566b9394f96c733a0d0108be34bd729614b82dc29e55e096fdeb96f5b",
+            "sha1": "e8832385c01db56b9fcb19c48fcedc76a3a70d92"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/slKLosTb/irons_spellbooks-1.21.1-3.16.3.jar",
+          "filename": "irons_spellbooks-1.21.1-3.16.3.jar",
+          "primary": true,
+          "size": 13890045,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RtvqnbKi",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.16.2",
+      "version_number": "1.21.1-3.16.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-07-04T21:36:57.465785Z",
+      "downloads": 144294,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vOP3Dm5b",
+          "hashes": {
+            "sha1": "09907e3b4bfdabd7f1f44bfd25aa6432183f39bb",
+            "sha512": "84c3948ac4703e35e9e79d83ede0cb2345995f200909f113d08db506e0368548808f5133b45893cfa9fb855ed4e98952e9e8636d61c86f6a0198101adb7e17b4"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/RtvqnbKi/irons_spellbooks-1.21.1-3.16.2.jar",
+          "filename": "irons_spellbooks-1.21.1-3.16.2.jar",
+          "primary": true,
+          "size": 13874139,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "l6y70Qts",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.16.1",
+      "version_number": "1.21.1-3.16.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-06-15T18:32:00.968194Z",
+      "downloads": 90770,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jUCpbWUH",
+          "hashes": {
+            "sha1": "9e6d200ebab6e4d321864655764870d878174a8f",
+            "sha512": "173b9311ee01c053af9c611993eb1099f20d7b52f06e4cf0b48f32387b82c78481da9399767d1d590bbd5f9a2aa77e50ec6c004b2e6d0aab5f5626ec6744806d"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/l6y70Qts/irons_spellbooks-1.21.1-3.16.1.jar",
+          "filename": "irons_spellbooks-1.21.1-3.16.1.jar",
+          "primary": true,
+          "size": 13789430,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AvHIYbZi",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.16.0",
+      "version_number": "1.21.1-3.16.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-06-05T19:56:38.381869Z",
+      "downloads": 32702,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1OqLf4I3",
+          "hashes": {
+            "sha512": "bab3c86be8aab6f984cd0d47c6cb3900655d529e52ec07d728e43443c9ba040920c64753fe88a3a81b37acefd7924a250fb811aed0d9aad82b5fc07efba91fc0",
+            "sha1": "d8547301deafcaeb38e68e47ba94d331e043c2f2"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/AvHIYbZi/irons_spellbooks-1.21.1-3.16.0.jar",
+          "filename": "irons_spellbooks-1.21.1-3.16.0.jar",
+          "primary": true,
+          "size": 13807941,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GpAw0Y4D",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.15.6",
+      "version_number": "1.21.1-3.15.6",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-04-12T15:59:58.224850Z",
+      "downloads": 154937,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CMfy4Ru9",
+          "hashes": {
+            "sha512": "8832eba72342c85db7463021ebe8514c2221512cd10592cd09784b9090bbd73af1d90dfa684b38a1ee458f11f40ca87cc182e6ce32052099c32e51608b1f9fc0",
+            "sha1": "c9fea9c9b38376af74b7a7da68dc8a7671f4b961"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/GpAw0Y4D/irons_spellbooks-1.21.1-3.15.6.jar",
+          "filename": "irons_spellbooks-1.21.1-3.15.6.jar",
+          "primary": true,
+          "size": 13559913,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "sPqLXk3a",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.15.5",
+      "version_number": "1.21.1-3.15.5",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-03-27T18:55:33.440245Z",
+      "downloads": 26692,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gfrNuO05",
+          "hashes": {
+            "sha512": "2cedd83ec44c06c138258b8db2ebbb9e039e38584929531763fffd671abf15d55a4e35ad9039a18813a0ac03c7d0b60cdbf87dfd94aaddff218806461268f468",
+            "sha1": "9a0d90780555cb7ccb3a72887a5b302bd5306ec0"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/sPqLXk3a/irons_spellbooks-1.21.1-3.15.5.jar",
+          "filename": "irons_spellbooks-1.21.1-3.15.5.jar",
+          "primary": true,
+          "size": 13568479,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Cu7ovsnN",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.15.2",
+      "version_number": "1.21.1-3.15.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-01-30T23:39:49.652601Z",
+      "downloads": 85586,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DumfoD04",
+          "hashes": {
+            "sha1": "2bd487eda649c1a5cfff10b14a0d9258a12a47fc",
+            "sha512": "73e9d978fd64da167c902ca4bcc2a7ac1ab004aeb0dd3092da75f59eb963574037534ec516de5776ad4de1e9447ab0656111afd1d84c12e190f06d011829a318"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/Cu7ovsnN/irons_spellbooks-1.21.1-3.15.2.jar",
+          "filename": "irons_spellbooks-1.21.1-3.15.2.jar",
+          "primary": true,
+          "size": 12609331,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5pHjdPbv",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.15.1",
+      "version_number": "1.21.1-3.15.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-01-30T19:44:37.450372Z",
+      "downloads": 762,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fvvaRE7N",
+          "hashes": {
+            "sha512": "e96237357d2829a10f649411403fa01a600388968385e62ec39a97e04678759e85321a288779eeff40062e16309b334922dc3e9515dbf81b09a5420b46686b9d",
+            "sha1": "298f93d071be3438e22503dcb2ff0f2e63e66e8e"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/5pHjdPbv/irons_spellbooks-1.21.1-3.15.1.jar",
+          "filename": "irons_spellbooks-1.21.1-3.15.1.jar",
+          "primary": true,
+          "size": 12609328,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7vZVzEH1",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.15.0",
+      "version_number": "1.21.1-3.15.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-01-07T19:43:26.177318Z",
+      "downloads": 82684,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "R24XYrUE",
+          "hashes": {
+            "sha512": "9401862b12c0b487c5486d0f65a41963021bee36c6cba164af74caa80cae7b96daff59310117f1f32235508f0ea1353f7786aeb52ba9e8b6a6ae5420144b8cb1",
+            "sha1": "2c11d49a66e26494a8b5e0f0ab4a6d8cc984da56"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/7vZVzEH1/irons_spellbooks-1.21.1-3.15.0.jar",
+          "filename": "irons_spellbooks-1.21.1-3.15.0.jar",
+          "primary": true,
+          "size": 12552040,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "4GN2MStD",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.14.8",
+      "version_number": "1.21.1-3.14.8",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-12-07T19:15:18.674375Z",
+      "downloads": 82125,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "luoW9ko9",
+          "hashes": {
+            "sha512": "7ed9891680413913e22179a9b7e707271e97453bc4d2a23bc7a6c6da2d6572eb611b3f73e2c2ccb44326cc857335e2546c2313f6b4f41b18815ae9cc63d13f3d",
+            "sha1": "9f3c9ec0ab3d1caed39010eaaf32c46d16901952"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/4GN2MStD/irons_spellbooks-1.21.1-3.14.8.jar",
+          "filename": "irons_spellbooks-1.21.1-3.14.8.jar",
+          "primary": true,
+          "size": 12529766,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9PTiIbvt",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.14.4",
+      "version_number": "1.21.1-3.14.4",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-10-07T14:02:31.128073Z",
+      "downloads": 87530,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PCj8BFuf",
+          "hashes": {
+            "sha512": "93fca12e66e2b4de458c0474c26b2de7ceaf93cc91d4cca723e9ade5582d4903faa8a4e601ce58a14fc1f02f651fadd497b289506d46cea47f52b808ccc9257f",
+            "sha1": "5d119e79beb9ed5d4264b083a958ec7e0a83f768"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/9PTiIbvt/irons_spellbooks-1.21.1-3.14.4.jar",
+          "filename": "irons_spellbooks-1.21.1-3.14.4.jar",
+          "primary": true,
+          "size": 12400433,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ffmzJG9V",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.13.0",
+      "version_number": "1.21.1-3.13.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-06-28T16:44:56.326947Z",
+      "downloads": 58370,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Zd27D1Tb",
+          "hashes": {
+            "sha512": "6e89d01e385cadb3c57abbc834d3d4cd2f5636a1e2971ff7ed92482e43586ff599fd4e0a200d8f101da0138503830982a1922e616170bdbda53b997ca5982b1c",
+            "sha1": "1d7ca1b9204211ddc510055271da006f3ac488c2"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/ffmzJG9V/irons_spellbooks-1.21.1-3.13.0.jar",
+          "filename": "irons_spellbooks-1.21.1-3.13.0.jar",
+          "primary": true,
+          "size": 12424172,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "lWV4r0pV",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.12.3",
+      "version_number": "1.21.1-3.12.3",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-06-20T01:57:19.080990Z",
+      "downloads": 31121,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dbe6YlYu",
+          "hashes": {
+            "sha1": "0b7d4ae2232d90c27204d68b0b7056171f8d5371",
+            "sha512": "615e4b381693c7ada841a80f7685530a6e477d3249e1d461e3e93dc5c28c63b316ed2ea80808bfce65696c0894943a32f491f3ef3ca75e859654ad589ce4b2b3"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/lWV4r0pV/irons_spellbooks-1.21.1-3.12.3.jar",
+          "filename": "irons_spellbooks-1.21.1-3.12.3.jar",
+          "primary": true,
+          "size": 12048763,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "iOTl8hda",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.12.2",
+      "version_number": "1.21.1-3.12.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-06-19T16:46:20.314708Z",
+      "downloads": 727,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qB4kgSTU",
+          "hashes": {
+            "sha1": "65d68c7bad8eaa9476f0379917fdbe5530654301",
+            "sha512": "57f7ff84891422f694b8c25c23bd3011aaa211a1e045aa40e151a58dfe7c85b85094e508186e6d74a57ab755cc1192654833934d3d32372576cf9f2c1343e65b"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/iOTl8hda/irons_spellbooks-1.21.1-3.12.2.jar",
+          "filename": "irons_spellbooks-1.21.1-3.12.2.jar",
+          "primary": true,
+          "size": 12017293,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uYnBmwyP",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.12.1",
+      "version_number": "1.21.1-3.12.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-05-25T20:08:27.483249Z",
+      "downloads": 16470,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NEcYEeLm",
+          "hashes": {
+            "sha512": "d81bc5ff361258d8ca076a5ec9f9961c151d538c72b343bb52aa90bc8559734ceb6c653ceef36ece768411aec67424b2be8e94f294bc4e9621f77eb7323ed3be",
+            "sha1": "9abfcddce9ff47e99581e9f59b99e673fcd32792"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/uYnBmwyP/irons_spellbooks-1.21.1-3.12.1.jar",
+          "filename": "irons_spellbooks-1.21.1-3.12.1.jar",
+          "primary": true,
+          "size": 11830781,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "K4HCDykO",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.11.0",
+      "version_number": "1.21.1-3.11.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-04-15T00:15:12.772642Z",
+      "downloads": 38064,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ysFjw8BU",
+          "hashes": {
+            "sha512": "045831d68877c0960273dd36b096984524702c6ad7f8438ec61650869edc6f19977fbafda7ad4bb9ca8741e3be2d15307df7fc5926e3a94987a1d3574bde15f2",
+            "sha1": "32df550360ffa1d314b039d43c983185ce53722a"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/K4HCDykO/irons_spellbooks-1.21.1-3.11.0.jar",
+          "filename": "irons_spellbooks-1.21.1-3.11.0.jar",
+          "primary": true,
+          "size": 11842649,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CyKAZm7z",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21.1-3.10.1",
+      "version_number": "1.21.1-3.10.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-03-18T14:09:26.654889Z",
+      "downloads": 14181,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4FMM4QAj",
+          "hashes": {
+            "sha1": "ee99b3ffae82f52979e1a83955880312fc29e8d6",
+            "sha512": "09a2abfa52c80269a523ca531b833389edda77b840c335489c0c7e0fb6a815f41ae4d99bd6a8fbee2de8eb0546b34e0c15719d59d6ffa96823ec84cca91073bc"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/CyKAZm7z/irons_spellbooks-1.21.1-3.10.1.jar",
+          "filename": "irons_spellbooks-1.21.1-3.10.1.jar",
+          "primary": true,
+          "size": 11747001,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9IkMSFyF",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21-3.9.0",
+      "version_number": "1.21-3.9.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-03-08T21:38:22.428290Z",
+      "downloads": 5634,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TBjoKnQq",
+          "hashes": {
+            "sha512": "9385cec142037dd492db9bcc54bd502eb4c4d6c321f0c8d3d1244bbb22ac8d9860cea754f1584dae8fdb3feff3cd12039b88caed4a6e35f82829ed7a2bf3f340",
+            "sha1": "46236cd1de1a211e6c3a0a2a7b518d23947522c9"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/9IkMSFyF/irons_spellbooks-1.21-3.9.0.jar",
+          "filename": "irons_spellbooks-1.21-3.9.0.jar",
+          "primary": true,
+          "size": 9577044,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SIe0lwUd",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21-3.8.8",
+      "version_number": "1.21-3.8.8",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-01-18T23:20:37.113758Z",
+      "downloads": 10739,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gvojQHly",
+          "hashes": {
+            "sha512": "7e6aa1d880a44d204dc47e59555ff2a14944ade5c6117c3f2ec4522fbe8b5c1fb3a98affdcf4e5e4eda8dd51bd1ff01ab15e2039252a89719dec759f14141e5d",
+            "sha1": "69b4c9e7c697cc9f86b1bee47bc19014718f78de"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/SIe0lwUd/irons_spellbooks-1.21-3.8.8.jar",
+          "filename": "irons_spellbooks-1.21-3.8.8.jar",
+          "primary": true,
+          "size": 9580212,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uUoaTkvx",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21-3.8.4",
+      "version_number": "1.21-3.8.4",
+      "changelog": "iron.wiki",
+      "changelog_url": null,
+      "date_published": "2024-10-31T19:02:57.834101Z",
+      "downloads": 27518,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FEx7yg51",
+          "hashes": {
+            "sha512": "82f67de5eb14ce0620ad32b21723ca70352f86e9453702dbcb4e2eb02647fb436109ddb1a9a1b80b92b16776162ece139099c9343f17619eacdef1a508add57d",
+            "sha1": "6b2a0ae81423ed2a4f0bb38ba6a07bf28575e448"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/uUoaTkvx/irons_spellbooks-1.21-3.8.4.jar",
+          "filename": "irons_spellbooks-1.21-3.8.4.jar",
+          "primary": true,
+          "size": 9472757,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "aWaheue9",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21-3.8.3",
+      "version_number": "1.21-3.8.3",
+      "changelog": "iron.wiki",
+      "changelog_url": null,
+      "date_published": "2024-10-30T20:04:22.726620Z",
+      "downloads": 339,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QKLdB1fO",
+          "hashes": {
+            "sha512": "7df915278125247d95bb579e0c180a1e95fe975214c0ff9cf7278812c9e688bf47d3597276d51fbd9276c3ca57151e16772d3992f862c084b759149f4eb61c60",
+            "sha1": "0f978fb21e54d7a0584d942a249e6920cc8a41b8"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/aWaheue9/irons_spellbooks-1.21-3.8.3.jar",
+          "filename": "irons_spellbooks-1.21-3.8.3.jar",
+          "primary": true,
+          "size": 9472732,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "i4wOaL4l",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21-3.8.0",
+      "version_number": "1.21-3.8.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-22T00:17:46.496194Z",
+      "downloads": 1033,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xUu4CHDB",
+          "hashes": {
+            "sha1": "a9775973b881531ebdb61b746832a8123f399acb",
+            "sha512": "6e4b1ce50446daf7d2ca7b278dcb8532da8ed5ba14d01ffda28c7ba13733910486a7cba76ff0cd4cdd3ed2d2fab88edb98b9acf25161f2768bac95dba8467c3c"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/i4wOaL4l/irons_spellbooks-1.21-3.8.0.jar",
+          "filename": "irons_spellbooks-1.21-3.8.0.jar",
+          "primary": true,
+          "size": 9468238,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "XT2DT00u",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21-3.5.0",
+      "version_number": "1.21-3.5.0",
+      "changelog": "iron.wiki",
+      "changelog_url": null,
+      "date_published": "2024-09-07T01:05:00.061971Z",
+      "downloads": 4697,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FfLtsOu1",
+          "hashes": {
+            "sha512": "dd6731acee18c405abe435a167c443749f32e8d4fbea0ef0088f9ad5b3672864f3ae53dc55478d2114a7b49b5d419ee568f07aeb500d00e43c005067abe9bd19",
+            "sha1": "1cec61a57f6418803ba1eb114129d8a0998d36b4"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/XT2DT00u/irons_spellbooks-1.21-3.5.0-all.jar",
+          "filename": "irons_spellbooks-1.21-3.5.0-all.jar",
+          "primary": true,
+          "size": 9503168,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "40FYwb4z",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qoBnKL48",
+      "project_id": "s4OWxYQQ",
+      "author_id": "aeXCUa9J",
+      "featured": false,
+      "name": "Iron's Spells 'n Spellbooks 1.21-3.4.4",
+      "version_number": "1.21-3.4.4",
+      "changelog": "iron.wiki",
+      "changelog_url": null,
+      "date_published": "2024-08-17T02:11:29.401868Z",
+      "downloads": 2315,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "l2O41uJy",
+          "hashes": {
+            "sha512": "479761d5e0776559f007c5a61da440aaf77e8a0fd810c011b61f46f2ecf25a902c45c5b1385fbc3ee62fe44aa73a451a006e410452b97b22a61ca4073ee4ccb5",
+            "sha1": "9f3430a4c3aa099fa4b70332deae432c035d2fb1"
+          },
+          "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/qoBnKL48/irons_spellbooks-1.21-3.4.4-all.jar",
+          "filename": "irons_spellbooks-1.21-3.4.4-all.jar",
+          "primary": true,
+          "size": 8827785,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "40FYwb4z",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

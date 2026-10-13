@@ -1,0 +1,2921 @@
+{
+  "url": "https://api.modrinth.com/v2/project/5ZwdcRci/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:31.186861+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "aLnBqxFW",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.15",
+      "version_number": "1.6.15+1.21.1-fabric",
+      "changelog": "* Fixed rendering of spell cooldowns from Iron's Spells 'N Spellbooks\r\n* Fixed Cosmetica screen rendering\r\n",
+      "changelog_url": null,
+      "date_published": "2026-10-13T19:56:39.171283Z",
+      "downloads": 500,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DhbE1OCe",
+          "hashes": {
+            "sha1": "5067bdff1d5cc6d2dd89986f98bd8bd7ae62fb98",
+            "sha512": "d4ac2d574d80000cd59b0b362706a6f86778bfc717748dca854f05ee8d09ce158738488e58c6b8ee05d5e54017f05b6c66c3bcaa3fa357d38cbfd75893dda9f4"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.15+1.21.1.jar",
+          "primary": true,
+          "size": 342235,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "WwLdDmNa",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.15",
+      "version_number": "1.6.15+1.21.1-forge",
+      "changelog": "* Fixed rendering of spell cooldowns from Iron's Spells 'N Spellbooks\r\n* Fixed Cosmetica screen rendering\r\n",
+      "changelog_url": null,
+      "date_published": "2026-10-13T19:56:39.170465Z",
+      "downloads": 26,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VhFp9OGF",
+          "hashes": {
+            "sha1": "19c95d83e9cfe834be5334bfd3fa80d48f2882d1",
+            "sha512": "9b648ebc28cf9a986298c25a0c42592716fd26046292d448a3d13769e516217428d2e58ed63602c2ef71af03725413451854509f3377c4db8b89407905ba5621"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/WwLdDmNa/ImmediatelyFast-Forge-1.6.15%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.15+1.21.1.jar",
+          "primary": true,
+          "size": 545652,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "EJzmEPZV",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.15",
+      "version_number": "1.6.15+1.21.1-neoforge",
+      "changelog": "* Fixed rendering of spell cooldowns from Iron's Spells 'N Spellbooks\r\n* Fixed Cosmetica screen rendering\r\n",
+      "changelog_url": null,
+      "date_published": "2026-10-13T19:56:38.884527Z",
+      "downloads": 638,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QDGQCHQp",
+          "hashes": {
+            "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+            "sha512": "c115cad7b060373fc597aae08c685e2d56f173b88b792a4a2c229e222f8da293b99865e9553cf716483d3c3d6a18f31c51c5dd55be22d4625ed2c962d7b94fd0"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/EJzmEPZV/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+          "primary": true,
+          "size": 368896,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "MEq3Zttz",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.14",
+      "version_number": "1.6.14+1.21.1-forge",
+      "changelog": "* Only restore depth state if currently batching (Fixes rendering issues introduced in ImmediatelyFast 1.6.13)\r\n* Fixed RoughlyEnoughItems recipe tooltip rendering issues\r\n",
+      "changelog_url": null,
+      "date_published": "2026-09-13T22:28:12.876280Z",
+      "downloads": 14893,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EUoMPcwA",
+          "hashes": {
+            "sha1": "cb3bbcd8431aab1b3a9fef2bdfaa4cb14f3a25cd",
+            "sha512": "d66547d35fdbe47b8062ceaac223795572550f17edd2fbac705cd5cc342b3c024d2375213f055b8454fe7d50c558f514192b35ad1c0375012b8294f65b56b12b"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/MEq3Zttz/ImmediatelyFast-Forge-1.6.14%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.14+1.21.1.jar",
+          "primary": true,
+          "size": 543572,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "7XKnsIC8",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.14",
+      "version_number": "1.6.14+1.21.1-fabric",
+      "changelog": "* Only restore depth state if currently batching (Fixes rendering issues introduced in ImmediatelyFast 1.6.13)\r\n* Fixed RoughlyEnoughItems recipe tooltip rendering issues\r\n",
+      "changelog_url": null,
+      "date_published": "2026-09-13T22:28:12.876Z",
+      "downloads": 252797,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uPZyly5m",
+          "hashes": {
+            "sha1": "023805be7d701b9769e987449d217c557de5f848",
+            "sha512": "d3f2748ac2b51548157d0acf9d44e99ab786beab5322cbc452ad7999b187ead2a4ee6bb2aee1a179dc72dbb7bb2b3945b38c529acee454fe4b526648eefab0b4"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/7XKnsIC8/ImmediatelyFast-Fabric-1.6.14%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
+          "primary": true,
+          "size": 340166,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "OUpXxw4n",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.14",
+      "version_number": "1.6.14+1.21.1-neoforge",
+      "changelog": "* Only restore depth state if currently batching (Fixes rendering issues introduced in ImmediatelyFast 1.6.13)\r\n* Fixed RoughlyEnoughItems recipe tooltip rendering issues\r\n",
+      "changelog_url": null,
+      "date_published": "2026-09-13T22:28:12.689713Z",
+      "downloads": 299988,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Qv0aP0qu",
+          "hashes": {
+            "sha1": "fee59af2f39c66d09c4c09f441c799e76af70f97",
+            "sha512": "7d1c2e6ce306f4bb9aa155f64ba87732dc2443d57fde249467a99e0ed90fec89a706252888b97f882efbc55d6044971519db704125f27ae53cd9ae40424f9b2c"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/OUpXxw4n/ImmediatelyFast-NeoForge-1.6.14%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+          "primary": true,
+          "size": 365195,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "UjgM7lFA",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.13",
+      "version_number": "1.6.13+1.21.1-forge",
+      "changelog": "* Restore depth test state after flushing the DrawContext (Fixes graphical issue with Map Atlases mod)\r\n* Fixed exception when closing unused buffers (Fixes crash in ATM10 modpack)\r\n* Fixed config file handle leak\r\n",
+      "changelog_url": null,
+      "date_published": "2026-08-27T20:20:17.240789Z",
+      "downloads": 5889,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5dXK7QuT",
+          "hashes": {
+            "sha512": "6ddb551b208ede7d176e14c5de836f43e1095cf6bb1518a03a528141b8e219059704cb8bc14f4eb4a2f31d6b8eddb47c3cd1418e8b0e2f1f643d19081d8b77d9",
+            "sha1": "e8a2e587973cc903c6d4b468e9f353a8b300d68f"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UjgM7lFA/ImmediatelyFast-Forge-1.6.13%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.13+1.21.1.jar",
+          "primary": true,
+          "size": 541117,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "xcQYt0Uy",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.13",
+      "version_number": "1.6.13+1.21.1-neoforge",
+      "changelog": "* Restore depth test state after flushing the DrawContext (Fixes graphical issue with Map Atlases mod)\r\n* Fixed exception when closing unused buffers (Fixes crash in ATM10 modpack)\r\n* Fixed config file handle leak\r\n",
+      "changelog_url": null,
+      "date_published": "2026-08-27T20:20:17.240091Z",
+      "downloads": 254903,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WZalqQRz",
+          "hashes": {
+            "sha512": "3ae569036780a0a1637c236a1370cee20055707d05ca93a3700eb729d2ef7267b765fb31d56707d0211fd5a12cbcdf004746ca319d2a7547a69a10ee9d6a4316",
+            "sha1": "cfc87deced26f78e46143fe5f0a33597d06845a8"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/xcQYt0Uy/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+          "primary": true,
+          "size": 362740,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "hZvFDqhH",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.13",
+      "version_number": "1.6.13+1.21.1-fabric",
+      "changelog": "* Restore depth test state after flushing the DrawContext (Fixes graphical issue with Map Atlases mod)\r\n* Fixed exception when closing unused buffers (Fixes crash in ATM10 modpack)\r\n* Fixed config file handle leak\r\n",
+      "changelog_url": null,
+      "date_published": "2026-08-27T20:20:16.860301Z",
+      "downloads": 274240,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GzU3ntsK",
+          "hashes": {
+            "sha512": "35c2ead75645910f525b5b8acfcf51bcf5218659ba183b34ffa2d9f84d2003f63ec118d207c80e89976babfa0e9821d122331574831006355d750a9cd157f521",
+            "sha1": "b07b666b7ae2e62f8079ee60ef33f6fe4d545065"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/hZvFDqhH/ImmediatelyFast-Fabric-1.6.13%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.13+1.21.1.jar",
+          "primary": true,
+          "size": 337729,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "nLX2NbyQ",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.12",
+      "version_number": "1.6.12+1.21.1-fabric",
+      "changelog": "* Implemented a more compatible fix for item durability bar layering (Fixes issue with Spectrum mod item slot decorations)\r\n",
+      "changelog_url": null,
+      "date_published": "2026-08-16T17:58:14.804316Z",
+      "downloads": 101338,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qEBsE9mK",
+          "hashes": {
+            "sha512": "e97ffeb5e2caf9177b8dbf4a524c4b2867a2180b4e7431b68c6fd9e07277d4cef52a1e0eb8ffff51f675d6b06a06608e17dc8d63da1e7c283718761407b9b1a5",
+            "sha1": "c87b48facbc2ec1bc07d615ecc0fff22eaa3453f"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/nLX2NbyQ/ImmediatelyFast-Fabric-1.6.12%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.12+1.21.1.jar",
+          "primary": true,
+          "size": 337368,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "3xXzj2GW",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.12",
+      "version_number": "1.6.12+1.21.1-forge",
+      "changelog": "* Implemented a more compatible fix for item durability bar layering (Fixes issue with Spectrum mod item slot decorations)\r\n",
+      "changelog_url": null,
+      "date_published": "2026-08-16T17:58:14.648435Z",
+      "downloads": 4251,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "B30B1kxD",
+          "hashes": {
+            "sha1": "f7061e73b616520256db0a0a7c513cff54dbfcde",
+            "sha512": "f60f8e726292e917581f537e64a3407cc4eab58b63987401d861b77a89cc1499e0cdaadcc159af103c7b9209263c058c8e8a69a52398b0f47e3c1a708596a587"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/3xXzj2GW/ImmediatelyFast-Forge-1.6.12%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.12+1.21.1.jar",
+          "primary": true,
+          "size": 540775,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "B2MHnfkW",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.12",
+      "version_number": "1.6.12+1.21.1-neoforge",
+      "changelog": "* Implemented a more compatible fix for item durability bar layering (Fixes issue with Spectrum mod item slot decorations)\r\n",
+      "changelog_url": null,
+      "date_published": "2026-08-16T17:58:14.603782Z",
+      "downloads": 204497,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lWgKRlYK",
+          "hashes": {
+            "sha512": "853c8746d0b28f97cd3eb7e9e55967f98d6c358f609b9db2c4d2d7afee76728d827bad8f3d73d6a0b7c5e36a820779f299cdcda70191e3832d5bd0f2cf034d56",
+            "sha1": "c9522e369d76885c7c6682f1c852cd8f9bfb6f78"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/B2MHnfkW/ImmediatelyFast-NeoForge-1.6.12%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+          "primary": true,
+          "size": 362397,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "ATB4eNEP",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.11",
+      "version_number": "1.6.11+1.21.1-fabric",
+      "changelog": "* Fixed villager profession level layer render order\r\n",
+      "changelog_url": null,
+      "date_published": "2026-06-30T21:43:33.269427Z",
+      "downloads": 1662333,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Yw1HRY3N",
+          "hashes": {
+            "sha1": "e4e125088d8654f91562e78a00bdec22f74bc07f",
+            "sha512": "f80f7d1d046c65795a51f8338c3189d014eb7b7adcab382259c2d1174c196503640ef2e57fea6e89e17bdcb00e3f1847eafe9db1f283c2cd958cb6df28020920"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/ATB4eNEP/ImmediatelyFast-Fabric-1.6.11%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
+          "primary": true,
+          "size": 336763,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "zxT50PTW",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.11",
+      "version_number": "1.6.11+1.21.1-neoforge",
+      "changelog": "* Fixed villager profession level layer render order\r\n",
+      "changelog_url": null,
+      "date_published": "2026-06-30T21:43:33.266355Z",
+      "downloads": 617901,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "g3uJW0rs",
+          "hashes": {
+            "sha1": "6594ea2759455f4e135b9479f807bacf4b4b0b43",
+            "sha512": "9f6a8d2f90f076cccbb40b519dcb014c832c0fbc28c3995fb9cb5e69e016eb3b8c9bf74c64809374b7c417fcc07545b117238da924c6608e899a6608f1bf64c9"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/zxT50PTW/ImmediatelyFast-NeoForge-1.6.11%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+          "primary": true,
+          "size": 361795,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "xlYmE90r",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.11",
+      "version_number": "1.6.11+1.21.1-forge",
+      "changelog": "* Fixed villager profession level layer render order\r\n",
+      "changelog_url": null,
+      "date_published": "2026-06-30T21:43:33.260379Z",
+      "downloads": 16434,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Uz3FNKnV",
+          "hashes": {
+            "sha512": "82234c829e7bb1d444bb49fc7eb2b56146d201ba6269a8654f73fb8038966abb0436749750e8d4839267f26dc1d9f423920ce99c4ca026ce009b92efd68413d4",
+            "sha1": "1be6c3d0f9a881a2a74111deb92b3aa651b546f8"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/xlYmE90r/ImmediatelyFast-Forge-1.6.11%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.11+1.21.1.jar",
+          "primary": true,
+          "size": 540171,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "PhxY0iHw",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.10",
+      "version_number": "1.6.10+1.21.1-neoforge",
+      "changelog": "* Fixed Iris shadow pass outline buffer clearing to fix memory leaks with mods which render into the wrong buffer\r\n* Fixed villager type and profession layer render order\r\n* Fixed core shader incompatibility detection logic bug\r\n* Added advanced memory leak detector\r\n",
+      "changelog_url": null,
+      "date_published": "2026-01-27T21:12:05.910461Z",
+      "downloads": 2013462,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uofNB45R",
+          "hashes": {
+            "sha512": "93fb2685547f1c7d95b558b3b24efd53551b8ab6978b52483d2924a03de044e992669f83e2ee73f9ad1308035b932de431f4f662a971f496c7fdc55195aebd7b",
+            "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/PhxY0iHw/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+          "primary": true,
+          "size": 368598,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "iXVyMPxj",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.10",
+      "version_number": "1.6.10+1.21.1-forge",
+      "changelog": "* Fixed Iris shadow pass outline buffer clearing to fix memory leaks with mods which render into the wrong buffer\r\n* Fixed villager type and profession layer render order\r\n* Fixed core shader incompatibility detection logic bug\r\n* Added advanced memory leak detector\r\n",
+      "changelog_url": null,
+      "date_published": "2026-01-27T21:12:04.512040Z",
+      "downloads": 40709,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ex8jflii",
+          "hashes": {
+            "sha512": "cffa82b2a87a2ee7bea023d804ba7cee1a184e9f7e20ab91050e1bf82b5ff0d93666f0c176889b476165090b702ff6e70ab6a4ffb26e3c1d11c77a98522ae361",
+            "sha1": "55cf9d35a02fb5d660adfe61328c81626debf8f4"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/iXVyMPxj/ImmediatelyFast-Forge-1.6.10%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.10+1.21.1.jar",
+          "primary": true,
+          "size": 546957,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "yHztKxR5",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.10",
+      "version_number": "1.6.10+1.21.1-fabric",
+      "changelog": "* Fixed Iris shadow pass outline buffer clearing to fix memory leaks with mods which render into the wrong buffer\r\n* Fixed villager type and profession layer render order\r\n* Fixed core shader incompatibility detection logic bug\r\n* Added advanced memory leak detector\r\n",
+      "changelog_url": null,
+      "date_published": "2026-01-27T21:12:03.751356Z",
+      "downloads": 3587333,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WD3RuPbn",
+          "hashes": {
+            "sha512": "7117aa1b27dd1d463707d4089aa52cc09619f32744bc33363b3515b705d9ce5039fd69190092d119552b73db30ad365dffc29f84f0af505d580cc5593d88e075",
+            "sha1": "ff2be016b12128fc0cd875a21a307d681edde817"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yHztKxR5/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+          "primary": true,
+          "size": 342770,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "prV7885W",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.9",
+      "version_number": "1.6.9+1.21.1-forge",
+      "changelog": "* Made ImmediatelyFast compatible with Java 25\r\n* Clear Iris shadow pass outline buffer in case mods render into the wrong buffer (Fixes crash with glowing entities rendered with geckolib)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-12-18T11:58:09.048673Z",
+      "downloads": 12322,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ySDYSgJg",
+          "hashes": {
+            "sha1": "44ed56a746f5df77435a2c05508934b5d017bc15",
+            "sha512": "1fe0fe70028e5a179709442a819f2b8fefccc4b3e61abe26b18ca4ac1687f87c6df71fc32f53b34c27f09e7cb87da62e70bd503b2d34d191fe0370fb14bcf16e"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/prV7885W/ImmediatelyFast-Forge-1.6.9%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.9+1.21.1.jar",
+          "primary": true,
+          "size": 546147,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "sy5ig8EF",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.9",
+      "version_number": "1.6.9+1.21.1-fabric",
+      "changelog": "* Made ImmediatelyFast compatible with Java 25\r\n* Clear Iris shadow pass outline buffer in case mods render into the wrong buffer (Fixes crash with glowing entities rendered with geckolib)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-12-18T11:58:09.046119Z",
+      "downloads": 1747655,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LRwZUmHz",
+          "hashes": {
+            "sha1": "765b82b3b954025bd233077e734e1f0a7a4d536e",
+            "sha512": "b343af838639d63856ca1cb22e9643188a12160ba040624a7052ab61f3f53155aea046a3c824bf06d5b1b87af25193552111676fe659bb1acc04909d6051ff96"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/sy5ig8EF/ImmediatelyFast-Fabric-1.6.9%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
+          "primary": true,
+          "size": 341961,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "7TFPpGUU",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.9",
+      "version_number": "1.6.9+1.21.1-neoforge",
+      "changelog": "* Made ImmediatelyFast compatible with Java 25\r\n* Clear Iris shadow pass outline buffer in case mods render into the wrong buffer (Fixes crash with glowing entities rendered with geckolib)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-12-18T11:58:09.043171Z",
+      "downloads": 273079,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "awCbaspQ",
+          "hashes": {
+            "sha512": "0d55daacfc577b3395925b4d241b175a4e12cbd8b27cecfbd4653ab68867691ecd664c565a5d075fc4339dae1254d8789dbf405a80e72e98ebba3afdb21a08ba",
+            "sha1": "01df8113ce41993ea341b973afc36ef2e1701e00"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/7TFPpGUU/ImmediatelyFast-NeoForge-1.6.9%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar",
+          "primary": true,
+          "size": 367790,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "fWangWhY",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.8",
+      "version_number": "1.6.8+1.21.1-neoforge",
+      "changelog": "* Improved compatibility with mods which don't render into the batching buffer while batching (Fixes graphical issue with AcceleratedRendering mod)\r\n* Fixed potential performance issue with Iris\r\n",
+      "changelog_url": null,
+      "date_published": "2025-12-09T20:23:18.918515Z",
+      "downloads": 48777,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yQmODaEh",
+          "hashes": {
+            "sha512": "0c714fb85a14f6c0305adbc2f5132fe37221b9897be18cbd8c8e6f236bf5894a3930a57fe8f1a10f6aa06b412a7d481731980cba83cc672e87a22b31bc1376b6",
+            "sha1": "5b165e9a2b75b71f627b0962a6ad1949fa2b6fea"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/fWangWhY/ImmediatelyFast-NeoForge-1.6.8%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.8+1.21.1.jar",
+          "primary": true,
+          "size": 254698,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "uA4KLlrL",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.8",
+      "version_number": "1.6.8+1.21.1-fabric",
+      "changelog": "* Improved compatibility with mods which don't render into the batching buffer while batching (Fixes graphical issue with AcceleratedRendering mod)\r\n* Fixed potential performance issue with Iris\r\n",
+      "changelog_url": null,
+      "date_published": "2025-12-09T20:23:18.904208Z",
+      "downloads": 129550,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2cKBAk2b",
+          "hashes": {
+            "sha1": "403fb9ae5c292323c69e2adde1aa317644137fec",
+            "sha512": "dd6d6981c373f2149125f2921bc2e31ae92c3fe3e17b83d3d86b412981ef5a8bacd2c00fe10a6771f8675267acbe0ee46c55443dad241d5613d909c172eb8e3f"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/uA4KLlrL/ImmediatelyFast-Fabric-1.6.8%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.8+1.21.1.jar",
+          "primary": true,
+          "size": 228862,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "giAcSaOA",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.8",
+      "version_number": "1.6.8+1.21.1-forge",
+      "changelog": "* Improved compatibility with mods which don't render into the batching buffer while batching (Fixes graphical issue with AcceleratedRendering mod)\r\n* Fixed potential performance issue with Iris\r\n",
+      "changelog_url": null,
+      "date_published": "2025-12-09T20:23:18.868965Z",
+      "downloads": 1669,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8ju8Yjmk",
+          "hashes": {
+            "sha1": "08d3fed92e4ff3208c4d60822eecebd2b1815960",
+            "sha512": "e81a12042ee9335c409e005198501285d2d18849697e5415f55be79508e9de15db85e3a2a6c20cc5befc48b3d0aba6ced380fbdfcb3c99b4d373d24fca83673d"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/giAcSaOA/ImmediatelyFast-Forge-1.6.8%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.8+1.21.1.jar",
+          "primary": true,
+          "size": 433055,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "5DprOQTR",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.7",
+      "version_number": "1.6.7+1.21.1-fabric",
+      "changelog": "* Fixed crash when rendering outlined entities with a certain combination of mods.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-09-25T15:06:44.487702Z",
+      "downloads": 2812330,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3ONe9MLB",
+          "hashes": {
+            "sha512": "ec2896fc16c493c9ee0fed134b32e3e2200650e9b3192b442f8c41a767c462f14fefdbeb736a79077cb1d6e3134bc3f962ea3d894b2cc7cc6c860259ff209adf",
+            "sha1": "20e7d5fb3043872896fb7ef745d22847e4111919"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/5DprOQTR/ImmediatelyFast-Fabric-1.6.7%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.7+1.21.1.jar",
+          "primary": true,
+          "size": 228352,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "VerzLexd",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.7",
+      "version_number": "1.6.7+1.21.1-neoforge",
+      "changelog": "* Fixed crash when rendering outlined entities with a certain combination of mods.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-09-25T15:06:44.485797Z",
+      "downloads": 510549,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SiRRxfpO",
+          "hashes": {
+            "sha1": "820e7b79c123d2a884410a6ab9882b0ae0e2d1a6",
+            "sha512": "b02523cbdd7834177bbb6c19359fb6ee5b7de6d42e18010a913612acf405db27e4382f1ea26048a5a3f46f40534d88771c5cdb630267034bec6f75a8334bc16b"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/VerzLexd/ImmediatelyFast-NeoForge-1.6.7%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.7+1.21.1.jar",
+          "primary": true,
+          "size": 254163,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "70fY7ZKu",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.7",
+      "version_number": "1.6.7+1.21.1-forge",
+      "changelog": "* Fixed crash when rendering outlined entities with a certain combination of mods.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-09-25T15:06:44.482087Z",
+      "downloads": 13466,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "q5eeB3DH",
+          "hashes": {
+            "sha512": "52f8c3947c09c4c4cbc5a84e401c1a048ff9e45eba555beeba1ce07813518aa16af031c73a651b8ed44761521de27724218da98f8fd63c1e4f2e5c07623b8844",
+            "sha1": "83bd8e25238690a512e052c2fa294ee6330c3ea7"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/70fY7ZKu/ImmediatelyFast-Forge-1.6.7%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.7+1.21.1.jar",
+          "primary": true,
+          "size": 432519,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "mWsZ4opk",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.6",
+      "version_number": "1.6.6+1.21.1-neoforge",
+      "changelog": "* Fixed font atlas resizing state inconsistency (Fixes rare JVM crash)\r\n* Draw current batch when mods modify the projection matrix (Fixes rendering issue with VoxelMap)\r\n* Improved compatibility with mods which don't render into the batching buffer while batching\r\n* Fixed Cataclysm Phantom Halberds render order\r\n* Fixed some overlays not rendering correctly\r\n",
+      "changelog_url": null,
+      "date_published": "2025-07-08T20:12:54.622748Z",
+      "downloads": 360431,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gdfAPYAs",
+          "hashes": {
+            "sha512": "1ed8fdafa01733e936e97406bfe6a42d7169f2fcddd250e932b9e318ff0d820a93c467359a0eb94c37aaa9ac0d1497330dc2acc7731ec8b7e59a2f7b07f57fbc",
+            "sha1": "f48c0fc6eba2f753315d02cb402b865471864556"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/mWsZ4opk/ImmediatelyFast-NeoForge-1.6.6%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
+          "primary": true,
+          "size": 254117,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "yPO020MY",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.6",
+      "version_number": "1.6.6+1.21.1-forge",
+      "changelog": "* Fixed font atlas resizing state inconsistency (Fixes rare JVM crash)\r\n* Draw current batch when mods modify the projection matrix (Fixes rendering issue with VoxelMap)\r\n* Improved compatibility with mods which don't render into the batching buffer while batching\r\n* Fixed Cataclysm Phantom Halberds render order\r\n* Fixed some overlays not rendering correctly\r\n",
+      "changelog_url": null,
+      "date_published": "2025-07-08T20:12:54.541932Z",
+      "downloads": 12758,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EyZUT5qG",
+          "hashes": {
+            "sha1": "236d72cfb94c9fa35661bc1df616f47de7395430",
+            "sha512": "01458903a19db612e17b7dab0d93917a957c4cefd9e320e59698da322a3236e8bdcab4842895d9128cb9d4ed58a0d6a02005fd29c00d2f65743d665180989fdb"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yPO020MY/ImmediatelyFast-Forge-1.6.6%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.6+1.21.1.jar",
+          "primary": true,
+          "size": 432475,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "giRXGeHH",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.6",
+      "version_number": "1.6.6+1.21.1-fabric",
+      "changelog": "* Fixed font atlas resizing state inconsistency (Fixes rare JVM crash)\r\n* Draw current batch when mods modify the projection matrix (Fixes rendering issue with VoxelMap)\r\n* Improved compatibility with mods which don't render into the batching buffer while batching\r\n* Fixed Cataclysm Phantom Halberds render order\r\n* Fixed some overlays not rendering correctly\r\n",
+      "changelog_url": null,
+      "date_published": "2025-07-08T20:12:54.422517Z",
+      "downloads": 936832,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gi20kMI4",
+          "hashes": {
+            "sha1": "8929468087041b6b07b65aa8e31407f5c9e43b79",
+            "sha512": "7855cbfc71f24d5a6a09211061bc0a88c2b7c597bb38850e6c8c15796ad0ad1daf5c1c7b1cf519124e97ab0ef1241cb2e9509a9b4f998aa18c7a2588a9b1eca7"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/giRXGeHH/ImmediatelyFast-Fabric-1.6.6%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.6+1.21.1.jar",
+          "primary": true,
+          "size": 228315,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "DBogGBsN",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.5",
+      "version_number": "1.6.5+1.21.1-forge",
+      "changelog": "* Fixed shader color mixing calculation\r\n* Removed experimental universal HUD batching optimization\r\n  * This optimization was disabled by default, but caused too many graphical issues when enabled, which are difficult to fix for a relatively small performance increase\r\n",
+      "changelog_url": null,
+      "date_published": "2025-04-02T08:37:48.397263Z",
+      "downloads": 16679,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kQsp07Qh",
+          "hashes": {
+            "sha512": "43fa26066abf0ac3497bded49a57f589fc84620064c0f595890a92ef1bbb3e828d0ff9471f167a97439ab28538707bbd406454215d965eeae0c360b3bb69d573",
+            "sha1": "977491d936a23de9d921a4a6016d2e4c740ce1aa"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/DBogGBsN/ImmediatelyFast-Forge-1.6.5%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.5+1.21.1.jar",
+          "primary": true,
+          "size": 435199,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "UDgEo3mK",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.5",
+      "version_number": "1.6.5+1.21.1-fabric",
+      "changelog": "* Fixed shader color mixing calculation\r\n* Removed experimental universal HUD batching optimization\r\n  * This optimization was disabled by default, but caused too many graphical issues when enabled, which are difficult to fix for a relatively small performance increase\r\n",
+      "changelog_url": null,
+      "date_published": "2025-04-02T08:37:48.287049Z",
+      "downloads": 3127732,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xZlMqguS",
+          "hashes": {
+            "sha512": "928cc4c14e90107383195b1a1ee57ae48f4299a13b15909473479f49f1bd86cd7e2bcaa129c9cb239d50eb3b5558798f2cafd9b229b12fea06e0e4e0f5eabd61",
+            "sha1": "f6461831d895d84d6cae8bcc1c970d350e3baa67"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UDgEo3mK/ImmediatelyFast-Fabric-1.6.5%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.5+1.21.1.jar",
+          "primary": true,
+          "size": 231496,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "paIuk6sO",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.5",
+      "version_number": "1.6.5+1.21.1-neoforge",
+      "changelog": "* Fixed shader color mixing calculation\r\n* Removed experimental universal HUD batching optimization\r\n  * This optimization was disabled by default, but caused too many graphical issues when enabled, which are difficult to fix for a relatively small performance increase\r\n",
+      "changelog_url": null,
+      "date_published": "2025-04-02T08:37:48.282791Z",
+      "downloads": 660186,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QOpp8nEt",
+          "hashes": {
+            "sha1": "b14e2d668faf6ceb39fd9cc0c6bba541020497fb",
+            "sha512": "50435efe88c3f26b6cb549305f3dbb874564a0c138ee77c0d6da36738f649989c65e7390c09df0605bad65996bfd5fdd84340cf5909dc26c997816bc302d2deb"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/paIuk6sO/ImmediatelyFast-NeoForge-1.6.5%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.5+1.21.1.jar",
+          "primary": true,
+          "size": 256473,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "7efCI4DZ",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.4",
+      "version_number": "1.6.4+1.21.1-neoforge",
+      "changelog": "**v1.6.4**\r\n* Don't force draw the batch if the shader color changes, because that's already accounted for when collecting the data\r\n\r\n**v1.6.3**\r\n* Force draw batch if the scissor box or shader color changes (Fixes issue with Figura player list rendering)\r\n* Clamp out of bounds shader color (Fixes issue with Dragon Survival \"Magic Cast Meter\")\r\n* Disable experimental sign buffering if Effective is installed (Effective uses non-standard rendering which isn't compatible)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-30T22:17:34.534447Z",
+      "downloads": 7541,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zbgpyjyq",
+          "hashes": {
+            "sha1": "dfcc815a715870d472764064123999e3e077aa2a",
+            "sha512": "38664ce1aee3e159423241c6051ca3a86caa0e7e6a8e9189be37f91dee323a43e2997abb0ba7538f70d3389e021c0d7b1da8f47faaecf18c3b63a6d5d3ae3775"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/7efCI4DZ/ImmediatelyFast-NeoForge-1.6.4%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.4+1.21.1.jar",
+          "primary": true,
+          "size": 256669,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "A9AUUh8S",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.4",
+      "version_number": "1.6.4+1.21.1-forge",
+      "changelog": "**v1.6.4**\r\n* Don't force draw the batch if the shader color changes, because that's already accounted for when collecting the data\r\n\r\n**v1.6.3**\r\n* Force draw batch if the scissor box or shader color changes (Fixes issue with Figura player list rendering)\r\n* Clamp out of bounds shader color (Fixes issue with Dragon Survival \"Magic Cast Meter\")\r\n* Disable experimental sign buffering if Effective is installed (Effective uses non-standard rendering which isn't compatible)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-30T22:17:34.534271Z",
+      "downloads": 470,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4ZPikcAM",
+          "hashes": {
+            "sha512": "d32fb26f33832ad86f2d0901e132f7f50dc664478ee9cc006a77010542417460d80e2a71b75c7d563f20f37540c65e80f4765282c5a4f1bc48dd7ffe43cc78d1",
+            "sha1": "fead3b11c2d6c1e28b7d7dc035e59482884da3f2"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/A9AUUh8S/ImmediatelyFast-Forge-1.6.4%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.4+1.21.1.jar",
+          "primary": true,
+          "size": 435334,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "mO6snTsy",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.4",
+      "version_number": "1.6.4+1.21.1-fabric",
+      "changelog": "**v1.6.4**\r\n* Don't force draw the batch if the shader color changes, because that's already accounted for when collecting the data\r\n\r\n**v1.6.3**\r\n* Force draw batch if the scissor box or shader color changes (Fixes issue with Figura player list rendering)\r\n* Clamp out of bounds shader color (Fixes issue with Dragon Survival \"Magic Cast Meter\")\r\n* Disable experimental sign buffering if Effective is installed (Effective uses non-standard rendering which isn't compatible)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-30T22:17:34.530160Z",
+      "downloads": 34841,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ayqWCaDQ",
+          "hashes": {
+            "sha1": "ad061905dbc218f47b17fdea0e804b7c673f7653",
+            "sha512": "028aee46af8b23fa068aaa5524723baa8540f0895c511ab5ed74da4990bfc9f8563c7bb7a09318235505b41fcfecc70358467e7f9f17f3ef898cb0c526f2a023"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/mO6snTsy/ImmediatelyFast-Fabric-1.6.4%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.4+1.21.1.jar",
+          "primary": true,
+          "size": 231624,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "zjpu4fnp",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.3",
+      "version_number": "1.6.3+1.21.1-neoforge",
+      "changelog": "* Force draw batch if the scissor box or shader color changes (Fixes issue with Figura player list rendering)\r\n* Clamp out of bounds shader color (Fixes issue with Dragon Survival \"Magic Cast Meter\")\r\n* Disable experimental sign buffering if Effective is installed (Effective uses non-standard rendering which isn't compatible)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-30T12:44:11.417577Z",
+      "downloads": 1166,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sBNXTGDW",
+          "hashes": {
+            "sha512": "c584a3b30beabc5d2e311d9efb68049433958769dd89705209d0c6ed42e0790c32a25f37c07ff959210538bb04de69be2ab45824fd025ce35339c56d5dc5682d",
+            "sha1": "57e2620597d83c36a6143ded07ec5958a231d86e"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/zjpu4fnp/ImmediatelyFast-NeoForge-1.6.3%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.3+1.21.1.jar",
+          "primary": true,
+          "size": 256700,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "MVZzhAQJ",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.3",
+      "version_number": "1.6.3+1.21.1-fabric",
+      "changelog": "* Force draw batch if the scissor box or shader color changes (Fixes issue with Figura player list rendering)\r\n* Clamp out of bounds shader color (Fixes issue with Dragon Survival \"Magic Cast Meter\")\r\n* Disable experimental sign buffering if Effective is installed (Effective uses non-standard rendering which isn't compatible)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-30T12:44:10.694595Z",
+      "downloads": 7186,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CBKt0gR4",
+          "hashes": {
+            "sha1": "d4a455fff6903a085df3ec81d4108237e61a8dba",
+            "sha512": "94472e5de53aba58009fb9de7535f081f6bd66214a789bf38ceb731c7f081efc9c499ddbd7c1fa8b6586227e7cef30decd0f5addd4934946b88acd647e82d7f8"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/MVZzhAQJ/ImmediatelyFast-Fabric-1.6.3%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.3+1.21.1.jar",
+          "primary": true,
+          "size": 231657,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "YQvUcdKu",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.3",
+      "version_number": "1.6.3+1.21.1-forge",
+      "changelog": "* Force draw batch if the scissor box or shader color changes (Fixes issue with Figura player list rendering)\r\n* Clamp out of bounds shader color (Fixes issue with Dragon Survival \"Magic Cast Meter\")\r\n* Disable experimental sign buffering if Effective is installed (Effective uses non-standard rendering which isn't compatible)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-30T12:44:10.677966Z",
+      "downloads": 221,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fGFxCH8r",
+          "hashes": {
+            "sha512": "b2dfa191ae8e7164b5d4c7e9d938f285fff9f6318e8d640c21b2a1077a0c5290f889d3950bfec73b5104232a0057dfab2781e3719eb4a9d8985050fe91ea78a7",
+            "sha1": "7a28d3108d932f45f4a1eba8309707371974dc49"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/YQvUcdKu/ImmediatelyFast-Forge-1.6.3%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.3+1.21.1.jar",
+          "primary": true,
+          "size": 435365,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "9mHDDtCo",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.2",
+      "version_number": "1.6.2+1.21.1-fabric",
+      "changelog": "* Fixed mod compatibility with Xaeros Minimap\r\n* Render entity vertex buffer at the end of screen rendering (Fixes issues with mods which use the Iceberg tooltip rendering API)\r\n* Draw current batch when mods modify the model view matrix (Fixes PneumaticCraft armor icons being rendered in the wrong place)\r\n* Made horse armor layering fix compatible with modded horse armor\r\n* Added mechanism to allow resource packs with modified core shaders to declare compatible features\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-16T17:21:28.141933Z",
+      "downloads": 554134,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3ovoRj84",
+          "hashes": {
+            "sha1": "b16511ec710762e82255b8cdd1b5e545e47c56b6",
+            "sha512": "5be1a1b9532b5e1a7b0c41fe1462d2dd8ee4c6eab9e45710a7737aa3357bd2c19def771d692fd0a7981dd0d6669f852b3af9fc49a030ac3b996b6b6b325f65ff"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/9mHDDtCo/ImmediatelyFast-Fabric-1.6.2%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.2+1.21.1.jar",
+          "primary": true,
+          "size": 231478,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "LxFaqvYY",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.2",
+      "version_number": "1.6.2+1.21.1-forge",
+      "changelog": "* Fixed mod compatibility with Xaeros Minimap\r\n* Render entity vertex buffer at the end of screen rendering (Fixes issues with mods which use the Iceberg tooltip rendering API)\r\n* Draw current batch when mods modify the model view matrix (Fixes PneumaticCraft armor icons being rendered in the wrong place)\r\n* Made horse armor layering fix compatible with modded horse armor\r\n* Added mechanism to allow resource packs with modified core shaders to declare compatible features\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-16T17:21:27.842929Z",
+      "downloads": 1858,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PTJUI6ck",
+          "hashes": {
+            "sha1": "3ddafd1e1ce2ed3fc3df8276556339422829e2cd",
+            "sha512": "6f37d1b17ec19a0185b269b496d3346ef8e2da88fc6378665056b6c9005b91b91cb0874fcc50f1b435db0a8f9f8eb4f0f9c8dd2df6d5f7a06892c14774acfa75"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/LxFaqvYY/ImmediatelyFast-Forge-1.6.2%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.2+1.21.1.jar",
+          "primary": true,
+          "size": 435164,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "MlT0XaoV",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.2",
+      "version_number": "1.6.2+1.21.1-neoforge",
+      "changelog": "* Fixed mod compatibility with Xaeros Minimap\r\n* Render entity vertex buffer at the end of screen rendering (Fixes issues with mods which use the Iceberg tooltip rendering API)\r\n* Draw current batch when mods modify the model view matrix (Fixes PneumaticCraft armor icons being rendered in the wrong place)\r\n* Made horse armor layering fix compatible with modded horse armor\r\n* Added mechanism to allow resource packs with modified core shaders to declare compatible features\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-16T17:21:27.770988Z",
+      "downloads": 41713,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Siu1MOK9",
+          "hashes": {
+            "sha512": "722063c18e4b4f8747bb2c25381c2dfa068cee58b4265e4c5b94454e5e0a707696583dfc0e95b7e9b55e8729dcdd8a88f20fa1288915a95f0e89ffeac419ac26",
+            "sha1": "e3fc6921d03bd67950560c4a1924c5799f7750a6"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/MlT0XaoV/ImmediatelyFast-NeoForge-1.6.2%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.2+1.21.1.jar",
+          "primary": true,
+          "size": 256510,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "tdsizuq0",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.1",
+      "version_number": "1.6.1+1.21.1-forge",
+      "changelog": "* Fixed experimental screen batching on NeoForge and (Lex)Forge\r\n* Fixed Sodium Extras FPS overlay not rendering with Xaero's Minimap\r\n* Fixed rendering issues with FTB Chunks minimap\r\n* Reset shader color when force drawing the current batch (Fixes rendering issue with Detail Armor Bar mod)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-09T19:34:46.760271Z",
+      "downloads": 2011,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wVVy1rr0",
+          "hashes": {
+            "sha1": "f50b6479794592c3ba21af4e2e705c215c1b9800",
+            "sha512": "3da12f29993d4fc363727f3f5cbff830b6b27ea9a822c173ce5efe2d8cc3179237e84c65d0ed3f2fadb064e965a7a2e26e681879141070198c84c5d5f1bacc8f"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/tdsizuq0/ImmediatelyFast-Forge-1.6.1%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.1+1.21.1.jar",
+          "primary": true,
+          "size": 429775,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "DtmcGdi9",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.1",
+      "version_number": "1.6.1+1.21.1-neoforge",
+      "changelog": "* Fixed experimental screen batching on NeoForge and (Lex)Forge\r\n* Fixed Sodium Extras FPS overlay not rendering with Xaero's Minimap\r\n* Fixed rendering issues with FTB Chunks minimap\r\n* Reset shader color when force drawing the current batch (Fixes rendering issue with Detail Armor Bar mod)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-09T19:34:46.591943Z",
+      "downloads": 14946,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "usicddGm",
+          "hashes": {
+            "sha512": "c27783f9e19a9e34c3f17901d038af009b2273eac2a66c83998b669fd5dd236a65b7783397e0424cbbe7b300c351b357e84a7d6d25b516fa42b2fa911e9ba7d9",
+            "sha1": "c0220d126da30c78c2a8fa874a52dd58a9285e6b"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/DtmcGdi9/ImmediatelyFast-NeoForge-1.6.1%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.1+1.21.1.jar",
+          "primary": true,
+          "size": 252572,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "Eau5kQoZ",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.1",
+      "version_number": "1.6.1+1.21.1-fabric",
+      "changelog": "* Fixed experimental screen batching on NeoForge and (Lex)Forge\r\n* Fixed Sodium Extras FPS overlay not rendering with Xaero's Minimap\r\n* Fixed rendering issues with FTB Chunks minimap\r\n* Reset shader color when force drawing the current batch (Fixes rendering issue with Detail Armor Bar mod)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-09T19:34:46.506128Z",
+      "downloads": 330455,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hT2jgpTu",
+          "hashes": {
+            "sha1": "d04000cc89be5f3e467eb39f050c1c8f5338229f",
+            "sha512": "5a561276c7c2cae31f293263a576a41bfe5235c3dc917a07805beca50f519c2d71b4b1a5f93e8c2117ce9480ba4e898980469d51dc33824f9480af4d11a0e3e8"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/Eau5kQoZ/ImmediatelyFast-Fabric-1.6.1%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.1+1.21.1.jar",
+          "primary": true,
+          "size": 226114,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "T3rJAYXa",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.0",
+      "version_number": "1.6.0+1.21.1-fabric",
+      "changelog": "* Fixed JourneyMap graphical issues\r\n* Fixed item durability bar render order\r\n* Changed the versioning of ImmediatelyFast. The minor version is now incremented with every Minecraft update. The patch version is incremented with every ImmediatelyFast release. This aims to group all releases for a specific Minecraft version together. It also allows for more frequent releases because I can do a release for a single Minecraft version instead having to accumulate enough changes to justify a release for all supported versions.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-05T23:28:58.025765Z",
+      "downloads": 118455,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4Jd9M4Sf",
+          "hashes": {
+            "sha512": "1087ad87d3f595279b322edfa4b38f3a15f1a5cdc7e29463c62bd23495ce654783d6fdbb6f73d9a4d55d62e79fd0af48312c7e1c420e56d6192a382b05ec9c75",
+            "sha1": "02ba9503f773ec3659e950350aad263586f8a774"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/T3rJAYXa/ImmediatelyFast-Fabric-1.6.0%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.6.0+1.21.1.jar",
+          "primary": true,
+          "size": 225555,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "UWLzu3QI",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.0",
+      "version_number": "1.6.0+1.21.1-forge",
+      "changelog": "* Fixed JourneyMap graphical issues\r\n* Fixed item durability bar render order\r\n* Changed the versioning of ImmediatelyFast. The minor version is now incremented with every Minecraft update. The patch version is incremented with every ImmediatelyFast release. This aims to group all releases for a specific Minecraft version together. It also allows for more frequent releases because I can do a release for a single Minecraft version instead having to accumulate enough changes to justify a release for all supported versions.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-05T23:28:57.953135Z",
+      "downloads": 708,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Hm9ejFli",
+          "hashes": {
+            "sha1": "81308591fa060981f72721e36e55c13ba17d8894",
+            "sha512": "929aea05670edd1dd90b0f2e0ddeeaabf996f61f9d870348c94095d3bcd608d3a341fbb77ffb7646f71eb5bce2d47d7447144e41b37dc525a2600311b9f40876"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UWLzu3QI/ImmediatelyFast-Forge-1.6.0%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.6.0+1.21.1.jar",
+          "primary": true,
+          "size": 429449,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "cNeyFzTb",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.6.0",
+      "version_number": "1.6.0+1.21.1-neoforge",
+      "changelog": "* Fixed JourneyMap graphical issues\r\n* Fixed item durability bar render order\r\n* Changed the versioning of ImmediatelyFast. The minor version is now incremented with every Minecraft update. The patch version is incremented with every ImmediatelyFast release. This aims to group all releases for a specific Minecraft version together. It also allows for more frequent releases because I can do a release for a single Minecraft version instead having to accumulate enough changes to justify a release for all supported versions.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-05T23:28:57.631618Z",
+      "downloads": 14495,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8OotDY1D",
+          "hashes": {
+            "sha512": "c5d936620abfeedc9a693c853c7a80195581b0d59fe671b20b6b5245e79ec22b06b29c1e9fddd94c0e63d6abfb9c8222c9ec5ae3e69fc6e5cedb62f686381b73",
+            "sha1": "ab82ed92d2ab8d53e097bc263df35a31a8029113"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/cNeyFzTb/ImmediatelyFast-NeoForge-1.6.0%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.6.0+1.21.1.jar",
+          "primary": true,
+          "size": 249389,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "P9yX9Q4Y",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.6",
+      "version_number": "1.3.6+1.21.1-forge",
+      "changelog": "* Backported HUD batching system from ImmediatelyFast 1.21.2\r\n* Avoid brittle injections (Might reduce crashes caused by mod incompatibilities)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-04T19:41:39.896664Z",
+      "downloads": 295,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "G3kVSOFn",
+          "hashes": {
+            "sha1": "740f4dd7890ec212e309b8fe21cbbd74ab1717e1",
+            "sha512": "d6bbeddcb43d55de244dad4dfd8042f6eea732b58db4be490d0f8820c350fda5b22c10bae01e9cbffb16dea7b5dff70f53d45f30618b0c074ea1e059001dbef3"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/P9yX9Q4Y/ImmediatelyFast-Forge-1.3.6%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.3.6+1.21.1.jar",
+          "primary": true,
+          "size": 427465,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "GT363RS9",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.6",
+      "version_number": "1.3.6+1.21.1-neoforge",
+      "changelog": "* Backported HUD batching system from ImmediatelyFast 1.21.2\r\n* Avoid brittle injections (Might reduce crashes caused by mod incompatibilities)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-04T19:41:39.140623Z",
+      "downloads": 5304,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CGDamPxI",
+          "hashes": {
+            "sha512": "a892a5e425779eba671cff3750f8b7f725b768a76168b1fd63b5bf2674929d3b70c95a80a2939b054fdfd05e0f17a6d7e20a6ce73826a3e60cafe1920bf558da",
+            "sha1": "9c82b8f48576618779c603f1eabd0a15a3eeb31d"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/GT363RS9/ImmediatelyFast-NeoForge-1.3.6%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.3.6+1.21.1.jar",
+          "primary": true,
+          "size": 247399,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "20SR13gN",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.6",
+      "version_number": "1.3.6+1.21.1-fabric",
+      "changelog": "* Backported HUD batching system from ImmediatelyFast 1.21.2\r\n* Avoid brittle injections (Might reduce crashes caused by mod incompatibilities)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-04T19:41:39.067398Z",
+      "downloads": 31461,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OLob0ocP",
+          "hashes": {
+            "sha512": "5fc84694138c62627215fd93c3bdd2abb9cb2ad324c46c53d7b2b56f08a36a59fa9431a6dbeff6550a84742d17f5a98c42ac8955febe17b2423ab294760d823c",
+            "sha1": "31dccfbfb342b7b7e95a02740f2e15e66da1c9c7"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/20SR13gN/ImmediatelyFast-Fabric-1.3.6%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.3.6+1.21.1.jar",
+          "primary": true,
+          "size": 223552,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "B3VwQGFo",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.5",
+      "version_number": "1.3.5+1.21.1-forge",
+      "changelog": "* (1.21.2+) Fixed AppleSkin graphical issue (The exhaustion bar is now correctly displayed)\r\n* (1.21.4) Fixed crash when enabling the sign buffering optimization on NeoForge\r\n* (1.21.4) Readded (Lex)Forge support\r\n* Improved thread stacktrace logging (It now uses the correct logger)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-02-25T21:50:07.464950Z",
+      "downloads": 1458,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ecstBAkT",
+          "hashes": {
+            "sha512": "0250a87192a7a54fd23307d45036450266f99ccd2f82cfd9bae80d5b786eb4213b7ed753e40291986105e1f507613cf5531f284952715913a20cf61ab71fb561",
+            "sha1": "a50410a904e975f3400d8157509aeb6e79b1c328"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/B3VwQGFo/ImmediatelyFast-Forge-1.3.5%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.3.5+1.21.1.jar",
+          "primary": true,
+          "size": 446377,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "tQw4QnHI",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.5",
+      "version_number": "1.3.5+1.21.1-neoforge",
+      "changelog": "* (1.21.2+) Fixed AppleSkin graphical issue (The exhaustion bar is now correctly displayed)\r\n* (1.21.4) Fixed crash when enabling the sign buffering optimization on NeoForge\r\n* (1.21.4) Readded (Lex)Forge support\r\n* Improved thread stacktrace logging (It now uses the correct logger)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-02-25T21:50:07.164440Z",
+      "downloads": 22214,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Psjs4Okl",
+          "hashes": {
+            "sha512": "3fee118c9f19ee90708ed27fab56da1fba3795e2859e8d403897389c4948d9e589ac013d5577768b9a1b614ac3e1239bce2b8a90fbff7952973549439caaecd7",
+            "sha1": "12608622df71b28fcb6388290c36e74281ae8898"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/tQw4QnHI/ImmediatelyFast-NeoForge-1.3.5%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.3.5+1.21.1.jar",
+          "primary": true,
+          "size": 263209,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "nLsUmFtQ",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.5",
+      "version_number": "1.3.5+1.21.1-fabric",
+      "changelog": "* (1.21.2+) Fixed AppleSkin graphical issue (The exhaustion bar is now correctly displayed)\r\n* (1.21.4) Fixed crash when enabling the sign buffering optimization on NeoForge\r\n* (1.21.4) Readded (Lex)Forge support\r\n* Improved thread stacktrace logging (It now uses the correct logger)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-02-25T21:50:07.064288Z",
+      "downloads": 227875,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Z3QrqoQX",
+          "hashes": {
+            "sha512": "24c84e3be8bf2878ba733982de56d5b1a1fe216313db6c312df124829beca706decf8dbc680059a7eb617a37e437542037411bb6254d7bb58a2bdb3024b65fe3",
+            "sha1": "ee8a0f5aa7b6f8e15bd2817a8b3335bbc89b7c48"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/nLsUmFtQ/ImmediatelyFast-Fabric-1.3.5%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.3.5+1.21.1.jar",
+          "primary": true,
+          "size": 242166,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "C8m29Ywk",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.4",
+      "version_number": "1.3.4+1.21.1-forge",
+      "changelog": "* Improved core shader modification detection (Fixes graphical issues on some servers with resource packs)\r\n* Documented the config options. You can find the documentation [here](https://github.com/RaphiMC/ImmediatelyFast?tab=readme-ov-file#config).\r\n* (1.20) Fixed graphical issues with Draconic Evolution, Multiblocked2 and Scorched Guns 2 by disabling HUD batching when they are loaded.\r\n* (1.21+) Fixed buffer corruption issues if the buffer is used over multiple frames (Fixes graphical issues with Paladins & Priests)\r\n* Added VulkanMod to the list of incompatible mods (It didn't work with ImmediatelyFast before anyway)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-01-25T22:34:11.211436Z",
+      "downloads": 3595,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ki1nKpkR",
+          "hashes": {
+            "sha1": "b34385cef56739acd0f9a7b31a455b5191a254ad",
+            "sha512": "5314e392b6b9b0e5f5147564a2d7cd9a43781a18d663edb8372cf62dd23d8b80129f9d97c00ee65710eb93e127ee600ac2f06a049eee4ae19e8bce7c4c3557c6"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/C8m29Ywk/ImmediatelyFast-Forge-1.3.4%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.3.4+1.21.1.jar",
+          "primary": true,
+          "size": 445926,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "E77ardrh",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.4",
+      "version_number": "1.3.4+1.21.1-neoforge",
+      "changelog": "* Improved core shader modification detection (Fixes graphical issues on some servers with resource packs)\r\n* Documented the config options. You can find the documentation [here](https://github.com/RaphiMC/ImmediatelyFast?tab=readme-ov-file#config).\r\n* (1.20) Fixed graphical issues with Draconic Evolution, Multiblocked2 and Scorched Guns 2 by disabling HUD batching when they are loaded.\r\n* (1.21+) Fixed buffer corruption issues if the buffer is used over multiple frames (Fixes graphical issues with Paladins & Priests)\r\n* Added VulkanMod to the list of incompatible mods (It didn't work with ImmediatelyFast before anyway)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-01-25T22:34:11.190844Z",
+      "downloads": 104298,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lDpHIdZ1",
+          "hashes": {
+            "sha1": "4736811760cff712230da7fa7629c369f1d3fb69",
+            "sha512": "03aa5c9b757d819fc2378b50f50804f486dc7d91c6f81609467c1e889250cc5e4bc889d0027b23d816e1f483668209925a40567b6ced11f5094a6f9436df5b30"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/E77ardrh/ImmediatelyFast-NeoForge-1.3.4%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.3.4+1.21.1.jar",
+          "primary": true,
+          "size": 262760,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "UiT2QR9Q",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.4",
+      "version_number": "1.3.4+1.21.1-fabric",
+      "changelog": "* Improved core shader modification detection (Fixes graphical issues on some servers with resource packs)\r\n* Documented the config options. You can find the documentation [here](https://github.com/RaphiMC/ImmediatelyFast?tab=readme-ov-file#config).\r\n* (1.20) Fixed graphical issues with Draconic Evolution, Multiblocked2 and Scorched Guns 2 by disabling HUD batching when they are loaded.\r\n* (1.21+) Fixed buffer corruption issues if the buffer is used over multiple frames (Fixes graphical issues with Paladins & Priests)\r\n* Added VulkanMod to the list of incompatible mods (It didn't work with ImmediatelyFast before anyway)\r\n",
+      "changelog_url": null,
+      "date_published": "2025-01-25T22:34:11.051873Z",
+      "downloads": 1183386,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WTjUP1eW",
+          "hashes": {
+            "sha1": "7dbbf2044b216afdace29a1db5e2ce2e3bf0257c",
+            "sha512": "0a60b687307b38e657fd6ba41c9bdb20bd89885ff465d825fd5101f537b2f55053ff7fea62adee6f9bf1b9810c855c95795f51076c23ff55add5a7b1509dbfa9"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UiT2QR9Q/ImmediatelyFast-Fabric-1.3.4%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.3.4+1.21.1.jar",
+          "primary": true,
+          "size": 241734,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "6OvZcroD",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.3",
+      "version_number": "1.3.3+1.21.1-neoforge",
+      "changelog": "* Added support for 1.21.4 (Fabric and NeoForge)\r\n* (Forge) Mark mod as clientside only (Only visual change)\r\n",
+      "changelog_url": null,
+      "date_published": "2024-12-03T18:25:54.578520Z",
+      "downloads": 55730,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4tEvNkfx",
+          "hashes": {
+            "sha512": "9551040af090f8b7f702fe74d1b3a4edf15a8a9f9e5df82e2806f613b3e54be936016ddd3c6dc67db4d6c5bd7697fb5ae328a49bf8e3f6627187c87688bbbdd1",
+            "sha1": "3f537fc2c0f1d89d3bbfd03ec96c6decccb8bc7e"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/6OvZcroD/ImmediatelyFast-NeoForge-1.3.3%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.3.3+1.21.1.jar",
+          "primary": true,
+          "size": 261762,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "9n6mcxWP",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.3",
+      "version_number": "1.3.3+1.21.1-forge",
+      "changelog": "* Added support for 1.21.4 (Fabric and NeoForge)\r\n* (Forge) Mark mod as clientside only (Only visual change)\r\n",
+      "changelog_url": null,
+      "date_published": "2024-12-03T18:25:54.577019Z",
+      "downloads": 5239,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mBgFJikZ",
+          "hashes": {
+            "sha1": "39321a0c5c3bb3509d9b74827406a1e2bc911f9d",
+            "sha512": "8f930d9dd2055ef65c767d7f114ad254ad2320da5d454df28c6d9742e32c26c8afdd0c055e8f620947c29dda001efed76e9c793559727316b2059bdcdd3e4034"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/9n6mcxWP/ImmediatelyFast-Forge-1.3.3%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.3.3+1.21.1.jar",
+          "primary": true,
+          "size": 444930,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "MDHa3xsw",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.3",
+      "version_number": "1.3.3+1.21.1-fabric",
+      "changelog": "* Added support for 1.21.4 (Fabric and NeoForge)\r\n* (Forge) Mark mod as clientside only (Only visual change)\r\n",
+      "changelog_url": null,
+      "date_published": "2024-12-03T18:25:54.574989Z",
+      "downloads": 674373,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "obVM9sT7",
+          "hashes": {
+            "sha1": "c5e3af1690aadb100eb5077bec3f6089bb30785c",
+            "sha512": "328255608ca2d35218fdafbff8603082f6a60698d88abfd5ec9076d97e6b84b62f7ad66cea6170159799efd39e743b9fd702eabfcaf973b75af5624c94427327"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/MDHa3xsw/ImmediatelyFast-Fabric-1.3.3%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.3.3+1.21.1.jar",
+          "primary": true,
+          "size": 240775,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "euNMxHVB",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.2",
+      "version_number": "1.3.2+1.21.1-neoforge",
+      "changelog": "* Enforce text layer draw order (Fixes layering issues with custom fonts in server resource packs)\r\n* 1.21.2+ only: Readded Forge support\r\n* 1.21.2+ only: Fixed compatibility with NeoForge 21.3.23+\r\n",
+      "changelog_url": null,
+      "date_published": "2024-11-11T18:56:00.449266Z",
+      "downloads": 11960,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SWNQyZBX",
+          "hashes": {
+            "sha512": "38464f9c89cbddce1f06b43dae72ecd8d311b5ffcdf61cc05235115e113c8ec64abc0340bb120474b71dce5f983c741f0299adb4e2f277693728ceb7db04b934",
+            "sha1": "bebd277b0f4dc9b0b086c674de4d59d4c5bbec04"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/euNMxHVB/ImmediatelyFast-NeoForge-1.3.2%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.3.2+1.21.1.jar",
+          "primary": true,
+          "size": 261757,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "fitiSIpU",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.2",
+      "version_number": "1.3.2+1.21.1-forge",
+      "changelog": "* Enforce text layer draw order (Fixes layering issues with custom fonts in server resource packs)\r\n* 1.21.2+ only: Readded Forge support\r\n* 1.21.2+ only: Fixed compatibility with NeoForge 21.3.23+\r\n",
+      "changelog_url": null,
+      "date_published": "2024-11-11T18:56:00.168548Z",
+      "downloads": 2720,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OR7YSzZj",
+          "hashes": {
+            "sha512": "a933da7765b7827359d0c7b3a081d4ffc07ddc38867c44fbf7c28adc64f24650290dee5ed9ed2f7359028235c8833a4a342421d16bce84ac0459e1995fa1522e",
+            "sha1": "3f3577635d61dcbdb215ce869c7a1947f03258d7"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/fitiSIpU/ImmediatelyFast-Forge-1.3.2%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.3.2+1.21.1.jar",
+          "primary": true,
+          "size": 444903,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "dYT65RCI",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.2",
+      "version_number": "1.3.2+1.21.1-fabric",
+      "changelog": "* Enforce text layer draw order (Fixes layering issues with custom fonts in server resource packs)\r\n* 1.21.2+ only: Readded Forge support\r\n* 1.21.2+ only: Fixed compatibility with NeoForge 21.3.23+\r\n",
+      "changelog_url": null,
+      "date_published": "2024-11-11T18:56:00.164628Z",
+      "downloads": 408568,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mlupv3no",
+          "hashes": {
+            "sha512": "63f531c0a6b5fa3b39eedf8828fe9ce59893904ebf577b4297e55efe3b9bc2135dbcdcb6b6c24f2634f7e18036ae05e82f4530538bfdd6fabde2b0a3bc5384e5",
+            "sha1": "ff455be35012823cfbd581fe45053b38cc8c9b83"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/dYT65RCI/ImmediatelyFast-Fabric-1.3.2%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.3.2+1.21.1.jar",
+          "primary": true,
+          "size": 240775,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "7e4NK5z2",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.1",
+      "version_number": "1.3.1+1.21.1-forge",
+      "changelog": "* Reverted fast buffer upload to old approach\r\n  * The previous method (Using a streaming buffer) didn't show much of an extra performance improvement, but was a lot more complex/error-prone and doesn't work on older GPUs.\r\n  * If you notice a significant performance drop or graphical glitches when updating to this version, please open an issue on the GitHub repository.\r\n* 1.21.2+ only: Fixed performance regression on Apple GPUs\r\n* 1.21.2+ only: Screen Batching: Only batch container items and chat screen\r\n* 1.21.2+ only: Added workaround for item cooldown render order issue\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-30T21:14:53.574181Z",
+      "downloads": 2248,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oIbzYdE0",
+          "hashes": {
+            "sha512": "7be6f122227bfa5e7fde853b13dca8e27add7867b8ab568230449599ba251592a47c547e40a3339ddc4a0a827f2aad9f63bf6ce9de00974f1cdacfd53faa2d34",
+            "sha1": "100193703d14ac085feaf1c63d140a909355611c"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/7e4NK5z2/ImmediatelyFast-Forge-1.3.1%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.3.1+1.21.1.jar",
+          "primary": true,
+          "size": 446145,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "M5MRuabk",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.1",
+      "version_number": "1.3.1+1.21.1-neoforge",
+      "changelog": "* Reverted fast buffer upload to old approach\r\n  * The previous method (Using a streaming buffer) didn't show much of an extra performance improvement, but was a lot more complex/error-prone and doesn't work on older GPUs.\r\n  * If you notice a significant performance drop or graphical glitches when updating to this version, please open an issue on the GitHub repository.\r\n* 1.21.2+ only: Fixed performance regression on Apple GPUs\r\n* 1.21.2+ only: Screen Batching: Only batch container items and chat screen\r\n* 1.21.2+ only: Added workaround for item cooldown render order issue\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-30T21:14:53.499524Z",
+      "downloads": 5826,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Rfi95YjD",
+          "hashes": {
+            "sha512": "ecb5bf795ea4b9ac3b4472322748b4ccff51f57a881cd01a019f7667ed058eb9c9b579ecb9eaae5ef082888583fa67b87c963e1887a2757fbbed36b733846d43",
+            "sha1": "7c0296f0decd556b4a866e40e5d85cc74f552f34"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/M5MRuabk/ImmediatelyFast-NeoForge-1.3.1%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.3.1+1.21.1.jar",
+          "primary": true,
+          "size": 263004,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "1jIYgnG2",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.1",
+      "version_number": "1.3.1+1.21.1-fabric",
+      "changelog": "* Reverted fast buffer upload to old approach\r\n  * The previous method (Using a streaming buffer) didn't show much of an extra performance improvement, but was a lot more complex/error-prone and doesn't work on older GPUs.\r\n  * If you notice a significant performance drop or graphical glitches when updating to this version, please open an issue on the GitHub repository.\r\n* 1.21.2+ only: Fixed performance regression on Apple GPUs\r\n* 1.21.2+ only: Screen Batching: Only batch container items and chat screen\r\n* 1.21.2+ only: Added workaround for item cooldown render order issue\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-30T21:14:53.328114Z",
+      "downloads": 186607,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NmuNn6Vi",
+          "hashes": {
+            "sha1": "6fa88ccc5399e54f4dea8279ec11e849a52f86c6",
+            "sha512": "a95f2fab727b6312af5b20352deda96267c36a8d285d767ee921fc15de701467616edb3472f3d8d9be43a7a66cd3b74fdd64b21326166208337b72cca22a21ed"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/1jIYgnG2/ImmediatelyFast-Fabric-1.3.1%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.3.1+1.21.1.jar",
+          "primary": true,
+          "size": 241995,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "GSWKcdTA",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.0",
+      "version_number": "1.3.0+1.21.1-forge",
+      "changelog": "* Added support for 1.21.2/1.21.3\r\n* Dropped support for 1.20.5/1.20.6\r\n* Fixed wolf collar rendering order\r\n* 1.21.2+ only: Rewrote fast buffer upload to have less overhead in high (1000+) FPS scenarios\r\n* 1.21.2+ only: Deprecated the ImmediatelyFast batching API. Mojang added basic batching into the DrawContext class. ImmediatelyFast now uses and extends this system, so the custom API is no longer needed. To migrate your mod, simply remove all calls to the ImmediatelyFast batching API and make sure to use the DrawContext for your HUD rendering.\r\n* 1.21.2+ only: Made experimental universal HUD batching more efficient\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-23T17:57:49.952449Z",
+      "downloads": 1392,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "w8HPIFJK",
+          "hashes": {
+            "sha512": "93578a64225f1d514ff032307fce8c519217bddc134dcd3b57b93782600fa1893259b6cf254f47df8ba2545122a7f11223c349559fc688dd309fbad0c505fc8e",
+            "sha1": "55f9c04614586abbb877503833046a63a5295511"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/GSWKcdTA/ImmediatelyFast-Forge-1.3.0%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 452158,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "HJBxSBAS",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.0",
+      "version_number": "1.3.0+1.21.1-neoforge",
+      "changelog": "* Added support for 1.21.2/1.21.3\r\n* Dropped support for 1.20.5/1.20.6\r\n* Fixed wolf collar rendering order\r\n* 1.21.2+ only: Rewrote fast buffer upload to have less overhead in high (1000+) FPS scenarios\r\n* 1.21.2+ only: Deprecated the ImmediatelyFast batching API. Mojang added basic batching into the DrawContext class. ImmediatelyFast now uses and extends this system, so the custom API is no longer needed. To migrate your mod, simply remove all calls to the ImmediatelyFast batching API and make sure to use the DrawContext for your HUD rendering.\r\n* 1.21.2+ only: Made experimental universal HUD batching more efficient\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-23T17:57:49.783814Z",
+      "downloads": 5292,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ic1vVJZp",
+          "hashes": {
+            "sha512": "3fd32d9e2316a1d9ea5a5f33b5cdc0ca9f32672f99f8aec98627cefdabe0138553670db641d05e10d621b19d8d44b5f4489f785ff2c1c8bd347490bc2e7aa627",
+            "sha1": "0d2562eea5ed1c973ebed04bb35ce31f97b35992"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/HJBxSBAS/ImmediatelyFast-NeoForge-1.3.0%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 269032,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "lQMxcaIl",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.3.0",
+      "version_number": "1.3.0+1.21.1-fabric",
+      "changelog": "* Added support for 1.21.2/1.21.3\r\n* Dropped support for 1.20.5/1.20.6\r\n* Fixed wolf collar rendering order\r\n* 1.21.2+ only: Rewrote fast buffer upload to have less overhead in high (1000+) FPS scenarios\r\n* 1.21.2+ only: Deprecated the ImmediatelyFast batching API. Mojang added basic batching into the DrawContext class. ImmediatelyFast now uses and extends this system, so the custom API is no longer needed. To migrate your mod, simply remove all calls to the ImmediatelyFast batching API and make sure to use the DrawContext for your HUD rendering.\r\n* 1.21.2+ only: Made experimental universal HUD batching more efficient\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-23T17:57:49.353704Z",
+      "downloads": 206515,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2WkLtybG",
+          "hashes": {
+            "sha512": "f078e888481f273ca304318427dcc068a73ef877aa4a89b9a0e205c0790fc9c2a0331e371c940b928068beef19cf4c590f48fb34e2cecebeb335059e4d61a0bb",
+            "sha1": "05783f56241876a7eb2613ddd8a2722b334b4bb6"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/lQMxcaIl/ImmediatelyFast-Fabric-1.3.0%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 248029,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "9uzR8GM6",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.2.21",
+      "version_number": "1.2.21+1.21.1-forge",
+      "changelog": "* Readded Forge support (1.20.6 and 1.21.1)\r\n* Improved compatibility with mods which don't render into the batching buffer while batching\r\n* Fixed text shadow layering issues when resource pack fonts are rendered\r\n* Fixed text display see through text rendering (Text is now visible)\r\n",
+      "changelog_url": null,
+      "date_published": "2024-08-28T20:29:43.031500Z",
+      "downloads": 12143,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kcd5RcyS",
+          "hashes": {
+            "sha512": "2f1e0f1af1cf6a37133868cc6de6bd51065abf7561d8f0772a188a557300bba5187ce7c9bb436598b908913a6a8dfa4fe2c3e41a56d9b1b9f4bc0134e6898cce",
+            "sha1": "f323df320693a9b5a564cf71c3be5955a9e2f2eb"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/9uzR8GM6/ImmediatelyFast-Forge-1.2.21%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Forge-1.2.21+1.21.1.jar",
+          "primary": true,
+          "size": 427997,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "ahszC7KU",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.2.21",
+      "version_number": "1.2.21+1.21.1-fabric",
+      "changelog": "* Readded Forge support (1.20.6 and 1.21.1)\r\n* Improved compatibility with mods which don't render into the batching buffer while batching\r\n* Fixed text shadow layering issues when resource pack fonts are rendered\r\n* Fixed text display see through text rendering (Text is now visible)\r\n",
+      "changelog_url": null,
+      "date_published": "2024-08-28T20:29:42.612518Z",
+      "downloads": 1391691,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eMFou1E9",
+          "hashes": {
+            "sha1": "46c17639a7c0bfec1f9fb4aae53f9163994a3a4e",
+            "sha512": "dd72a69b5dd2f395879c430ef28a90779ea684a1e5791bac2f552789163ddd3aba21cd8d1bea1c5a14292261101642519de360cf6d723043b44b6a2f1243ae9a"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/ahszC7KU/ImmediatelyFast-Fabric-1.2.21%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.2.21+1.21.1.jar",
+          "primary": true,
+          "size": 247961,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "e56VUDg2",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.2.21",
+      "version_number": "1.2.21+1.21.1-neoforge",
+      "changelog": "* Readded Forge support (1.20.6 and 1.21.1)\r\n* Improved compatibility with mods which don't render into the batching buffer while batching\r\n* Fixed text shadow layering issues when resource pack fonts are rendered\r\n* Fixed text display see through text rendering (Text is now visible)\r\n",
+      "changelog_url": null,
+      "date_published": "2024-08-28T20:29:42.425194Z",
+      "downloads": 36823,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1liX01gf",
+          "hashes": {
+            "sha1": "389cdb5617308761f2aa95664a1aeb9eb72f1e14",
+            "sha512": "75485d6a9b94884d21431785fc300364be71f4e6346186573d8b545b03d3c813ae3e0a7bd8d072c68099849d4287c07a9a2568cd36311a4d93e9ce33bbd2cd59"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/e56VUDg2/ImmediatelyFast-NeoForge-1.2.21%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.2.21+1.21.1.jar",
+          "primary": true,
+          "size": 268905,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "ZzknynUP",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.2.20",
+      "version_number": "1.2.20+1.21.1-neoforge",
+      "changelog": "**v1.2.20 Changelog**\r\n* Hotfix mod compatibility issues introduced in v1.2.19\r\n\r\n**v1.2.19 Changelog**\r\n* Added support for Minecraft 1.21.1 (Fabric + NeoForge)\r\n* Updated libraries\r\n* Fixed screen batching conflict with PolyLib\r\n* Added support for custom glint RenderLayers\r\n* Fixed compatibility issues with mods rendering custom item overlays\r\n* Fixed performance issues with negative width glyphs\r\n* Fixed armor trim rendering order\r\n",
+      "changelog_url": null,
+      "date_published": "2024-08-10T22:55:51.494899Z",
+      "downloads": 12082,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ymojdNk6",
+          "hashes": {
+            "sha512": "e6ae8d365b1f8b49f11dee56905b10749392230c781b70709f5894f0b692657ee668d9864e4a9db797b387600d432c2ffae51653f4057a0ff1cf06c8a543b4b1",
+            "sha1": "d51c8a73fc663b0dbadc7231dfda0961ad0a2d46"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/ZzknynUP/ImmediatelyFast-NeoForge-1.2.20%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.2.20+1.21.1.jar",
+          "primary": true,
+          "size": 267501,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "jMIMrEow",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.2.20",
+      "version_number": "1.2.20+1.21.1-fabric",
+      "changelog": "**v1.2.20 Changelog**\r\n* Hotfix mod compatibility issues introduced in v1.2.19\r\n\r\n**v1.2.19 Changelog**\r\n* Added support for Minecraft 1.21.1 (Fabric + NeoForge)\r\n* Updated libraries\r\n* Fixed screen batching conflict with PolyLib\r\n* Added support for custom glint RenderLayers\r\n* Fixed compatibility issues with mods rendering custom item overlays\r\n* Fixed performance issues with negative width glyphs\r\n* Fixed armor trim rendering order\r\n",
+      "changelog_url": null,
+      "date_published": "2024-08-10T22:55:51.238684Z",
+      "downloads": 1009549,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FFDwqd1k",
+          "hashes": {
+            "sha512": "c400315a809c35bdab4435831b3c7c1ccf6b654caa706d0412261bb262baccd337d9297927d669372211dacfd60164d0d343f9c78df92f08293343d69371e37a",
+            "sha1": "fd934e30da1d2547325591656aca816d8d3fc608"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/jMIMrEow/ImmediatelyFast-Fabric-1.2.20%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.2.20+1.21.1.jar",
+          "primary": true,
+          "size": 246525,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "1wCtstqk",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.2.19",
+      "version_number": "1.2.19+1.21.1-fabric",
+      "changelog": "* Added support for Minecraft 1.21.1 (Fabric + NeoForge)\r\n* Updated libraries\r\n* Fixed screen batching conflict with PolyLib\r\n* Added support for custom glint RenderLayers\r\n* Fixed compatibility issues with mods rendering custom item overlays\r\n* Fixed performance issues with negative width glyphs\r\n* Fixed armor trim rendering order\r\n",
+      "changelog_url": null,
+      "date_published": "2024-08-08T18:47:41.711013Z",
+      "downloads": 97137,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NhHa1uSU",
+          "hashes": {
+            "sha1": "05d50439aa8f53c9c6a636daf50d73e185706936",
+            "sha512": "93282cbfab6494196c5b6dbbfab8826cf371aed3e41937963c897c58eeba813077a333b254304d0c5c12191c7630db2617c1ec9188c0e934daed623003d35df1"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/1wCtstqk/ImmediatelyFast-Fabric-1.2.19%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-Fabric-1.2.19+1.21.1.jar",
+          "primary": true,
+          "size": 246535,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "scqbRe6G",
+      "project_id": "5ZwdcRci",
+      "author_id": "XEedK03N",
+      "featured": false,
+      "name": "ImmediatelyFast 1.2.19",
+      "version_number": "1.2.19+1.21.1-neoforge",
+      "changelog": "* Added support for Minecraft 1.21.1 (Fabric + NeoForge)\r\n* Updated libraries\r\n* Fixed screen batching conflict with PolyLib\r\n* Added support for custom glint RenderLayers\r\n* Fixed compatibility issues with mods rendering custom item overlays\r\n* Fixed performance issues with negative width glyphs\r\n* Fixed armor trim rendering order\r\n",
+      "changelog_url": null,
+      "date_published": "2024-08-08T18:47:41.647562Z",
+      "downloads": 643,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "npivvAY5",
+          "hashes": {
+            "sha1": "5eca47060f8ba42c8d8ac04fb41f3680e6f0c03a",
+            "sha512": "c6418dcd4065695fd3f2b31912f12f0f8a8680821a59c8f83f1fac3d577f90d89df60bc0c9b5ab2525cadd1471769e4a5829fceda43395605a8a004f23a6cf07"
+          },
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/scqbRe6G/ImmediatelyFast-NeoForge-1.2.19%2B1.21.1.jar",
+          "filename": "ImmediatelyFast-NeoForge-1.2.19+1.21.1.jar",
+          "primary": true,
+          "size": 267532,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

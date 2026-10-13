@@ -1,0 +1,92 @@
+{
+  "url": "https://api.modrinth.com/v2/project/jJfV67b1/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:49.581426+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZkgKf4xj",
+      "project_id": "jJfV67b1",
+      "author_id": "iBpwljlP",
+      "featured": false,
+      "name": "Citadel 2.7.1",
+      "version_number": "2.7.1",
+      "changelog": "-fixed citadel breaking other mod's surface rules\n-fix book lighting of entities\n-tweaked pathfinding, collision and rendering logic",
+      "changelog_url": null,
+      "date_published": "2026-07-18T21:33:06.144816Z",
+      "downloads": 74045,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4tvnycC6",
+          "hashes": {
+            "sha1": "9d7873f74b418f4f83adf2ae41af75d2e8217cd6",
+            "sha512": "e0d1988b9274a43fae5b5c77d022213143d2cb22a8e22caa8e38d13da35d5914cae3c97eefcc1f029afd9481f8db3362bb19ea8bd9ef18b809df15dc37570227"
+          },
+          "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/ZkgKf4xj/citadel-2.7.1-1.21.1.jar",
+          "filename": "citadel-2.7.1-1.21.1.jar",
+          "primary": true,
+          "size": 3033076,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uzrkhBpn",
+      "project_id": "jJfV67b1",
+      "author_id": "iBpwljlP",
+      "featured": false,
+      "name": "Citadel 2.7.0",
+      "version_number": "2.7.0",
+      "changelog": "- Release for 1.21.1\n- Fixed server side memory leak pertaining to world data loading",
+      "changelog_url": null,
+      "date_published": "2026-01-17T18:19:36.192622Z",
+      "downloads": 122440,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9HL470Xx",
+          "hashes": {
+            "sha512": "d77d8d25279d877ef94f1e48e770547ba2fbee2f01ed151aa932c6e36ed5dd7f846db096f7b1f9c13f49a3e2fd5de434d20a0924a3232e06d20c7ca5f46e47f6",
+            "sha1": "01b18dfa37528aebd63b49874c9ac7795a4fc084"
+          },
+          "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/uzrkhBpn/citadel-2.7.0-1.21.1.jar",
+          "filename": "citadel-2.7.0-1.21.1.jar",
+          "primary": true,
+          "size": 3033192,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

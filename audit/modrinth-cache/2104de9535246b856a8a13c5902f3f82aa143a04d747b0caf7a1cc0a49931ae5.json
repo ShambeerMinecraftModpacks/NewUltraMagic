@@ -1,0 +1,567 @@
+{
+  "url": "https://api.modrinth.com/v2/project/ePv85y52/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:51.978444+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AoOYPAOZ",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[NEOFORGE] [1.21.1] EnchantingInfuser-v21.1.4",
+      "version_number": "v21.1.4-1.21.1-NeoForge",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.4-1.21.1] - 2026-03-30\n\n### Fixed\n\n- Fix `maximum_cost` config option not applying correctly\n\n## [v21.1.3-1.21.1] - 2025-12-19\n\n### Fixed\n\n- Fix no experience points awarded for removing enchantments\n\n## [v21.1.2-1.21.1] - 2025-08-11\n\n### Added\n\n- Add a bundled data pack for enabling treasure enchantments like mending for both enchanting infusers\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2026-03-30T08:27:41.807875Z",
+      "downloads": 175517,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aNANMT3u",
+          "hashes": {
+            "sha1": "62bfa1cf50abeb3034cd4477e6c995e16ab7965c",
+            "sha512": "2f99f87e8ebfbbb19aeb3e92844e24cb0d6f88c5aadc146779963a1a3276f1212debfd7461c740f313991ee2fcfc5046f1199fc7611976d618c5b204ce60e295"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/AoOYPAOZ/EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar",
+          "filename": "EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar",
+          "primary": true,
+          "size": 200056,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "lBRm6Aii",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[FABRIC] [1.21.1] EnchantingInfuser-v21.1.4",
+      "version_number": "v21.1.4-1.21.1-Fabric",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.4-1.21.1] - 2026-03-30\n\n### Fixed\n\n- Fix `maximum_cost` config option not applying correctly\n\n## [v21.1.3-1.21.1] - 2025-12-19\n\n### Fixed\n\n- Fix no experience points awarded for removing enchantments\n\n## [v21.1.2-1.21.1] - 2025-08-11\n\n### Added\n\n- Add a bundled data pack for enabling treasure enchantments like mending for both enchanting infusers\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2026-03-30T08:27:33.300541Z",
+      "downloads": 126329,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "181hNuEX",
+          "hashes": {
+            "sha512": "62311364da8480633f082b1e05fff2503a189c06c54ca9600ebca5b06b3b4c15038e9f25d9eab062ac2ff4e6d938e6856603cf9846666bdb0deaa9563a021552",
+            "sha1": "b48335c0eacd0a5a2512cfab4fea8e7d68e7b28f"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/lBRm6Aii/EnchantingInfuser-v21.1.4-1.21.1-Fabric.jar",
+          "filename": "EnchantingInfuser-v21.1.4-1.21.1-Fabric.jar",
+          "primary": true,
+          "size": 192439,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yDca44W2",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[NEOFORGE] [1.21.1] EnchantingInfuser-v21.1.3",
+      "version_number": "v21.1.3-1.21.1-NeoForge",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.3-1.21.1] - 2025-12-19\n\n### Fixed\n\n- Fix no experience points awarded for removing enchantments\n\n## [v21.1.2-1.21.1] - 2025-08-11\n\n### Added\n\n- Add a bundled data pack for enabling treasure enchantments like mending for both enchanting infusers\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-12-19T20:11:14.504239Z",
+      "downloads": 112599,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "160DlLnV",
+          "hashes": {
+            "sha512": "0a1c3921e27a9f90c5c891405ffbef49c97c18fdf5e0df0d17ae4b1992eb1aad070f8dd0c114dbb555d78adc5d3661dfaa236dd2c3a7a74283454798bc75b5bf",
+            "sha1": "849dd049f5fd7a0b5264c26541504a913e84c51a"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/yDca44W2/EnchantingInfuser-v21.1.3-1.21.1-NeoForge.jar",
+          "filename": "EnchantingInfuser-v21.1.3-1.21.1-NeoForge.jar",
+          "primary": true,
+          "size": 200112,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "v0SRTqsp",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[FABRIC] [1.21.1] EnchantingInfuser-v21.1.3",
+      "version_number": "v21.1.3-1.21.1-Fabric",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.3-1.21.1] - 2025-12-19\n\n### Fixed\n\n- Fix no experience points awarded for removing enchantments\n\n## [v21.1.2-1.21.1] - 2025-08-11\n\n### Added\n\n- Add a bundled data pack for enabling treasure enchantments like mending for both enchanting infusers\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-12-19T20:11:07.231508Z",
+      "downloads": 110366,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FkgJ1l8N",
+          "hashes": {
+            "sha1": "85230becd683671279a1a07a02f190e8e9d99f2b",
+            "sha512": "d1ccd3259f9a2ab93e0e3e4a48b30192839644d1c2d82141fe46c79ee306665c46ca4effd99462cf275ca782b0f5bbe6639f5d0aca62a9cc25c05a749b43b5f5"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/v0SRTqsp/EnchantingInfuser-v21.1.3-1.21.1-Fabric.jar",
+          "filename": "EnchantingInfuser-v21.1.3-1.21.1-Fabric.jar",
+          "primary": true,
+          "size": 192494,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "beXGbkoY",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[NEOFORGE] [1.21.1] EnchantingInfuser-v21.1.2",
+      "version_number": "v21.1.2-1.21.1-NeoForge",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.2-1.21.1] - 2025-08-11\n\n### Added\n\n- Add a bundled data pack for enabling treasure enchantments like mending for both enchanting infusers\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-08-11T08:02:22.728575Z",
+      "downloads": 82133,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LDD4Xxhx",
+          "hashes": {
+            "sha1": "baa1b43517b546e42dc75ba75dd42f0eaf34e86a",
+            "sha512": "6241679087afba18a89574f2565f66b3efffc3c0849db60f943261dfb9b8fd0923075280fa3b3962974440cc0212945a99ef142148c3ae5b6372c2a274cc1631"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/beXGbkoY/EnchantingInfuser-v21.1.2-1.21.1-NeoForge.jar",
+          "filename": "EnchantingInfuser-v21.1.2-1.21.1-NeoForge.jar",
+          "primary": true,
+          "size": 200085,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "8Myn7TRZ",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[FABRIC] [1.21.1] EnchantingInfuser-v21.1.2",
+      "version_number": "v21.1.2-1.21.1-Fabric",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.2-1.21.1] - 2025-08-11\n\n### Added\n\n- Add a bundled data pack for enabling treasure enchantments like mending for both enchanting infusers\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-08-11T08:02:15.208314Z",
+      "downloads": 79903,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5ul95C0W",
+          "hashes": {
+            "sha1": "dd516646b83976faf24fbb5618fca15c4be1cfe2",
+            "sha512": "a137119b4a90b8de1205301167d9e73e80b1efa8ee5ade0291a09c7a2fada5938bd507a9d206344f483804d2424bd03059af8f70bd53a57f6409ee51ae87d5b8"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/8Myn7TRZ/EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar",
+          "filename": "EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar",
+          "primary": true,
+          "size": 192467,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9rPpDiqt",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[NEOFORGE] [1.21.1] EnchantingInfuser-v21.1.1",
+      "version_number": "v21.1.1-1.21.1-NeoForge",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-07-31T22:37:45.044135Z",
+      "downloads": 5046,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3nxXci3g",
+          "hashes": {
+            "sha1": "081d7f138a486d496c3d2bd4b37c0e1709483986",
+            "sha512": "c8bf63d596424011ce0fdd6b7892a7bd3202ac9ffe3846cf8d7c971ccb3cf7724712c0a1234578b426d8628e35b73a0cae5dbcadcc95c8a82528508da0bf0af6"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/9rPpDiqt/EnchantingInfuser-v21.1.1-1.21.1-NeoForge.jar",
+          "filename": "EnchantingInfuser-v21.1.1-1.21.1-NeoForge.jar",
+          "primary": true,
+          "size": 191295,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "ltB1N9OI",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[FABRIC] [1.21.1] EnchantingInfuser-v21.1.1",
+      "version_number": "v21.1.1-1.21.1-Fabric",
+      "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.1-1.21.1] - 2025-08-01\n\n### Fixed\n\n- Fix crash with [Combat+ Core](https://modrinth.com/mod/combatplus-core) mod\n\n## [v21.1.0-1.21.1] - 2025-01-17\n\n### Changed\n\n- Port to Minecraft 1.21.1\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n    - `enchantinginfuser:in_enchanting_infuser`\n    - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily\n  cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n\n### Removed\n\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-07-31T22:37:37.919418Z",
+      "downloads": 4877,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "guj8vSF5",
+          "hashes": {
+            "sha512": "5ef88b3e614cccb81a64920bae087119a6eb455226e2343ff079bb7291e613b78119f405f2249b6689ad0a1b88e98627bf5363c54f11a575a9fa07e8254e8de9",
+            "sha1": "c06528a7564c70061db443e9278c9abd5febbac1"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/ltB1N9OI/EnchantingInfuser-v21.1.1-1.21.1-Fabric.jar",
+          "filename": "EnchantingInfuser-v21.1.1-1.21.1-Fabric.jar",
+          "primary": true,
+          "size": 183863,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "67Sh09hh",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[NEOFORGE] [1.21.1] EnchantingInfuser-v21.1.0",
+      "version_number": "v21.1.0-1.21.1-NeoForge",
+      "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.0-1.21.1] - 2025-01-17\n- Port to Minecraft 1.21.1\n### Changed\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n  - `enchantinginfuser:in_enchanting_infuser`\n  - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n### Removed\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-01-17T23:24:20.882645Z",
+      "downloads": 52941,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ar9CDiIm",
+          "hashes": {
+            "sha512": "9ad01782c4e95dc8861611f2d8b5f7ff731c25fc076ad9115f38abf0bd7a637ebd7eb2179972a213a311f9a6b29876a1b66c22feebb377472cb95065986411c0",
+            "sha1": "ad7fb26afd1130ccc5eb32c823556be9f2dde732"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/67Sh09hh/EnchantingInfuser-v21.1.0-1.21.1-NeoForge.jar",
+          "filename": "EnchantingInfuser-v21.1.0-1.21.1-NeoForge.jar",
+          "primary": true,
+          "size": 191339,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "77TOfopW",
+      "project_id": "ePv85y52",
+      "author_id": "rHdGpxOA",
+      "featured": false,
+      "name": "[FABRIC] [1.21.1] EnchantingInfuser-v21.1.0",
+      "version_number": "v21.1.0-1.21.1-Fabric",
+      "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v21.1.0-1.21.1] - 2025-01-17\n- Port to Minecraft 1.21.1\n### Changed\n- Controlling which enchantments show up in an infuser is now done via enchantment tags:\n  - `enchantinginfuser:in_enchanting_infuser`\n  - `enchantinginfuser:in_advanced_enchanting_infuser`\n- Modernize enchanting infuser interface\n- Rework how enchantments are made available in an infuser based on enchanting power (surrounding bookshelves)\n- Rework enchantment cost calculations to fix some edge cases where adding an enchantment level would not necessarily cost any experience levels and disenchanting sometimes costing experience, instead of providing some to the player\n### Removed\n- Remove a bunch of old config options that are no longer necessary / supported for the new implementation",
+      "changelog_url": null,
+      "date_published": "2025-01-17T23:24:13.740607Z",
+      "downloads": 57125,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YEuKgzNB",
+          "hashes": {
+            "sha1": "e8536cfe25f8c29ccfcae2099438410f838f7588",
+            "sha512": "63a7ac557d66d734db94ca22b0d622de899a2d9030a8affa6af73b40637c665301b01f5324c271ca5937295cbd3c963a2666c8f40c241dfcbeb3a995909157bf"
+          },
+          "url": "https://cdn.modrinth.com/data/ePv85y52/versions/77TOfopW/EnchantingInfuser-v21.1.0-1.21.1-Fabric.jar",
+          "filename": "EnchantingInfuser-v21.1.0-1.21.1-Fabric.jar",
+          "primary": true,
+          "size": 183921,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5WeWGLoJ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "QAGBst4M",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

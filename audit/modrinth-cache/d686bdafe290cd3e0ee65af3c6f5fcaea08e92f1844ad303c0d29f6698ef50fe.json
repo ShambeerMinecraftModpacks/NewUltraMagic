@@ -1,0 +1,1376 @@
+{
+  "url": "https://api.modrinth.com/v2/project/Ck4E7v7R/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:36.024613+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hFpGwC6q",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": true,
+      "name": "GuideME 21.1.19",
+      "version_number": "21.1.19",
+      "changelog": "- Fix startup crash\r\n- Fix showing guides on startup during developments with modded datapack registries\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.18...v21.1.19",
+      "changelog_url": null,
+      "date_published": "2026-09-16T17:18:45.961167Z",
+      "downloads": 58326,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mXYY0B89",
+          "hashes": {
+            "sha1": "e85cd4c266f974dd360c46e8dad7ecf4c7ee96c6",
+            "sha512": "4dfa132e5cfd69a86c958867067f1c5ab39bb69ae35b2a62c24bb9924e9c688f1a4930ab75d335b22378d9f98cd7fceae8d030812b8f90c9aa282de8ea129f5a"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/hFpGwC6q/guideme-21.1.19.jar",
+          "filename": "guideme-21.1.19.jar",
+          "primary": true,
+          "size": 9311992,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GyilxTID",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.18",
+      "version_number": "21.1.18",
+      "changelog": "- Fix navigation icon data components not being able to use registries\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.17...v21.1.18",
+      "changelog_url": null,
+      "date_published": "2026-09-15T17:19:15.900331Z",
+      "downloads": 2541,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WAEtb5Hl",
+          "hashes": {
+            "sha1": "21c3d68c5235820fb72bb42fc835b7c2b6c6fafa",
+            "sha512": "c0122015fa63938afc59f94f95d8242c0df4d5bb30977e7125d67dec791d475da1f956c441033f09cee2851c5c076f808252fcddd66e656b365e62f6132bc776"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/GyilxTID/guideme-21.1.18.jar",
+          "filename": "guideme-21.1.18.jar",
+          "primary": true,
+          "size": 9309562,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "rduAfwb7",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.17",
+      "version_number": "21.1.17",
+      "changelog": "- Defensively copy the contents of recipe slots to prevent accidental modification of the underlying ingredient by addons.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.16...v21.1.17",
+      "changelog_url": null,
+      "date_published": "2026-07-12T19:49:01.738873Z",
+      "downloads": 181813,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "b8Pd8VQa",
+          "hashes": {
+            "sha512": "8b5d8cf7592d7b4759f5347c5acd1b0eb46403437b10b900f535e4cdde59ab1b37d57b71f3f67cdc99a66d55ad5d760f51b55ba2bc50aecf538f8572003e4cbf",
+            "sha1": "060e374f578db694a0b8f3ad409bd424cae86359"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/rduAfwb7/guideme-21.1.17.jar",
+          "filename": "guideme-21.1.17.jar",
+          "primary": true,
+          "size": 9309396,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bFr2FBaJ",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.16",
+      "version_number": "21.1.16",
+      "changelog": "Backported the ability to hide the background of LytSlot (addon api).\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.15...v21.1.16",
+      "changelog_url": null,
+      "date_published": "2026-05-22T21:56:14.727466Z",
+      "downloads": 112690,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jwOuVzNU",
+          "hashes": {
+            "sha512": "52bc29671cb378045fc22598575f32ff80e4483e88aff75674d881ff49933a3e96ee9e424996ddaa52b63d9fdeb2ea0a993bf3fec5f6daf43e3142c0f973e192",
+            "sha1": "6c89cb18fd426a5dd851dd30ec72f02cb8bbcce7"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/bFr2FBaJ/guideme-21.1.16.jar",
+          "filename": "guideme-21.1.16.jar",
+          "primary": true,
+          "size": 9309277,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ILW6vM7o",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.15",
+      "version_number": "21.1.15",
+      "changelog": "Backported data component support for ItemLinks from 21.10-2-beta. Same format as for ItemImage and other tags supporting data components.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.14...v21.1.15",
+      "changelog_url": null,
+      "date_published": "2025-10-19T22:31:24.388133Z",
+      "downloads": 447189,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Lteahqw2",
+          "hashes": {
+            "sha1": "924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5",
+            "sha512": "4a35b2d9ae3958cb9e152757223b0fc0f85ed2c55da2c3bb773b9a353cf5db15e4294ac2b6d897c0d7c82674dd86c084dd2e35fb80b5bcf92067735c03288edc"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/ILW6vM7o/guideme-21.1.15.jar",
+          "filename": "guideme-21.1.15.jar",
+          "primary": true,
+          "size": 9309183,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "fTbylf08",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.14",
+      "version_number": "21.1.14",
+      "changelog": "Backporting the following changes from 21.8.1:\r\n\r\n- Fixed error on startup complaining about an incubating JDK feature (vector), and the subsequent crash when that feature was actually enabled.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.13...v21.1.14",
+      "changelog_url": null,
+      "date_published": "2025-07-25T23:39:11.070247Z",
+      "downloads": 176255,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KM8IkIEO",
+          "hashes": {
+            "sha1": "70f385e3abdd51ef455ecd0739910040f3d5a3f9",
+            "sha512": "443d6de4dcee59bf2650bf5f7fdb14ae44017353bb69ec380b0eaf76ccc7b407d9e6c3d8b7572df6e6c524514ade7fb77ff507cc75f7356e0a555c3f4f14c143"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/fTbylf08/guideme-21.1.14.jar",
+          "filename": "guideme-21.1.14.jar",
+          "primary": true,
+          "size": 9308969,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tXH7e2zY",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.13",
+      "version_number": "21.1.13",
+      "changelog": "Backporting the following changes from 21.5.9-beta:\r\n\r\n- Fix text in floating elements disappearing while scrolling.\r\n- Fix layout of game scenes still including the vertical toolbar even if it was hidden.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.12...v21.1.13\r\n",
+      "changelog_url": null,
+      "date_published": "2025-06-23T21:04:12.204209Z",
+      "downloads": 41570,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HcZAz38Y",
+          "hashes": {
+            "sha1": "bd6050c78ac5adb84c67a6f32f6bd8fa51a67323",
+            "sha512": "9459d61579e664a96e8db2aaba8ef1a7b6a28c130c649ea974593f4a691ff326b2cda26aa00f32ce6df8501624703b079d93e712f08ff117930631d48c6459d7"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/tXH7e2zY/guideme-21.1.13.jar",
+          "filename": "guideme-21.1.13.jar",
+          "primary": true,
+          "size": 9307542,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qRC2AU31",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.12",
+      "version_number": "21.1.12",
+      "changelog": "Backports the following from 21.5.8-beta:\r\n- Add support for [templating annotations in game scenes](https://guideme.appliedenergistics.org/authoring/game-scenes#block-annotation-templates). This allows you to apply annotations to specific blocks in the scene by type rather than position.\r\n- Add the ability to position structures when they are placed by <ImportStructure /> using the new pos=\"x y z\" attribute. This change allows the same structure to be added multiple times to a scene at different positions.\r\n- Add a new <RemoveBlock id=\"...\" /> tag to game scenes to clear out tags of a given type. This is useful for clearing out support blocks from structures after they have been imported into a scene. See the [game scene documentation](https://guideme.appliedenergistics.org/authoring/game-scenes#remove-blocks) for details.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.11...v21.1.12",
+      "changelog_url": null,
+      "date_published": "2025-06-21T14:50:59.055264Z",
+      "downloads": 1578,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1ukn61yI",
+          "hashes": {
+            "sha512": "f7b3f5a9e7b981caa6607dbdf3ba605cb32038175e98e70b4d09dd5b9239b4679a2243ef80f6454f224eb02b327ec58f01ab52bf6831e5936e7f6156bf589133",
+            "sha1": "3149679c77dc346478b91d09926590784d127ddb"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/qRC2AU31/guideme-21.1.12.jar",
+          "filename": "guideme-21.1.12.jar",
+          "primary": true,
+          "size": 9307546,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "i3Dj1DYf",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.11",
+      "version_number": "21.1.11",
+      "changelog": "Backports the changes from [GuideME 21.5.7-beta](https://guideme.appliedenergistics.org/changelog/#2157-beta-minecraft-1215).\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.10...v21.1.11",
+      "changelog_url": null,
+      "date_published": "2025-06-19T23:14:28.943960Z",
+      "downloads": 1576,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6DwzALr0",
+          "hashes": {
+            "sha1": "b3b2cc7ccbd47bf573ed05144f04cabf82e465d4",
+            "sha512": "889f948ec59bc0d9543639c051c313065ef8d77ce264f1b3a5ef0ca8e0fa13d6ba1951613ed093fc2eef905c6e831b8e5ae58a17b4bbcb3171dccf9355bd8ec8"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/i3Dj1DYf/guideme-21.1.11.jar",
+          "filename": "guideme-21.1.11.jar",
+          "primary": true,
+          "size": 9301871,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "OfYs7zqx",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.10",
+      "version_number": "21.1.10",
+      "changelog": "Backported the following features from GuideME 21.5.5-beta:\r\n\r\n- Added `<PlayerName />` tag\r\n- Added `<KeyBind id=\"...\" />` tag\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.9...v21.1.10",
+      "changelog_url": null,
+      "date_published": "2025-06-15T15:50:26.558705Z",
+      "downloads": 11295,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DmoV9gFo",
+          "hashes": {
+            "sha512": "6c230690e679666e87fcfa98f81feabd724e102381b872a5495db80421d632b864c295dd680454622c46916ca6d0f71a7b543188e03eee013914feaff005e5b3",
+            "sha1": "a7b31fa4f8cdbb28459441ecd6d7834266eb844e"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/OfYs7zqx/guideme-21.1.10.jar",
+          "filename": "guideme-21.1.10.jar",
+          "primary": true,
+          "size": 9298750,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9aIv5HxH",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.9",
+      "version_number": "21.1.9",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#2119-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.8...v21.1.9",
+      "changelog_url": null,
+      "date_published": "2025-05-02T17:15:27.929044Z",
+      "downloads": 39061,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gp5iZ9o5",
+          "hashes": {
+            "sha512": "06c975505e6d3aafa8df4011ea78a2cb5763f59239196b043cd2a58f648c33eda7a54481532d8524a2e1e242ac3162db08a3be93e87414ca310e22b1865a9100",
+            "sha1": "7a50b822de6519a796e25d79201c865cfc6b8e3d"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/9aIv5HxH/guideme-21.1.9.jar",
+          "filename": "guideme-21.1.9.jar",
+          "primary": true,
+          "size": 9296562,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "k7QwRTdT",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.8",
+      "version_number": "21.1.8",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog#2118-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.7...v21.1.8",
+      "changelog_url": null,
+      "date_published": "2025-04-07T19:41:47.014624Z",
+      "downloads": 22614,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "72EwAQBf",
+          "hashes": {
+            "sha1": "9092f2317c459f99ea5d2932fee8dbb5dff6ae36",
+            "sha512": "561ca9f564f25701ec57acb8a88107fddf4e3f4db400e4ac0a7ab33a7d0419344f26eadd2a3048c87e995bbbc2e78d96f257b5c0726c98c72c55c92fa7e2b936"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/k7QwRTdT/guideme-21.1.8.jar",
+          "filename": "guideme-21.1.8.jar",
+          "primary": true,
+          "size": 9295046,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZT6SDp8y",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.7",
+      "version_number": "21.1.7",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog#2117-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.6...v21.1.7",
+      "changelog_url": null,
+      "date_published": "2025-04-03T19:18:40.610485Z",
+      "downloads": 13441,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2H5PaGVI",
+          "hashes": {
+            "sha1": "b7b97fa793324c47ff0834bfd69b7a9fc90a740f",
+            "sha512": "edfd2fb3c364deea1fee456191fc20be243898e715305b317f1b5df67c176774b781abb7e67fe46c90959f752cfb957186e43d8208f45391d3996c28c307aa0f"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/ZT6SDp8y/guideme-21.1.7.jar",
+          "filename": "guideme-21.1.7.jar",
+          "primary": true,
+          "size": 9295107,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "z9pvLwQu",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.6",
+      "version_number": "21.1.6",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog#2116-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.5...v21.1.6",
+      "changelog_url": null,
+      "date_published": "2025-03-22T12:31:11.864978Z",
+      "downloads": 6853,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pKhQKIHx",
+          "hashes": {
+            "sha1": "e41741a84faeb55d52cd854722db55aeb8069c0f",
+            "sha512": "6adffa8155fdd0a0b1e6a01bfb6a8d88c2b80ee9884b95d6b677681133b089e9095fe5517e24a2fc96f968fae1461440352febe4be8aa8f40ddbc66894f05959"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/z9pvLwQu/guideme-21.1.6.jar",
+          "filename": "guideme-21.1.6.jar",
+          "primary": true,
+          "size": 9294748,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9bFR1hey",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.5",
+      "version_number": "21.1.5",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog#2115-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.4...v21.1.5",
+      "changelog_url": null,
+      "date_published": "2025-03-10T23:03:10.184863Z",
+      "downloads": 7884,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BprEAUAc",
+          "hashes": {
+            "sha512": "9486dc603e41d4efc465981dc8301caf41f0d487280604667390183d4e900be036d55def3892aeb55f0a9b4e0874d6fbdc229a7de130e821c32f35419eb128ec",
+            "sha1": "52160a65e4e63e4883f99193b6e29fdcd1eecb87"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/9bFR1hey/guideme-21.1.5.jar",
+          "filename": "guideme-21.1.5.jar",
+          "primary": true,
+          "size": 9291610,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "UZdn4CrG",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.4",
+      "version_number": "21.1.4",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#2114-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.3...v21.1.4",
+      "changelog_url": null,
+      "date_published": "2025-03-09T11:37:10.288614Z",
+      "downloads": 1472,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "p2TKl9yx",
+          "hashes": {
+            "sha1": "49b67e1ae1d0c4b8ca20707b1fdfe5190c201cb9",
+            "sha512": "f6d2d9483548361765263e120e265cb093462995e264dedd08cbc9143339a3fcc53458973e3ab7461e32b4d96229ae5a11fa401ab972f81d85a1f6aac6986f2e"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/UZdn4CrG/guideme-21.1.4.jar",
+          "filename": "guideme-21.1.4.jar",
+          "primary": true,
+          "size": 9291534,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "q4vfSfnf",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.3",
+      "version_number": "21.1.3",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog#2113-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.2...v21.1.3",
+      "changelog_url": null,
+      "date_published": "2025-03-09T01:07:40.271531Z",
+      "downloads": 372,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZtnD6ED6",
+          "hashes": {
+            "sha1": "d979b4950559e1d1b660c7eb6624e353a44f6a1f",
+            "sha512": "324256abebb6a0c879889b38f7021e5797a9e5e4a4af3335d2c57f5f09d8c8fb43c3eb90cd95294ca2adb83c3291ea6a52cb47c059c067e9d6ae07a03893bd2f"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/q4vfSfnf/guideme-21.1.3.jar",
+          "filename": "guideme-21.1.3.jar",
+          "primary": true,
+          "size": 9291305,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "OxZVGdoc",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.2",
+      "version_number": "21.1.2",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog#2112-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.1...v21.1.2",
+      "changelog_url": null,
+      "date_published": "2025-03-08T11:25:17.072716Z",
+      "downloads": 592,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QqPzn9DL",
+          "hashes": {
+            "sha512": "faa9374170f6f29c0c3fdd818518fe7926c38202c68bca9bedd644940868b0ff57ab74ac4aead69d4749560fd9ebcbd782a16924c1958e630cfb4046792ff531",
+            "sha1": "772ba1e3351c43d637050a71052a5b4086116a15"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/OxZVGdoc/guideme-21.1.2.jar",
+          "filename": "guideme-21.1.2.jar",
+          "primary": true,
+          "size": 9291689,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "PALpfSdf",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.1",
+      "version_number": "21.1.1",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog#2111-minecraft-1211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v21.1.0...v21.1.1",
+      "changelog_url": null,
+      "date_published": "2025-02-23T01:16:22.204728Z",
+      "downloads": 11293,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ce1aer19",
+          "hashes": {
+            "sha1": "5b0b0860be162db359e9caba32aad0e81357ea4b",
+            "sha512": "f6f53555e80dc7cd61a1913bd59219dcbe9e7ad9ffc61afc552a66d36c7990098fd508605b0b83324e8718c4939d9164cce12d67a1d19a801dbf92d05ba49ba3"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/PALpfSdf/guideme-21.1.1.jar",
+          "filename": "guideme-21.1.1.jar",
+          "primary": true,
+          "size": 9291675,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MfzKuNeT",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 21.1.0",
+      "version_number": "21.1.0",
+      "changelog": "This is the first version switching to the NeoForge versioning scheme. It follows directly to version 2.6.0.\r\n\r\nSee https://guideme.appliedenergistics.org/changelog#2110-minecraft-1211 for a full changelog.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.6.0...v21.1.0",
+      "changelog_url": null,
+      "date_published": "2025-02-10T22:16:37.727903Z",
+      "downloads": 5604,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HlMUv5mR",
+          "hashes": {
+            "sha512": "8b7298d39514929c41f2d660a0bc1b23b63c66f270df40f27b271caf0a52fc8dfd36dc37146dde4f2a87b7741b51d819cbd6eac47e1455d04312bd5c3b29887a",
+            "sha1": "2df813c3638518edaf0df4c484d40859c25e97b7"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/MfzKuNeT/guideme-21.1.0.jar",
+          "filename": "guideme-21.1.0.jar",
+          "primary": true,
+          "size": 9249128,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "EYCR81MC",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.6.0",
+      "version_number": "2.6.0",
+      "changelog": "## What's Changed\r\n* Allow scaling Guide UI independently from main game GUI scale by @shartte in https://github.com/AppliedEnergistics/GuideME/pull/31\r\n* Introduce center-column layout by @shartte in https://github.com/AppliedEnergistics/GuideME/pull/32\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.5.1...v2.6.0",
+      "changelog_url": null,
+      "date_published": "2025-02-07T00:09:22.986243Z",
+      "downloads": 1173,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "njCHs9J8",
+          "hashes": {
+            "sha512": "ff72e9fb06cb819bfc0065e0ca5bf37655ea9c200c1d154f45c5463d48ab003d2fe385339a50644b5c686b9be30cd7d592a98b4b245fa184fabb3fa9078e9dd2",
+            "sha1": "2ab194f846049a45ae8830ea261d31984eb3a5e1"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/EYCR81MC/guideme-2.6.0.jar",
+          "filename": "guideme-2.6.0.jar",
+          "primary": true,
+          "size": 9245721,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "TJCbccGV",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.5.1",
+      "version_number": "2.5.1",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#251\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.5.0...v2.5.1",
+      "changelog_url": null,
+      "date_published": "2025-01-29T01:40:48.789949Z",
+      "downloads": 2102,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Rrdbx7Jm",
+          "hashes": {
+            "sha512": "f6a0ea9bd060d34cf372752bc2cee1b268995764c7fe9d8e42cff7fb8b9d50f0588f5345ad77bfe2ff43fe457a63f7295b58a42c61c33ed28381c47b04ec15e5",
+            "sha1": "31462bb553a349e89a4eb8e8ac8d45495ac40dff"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/TJCbccGV/guideme-2.5.1.jar",
+          "filename": "guideme-2.5.1.jar",
+          "primary": true,
+          "size": 9232867,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "TvPfN29f",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.5.0",
+      "version_number": "2.5.0",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#240\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.4.0...v2.5.0",
+      "changelog_url": null,
+      "date_published": "2025-01-29T01:14:55.303420Z",
+      "downloads": 93,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RFFYTTfD",
+          "hashes": {
+            "sha512": "25c8c762ccd70e395fe8dd8f11d5762b86d07e0ec759a22105b2ce13ad1a48d044989bfac44ca2654feea79fd0d1c9ccd7b7def17002105d30aadf3f0e514871",
+            "sha1": "e3c18153591cc5c936c0b3ec04201ba3185b2f2d"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/TvPfN29f/guideme-2.5.0.jar",
+          "filename": "guideme-2.5.0.jar",
+          "primary": true,
+          "size": 9230732,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "A26EU8of",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.4.0",
+      "version_number": "2.4.0",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#231\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.3.1...v2.4.0",
+      "changelog_url": null,
+      "date_published": "2025-01-29T00:39:44.115323Z",
+      "downloads": 109,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ysYWaww5",
+          "hashes": {
+            "sha512": "7b9b6ba9d113793de637f9a70ffa694fd00d6f0539da0ea7a96d9c35505d4ea009b7d7b825a400ca5e26f919fc3108786a32a1a0b40737e54c85fc563145d009",
+            "sha1": "770a8d79702382b529e0e3bd7328b34dca209561"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/A26EU8of/guideme-2.4.0.jar",
+          "filename": "guideme-2.4.0.jar",
+          "primary": true,
+          "size": 9230728,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "HY5YtN9j",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.3.1",
+      "version_number": "2.3.1",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#231\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.3.0...v2.3.1",
+      "changelog_url": null,
+      "date_published": "2025-01-28T18:08:38.830941Z",
+      "downloads": 51,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SOfH6iu2",
+          "hashes": {
+            "sha512": "8bf4c5ef9dc91bc5046fc5ee1c06886270906bf6f24eea0b9c75dd2460a20149a0ea86925c8075b241a5f617ab3b440000e3629cf9792dbeec6b2849a76ab33b",
+            "sha1": "7e535ced32ed584d43fdc0cc3bda580a90d03dfd"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/HY5YtN9j/guideme-2.3.1.jar",
+          "filename": "guideme-2.3.1.jar",
+          "primary": true,
+          "size": 9227312,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AYhPSSxp",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.3.0",
+      "version_number": "2.3.0",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#230\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.2.0...v2.3.0",
+      "changelog_url": null,
+      "date_published": "2025-01-27T21:36:09.724163Z",
+      "downloads": 108,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DBY99ZYR",
+          "hashes": {
+            "sha512": "aed99fa87a4e28d0975d7d675b63957b98fa7c286f153b3ee5c26ee40efb93e247fb73adb1ea3abd2d47aae8f07c14b0a5ecaf505e50fcd4cf354374ecfbba78",
+            "sha1": "d5e1816a86e999dfdff0bf7fca7f55213eaae57e"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/AYhPSSxp/guideme-2.3.0.jar",
+          "filename": "guideme-2.3.0.jar",
+          "primary": true,
+          "size": 9227240,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6fHQ0s8c",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.2.0",
+      "version_number": "2.2.0",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#220\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.1.1...v2.2.0\r\n",
+      "changelog_url": null,
+      "date_published": "2025-01-27T10:28:11.862070Z",
+      "downloads": 146,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Pen2QoSA",
+          "hashes": {
+            "sha512": "919b8bf44f225c3f2cf1925942da10eec2846514c620b8cb74015b9bf7a670c8ce87a9699b8824ff810c7125ec38fc7767b08c7160fe37e82738270eaf44b4dd",
+            "sha1": "7e1c8f158fbe7a8c4fce4777140dfdf319327db1"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/6fHQ0s8c/guideme-2.2.0.jar",
+          "filename": "guideme-2.2.0.jar",
+          "primary": true,
+          "size": 9227240,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Es9tJz5e",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.1.1",
+      "version_number": "2.1.1",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#211\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.1.0...v2.1.1",
+      "changelog_url": null,
+      "date_published": "2025-01-25T15:22:58.635789Z",
+      "downloads": 131,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vYLNSJ9r",
+          "hashes": {
+            "sha512": "7f385643793daf7531446da13dae2a39598c2e8b268dcd00fd3d80add8071c6d76a8551491ace0fda6d0326b5b7cb1f865675d14bf792327e4fa9c86054ac0cb",
+            "sha1": "4ce1a91c796c502de79537afd115005042127c51"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/Es9tJz5e/guideme-2.1.1.jar",
+          "filename": "guideme-2.1.1.jar",
+          "primary": true,
+          "size": 1484918,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ljwXoFk1",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.1.0",
+      "version_number": "2.1.0",
+      "changelog": "See https://guideme.appliedenergistics.org/changelog/#210\r\n\r\n**Code Changes**: https://github.com/AppliedEnergistics/GuideME/compare/v2.0.1...v2.1.0",
+      "changelog_url": null,
+      "date_published": "2025-01-24T19:50:07.051524Z",
+      "downloads": 132,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Xnswaptw",
+          "hashes": {
+            "sha1": "d6506d879759fc8b88e258f750010d30d4aa73a0",
+            "sha512": "09ddbeca0b4c615a96bfce03e096816c1ec92c2a3e585b4ee5eaedf8d9d1d4451331d40f7a0e8835c511c6a705b41b1c7924b834088609f55f3d13b51fe2ed31"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/ljwXoFk1/guideme-2.1.0.jar",
+          "filename": "guideme-2.1.0.jar",
+          "primary": true,
+          "size": 1484906,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "kJ9mBuNy",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.0.1",
+      "version_number": "2.0.1",
+      "changelog": "## What's Changed\r\n* Fix println spam by @shartte in https://github.com/AppliedEnergistics/GuideME/pull/20\r\n\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v2.0.0...v2.0.1",
+      "changelog_url": null,
+      "date_published": "2025-01-24T16:15:23.550882Z",
+      "downloads": 75,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pUIcC67x",
+          "hashes": {
+            "sha1": "2622ba53de0cf973077b096abd472c13fb56a558",
+            "sha512": "35219370ded6689185f92643a030866f809dddb256e4cea5f377e932939daf19ab42774c90830f7072f0196ff35deb2538a83cc993df7ef28a8baa258e04fc44"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/kJ9mBuNy/guideme-2.0.1.jar",
+          "filename": "guideme-2.0.1.jar",
+          "primary": true,
+          "size": 1475890,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "4hCuLHEr",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 2.0.0",
+      "version_number": "2.0.0",
+      "changelog": "## Breaking Change\r\n\r\n* Sadly I made some initial mistake by returning an internal class from `Guide.builder().build()` instead of the interface. Fixing this is sadly a breaking change (hence the bump to 2.0.0). A test is now preventing this from happening again.\r\n\r\n## What's Changed\r\n* Fix missing quotation mark by @starforcraft in https://github.com/AppliedEnergistics/GuideME/pull/9\r\n* Fix rendering memory leak by @shartte in https://github.com/AppliedEnergistics/GuideME/pull/15\r\n* Implement proper shader time calculation by @shartte in https://github.com/AppliedEnergistics/GuideME/pull/16\r\n* Add keybind translation by @shartte in https://github.com/AppliedEnergistics/GuideME/pull/17\r\n\r\n## New Contributors\r\n* @starforcraft made their first contribution in https://github.com/AppliedEnergistics/GuideME/pull/9\r\n* @shartte made their first contribution in https://github.com/AppliedEnergistics/GuideME/pull/15\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v1.0.4...v2.0.0",
+      "changelog_url": null,
+      "date_published": "2025-01-22T23:42:51.977947Z",
+      "downloads": 101,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BA5pbptA",
+          "hashes": {
+            "sha1": "09ef9222b7860cc5a2a262bff05a536498f8a63a",
+            "sha512": "5a372e31ca1e01b8061b3a0ad1161b11e8f72271040966e44e1d2430cf1de649eb9299ade28b6a6fc7406e58c02b3dcfd9942013ec4db0729333eab5730f0b48"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/4hCuLHEr/guideme-2.0.0.jar",
+          "filename": "guideme-2.0.0.jar",
+          "primary": true,
+          "size": 1476037,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "jinKQoM0",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 1.0.4",
+      "version_number": "1.0.4",
+      "changelog": "Fix loading on dedicated server.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v1.0.3...v1.0.4",
+      "changelog_url": null,
+      "date_published": "2025-01-21T01:29:07.402418Z",
+      "downloads": 84,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ymVmG0JZ",
+          "hashes": {
+            "sha1": "5bcd19a1c5faafdfe6754496aec74d523a285823",
+            "sha512": "e8bb9163897fcfeae35c69c38f1c229adc675dc034e42c670fd758877adcf65402be4c425e489d0f29fdcb21c297f9b38d97a11382c839a3030695d6172aa073"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/jinKQoM0/guideme-1.0.4.jar",
+          "filename": "guideme-1.0.4.jar",
+          "primary": true,
+          "size": 1473892,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "oftzXuTn",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 1.0.3",
+      "version_number": "1.0.3",
+      "changelog": "Revive the AE2 site export.\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v1.0.2...v1.0.3",
+      "changelog_url": null,
+      "date_published": "2025-01-21T01:05:42.150979Z",
+      "downloads": 96,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CKnvn68E",
+          "hashes": {
+            "sha512": "137de1eeecb300a6a7a8cabb6caef9a42cb3735e8a2ab3428e997d739842d285808f5c56635c0e2b1d3e3d73fde83860fd5f2866c56aa44a4bd5f97e3bf04442",
+            "sha1": "540af2e10fbbeda89035d602a1748cabe1f9707f"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/oftzXuTn/guideme-1.0.3.jar",
+          "filename": "guideme-1.0.3.jar",
+          "primary": true,
+          "size": 1473773,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "b6Cvev2f",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 1.0.2",
+      "version_number": "1.0.2",
+      "changelog": "**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v1.0.1...v1.0.2",
+      "changelog_url": null,
+      "date_published": "2025-01-21T00:03:30.322589Z",
+      "downloads": 56,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KMOdwYhF",
+          "hashes": {
+            "sha512": "35233f504919f0a557231b0f7275a40325a1e56ce56cbc69ce268d533fa10d89225bdc8432767eb8fc753ec3553d962a4c190f3df7162b58019a901b440bb555",
+            "sha1": "2bf893f526fcc3a45bec5a8a27bce375868c05b1"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/b6Cvev2f/guideme-1.0.2.jar",
+          "filename": "guideme-1.0.2.jar",
+          "primary": true,
+          "size": 1473108,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MFsx32k5",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 1.0.1",
+      "version_number": "1.0.1",
+      "changelog": "- Reorganized API into its final form\r\n- Fixed api and javadoc jars\r\n- Introduced support for data-driven guide creation\r\n- Added generic guide item for data-driven guides\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v1.0.0...v1.0.1",
+      "changelog_url": null,
+      "date_published": "2025-01-20T10:38:44.639719Z",
+      "downloads": 110,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qX6no5xi",
+          "hashes": {
+            "sha512": "0ee3e7bbd29ccc7df5eead537f07c98eb9069d0485cd0da881652bdaeb7d71bad1525f0d0cebe145ebe248fe19eec92c8d3c4c27d35ca426b27f578bf07542cd",
+            "sha1": "375fb391b2c6a4f05205d62984e80a7a1e9ab3a8"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/MFsx32k5/guideme-1.0.1.jar",
+          "filename": "guideme-1.0.1.jar",
+          "primary": true,
+          "size": 1472821,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "xp5Eb3cc",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 1.0.0",
+      "version_number": "1.0.0",
+      "changelog": "Initial Release",
+      "changelog_url": null,
+      "date_published": "2025-01-18T01:11:04.625034Z",
+      "downloads": 93,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BgsdlPFb",
+          "hashes": {
+            "sha512": "4fe1cc1fc6afdd41b42464ff2a40eae2510ccf4ef5ceaac0893a7a287a95a5725f564ff94a1acb4809c3e5df8fb3fdf64be41e4277ad6d673a5846269622c404",
+            "sha1": "6a1544a50dd577c1d5a5347ef95baab35d6bea75"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/xp5Eb3cc/guideme-1.0.0.jar",
+          "filename": "guideme-1.0.0.jar",
+          "primary": true,
+          "size": 1448752,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bk0EGcWt",
+      "project_id": "Ck4E7v7R",
+      "author_id": "3HAu37Rl",
+      "featured": false,
+      "name": "GuideME 1.0.0",
+      "version_number": "1.0.0",
+      "changelog": "Initial Alpha Release",
+      "changelog_url": null,
+      "date_published": "2025-01-18T01:01:08.696842Z",
+      "downloads": 235,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "z1dvqtix",
+          "hashes": {
+            "sha1": "da3d23929b7413367b578055a1577da770fb1439",
+            "sha512": "2ecead0156d9a59ddf0cfd58f0200c80ab16d7d65a37a17e352e0c10f89ac561f9449a99dec40bf18244dbd6a3529fb18701b89e55065c55568f79afbd5d6485"
+          },
+          "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/bk0EGcWt/guideme-1.0.0.jar",
+          "filename": "guideme-1.0.0.jar",
+          "primary": true,
+          "size": 1448752,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

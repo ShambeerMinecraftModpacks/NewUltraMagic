@@ -1,0 +1,63 @@
+{
+  "url": "https://api.modrinth.com/v2/project/pg5DWzmH",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:53.649202+00:00",
+  "response": {
+    "client_side": "unsupported",
+    "server_side": "required",
+    "game_versions": [
+      "1.20.1",
+      "1.21.1"
+    ],
+    "environment": [
+      "server_only"
+    ],
+    "id": "pg5DWzmH",
+    "slug": "godlyvampirism",
+    "project_type": "mod",
+    "team": "11kYAzTf",
+    "organization": null,
+    "title": "Godly Vampirism",
+    "description": "This is a small addon mod for Vampirism which changes Vampirism's configuration to remove most of the downsides of being a vampire.",
+    "body": "# Godly Vampirism - Addon for Vampirism\n\n\nThis is a small addon mod for Vampirism which changes Vampirism's configuration to remove most of the downsides of being a vampire.\n\nAdditionally, it enhances the capabilities of both vampires and hunters further by increasing the effect of certain abilities.\n\nThe modifications include, but are not limited to:\n- Very little sundamage, no nausea, smaller yellow sun indicator\n- Significantly lower blood usage\n- Almost no increase to fire damage\n- Receive twice as many skill points per level\n- Allow 2 minions per lord level\n- Teleport further and more often\n\nImportant: This only affects new worlds. To apply to existing worlds run (`/godly-vampirism apply`) as admin or in Singleplayer\n\nIt should be sufficient to install this mod server side only, but it does not hurt on client side.\n\nNote: Currently this mod only changes Vampirism's configuration. Therefore, you could achieve all these modifications manually without this mod.\n\nHowever, due to frequent questions about that, I decided to create this mod as a convenient alternative.\n\nYou will still be able to customize Vampirism's configuration further, since this only affects the default values.",
+    "body_url": null,
+    "published": "2026-01-21T13:49:34.589213Z",
+    "updated": "2026-01-21T13:56:50.052939Z",
+    "approved": "2026-01-26T02:49:26.437957Z",
+    "queued": "2026-01-21T13:54:47.496246Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": null
+    },
+    "downloads": 12008,
+    "followers": 9,
+    "categories": [
+      "adventure",
+      "utility"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "iEJR1CsA",
+      "ZUWf0LPh"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/pg5DWzmH/7f7afef4905ac784019a08ac9582b640fd14f00f.png",
+    "raw_icon_url": "https://cdn.modrinth.com/data/pg5DWzmH/7f7afef4905ac784019a08ac9582b640fd14f00f.png",
+    "issues_url": "https://github.com/maxanier/GodlyVampirism/issues",
+    "source_url": "https://github.com/maxanier/GodlyVampirism",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [],
+    "color": 6687331,
+    "thread_id": "WrQE7wDp",
+    "monetization_status": "monetized"
+  }
+}

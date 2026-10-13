@@ -1,0 +1,227 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Enchanting+Infuser&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:08.264400+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "ePv85y52",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "enchanting-infuser",
+        "author": "Fuzs",
+        "author_id": "rHdGpxOA",
+        "organization": null,
+        "organization_id": null,
+        "title": "Enchanting Infuser",
+        "description": "An all-new enchanting table for choosing your enchantments at fair prices without the randomness.",
+        "categories": [
+          "equipment",
+          "fabric",
+          "forge",
+          "magic",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "equipment",
+          "fabric",
+          "forge",
+          "magic",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.4",
+          "1.21.1",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 7822102,
+        "follows": 1463,
+        "icon_url": "https://cdn.modrinth.com/data/ePv85y52/f7e4cfe60875eb1cc36f836dc484a36f58dc1cd3_96.webp",
+        "date_created": "2021-12-03T10:15:53.899306+00:00",
+        "date_modified": "2026-09-23T15:19:09.880087+00:00",
+        "latest_version": "gGpFJLO5",
+        "license": "MPL-2.0",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [
+          "ai_content",
+          "ai_content_text"
+        ],
+        "gallery": [],
+        "featured_gallery": "https://cdn.modrinth.com/data/ePv85y52/images/512f2d905cfda9c3d521ec43f8aedafc65e163c2_350.webp",
+        "color": 11496510
+      },
+      {
+        "project_id": "u0YIG3pi",
+        "project_type": "mod",
+        "all_project_types": [
+          "datapack",
+          "mod"
+        ],
+        "slug": "enchanting-infuser-add-treasure-enchantments",
+        "author": "STSchiff",
+        "author_id": "Lf1JXSjh",
+        "organization": null,
+        "organization_id": null,
+        "title": "Enchanting Infuser: Add Treasure Enchantments",
+        "description": "A datapack to make all treasure enchantments available in the advanced enchanting infuser.",
+        "categories": [
+          "datapack",
+          "equipment",
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "magic",
+          "neoforge",
+          "quilt"
+        ],
+        "display_categories": [
+          "datapack",
+          "equipment",
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "magic",
+          "neoforge",
+          "quilt"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 49919,
+        "follows": 46,
+        "icon_url": "https://cdn.modrinth.com/data/u0YIG3pi/7cffa17f08dc42cd318f480187c4492346b4cbfa.jpeg",
+        "date_created": "2025-03-09T06:11:23.573775+00:00",
+        "date_modified": "2025-07-30T10:49:26.046579+00:00",
+        "latest_version": "WHUxM5Fn",
+        "license": "LGPL-3.0-or-later",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": "https://cdn.modrinth.com/data/u0YIG3pi/images/126aa8e1af0d7deb5597bd82f6c11ae967862eae.jpeg",
+        "color": 10368788
+      },
+      {
+        "project_id": "8sls9fkZ",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "infuser-x-sortilege",
+        "author": "kohara",
+        "author_id": "Zl66zQ25",
+        "organization": null,
+        "organization_id": null,
+        "title": "Enchanting Infuser x Sortilege (Compatiblity)",
+        "description": "Improves how Enchanting Infuser interacts with Sortilege's enchantment cap feature.",
+        "categories": [
+          "fabric",
+          "forge",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1"
+        ],
+        "downloads": 1918,
+        "follows": 2,
+        "icon_url": "https://cdn.modrinth.com/data/8sls9fkZ/bc34d5ee53434cba06645d8a2396bccb84af74cc_96.webp",
+        "date_created": "2025-09-22T03:31:43.417311+00:00",
+        "date_modified": "2026-07-07T14:53:40.352570+00:00",
+        "latest_version": "8UGy90ZS",
+        "license": "CC-BY-4.0",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2692637
+      },
+      {
+        "project_id": "zruDBvLG",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "madketplace-x-enchanting-infuser",
+        "author": "theonlydrummerftw",
+        "author_id": "ZQXRkXER",
+        "organization": null,
+        "organization_id": null,
+        "title": "Madketplace X Enchanting Infuser",
+        "description": "Compatibility between Madketplace and Enchanting Infuser",
+        "categories": [
+          "cursed",
+          "economy",
+          "magic",
+          "neoforge"
+        ],
+        "display_categories": [
+          "cursed",
+          "magic",
+          "neoforge"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 230,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/zruDBvLG/924631ba4b0a03b5de7ef2a3ece4f44daede796c_96.webp",
+        "date_created": "2026-05-31T11:39:48.316593+00:00",
+        "date_modified": "2026-05-30T12:59:23.806628+00:00",
+        "latest_version": "YHraaRHp",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": "https://cdn.modrinth.com/data/zruDBvLG/images/924631ba4b0a03b5de7ef2a3ece4f44daede796c.png",
+        "color": 12098416
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 4
+  }
+}

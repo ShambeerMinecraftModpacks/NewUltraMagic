@@ -1,0 +1,256 @@
+{
+  "url": "https://api.modrinth.com/v2/project/lhGA9TYQ/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:51.778324+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1IiqEQGl",
+      "project_id": "lhGA9TYQ",
+      "author_id": "OQodw31Z",
+      "featured": false,
+      "name": "[NeoForge 1.21] v13.0.11",
+      "version_number": "13.0.11+neoforge",
+      "changelog": "## Architectury v13.0.11 for 1.21\nUpdated at **2026-07-23 09:56**.\n[Click here for changelog](https://www.github.com/architectury/architectury/commits/1.21)",
+      "changelog_url": null,
+      "date_published": "2026-07-23T09:57:30.306316Z",
+      "downloads": 1254587,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7Ni3RtRU",
+          "hashes": {
+            "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+            "sha512": "d9f7c3bb8162577dfb461ffdf04bd6a3563c7586934a0e2a744c14421beffb8286f0d88d4c758317003f20f99fe8072a39b9d675af061e036970d36db36027f0"
+          },
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
+          "filename": "architectury-13.0.11-neoforge.jar",
+          "primary": true,
+          "size": 584734,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Pzc2FP5K",
+      "project_id": "lhGA9TYQ",
+      "author_id": "OQodw31Z",
+      "featured": false,
+      "name": "[Fabric 1.21] v13.0.11",
+      "version_number": "13.0.11+fabric",
+      "changelog": "## Architectury v13.0.11 for 1.21\nUpdated at **2026-07-23 09:56**.\n[Click here for changelog](https://www.github.com/architectury/architectury/commits/1.21)",
+      "changelog_url": null,
+      "date_published": "2026-07-23T09:57:30.288849Z",
+      "downloads": 1087053,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CCNv1IEC",
+          "hashes": {
+            "sha1": "18200609d4c3571c4237b50884966f6fd82431ea",
+            "sha512": "53314eb34890b11ad3c06c6f3ba2d01ae1ca756235ce4f0574e4b0544952a2ab3c628c81b521653d6487d62c5dc3055e06fed6367a3a499bafad909512f0c716"
+          },
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Pzc2FP5K/architectury-13.0.11-fabric.jar",
+          "filename": "architectury-13.0.11-fabric.jar",
+          "primary": true,
+          "size": 600921,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZxYGwlk0",
+      "project_id": "lhGA9TYQ",
+      "author_id": "OQodw31Z",
+      "featured": false,
+      "name": "[NeoForge 1.21(.1)] v13.0.8",
+      "version_number": "13.0.8+neoforge",
+      "changelog": "## Architectury v13.0.8 for 1.21\nUpdated at **2024-10-05 19:23**.\n[Click here for changelog](https://www.github.com/architectury/architectury/commits/1.21)\n- Update to upload-artifact@v4",
+      "changelog_url": null,
+      "date_published": "2024-10-05T19:24:08.875561Z",
+      "downloads": 5699926,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OHksAvhl",
+          "hashes": {
+            "sha512": "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e",
+            "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+          },
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
+          "filename": "architectury-13.0.8-neoforge.jar",
+          "primary": true,
+          "size": 584004,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Wto0RchG",
+      "project_id": "lhGA9TYQ",
+      "author_id": "OQodw31Z",
+      "featured": false,
+      "name": "[Fabric 1.21(.1)] v13.0.8",
+      "version_number": "13.0.8+fabric",
+      "changelog": "## Architectury v13.0.8 for 1.21\nUpdated at **2024-10-05 19:23**.\n[Click here for changelog](https://www.github.com/architectury/architectury/commits/1.21)\n- Update to upload-artifact@v4",
+      "changelog_url": null,
+      "date_published": "2024-10-05T19:24:06.840627Z",
+      "downloads": 16987480,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Xo3Fui9K",
+          "hashes": {
+            "sha512": "7a24a0481732c5504b07347d64a2843c10c29e748018af8e5f5844e5ea2f4517433886231025d823f90eb0b0271d1fa9849c27e7b0c81476c73753f79f19302a",
+            "sha1": "e71346a43c563e5784580dd096338acfb45f49d4"
+          },
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar",
+          "filename": "architectury-13.0.8-fabric.jar",
+          "primary": true,
+          "size": 600915,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zQZVt59v",
+      "project_id": "lhGA9TYQ",
+      "author_id": "OQodw31Z",
+      "featured": false,
+      "name": "[NeoForge 1.21(.1)] v13.0.6",
+      "version_number": "13.0.6+neoforge",
+      "changelog": "## Architectury v13.0.6 for 1.21\nUpdated at **2024-07-22 09:12**.\n[Click here for changelog](https://www.github.com/architectury/architectury/commits/1.21)\n- Update NeoForge to 21.0.114-beta and fix breakage in NeoForge config extension",
+      "changelog_url": null,
+      "date_published": "2024-07-22T09:13:07.041619Z",
+      "downloads": 72228,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ulFBtppU",
+          "hashes": {
+            "sha1": "e8716c02a9221cf567d46cdb7d43885bb7e80860",
+            "sha512": "6c95a0d97323fc0465fc3d2022e1f673ab55fea2523919a09ca4eff1f130afd30f077f30a99f9d79938b3206e1edc116dab436a6f0b1293888556aa7f44305a2"
+          },
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/zQZVt59v/architectury-13.0.6-neoforge.jar",
+          "filename": "architectury-13.0.6-neoforge.jar",
+          "primary": true,
+          "size": 583913,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "afBcyXjI",
+      "project_id": "lhGA9TYQ",
+      "author_id": "OQodw31Z",
+      "featured": false,
+      "name": "[Fabric 1.21(.1)] v13.0.6",
+      "version_number": "13.0.6+fabric",
+      "changelog": "## Architectury v13.0.6 for 1.21\nUpdated at **2024-07-22 09:12**.\n[Click here for changelog](https://www.github.com/architectury/architectury/commits/1.21)\n- Update NeoForge to 21.0.114-beta and fix breakage in NeoForge config extension",
+      "changelog_url": null,
+      "date_published": "2024-07-22T09:13:03.407522Z",
+      "downloads": 1628714,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3ipO4hhL",
+          "hashes": {
+            "sha1": "82e37f8e83d8feabf53358ff3f38e74db6b2a630",
+            "sha512": "e1b2aeeb5ce17fe05314814274cc116c8f2aba325f5edc766caaf52445c69c79fd0f3235842d24df11346b3505a5befa5782a95b1992266097e558dd394d715b"
+          },
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/afBcyXjI/architectury-13.0.6-fabric.jar",
+          "filename": "architectury-13.0.6-fabric.jar",
+          "primary": true,
+          "size": 600833,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

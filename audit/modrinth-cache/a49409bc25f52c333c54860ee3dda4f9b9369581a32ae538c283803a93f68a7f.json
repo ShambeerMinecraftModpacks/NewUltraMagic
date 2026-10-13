@@ -1,0 +1,136 @@
+{
+  "url": "https://api.modrinth.com/v2/project/U6GY0xp0",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:44.107494+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.20.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "U6GY0xp0",
+    "slug": "alexs-caves",
+    "project_type": "mod",
+    "team": "ri6vA5Gk",
+    "organization": null,
+    "title": "Alex's Caves",
+    "description": "Explore six new rare cave biomes hidden under the surface of the Overworld...",
+    "body": "![Alex's Caves](https://i.imgur.com/aVLosAP.png)\n\nThis mod requires Citadel\n\n \n\nAlex’s Caves is a Forge mod for Minecraft 1.20.1 that adds 6 new cave biomes to the Overworld. Unlike most normal biomes, these cave biomes are exceedingly rare - yet they all contain a variety of unique blocks, items, mobs and mechanics that makes them considerable subterranean destinations. These six biomes are the Magnetic Caves, the Primordial Caves, the Toxic Caves, the Abyssal Chasm,  the Forlorn Hollows and the Candy Cavity. \n\n \n\nTo find any of these cave biomes, you’ll need to discover an Underground Cabin anywhere in the overworld. From there, you will find loot barrels with cave tablets and a Cave Compendium - a guide book for Alex’s Caves that should provide you with all the knowledge needed to find and explore any biome added by the mod. For more information on getting started, see the ‘[Getting Started](https://alexscaves.wiki.gg/wiki/Guides/Getting_Started)’ section on the mod’s wiki.\n\n \n\nAlex’s Caves is a very large mod with a great deal of effort put into the look and feel of each new biome. Each biome added may have its own ambient particles, fog, brightness, light color and more. Because of this, it is recommended to experience this mod without shaders, since many shaders can alter or worsen the unique appearance of several of the biomes. The mod also has built-in compatibility with Just Enough Items and Alex’s Mobs.\n\n \nAny additional questions can be answered on the [Discord server](https://discord.com/invite/alexsmods), and bugs can be reported on [Github](https://github.com/AlexModGuy/AlexsCaves).\n\n \n\n### Credits:\n\n#### Creators:\n- Alexthe668: programmer and co-creator\n- Noonyeyz: artist and co-creator\n\n#### Sound Team:\n- PrismaticPinky: sound design\n- LudoCrypt: musician\n- Gatetoh: musician and sound design\n- Arby698: sound design\n- RenRen: musician\n- _Ninni: sound design\n\n#### Documentation Team:\n - HolidayRaptor: documentation\n- PlummetStudios: documentation\n",
+    "body_url": null,
+    "published": "2023-11-04T17:47:20.616416Z",
+    "updated": "2024-10-26T17:20:17.825067Z",
+    "approved": "2023-11-07T01:17:03.330790Z",
+    "queued": "2023-11-04T18:00:30.735214Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "downloads": 11399757,
+    "followers": 2333,
+    "categories": [
+      "adventure",
+      "mobs",
+      "worldgen"
+    ],
+    "additional_categories": [
+      "equipment",
+      "food",
+      "game-mechanics",
+      "magic",
+      "technology",
+      "transportation"
+    ],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "VOMqwoQ3",
+      "JnyjMWKA",
+      "zUdjxO9k",
+      "gCvzvSsJ",
+      "e7H7vKvS",
+      "SLvvjh2O",
+      "RplA7oyA",
+      "3yOJpMFg",
+      "pdifL7d0",
+      "2gc9us5X",
+      "N9J7aoRb",
+      "aQbhVUVf",
+      "lC8HHXOF"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/U6GY0xp0/4165eef78a7efa0f5acda964dd094c08ee0e5680.png",
+    "raw_icon_url": "https://cdn.modrinth.com/data/U6GY0xp0/4165eef78a7efa0f5acda964dd094c08ee0e5680.png",
+    "issues_url": "https://github.com/AlexModGuy/AlexsCaves/issues",
+    "source_url": "https://github.com/AlexModGuy/AlexsCaves",
+    "wiki_url": "https://alexscaves.wiki.gg/wiki/Main_Page",
+    "discord_url": "https://discord.gg/alexsmods",
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/U6GY0xp0/images/01bdda96897102fdefc91e7239bd67a00d67ca4e_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/U6GY0xp0/images/e2e859f9dfba2a5b0e52cabb51b8916d6cce9278.jpeg",
+        "featured": true,
+        "title": "Primordial Caves",
+        "description": null,
+        "created": "2023-11-04T17:57:52.165751Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/U6GY0xp0/images/3578fdf28fabf8f63fbdcd7cf103e1a1d4d06d9f_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/U6GY0xp0/images/50ed8746315312c1702746d23ff357d7ea326aec.jpeg",
+        "featured": false,
+        "title": "Magnetic Caves",
+        "description": null,
+        "created": "2023-11-04T17:57:40.041899Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/U6GY0xp0/images/5add98da4a53a50d72170425b0c28ae8e20a143a_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/U6GY0xp0/images/8ecd2a55f8b2f42babacb31c0f771be434a8c6cc.jpeg",
+        "featured": false,
+        "title": "Forlorn Hollows",
+        "description": null,
+        "created": "2023-11-04T17:58:30.654234Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/U6GY0xp0/images/c2d8b11c51eefd825a244bb94e8426dae5b3b16f_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/U6GY0xp0/images/6dfd473407ad68950ad95c1e6b9d9c127e387df5.jpeg",
+        "featured": false,
+        "title": "Abyssal Chasm",
+        "description": null,
+        "created": "2023-11-04T17:58:20.339192Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/U6GY0xp0/images/d65bc909873dd23364744a34e067c19bca1ed74e_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/U6GY0xp0/images/8b8bca522ee76b34e5e55a0e80ba49313db6fc5b.jpeg",
+        "featured": false,
+        "title": "Toxic Caves",
+        "description": null,
+        "created": "2023-11-04T17:58:01.986350Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/U6GY0xp0/images/6148dcac7cf47f4f609eb3c0027ae95c24f10d8a_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/U6GY0xp0/images/6148dcac7cf47f4f609eb3c0027ae95c24f10d8a.jpeg",
+        "featured": false,
+        "title": "Candy Cavity",
+        "description": null,
+        "created": "2024-10-19T20:16:54.680460Z",
+        "ordering": 6
+      }
+    ],
+    "color": 4262917,
+    "thread_id": "3IbE1C02",
+    "monetization_status": "monetized"
+  }
+}

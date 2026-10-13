@@ -1,0 +1,291 @@
+{
+  "url": "https://api.modrinth.com/v2/project/3ElBohKg/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:29.787638+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zkd687ts",
+      "project_id": "3ElBohKg",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Werewolves-1.21-2.0.3.3",
+      "version_number": "1.21-2.0.3.3",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-03-25T23:12:48.298562Z",
+      "downloads": 25018,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uYthgVNn",
+          "hashes": {
+            "sha512": "cdc0d8e9c4d8b961df63998f3200645960cc28f1e795e69f1801431bfca0c5ea89fa8e70fcca1ad10cbb37cdc5f15382d87c2a9403d6fa6a67eaabe69604b67d",
+            "sha1": "12a400d50c6e2afdcd96caf73cb80d37877147c8"
+          },
+          "url": "https://cdn.modrinth.com/data/3ElBohKg/versions/zkd687ts/Werewolves-1.21-2.0.3.3.jar",
+          "filename": "Werewolves-1.21-2.0.3.3.jar",
+          "primary": true,
+          "size": 2297879,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jVZ0F1wn",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "w5L2PHJU",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "iqhyUp1d",
+      "project_id": "3ElBohKg",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Werewolves-1.21-2.0.3.1",
+      "version_number": "1.21-2.0.3.1",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-02-14T16:35:00.129703Z",
+      "downloads": 24878,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mLWhSp28",
+          "hashes": {
+            "sha1": "82c7d399e72f56d855364fa2b8df2f50784878eb",
+            "sha512": "5f1472f3d68732a55206c10a8ab09e7ad46689a3ae404227a9aaa308e8dd437597e0f2aa87fc5809aa2ece36f5b340b0c0be5f0150e5bb9dffc53289f343b472"
+          },
+          "url": "https://cdn.modrinth.com/data/3ElBohKg/versions/iqhyUp1d/Werewolves-1.21-2.0.3.1.jar",
+          "filename": "Werewolves-1.21-2.0.3.1.jar",
+          "primary": true,
+          "size": 2297998,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jVZ0F1wn",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "w5L2PHJU",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "31JBzCpT",
+      "project_id": "3ElBohKg",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Werewolves-1.21-2.0.2.5",
+      "version_number": "1.21-2.0.2.5",
+      "changelog": "- ensure werewolf night vision is removed correctly\n- add werewolf bite death message\n- move recipes with minecraft namespace to werewolves namespace\n- fix human form layer not matching when sneaking\n- add player animator compatibility",
+      "changelog_url": null,
+      "date_published": "2025-05-17T10:30:22.387454Z",
+      "downloads": 31296,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vJVC6a6a",
+          "hashes": {
+            "sha1": "1375ce1532bbab0f1c60782c2dfca7dcd2b51ab8",
+            "sha512": "3b227b3e3e6202ef7a864074a10d0369c40aa2be741a45822d638a8104b1fbe7edc4d534b99e696ca3fad4ab3de78a7fc3bcf687c9d254a4a89fe8ebb78bb9a1"
+          },
+          "url": "https://cdn.modrinth.com/data/3ElBohKg/versions/31JBzCpT/Werewolves-1.21-2.0.2.5.jar",
+          "filename": "Werewolves-1.21-2.0.2.5.jar",
+          "primary": true,
+          "size": 2259585,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jVZ0F1wn",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "w5L2PHJU",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "NrJlPv0j",
+      "project_id": "3ElBohKg",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Werewolves-1.21-2.0.2.4",
+      "version_number": "1.21-2.0.2.4",
+      "changelog": "- add armor and item tags for enchantment",
+      "changelog_url": null,
+      "date_published": "2025-02-06T17:34:02.090772Z",
+      "downloads": 4443,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xsOKBKwn",
+          "hashes": {
+            "sha1": "874c44d9253935fb64c4f1b9b547541ac68fb221",
+            "sha512": "fa9e422469565f29f77e74b7faf907a7fdce82b9c43eb97e4046a45f1f12f15986844693c297fb4e0038998934478818dca263e455be6a71f8c6537c9689d326"
+          },
+          "url": "https://cdn.modrinth.com/data/3ElBohKg/versions/NrJlPv0j/Werewolves-1.21-2.0.2.4.jar",
+          "filename": "Werewolves-1.21-2.0.2.4.jar",
+          "primary": true,
+          "size": 2255549,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zWVVCwJ9",
+      "project_id": "3ElBohKg",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Werewolves-1.21-2.0.2.3",
+      "version_number": "1.21-2.0.2.3",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-12-14T11:04:26.295008Z",
+      "downloads": 1069,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aQeSLqfp",
+          "hashes": {
+            "sha1": "3897838296fa50f708bb3bd7def56687d43bd259",
+            "sha512": "976879ce4785ef077a350a218516c3c613355965d564c241e9bed517eb171e17268ceb3268dd6a1847f294dedb8b51ce50e29045cd56c94b6e0d8862116d9acf"
+          },
+          "url": "https://cdn.modrinth.com/data/3ElBohKg/versions/zWVVCwJ9/Werewolves-1.21-2.0.2.3.jar",
+          "filename": "Werewolves-1.21-2.0.2.3.jar",
+          "primary": true,
+          "size": 2250979,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CvXtrXmO",
+      "project_id": "3ElBohKg",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Werewolves-1.21-2.0.2.3-alpha240822-1958",
+      "version_number": "1.21-2.0.2.3-alpha240822-1958",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-08-22T19:59:36.200856Z",
+      "downloads": 1511,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1QYqb8H5",
+          "hashes": {
+            "sha512": "3b2aae7f0f84a79f3262102e628daf518003c17240f453aeeb9a915d90261c8ca5f562530a06adbbe5ea251032e3bd9f36708681e5c408d621be8a285a563df2",
+            "sha1": "b0e735a9a96e724403c3c89d7ddaee4e47e8a552"
+          },
+          "url": "https://cdn.modrinth.com/data/3ElBohKg/versions/CvXtrXmO/Werewolves-1.21-2.0.2.3-alpha240822-1958.jar",
+          "filename": "Werewolves-1.21-2.0.2.3-alpha240822-1958.jar",
+          "primary": true,
+          "size": 2248829,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

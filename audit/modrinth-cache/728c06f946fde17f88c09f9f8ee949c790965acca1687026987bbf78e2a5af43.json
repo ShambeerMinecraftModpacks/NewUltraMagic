@@ -1,0 +1,473 @@
+{
+  "url": "https://api.modrinth.com/v2/project/bN3xUWdo/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:47.147554+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CohX6yP1",
+      "project_id": "bN3xUWdo",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Lodestone 1.8.2",
+      "version_number": "1.8.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-01-12T01:39:43.145782Z",
+      "downloads": 899910,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IiaFYw4C",
+          "hashes": {
+            "sha1": "d1f7c638fac5192e01b1873f27e694a3c262ad11",
+            "sha512": "6917080339b982d96cb4a7c98205ade5d89730191bc9113f4f8cd36bb1a760a91ad2421c8869c7063f8dea22a200d7d1896e0bb5e0e64119bb7590e32a998a23"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/CohX6yP1/lodestone-1.21.1-1.8.2.jar",
+          "filename": "lodestone-1.21.1-1.8.2.jar",
+          "primary": true,
+          "size": 818829,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "46jCo03u",
+      "project_id": "bN3xUWdo",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Lodestone 1.7.1",
+      "version_number": "1.7.1",
+      "changelog": "- Fixed some particle related crashes\n- Reimplemented Screenshake Systems",
+      "changelog_url": null,
+      "date_published": "2025-06-08T15:59:00.054082Z",
+      "downloads": 103247,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mweldhwc",
+          "hashes": {
+            "sha512": "6d206540abf86f1fc21c47857399a372eed47f9ef5ab27073fb26c6377f0956ff869927894b9698b8459001bf76ee44eb18d7cfc00ee60e36059c826d0be8a86",
+            "sha1": "bd0c9548412abbb7f164f12af70311ef268435d0"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/46jCo03u/lodestone-1.21.1-1.7.1.jar",
+          "filename": "lodestone-1.21.1-1.7.1.jar",
+          "primary": true,
+          "size": 675765,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ghveRNig",
+      "project_id": "bN3xUWdo",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Lodestone 1.7.0",
+      "version_number": "1.7.0",
+      "changelog": "- Internal Backend Changes in Preparation for Malum's 1.21.1 Release",
+      "changelog_url": null,
+      "date_published": "2025-05-25T17:40:28.154897Z",
+      "downloads": 2203,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "E3E8HKMy",
+          "hashes": {
+            "sha1": "f5390fdd9af23bc8df4f5fbf2a4257751e6479d2",
+            "sha512": "280727c368e0e521d27495f604a53f89eaf7d59cf4a46789ec96ee34f0c6b3646371f9edf3685aad55d5365a65827cae5ef2066158c538f23bf2f80f6baf3f5a"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/ghveRNig/lodestone-1.21.1-1.7.0.jar",
+          "filename": "lodestone-1.21.1-1.7.0.jar",
+          "primary": true,
+          "size": 675015,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "nvC6pFPc",
+      "project_id": "bN3xUWdo",
+      "author_id": "LEsnOUKR",
+      "featured": false,
+      "name": "Lodestone 1.21.1-1.7.0.5-fabric",
+      "version_number": "1.21.1-1.7.0.5-fabric",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-12-06T09:56:39.533837Z",
+      "downloads": 3185,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "azruXk6s",
+          "hashes": {
+            "sha1": "ef7661ae094db80dba068d0260d7d79f935311e6",
+            "sha512": "5ad36a1b75531571d2ea9bb4c5caa83346e36eb609fb2797df6a36e6adcfcf60bbce17dc8958a9b95e2731c59e958604df72ec6cea86165c4c80b67f30c490e4"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/nvC6pFPc/lodestone-1.21.1-1.7.0.5-fabric.jar",
+          "filename": "lodestone-1.21.1-1.7.0.5-fabric.jar",
+          "primary": true,
+          "size": 9601461,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tEJPA4Ty",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "e7PFjSQq",
+      "project_id": "bN3xUWdo",
+      "author_id": "LEsnOUKR",
+      "featured": false,
+      "name": "Lodestone 1.21.1-1.7.0.4-fabric",
+      "version_number": "1.21.1-1.7.0.4-fabric",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-12-05T16:19:59.691115Z",
+      "downloads": 120,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pHT2kY5H",
+          "hashes": {
+            "sha512": "afd9f1172eca3444a758cb763f2363da2f32488940f5adcf010a3dc91cc309c0662e58f603b025d9270eef96915f6374f677dac04e98154e343323668b6b3e5b",
+            "sha1": "641f826e22450eb84b81069aea90a868ecdc48c1"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/e7PFjSQq/lodestone-1.21.1-1.7.0.4-fabric.jar",
+          "filename": "lodestone-1.21.1-1.7.0.4-fabric.jar",
+          "primary": true,
+          "size": 9601063,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tEJPA4Ty",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "DeTq6qML",
+      "project_id": "bN3xUWdo",
+      "author_id": "LEsnOUKR",
+      "featured": false,
+      "name": "Lodestone 1.21.1-1.7.0.3-fabric",
+      "version_number": "1.21.1-1.7.0.3-fabric",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-12-05T16:05:56.047358Z",
+      "downloads": 117,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j4dENeVN",
+          "hashes": {
+            "sha1": "9fc7a5a64126ca21cd8575cb5b1e372a1362e590",
+            "sha512": "d7b8c7a408ab5eaa87435b49ecb2fb891fe067a487e5e271d84638df708b5598d5339e8436fa09ec4f14f4e543071a48e1ea5ade5903c8642a9106e8d1ea9e8b"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/DeTq6qML/lodestone-1.21.1-1.7.0.3-fabric.jar",
+          "filename": "lodestone-1.21.1-1.7.0.3-fabric.jar",
+          "primary": true,
+          "size": 9601067,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "tEJPA4Ty",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "BDg4q2IN",
+      "project_id": "bN3xUWdo",
+      "author_id": "LEsnOUKR",
+      "featured": false,
+      "name": "Lodestone 1.21.1-1.7.0.2-fabric",
+      "version_number": "1.21.1-1.7.0.2-fabric",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-12-02T14:07:28.717169Z",
+      "downloads": 142,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DtMooKPN",
+          "hashes": {
+            "sha1": "f80cb052ec4bfa94dd708aee965df6756dbdd36d",
+            "sha512": "0d925d0784d605846da5e791509d7d80efbf09f4c923e62bff4a5aa9199791d380b2af46c64ef638584cb22570cfa636766c1c22d0343183d615c95e605b93fb"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/BDg4q2IN/lodestone-1.21.1-1.7.0.2-fabric.jar",
+          "filename": "lodestone-1.21.1-1.7.0.2-fabric.jar",
+          "primary": true,
+          "size": 9601086,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "tEJPA4Ty",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "9bIJiFT2",
+      "project_id": "bN3xUWdo",
+      "author_id": "LEsnOUKR",
+      "featured": false,
+      "name": "Lodestone 1.21.1-1.7.0.1-fabric",
+      "version_number": "1.21.1-1.7.0.1-fabric",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-12-02T13:31:04.391773Z",
+      "downloads": 112,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "V8ajzkLF",
+          "hashes": {
+            "sha1": "3aea9f2fb0d25eaa4030aa7b098dee6c620a0ed2",
+            "sha512": "22d209364dcdac97361a377e76f562191ca0777438ef2cc512e9a445bdc97d5076e2fddcf8a920886fe86d3c2726766d379e643922189ed60e2842e69ba360da"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/9bIJiFT2/lodestone-1.21.1-1.7.0.1-fabric.jar",
+          "filename": "lodestone-1.21.1-1.7.0.1-fabric.jar",
+          "primary": true,
+          "size": 9598566,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "tEJPA4Ty",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "bPWplnkz",
+      "project_id": "bN3xUWdo",
+      "author_id": "LEsnOUKR",
+      "featured": false,
+      "name": "Lodestone 1.21.1-1.7.0.0-fabric",
+      "version_number": "1.21.1-1.7.0.0-fabric",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-11-29T13:10:59.154634Z",
+      "downloads": 150,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3Gfp7Y81",
+          "hashes": {
+            "sha1": "6910d37361a969d31d4219924dfd4e5bc3381bdb",
+            "sha512": "f862608dfe0acb609dcf9294dc6f75b2b0f7e55883dcb21296496bdae02405cd0fabf205807d60d4e744c9be80e7591295988a14f95d040623173c3a84752202"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/bPWplnkz/lodestone-1.21.1-1.7.0.0-fabric.jar",
+          "filename": "lodestone-1.21.1-1.7.0.0-fabric.jar",
+          "primary": true,
+          "size": 9598583,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "tEJPA4Ty",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RUgF5U4F",
+      "project_id": "bN3xUWdo",
+      "author_id": "e2dVP3HL",
+      "featured": false,
+      "name": "Lodestone 1.7.0",
+      "version_number": "1.7.0",
+      "changelog": "- Ported to 1.21",
+      "changelog_url": null,
+      "date_published": "2024-11-04T05:18:23.532318Z",
+      "downloads": 1033,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "neEyKH3r",
+          "hashes": {
+            "sha1": "ddf54590485aa34002d9609041634aafeac514d9",
+            "sha512": "8a6ce30300e04d4047ac6a9dacde769e5dc1471c93604d7468742cfab1bb13a383b7cf11ccbe003e7ea4561a466afb5ef46e20890ac6dd891aa695bad556221a"
+          },
+          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/RUgF5U4F/lodestone-1.21.1-1.7.0.jar",
+          "filename": "lodestone-1.21.1-1.7.0.jar",
+          "primary": true,
+          "size": 594903,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

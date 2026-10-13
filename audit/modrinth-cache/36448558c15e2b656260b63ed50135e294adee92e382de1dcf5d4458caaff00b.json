@@ -1,0 +1,11 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=betterfpsdist+mod&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:00.764452+00:00",
+  "response": {
+    "hits": [],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 0
+  }
+}

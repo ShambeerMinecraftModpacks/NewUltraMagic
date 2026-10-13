@@ -1,0 +1,3389 @@
+{
+  "url": "https://api.modrinth.com/v2/project/1bokaNcj/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:28.488871+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "W4dcLcUs",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.6.0",
+      "version_number": "fabric-1.21.1-26.6.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-10-05T07:42:26.768740Z",
+      "downloads": 151934,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Isbn1avZ",
+          "hashes": {
+            "sha1": "5fbb03dd3f22c0c3d5466d1366222d7d277a8df3",
+            "sha512": "bad6dfbdfa4fa83c10155380e44e7c7a181c86144cbb377548a3df94e1fdadb88a27dbf18dca89bf8748a49a1c485a03b458e1f74a7881029763297106ed26b7"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/W4dcLcUs/xaerominimap-fabric-1.21.1-26.6.0.jar",
+          "filename": "xaerominimap-fabric-1.21.1-26.6.0.jar",
+          "primary": true,
+          "size": 2234556,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "T0KItvO6",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.6.0",
+      "version_number": "forge-1.21.1-26.6.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-10-05T07:42:13.463616Z",
+      "downloads": 7012,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "l2jcUBSb",
+          "hashes": {
+            "sha1": "79cc3145c66767ac5f74b4439062a187732f8038",
+            "sha512": "296a8039a19ccc4b66f3d7d2d0faea7c7ae90437681bdcaa9c4e8fcfbe6838294943c17d23f1f7b5732bdf244b289742d518d1720b96c3d58d5f38e4626b804b"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/T0KItvO6/xaerominimap-forge-1.21.1-26.6.0.jar",
+          "filename": "xaerominimap-forge-1.21.1-26.6.0.jar",
+          "primary": true,
+          "size": 2185502,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "irjR7dHk",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.6.0",
+      "version_number": "neoforge-1.21.1-26.6.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-10-05T07:41:58.151551Z",
+      "downloads": 146220,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j38Fs0Pb",
+          "hashes": {
+            "sha512": "d56b93ddb921285624b491d6a85aba23748bec9974867399c881c257eb25a746df92a735473adf3a6875e0928a56ff78245d5238eb9207b0e45c3fec20c896dc",
+            "sha1": "551e8e2aa3498b506cc949a74606cdc0380e5e00"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/irjR7dHk/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+          "primary": true,
+          "size": 2186351,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ZD6hK4GV",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.5.0",
+      "version_number": "fabric-1.21.1-26.5.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-09-10T11:39:38.129289Z",
+      "downloads": 615475,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j7VGB5bw",
+          "hashes": {
+            "sha512": "0064c7f0a947717e8cdc22f83ecea077dc9f38c3a83d699d6d5ff41bd7f02700e4ad9b012636369210f4f9dfee35e39b8aad340488448104aca45395642dd136",
+            "sha1": "b9cec1acb286b6d7c05759c0c1e4b8a04f28d785"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ZD6hK4GV/xaerominimap-fabric-1.21.1-26.5.0.jar",
+          "filename": "xaerominimap-fabric-1.21.1-26.5.0.jar",
+          "primary": true,
+          "size": 2233763,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "sqSykKFQ",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.5.0",
+      "version_number": "forge-1.21.1-26.5.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-09-10T11:38:10.567142Z",
+      "downloads": 13388,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Torezf2x",
+          "hashes": {
+            "sha512": "2ceb7dc8dd0bd74bb2e4c43cf01e26097457e57f758372eb9f7fd1fa497dd60576db81f89cd3bd5a5a78cfd7acd72ba4e63f0928d25dd889f5b9160ace72c23e",
+            "sha1": "79767ee3d831f7efed5fedebc9de790188402ae6"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/sqSykKFQ/xaerominimap-forge-1.21.1-26.5.0.jar",
+          "filename": "xaerominimap-forge-1.21.1-26.5.0.jar",
+          "primary": true,
+          "size": 2184707,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Q1tuMQBB",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.5.0",
+      "version_number": "neoforge-1.21.1-26.5.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-09-10T11:37:53.816631Z",
+      "downloads": 297084,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Lr0fl9rw",
+          "hashes": {
+            "sha1": "7553dddbe478d1c8c15198090217e723d27f79c4",
+            "sha512": "0fde1066dd922ac0796d166ba1bf1b843873b8d8563da3a08777df54bb377ff6466096650c730ad1b96e0aecf2d8974cd87c32165edf6a30f6653840c3f99abf"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Q1tuMQBB/xaerominimap-neoforge-1.21.1-26.5.0.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-26.5.0.jar",
+          "primary": true,
+          "size": 2185559,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "JXvcT1hp",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.4.2",
+      "version_number": "neoforge-1.21.1-26.4.2",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-17T08:52:05.284978Z",
+      "downloads": 921471,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ypndbKyj",
+          "hashes": {
+            "sha512": "7ece42b6665cb3a83d77bca1ae9ab31e9f418a7e0ee73f4be1839b62a8dde7e2727d554b6ed056ca4e7510c1aaa6603e5caaa62355bca9ff202171df73ac49ee",
+            "sha1": "21b3232e62dabcbb5bf28866481e8de2c0ccb780"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+          "primary": true,
+          "size": 2185409,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Tx54V6kI",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.4.2",
+      "version_number": "fabric-1.21.1-26.4.2",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-17T08:51:46.192422Z",
+      "downloads": 1680702,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jQryzQAs",
+          "hashes": {
+            "sha1": "9293ef9b2626ae3180625c003290a838879cc0b4",
+            "sha512": "153c2273971f2a8b0dbd25a60aff67eb4018b7b8c4786a6d3bdfa97860054200d7d69f634ae2d86f46cc00a66fba53370507bfda7c5f42ed5cc559dbb8d42a59"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Tx54V6kI/xaerominimap-fabric-1.21.1-26.4.2.jar",
+          "filename": "xaerominimap-fabric-1.21.1-26.4.2.jar",
+          "primary": true,
+          "size": 2233608,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "LDxpymBP",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.4.2",
+      "version_number": "forge-1.21.1-26.4.2",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-17T08:51:17.334923Z",
+      "downloads": 33692,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Tk5Pd2RJ",
+          "hashes": {
+            "sha512": "fc98f85f4bec568c74f99a5d971c280fc8a1b8cc47644abf6d226155e8f4eb50fdbdc015bdbd60b15059d1d9244acb4ba9ad1ce11dd11e79cc6c9111002e4958",
+            "sha1": "a2a2756bf968220d4d4736588aa196ef05374335"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/LDxpymBP/xaerominimap-forge-1.21.1-26.4.2.jar",
+          "filename": "xaerominimap-forge-1.21.1-26.4.2.jar",
+          "primary": true,
+          "size": 2184317,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "BaRqMqWN",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.3.0",
+      "version_number": "neoforge-1.21.1-26.3.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-13T12:32:58.967610Z",
+      "downloads": 65502,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "30Bfrog7",
+          "hashes": {
+            "sha1": "85c7a141fe659bde22e9e7a97dcec206072a1181",
+            "sha512": "10f1c04d624ac303ae94a91b267a75d45bf5bcba91648d81bd64ace76cd577685f6ad78af5f15389f17e2fe55af9bad205c212dd116a9a061fd514dd68534b92"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/BaRqMqWN/xaerominimap-neoforge-1.21.1-26.3.0.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-26.3.0.jar",
+          "primary": true,
+          "size": 2181784,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fPArBs97",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.3.0",
+      "version_number": "fabric-1.21.1-26.3.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-13T12:32:39.939812Z",
+      "downloads": 39723,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PS1YahJ4",
+          "hashes": {
+            "sha512": "aae4bb032eecb2d44ce1a78f4c542f18aeca386285e1aaa452ac77022aa8ad1f3bf641e99c0ae1c0e6416272f61d58d5847f86c8b16ebe3ee63ffd1e7aefb496",
+            "sha1": "ade83613e5ad54fc3c5a6322c8b92493a8110788"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/fPArBs97/xaerominimap-fabric-1.21.1-26.3.0.jar",
+          "filename": "xaerominimap-fabric-1.21.1-26.3.0.jar",
+          "primary": true,
+          "size": 2229894,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "mQXYBXgl",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.3.0",
+      "version_number": "forge-1.21.1-26.3.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-13T12:32:26.952040Z",
+      "downloads": 2729,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ReFi7F9V",
+          "hashes": {
+            "sha512": "55a1ed6c296a039bd7a80417dbf1b430a48021ec29dad4a4146578fcb8c7987c9dd6229c5c581bdfefb5f86c8f8fbde49f2e0e29117d54b8dc88244be76b734a",
+            "sha1": "714c779a70a3c18fca5ff79a0a2dc1c4f2ab93bb"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/mQXYBXgl/xaerominimap-forge-1.21.1-26.3.0.jar",
+          "filename": "xaerominimap-forge-1.21.1-26.3.0.jar",
+          "primary": true,
+          "size": 2180609,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "BveBfpvr",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.2.1",
+      "version_number": "neoforge-1.21.1-26.2.1",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-08T21:10:51.997354Z",
+      "downloads": 109852,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "x4n5s5vK",
+          "hashes": {
+            "sha512": "c0ed2aea87a79e685fb877394cdba523234eb75289f2300697964fef35e2dbb8a5b0501ddf5c0e2cf836134365de042e3cd1fedd18dd40e6cdc0575219ef97a8",
+            "sha1": "7c8bb68ba18edc252e50102d45c0ea7556ac2626"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/BveBfpvr/xaerominimap-neoforge-1.21.1-26.2.1.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-26.2.1.jar",
+          "primary": true,
+          "size": 2173497,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "UC6z31zK",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.2.0",
+      "version_number": "neoforge-1.21.1-26.2.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-08T10:41:20.387149Z",
+      "downloads": 10997,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZW2Seprl",
+          "hashes": {
+            "sha1": "9df9757f6ed63647da87b04e6e8bc1de5af64ef9",
+            "sha512": "2026753a7ff66ee38f75d5091bb5794e9fa3742f41231ed80586170faf3d865208249948e2e59c2d825ca2f06007a7aaa558991205f083f91e5cf4ddfe4977f2"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/UC6z31zK/xaerominimap-neoforge-1.21.1-26.2.0.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-26.2.0.jar",
+          "primary": true,
+          "size": 2173476,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "JVCvGnhe",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "26.2.0",
+      "version_number": "fabric-1.21.1-26.2.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-08T10:40:09.390178Z",
+      "downloads": 278263,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jhHMmroO",
+          "hashes": {
+            "sha512": "bf3bf6fcace4d1b955e22c99df9dcaff5ada6d486afe87508d353acf607ec7821157d173999a09632f989e8105aa6b14ef4445340fa1916b794d1094e1d8b5ab",
+            "sha1": "9b4bdb594f6772ef05d7e6930c5f1cee23ef69cb"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JVCvGnhe/xaerominimap-fabric-1.21.1-26.2.0.jar",
+          "filename": "xaerominimap-fabric-1.21.1-26.2.0.jar",
+          "primary": true,
+          "size": 2220634,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "dUkNnKl0",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "Xaero's Minimap 26.2.0",
+      "version_number": "forge-1.21.1-26.2.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-07-08T10:39:51.349463Z",
+      "downloads": 3582,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Q6Yug8ID",
+          "hashes": {
+            "sha1": "ace1ac46be7b112ba08cdc22e943e65cb16356db",
+            "sha512": "a3e22485e1a5ca6ccf1cad4652408bd112284e4a18010faa1425cbff43d1ad03703cc4592b2d2d27dfdac826393319ce3ebcf2fc7acd8c20d98cccc457b8e769"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/dUkNnKl0/xaerominimap-forge-1.21.1-26.2.0.jar",
+          "filename": "xaerominimap-forge-1.21.1-26.2.0.jar",
+          "primary": true,
+          "size": 2172246,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "w8HSmbC3",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "26.1.0",
+      "version_number": "neoforge-1.21.1-26.1.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-06-11T11:35:52.807065Z",
+      "downloads": 426044,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DxOXAYLw",
+          "hashes": {
+            "sha1": "8def3c4be129420700d6fe325abe3a6b6fbe3e18",
+            "sha512": "a4ce763f7864b0e14ccb1cad16fcb0f84d510261d55d6ef41caebc05ad2bc67f50d65bbd5ef793bd9578e3543f624ce38f0a7d4c0b51bea1e9c2499e3739b2f5"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/w8HSmbC3/xaerominimap-neoforge-1.21.1-26.1.0.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-26.1.0.jar",
+          "primary": true,
+          "size": 2138254,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "UlRSujUV",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "26.1.0",
+      "version_number": "fabric-1.21.1-26.1.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-06-11T11:35:33.038642Z",
+      "downloads": 476547,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5ywyBPG7",
+          "hashes": {
+            "sha1": "c9ce9fcf34f00d5490c5a08a16d45850784992d2",
+            "sha512": "b22224df40e06a8bd68c319d0436bbc2c235631deab825bd69d1dd305962087edac66bb959b64ed3a5c60d0bb41354fb696544c4151c30d59888e59f19e8fe86"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/UlRSujUV/xaerominimap-fabric-1.21.1-26.1.0.jar",
+          "filename": "xaerominimap-fabric-1.21.1-26.1.0.jar",
+          "primary": true,
+          "size": 2177932,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "b3DWRYgW",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "26.1.0",
+      "version_number": "forge-1.21.1-26.1.0",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-06-11T11:35:15.894206Z",
+      "downloads": 17327,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "caHiSZ8y",
+          "hashes": {
+            "sha512": "e4cd7722d8f7dee29311a44bf5dff9323278a879ab2ea266b7d755eb0bdfa221b760926be3f07dbcca7fe6ef71fb77fdaa16a0e2dbe410b4db00df6a3d93f402",
+            "sha1": "df8159b7e7548af419ad5fe8a7dc05607d58355a"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/b3DWRYgW/xaerominimap-forge-1.21.1-26.1.0.jar",
+          "filename": "xaerominimap-forge-1.21.1-26.1.0.jar",
+          "primary": true,
+          "size": 2137121,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "CklXEjmp",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.13",
+      "version_number": "neoforge-1.21.1-25.3.13",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-05-06T07:45:20.855426Z",
+      "downloads": 804424,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bIvPqATi",
+          "hashes": {
+            "sha512": "e6d12bcc860d81af59b8cb6d7e2306eb6c119b57f6bd0e7f9536e7800b82385b935b9b23b59e7935dd157724e2b02f32aa0e519dea033d45f7eae78362732c4b",
+            "sha1": "06cdb37f394bdbebce94c64644ae4bc21bd98959"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CklXEjmp/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-25.3.13.jar",
+          "primary": true,
+          "size": 2138329,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ub3haes5",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.13",
+      "version_number": "forge-1.21.1-25.3.13",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-05-06T07:45:00.324233Z",
+      "downloads": 27966,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1k4yDPjA",
+          "hashes": {
+            "sha1": "c2f1bec88bd26b03e2a4a5fb84b055d4d4542376",
+            "sha512": "20864db51cb9a60cf2b0134028d58e6994bc3efd1a7ef5368c6a41825992181201d328c92a0637b934c2fb4443220b87f790bea175fdfb5cc04c2976d0931dc1"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ub3haes5/xaerominimap-forge-1.21.1-25.3.13.jar",
+          "filename": "xaerominimap-forge-1.21.1-25.3.13.jar",
+          "primary": true,
+          "size": 2137199,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ThKA6Y5O",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.12",
+      "version_number": "neoforge-1.21.1-25.3.12",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-05-05T09:09:08.503940Z",
+      "downloads": 13414,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "H3kulvWl",
+          "hashes": {
+            "sha1": "2b59c9adb5d42fe8bd84f633a7b6601b15fc3634",
+            "sha512": "f41133aad8507997fc6e87f26770af38cc3ed4b2f22d96147205480f3fcc7ed654c5560b8a2d9764875e6034ed4b06190d949683d95f7f09e016ce78a9ef9f79"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ThKA6Y5O/xaerominimap-neoforge-1.21.1-25.3.12.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-25.3.12.jar",
+          "primary": true,
+          "size": 2138323,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Y6UMYlPY",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.12",
+      "version_number": "fabric-1.21.1-25.3.12",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-05-05T09:08:46.173040Z",
+      "downloads": 355464,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mXo3CTSP",
+          "hashes": {
+            "sha1": "04436f3e586f1cf5b6cee6258b7cb4b78b83f871",
+            "sha512": "4415f946e23c2dd3cf60ba2821b494666cf8395727a1013f9e7d92ff811a07ae75cf15a133742898f7b488f83e62c33bf0446906e8379f4a2c9d68980c4f8620"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Y6UMYlPY/xaerominimap-fabric-1.21.1-25.3.12.jar",
+          "filename": "xaerominimap-fabric-1.21.1-25.3.12.jar",
+          "primary": true,
+          "size": 2177981,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "JBbaF2jw",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.12",
+      "version_number": "forge-1.21.1-25.3.12",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-05-05T09:08:30.224392Z",
+      "downloads": 512,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ybNpHlKb",
+          "hashes": {
+            "sha512": "85054874b0a0844acc984f9d59d85eb055ea90af0549f46271ad99256dc6dfdca53121f3281d25d1c1c732484d81521c6813558f4fb5a53665025f69a97ecefc",
+            "sha1": "72aa124b8a65bf72bf77119b202cfb047f356131"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JBbaF2jw/xaerominimap-forge-1.21.1-25.3.12.jar",
+          "filename": "xaerominimap-forge-1.21.1-25.3.12.jar",
+          "primary": true,
+          "size": 2137192,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "9kt7Yxig",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.10",
+      "version_number": "fabric-1.21.1-25.3.10",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-09T08:15:47.904072Z",
+      "downloads": 2580547,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Q1WT5TNc",
+          "hashes": {
+            "sha512": "2cabff39e66fdbe0b7ba514573bc743c40bc827d6edecbe59941cfb693f105340d11226fe06b5f5fff95fc8d63f42445d92d0f31eb34ffde540422271ceb823e",
+            "sha1": "a231fa03625036fb8118a1a5981f22eac54c3597"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/9kt7Yxig/xaerominimap-fabric-1.21.1-25.3.10.jar",
+          "filename": "xaerominimap-fabric-1.21.1-25.3.10.jar",
+          "primary": true,
+          "size": 2177333,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "JItSZSRo",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.10",
+      "version_number": "forge-1.21.1-25.3.10",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-09T08:15:32.623017Z",
+      "downloads": 69533,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vLqY6U1p",
+          "hashes": {
+            "sha1": "565ea4cd11b453ba371bd1f379fe76a06c5c259a",
+            "sha512": "ee876f5abffe868939d111b75648556aa210daae1c948e74dda48180290e76b3304f1f7fcbe42de9e938f1002cc3720ddd1830cb1dea1ffba19c93ea9e6ae827"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JItSZSRo/xaerominimap-forge-1.21.1-25.3.10.jar",
+          "filename": "xaerominimap-forge-1.21.1-25.3.10.jar",
+          "primary": true,
+          "size": 2136655,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "CatMvRfN",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.10",
+      "version_number": "neoforge-1.21.1-25.3.10",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-09T08:15:14.665044Z",
+      "downloads": 836342,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "30vA5rNp",
+          "hashes": {
+            "sha1": "d4828332dd831455429156b6cfa24aa9bd99dd77",
+            "sha512": "97dbc7ddc8b86edead71f60e3257175abe9e05e94387447aad2467cfcf0a5211ed848ee3df9bb3c308183405f997f8acd508ac01f8ee374f08d9af00729fc1d8"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "primary": true,
+          "size": 2137784,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "kPQFDgFG",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.9",
+      "version_number": "fabric-1.21.1-25.3.9",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-06T10:04:21.585678Z",
+      "downloads": 41369,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LCp4TMTK",
+          "hashes": {
+            "sha512": "84160a7fddd5a7ec5ebc05552b6fa7822e13d50c41cfabebf73fd6d0648d74e982e3004b221e73f31b2671c0d45db5e78d07e61416ffada72dcf4d162c809b54",
+            "sha1": "8dad15973383b93749c74831d80b6c835c8bd8dd"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/kPQFDgFG/xaerominimap-fabric-1.21.1-25.3.9.jar",
+          "filename": "xaerominimap-fabric-1.21.1-25.3.9.jar",
+          "primary": true,
+          "size": 2177065,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ONmDn2Tl",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.9",
+      "version_number": "forge-1.21.1-25.3.9",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-06T10:04:07.344786Z",
+      "downloads": 2897,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9sGSoZpg",
+          "hashes": {
+            "sha1": "35d364d3781b1b296fb7fc45fa72c8e0061510f4",
+            "sha512": "5eebf9c4509477bdcc443a2291c984c2fb7c67a3d3f383777f135d5faa3fa74bb93deb7c67d441f6a27fa1cef66353b767dd34a58fd8c6ad68f1be42e3e3f420"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ONmDn2Tl/xaerominimap-forge-1.21.1-25.3.9.jar",
+          "filename": "xaerominimap-forge-1.21.1-25.3.9.jar",
+          "primary": true,
+          "size": 2136360,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "7KUAY3Iw",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.9",
+      "version_number": "neoforge-1.21.1-25.3.9",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-06T10:03:50.428125Z",
+      "downloads": 29442,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8sHbss7F",
+          "hashes": {
+            "sha512": "57ac202fa0e692ed338bbeee7834afd07dac31f8c0f6911a737f73b7c4d9e066ad262a6974d0a3ded665d95e01c280aa56c8f2f6df999f50236c621cc37a4cf6",
+            "sha1": "58b5fb8edd5ded608f6a6c303373504bb9932517"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7KUAY3Iw/xaerominimap-neoforge-1.21.1-25.3.9.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-25.3.9.jar",
+          "primary": true,
+          "size": 2137493,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "j42cEChK",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.7",
+      "version_number": "fabric-1.21.1-25.3.7",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-05T11:03:58.200791Z",
+      "downloads": 9775,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TSVKoCnA",
+          "hashes": {
+            "sha512": "2aea58eda117f0638610bf755ef10210b62b7ff108b529573a8d36344d4534004450459598b073465785656ab8e459525b9b4be7acc3958402ee8e86b93e3cb7",
+            "sha1": "941d756383683524c8a43fcfa1f3819d694d098b"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/j42cEChK/xaerominimap-fabric-1.21.1-25.3.7.jar",
+          "filename": "xaerominimap-fabric-1.21.1-25.3.7.jar",
+          "primary": true,
+          "size": 2177051,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "F2fBBTEz",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.7",
+      "version_number": "forge-1.21.1-25.3.7",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-05T11:03:35.933445Z",
+      "downloads": 821,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AktPDvZu",
+          "hashes": {
+            "sha512": "07b8bb36589a46c5f8f607ac4b14a0c7fb15b75281e4883fdb24962ae38546111b8f651a53bce225d9523206a7571a8f6c288c7a01da0d1a51b5a5d6588cb0f7",
+            "sha1": "bc5cd6d52f57ea334f8cbc417e843433cc227485"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/F2fBBTEz/xaerominimap-forge-1.21.1-25.3.7.jar",
+          "filename": "xaerominimap-forge-1.21.1-25.3.7.jar",
+          "primary": true,
+          "size": 2136337,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "MQMsfPNl",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.7",
+      "version_number": "neoforge-1.21.1-25.3.7",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-02-05T11:02:51.264057Z",
+      "downloads": 9515,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "12MI5IkG",
+          "hashes": {
+            "sha1": "31ca3fad88fadc587b2f5042462c2504d64eef4e",
+            "sha512": "134fac5099ac8a4283962fdc37ec7fcf521811fd0460d755ae5182048d2f8dcaf0e61590e5e098d84c22cd67714b501936bb175d8f1c04a2e2cff52837a8cf70"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/MQMsfPNl/xaerominimap-neoforge-1.21.1-25.3.7.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-25.3.7.jar",
+          "primary": true,
+          "size": 2137466,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Vqkdzsyt",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.5",
+      "version_number": "fabric-1.21.1-25.3.5",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-01-03T14:08:05.493097Z",
+      "downloads": 3604177,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "o2HfWWPj",
+          "hashes": {
+            "sha512": "2f4f9abbd5f3c33d641cd803e19c36346762c33201c4ae7be29e856fc35f2e943eea3b0dc627fc73acf792c04d687bba6182839ee107e5c34d529600d7d4b40d",
+            "sha1": "82cbfff0e68092f31869f4d6509590e58c9f6b92"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Vqkdzsyt/xaerominimap-fabric-1.21.1-25.3.5.jar",
+          "filename": "xaerominimap-fabric-1.21.1-25.3.5.jar",
+          "primary": true,
+          "size": 2159839,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "QGvLgTlG",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.5",
+      "version_number": "forge-1.21.1-25.3.5",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-01-03T14:07:43.917104Z",
+      "downloads": 29821,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WQ5DIhyC",
+          "hashes": {
+            "sha1": "c736699bfbecb4e6b45b361fbbf2b523e86798bc",
+            "sha512": "fc612d4bd0194da5366c12099acb4de4b1ed129c5563adf51ed89597127bf90450992f1a39423f6384561749eeee2cd38d4e8d944c3afd4f1fcac2e8c14e67e5"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/QGvLgTlG/xaerominimap-forge-1.21.1-25.3.5.jar",
+          "filename": "xaerominimap-forge-1.21.1-25.3.5.jar",
+          "primary": true,
+          "size": 2189240,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "puXrtfcK",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.5",
+      "version_number": "neoforge-1.21.1-25.3.5",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2026-01-03T14:07:22.690168Z",
+      "downloads": 353262,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Kl4yIu20",
+          "hashes": {
+            "sha1": "b662f97a58d88d56780487a89bf65d9d0330869d",
+            "sha512": "b9e261eff2987e12244a70ccc1c65688da73343f182f5c59afcfce58cd61f2c930a4920a139bea62c5c5915f9b99bf9b624c09535901f5dd679b7998f7701f17"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/puXrtfcK/xaerominimap-neoforge-1.21.1-25.3.5.jar",
+          "filename": "xaerominimap-neoforge-1.21.1-25.3.5.jar",
+          "primary": true,
+          "size": 2120271,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "T78xsQuu",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.2",
+      "version_number": "25.3.2_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-12-31T16:59:59.417750Z",
+      "downloads": 294585,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JeEpTmU2",
+          "hashes": {
+            "sha512": "04f412319b5fae0f4627da9a52d86a981f0f668d508575d6fe9c5882567f98f4cd632de0b447ba858be180a0000f343cb0c9107d4f187a3d525b02e2e671fc18",
+            "sha1": "b7ea1579342f10788e22de2138deb69ec01d49cb"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/T78xsQuu/Xaeros_Minimap_25.3.2_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_25.3.2_Fabric_1.21.jar",
+          "primary": true,
+          "size": 2159724,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "nVjx8BAd",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.2",
+      "version_number": "25.3.2_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-12-31T16:59:19.069581Z",
+      "downloads": 3201,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "esyYxzi0",
+          "hashes": {
+            "sha1": "7ef86fb087ad35a5fe34c35021822f859fc8824c",
+            "sha512": "e1e5ca0dffca1c640d16e4ba28688e880cc17aa4a8c45b91d4ace1d86e08222e4c71a0c0a956df67a0703f908710134a334b872cedc3d935ae023b8e49583023"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nVjx8BAd/Xaeros_Minimap_25.3.2_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.3.2_Forge_1.21.jar",
+          "primary": true,
+          "size": 2119140,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "iTA5fl45",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.3.2",
+      "version_number": "25.3.2_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-12-31T16:54:25.156387Z",
+      "downloads": 25811,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7q3X2GgX",
+          "hashes": {
+            "sha1": "0a6ccd432319ea3f5d30ff3a06f9f080c93cf974",
+            "sha512": "e34edc81388b9f119f1096778f651655411e98a909d7979001ba9a40951bc4d239dd997fd4e5aa660db87b7c41fcdb1b100325ce37a243f604b49c153c97cf55"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/iTA5fl45/Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 2120102,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "IaH8q5hM",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.10",
+      "version_number": "25.2.10_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-07-17T09:16:16.584378Z",
+      "downloads": 4752307,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "inZLedEm",
+          "hashes": {
+            "sha512": "7702b6a4cd94b7e80e8d381f2d620acc69467ab4df45cd9a4d37d2484dd8b0c3b0048a6be3bec16926b562891c38c0543316cda295a57cb27caad9e9de8a6362",
+            "sha1": "3854bef072f7637ef7523d7a6e97b50649833b3e"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/IaH8q5hM/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1745107,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "X3gyGmJb",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.10",
+      "version_number": "25.2.10_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-07-17T09:15:57.394739Z",
+      "downloads": 106350,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "s6W0DH1G",
+          "hashes": {
+            "sha1": "602a9c2871fdd68c25f26bf53f2fbc49e5df86df",
+            "sha512": "efd1108b53684893ba162130fae8ff886316fae3e4d2709dd5f85c1de6f6c39332ecf79aad3d6f8d0ecd18cfc38731f0b98753a1ad68fc214fe7929bae50f455"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/X3gyGmJb/Xaeros_Minimap_25.2.10_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.10_Forge_1.21.jar",
+          "primary": true,
+          "size": 1710777,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "DyuxZXfy",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.10",
+      "version_number": "25.2.10_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-07-17T09:15:39.637959Z",
+      "downloads": 1274899,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OxwgeEFQ",
+          "hashes": {
+            "sha1": "c671bd1d33e551c74f0157c9678549e566c5368e",
+            "sha512": "8c39668792ea4053e0dfd52f7045819dde26b18dddf2deae2a76b1873c9593f4c4c1b5c51c7134e288732ce35cd360fd01904354334e8320cb35634090e74988"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/DyuxZXfy/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1710781,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "BKURGnp1",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.6",
+      "version_number": "25.2.6_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-05-10T07:49:21.900363Z",
+      "downloads": 1730701,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "R1cJ64nc",
+          "hashes": {
+            "sha512": "e5bd4dfde9746c9a233a7da923d88f8cf37c9c42eae181d82b9df1756e2d4a5fa0d4a64b7ccbc22d9431e4d924a10b23f522e01aaf915c1c36310b64903573b5",
+            "sha1": "36ec2f79b89539e82b430f550fd12731c5bef4b2"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/BKURGnp1/Xaeros_Minimap_25.2.6_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.6_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1741254,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "jSwPt0Wh",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.6",
+      "version_number": "25.2.6_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-05-10T07:49:00.232460Z",
+      "downloads": 554248,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kxcA5O8r",
+          "hashes": {
+            "sha512": "28372023d4476175a014f694825f5d3f291b5606261b8139b5365ab45abf87392fa2ebbd01b02ade579a870fa2105ebb8d141bb6bfa5b91c26aa1cb1fa34b919",
+            "sha1": "3b2d6218ece281047c18b5622ba2cbfb3780a8ba"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/jSwPt0Wh/Xaeros_Minimap_25.2.6_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.6_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1690154,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "369eDeH9",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.6",
+      "version_number": "25.2.6_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-05-10T07:48:40.810693Z",
+      "downloads": 36331,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ugWRw05d",
+          "hashes": {
+            "sha512": "044823225a38131b4d0d822c4fc2c55653a84ef6a3a046053770632f84b1cfac31f7de07b8e4ceded511b5e4eb1aa601b5b78eb33ea22bb66c1d552b231af046",
+            "sha1": "97dbaa4f846905d24a54ebda4871f1e053dfd8c4"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/369eDeH9/Xaeros_Minimap_25.2.6_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.6_Forge_1.21.jar",
+          "primary": true,
+          "size": 1691061,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "tYp62ZlC",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.0",
+      "version_number": "25.2.0_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-03-15T09:06:30.545412Z",
+      "downloads": 2529981,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "d3g7DfX7",
+          "hashes": {
+            "sha512": "f9606112d8df554457128865e2c3fede1b438832614c272c0f23241140d73e2526374d893b751872cc661388bc7220f4c27686839ce834ddc2e75d3e7fbf38b0",
+            "sha1": "b383f0851cb56c3f2257d20894cc42b3eb04a6df"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/tYp62ZlC/Xaeros_Minimap_25.2.0_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.0_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1738365,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "DHYXuO0J",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.0",
+      "version_number": "25.2.0_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-03-15T09:06:08.513626Z",
+      "downloads": 242293,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ll4HtXXj",
+          "hashes": {
+            "sha512": "cc24a6d951720b6da0bb0b05f53522f96d81f2c8f862b4f71d3e45c164ab30f4282a76a70176e1e185e0571914565ee6f98a3882e4f1bd847e469ee2a0730ec1",
+            "sha1": "5ea4b4d233a287cdfa8bbac341105039b1a55ba7"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/DHYXuO0J/Xaeros_Minimap_25.2.0_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.0_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1689472,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "NjMveGUo",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.2.0",
+      "version_number": "25.2.0_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-03-15T09:05:47.657293Z",
+      "downloads": 23569,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZlVBe8Qn",
+          "hashes": {
+            "sha512": "04367e7e07eff907de36ed90d9abebf071560eaea1281f37a42129786d828cf280f00443d6ecb05c309bc50eb76ab33ef6836e0dc2d8ff7afd6b28f7f07155a1",
+            "sha1": "0f5f243f044cbfd557f9759377f535100dd5be42"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/NjMveGUo/Xaeros_Minimap_25.2.0_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.2.0_Forge_1.21.jar",
+          "primary": true,
+          "size": 1690383,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ohNO6lps",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "2Go558kv",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.1.0",
+      "version_number": "25.1.0_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-02-12T10:10:17.061249Z",
+      "downloads": 912682,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9RHZ8wS5",
+          "hashes": {
+            "sha512": "9c1f2b8dc8f3f28a8f73293981249c07cb70b48952f3e2a9973c2ab38d9aa0d38e72fd538247cfd39b1d6f712d9bc76968ea1bbd81b598a85de2f4750af4b513",
+            "sha1": "957f5c83c943803ba0cf0233494797fba59c099e"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/2Go558kv/Xaeros_Minimap_25.1.0_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_25.1.0_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1704491,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Cnb0U7h3",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.1.0",
+      "version_number": "25.1.0_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-02-12T10:09:51.171294Z",
+      "downloads": 73170,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "x9bfyTob",
+          "hashes": {
+            "sha512": "2742a8a37d022d3391e97468c08e6f1b777f333257636adb84f8868a3f1c677bcd6010cd06f33cde41233ee1b97193803b4412514f4ef6bdf1e8f261d0f4d05d",
+            "sha1": "9a63b37ea38aa23376d21299b2849905666bff09"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Cnb0U7h3/Xaeros_Minimap_25.1.0_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.1.0_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1657036,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fs15o9N9",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.1.0",
+      "version_number": "25.1.0_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-02-12T10:09:36.457917Z",
+      "downloads": 14424,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wKZUps6r",
+          "hashes": {
+            "sha512": "1113450d8bc394da482516529eaa0dd8f8be8fba48d5ad95de7cbde85c01a2403fd03dd5dcfdcce12fddc2a1528e2bc84107fbc11ed70c7ea755c44013f772fd",
+            "sha1": "a00c15a3c02bffa04b8af3695b6ed9e1fba8137b"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/fs15o9N9/Xaeros_Minimap_25.1.0_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.1.0_Forge_1.21.jar",
+          "primary": true,
+          "size": 1657951,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "OlQ3SNJL",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.0.0",
+      "version_number": "25.0.0_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-01-23T09:53:50.589423Z",
+      "downloads": 870189,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UWKVmS6B",
+          "hashes": {
+            "sha1": "9f2340085b953de3155d08f3f168af114cd101dd",
+            "sha512": "3975468b9a6024583c888aff82d865967aefc1313d0e875cb83f2c56d721a436fd8303430f93d6477fe74c80c60d92bb4469e4d62ba56215df6a899ebe11e1d6"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/OlQ3SNJL/Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1686418,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "lXE3GSmk",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.0.0",
+      "version_number": "25.0.0_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-01-23T09:53:24.617267Z",
+      "downloads": 100094,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "s8wZOGw2",
+          "hashes": {
+            "sha512": "71989159fa14affd4bd2d4c29556e9405ea5c01334b457a99934061d0308ff6fbfe108f55d3278acfa41fc0bd9d7b77aaa282122664ac473c438613830e11d8d",
+            "sha1": "84cef3c2198df6c96f31892d7b7a6e1eccff3fe8"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lXE3GSmk/Xaeros_Minimap_25.0.0_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.0.0_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1638940,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "80TYfBoi",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "25.0.0",
+      "version_number": "25.0.0_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2025-01-23T09:52:55.395751Z",
+      "downloads": 8728,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nIgFg22V",
+          "hashes": {
+            "sha1": "0b611777ae8184f5bb7d2b203e14eb2a9fe65094",
+            "sha512": "a2ce7639a40556953bf072b71ec4f47158295071cb9e4486a6b406d2fc1f5e0c83ee4a212ed2835053892695b1df5d013bfe851a3efad58f2cf64a2fbf1d83fc"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/80TYfBoi/Xaeros_Minimap_25.0.0_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_25.0.0_Forge_1.21.jar",
+          "primary": true,
+          "size": 1639857,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Hyd81hdy",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.7.1",
+      "version_number": "24.7.1_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-12-22T10:40:08.307825Z",
+      "downloads": 461287,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gNohUbIg",
+          "hashes": {
+            "sha512": "1b2d0b507d8067c3360f0a47d29e62346dcee90bcb0b0ce2f049dc2ab3035ca521558b5dc0cac1778410c6fadb25ff790d38448e8f6b43cc53fc274c05df7023",
+            "sha1": "f8fc189a851122919933c3dbb5f049e4b2e13105"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Hyd81hdy/Xaeros_Minimap_24.7.1_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_24.7.1_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1655048,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "JWwiRAqV",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.7.1",
+      "version_number": "24.7.1_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-12-22T10:39:39.854187Z",
+      "downloads": 33696,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Sy69IzbE",
+          "hashes": {
+            "sha1": "a6b9f601ace2a64d901223ec8cbd0b6b87afcde3",
+            "sha512": "5ca2b2f3d4473e4f867041696ad7698ef9fcb8502b80c5213d8c31db0154896f5f985b13fe02edd0ee7dba22b6300921e4c187cca0112d41febe90be31be95c3"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JWwiRAqV/Xaeros_Minimap_24.7.1_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.7.1_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1608110,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "xPwk8hFl",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.7.1",
+      "version_number": "24.7.1_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-12-22T10:39:15.452757Z",
+      "downloads": 11346,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZWuy5yao",
+          "hashes": {
+            "sha1": "05e8cefb9065779aafbeb14be566e1bfb6825718",
+            "sha512": "a1a55657b29992dc8f67c1d368ee308f6902bcce18a41e5a64085ae997fb62f66a082d8daf2777c424305d84ec41eeb435f15246e3a438b60b4f8a5a98efbcbb"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/xPwk8hFl/Xaeros_Minimap_24.7.1_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.7.1_Forge_1.21.jar",
+          "primary": true,
+          "size": 1609026,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "C6gFqr7V",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.6.1",
+      "version_number": "24.6.1_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-10-31T08:23:04.944920Z",
+      "downloads": 561670,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1JnqhVbU",
+          "hashes": {
+            "sha1": "7002f3d1dbfca2b409995abc2c4d696438f16492",
+            "sha512": "783f5243f4d017071e26215660dafce6ff182e98583188296010d859b845f4d08d303cc930c9e98b28d67483c292ad0d00dada52916d275bda950f9975c4a222"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/C6gFqr7V/Xaeros_Minimap_24.6.1_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_24.6.1_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1639487,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "C6O2bJXs",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.6.1",
+      "version_number": "24.6.1_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-10-31T08:22:47.252917Z",
+      "downloads": 18534,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8PADJ89E",
+          "hashes": {
+            "sha512": "2a6a83f38edb07920fb1ea78c01c97fe7fffc7495b75a28cf6e6fa58026bac2b935f3713a3a425da4ad79dd564dc3b06978fdb7e29cc0232aff0e79e021c8521",
+            "sha1": "8ec0b6d2b74e8c20e530107688cf06de523578d7"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/C6O2bJXs/Xaeros_Minimap_24.6.1_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.6.1_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1593207,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "GbcwZsl7",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.6.1",
+      "version_number": "24.6.1_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-10-31T08:22:29.199540Z",
+      "downloads": 18478,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "a0xiVIsZ",
+          "hashes": {
+            "sha1": "0fc41327f9988509980951c536431d7560d3cbf4",
+            "sha512": "dad77d9513854cd731600b4597150d83367b6d9fdcfc82b6c5c0fb48d1b5263d6ab3272f18e2a0ad53f441cc5a57473c6baf2eb66e76f49923e3ec3f357c9531"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/GbcwZsl7/Xaeros_Minimap_24.6.1_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.6.1_Forge_1.21.jar",
+          "primary": true,
+          "size": 1594130,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ronrQ1g2",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.5.0",
+      "version_number": "24.5.0_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-10-01T07:52:11.232473Z",
+      "downloads": 364859,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AcpqpwfW",
+          "hashes": {
+            "sha1": "7d5bee294564439f73de921c39e1f0feb43cb514",
+            "sha512": "f32bb730de388053c76137ef12e54e70581c30056db54a42faf87feaefb771f0341f87a2bcacef6efeaee3abfd3bbd713da673c5a8a9923d4ce5023305d13104"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ronrQ1g2/Xaeros_Minimap_24.5.0_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_24.5.0_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1616091,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "LI24TIad",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.5.0",
+      "version_number": "24.5.0_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-10-01T07:51:49.797700Z",
+      "downloads": 33298,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "is17sPSV",
+          "hashes": {
+            "sha512": "023bdeefab69f6a78bf079908e28e703a34a3aabf081e5748e050499a2b0187df86a33e0a2be33cb1d7ef7ba04e5b421532ff6f0e21cd6f1515363df958ce075",
+            "sha1": "6ffe2f270f9aa5aae14fab4ac1a1e669febe8e59"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/LI24TIad/Xaeros_Minimap_24.5.0_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.5.0_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1569952,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "TihFAuhc",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.5.0",
+      "version_number": "24.5.0_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-10-01T07:51:35.291273Z",
+      "downloads": 16206,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xWeYulqG",
+          "hashes": {
+            "sha1": "6390e3412de56087d09b63b3829b3cfd5d3fd1f0",
+            "sha512": "e8ab686cfc48c2946870d307ccdbb0653607203bb42ceb4fc66af64fc852ac32e027e59b3478febf2025c876a44d7cd7d238d11dbe54fbf00acb951dbb9177b9"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/TihFAuhc/Xaeros_Minimap_24.5.0_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.5.0_Forge_1.21.jar",
+          "primary": true,
+          "size": 1570869,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "3rShEpTe",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.4.0",
+      "version_number": "24.4.0_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-09-02T07:10:15.845821Z",
+      "downloads": 285349,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "F7ZmL0hz",
+          "hashes": {
+            "sha512": "5f4649af0980e6cee417813f78c591656f9381a258320835e40130afe682b132a5058a0bb392ba9837b64461bcccace5321f75542c473f426d1606dd840dc085",
+            "sha1": "c34010d020990fee15eeda7c0c50f12bcaa0fa1a"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/3rShEpTe/Xaeros_Minimap_24.4.0_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_24.4.0_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1563463,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "93XFg5yC",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.4.0",
+      "version_number": "24.4.0_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-09-02T07:09:58.294504Z",
+      "downloads": 11955,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OXEvWRme",
+          "hashes": {
+            "sha512": "61abe3b50e63c2623822bc3c05d06c8f5786c4413ac177645072b99cdf52f9d4d15d1136a4bf0a13175d82ae121c252d8e7e9cde8ac630670965bfe0132a5cbe",
+            "sha1": "03cb3fe23d48cd2e1d3d7deabba348808a4c73a7"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/93XFg5yC/Xaeros_Minimap_24.4.0_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.4.0_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1518984,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "aVT9ELGL",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.4.0",
+      "version_number": "24.4.0_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-09-02T07:09:42.370816Z",
+      "downloads": 15277,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "A44H8aEu",
+          "hashes": {
+            "sha1": "f31a4054d94ac9e47bf499f99b52f35f38770867",
+            "sha512": "9c5a90389273a350076e1904c2cf5dcf17cad2149ed6ea32d059d9c947922fd69b80683173a630e57ce2bfc9e3c3ddfa244770c7759a25c55c03a95febc1047f"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/aVT9ELGL/Xaeros_Minimap_24.4.0_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.4.0_Forge_1.21.jar",
+          "primary": true,
+          "size": 1519910,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "X2u4L3vW",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.3.0",
+      "version_number": "24.3.0_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-08-17T07:59:18.534918Z",
+      "downloads": 457951,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "z2RJy9eZ",
+          "hashes": {
+            "sha512": "25379707d835734213f24801d1968ec45958d6f20b089a060641a4c9b4797c8cb35a5a06b810f41ac4b39a4c1e443e1e92e3a98a5dbc9f32ba9f1c52ed1ccd1c",
+            "sha1": "19e0f98cdd4da8dfeeca36325e31c2c7dc466f72"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/X2u4L3vW/Xaeros_Minimap_24.3.0_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_24.3.0_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1511001,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "N1CeJanx",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.3.0",
+      "version_number": "24.3.0_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-08-17T07:59:03.692102Z",
+      "downloads": 6298,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j8ZBrZ1O",
+          "hashes": {
+            "sha1": "920f000056d66742a15f269b8a73c71a357ff486",
+            "sha512": "a1fbd1ed1692f3a2ee4b36ae04518e61187ec6dfef54499e4c9980f992dd46418fa2eddeb72a02025b670f97eedf9460a44dc5b03c41a8fa33e8746580e57393"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/N1CeJanx/Xaeros_Minimap_24.3.0_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.3.0_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1467681,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "o4vtqX1N",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.3.0",
+      "version_number": "24.3.0_Forge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-08-17T07:58:45.367954Z",
+      "downloads": 12348,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dH2CoX5b",
+          "hashes": {
+            "sha512": "51d95ede4646521bc2bbcd430c3bc2026c6cbe63d1d87be7333985abb67495006e16975a56e184348515b7e5b30cc1396857b158ec79d84994dec35081b65576",
+            "sha1": "e57e9110f73788319344ae39ad51709f0a94d644"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/o4vtqX1N/Xaeros_Minimap_24.3.0_Forge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.3.0_Forge_1.21.jar",
+          "primary": true,
+          "size": 1468609,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "LF6xSpse",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.2.2",
+      "version_number": "24.2.2_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-07-31T12:00:33.823205Z",
+      "downloads": 23854,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6mj1O2f6",
+          "hashes": {
+            "sha512": "196fc0e156b3cee11c78496305356fdcd31767d6df036a9562f3fb3e0860588ac0acc7915a53d893e44a131f41124c93010e3fc8e906c47ddce27f43566874f4",
+            "sha1": "9002ef33ac4c9e0874461eb0460fbc8e22d11903"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/LF6xSpse/Xaeros_Minimap_24.2.2_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.2.2_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1458968,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "enRPivaa",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.2.1",
+      "version_number": "24.2.1_Fabric_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-06-17T11:38:02.437689Z",
+      "downloads": 893444,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FNYgevsy",
+          "hashes": {
+            "sha512": "164108c3d0a56a23868e307b08f2042460cd85fb508437579a3f410517f714984610845b052f6218d5e60578466e41ec7df8bbbe6d6abeccc7a7c103987daae0",
+            "sha1": "dc22cb21d9337addc6b68dee9aaeeef51ccc3c80"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/enRPivaa/Xaeros_Minimap_24.2.1_Fabric_1.21.jar",
+          "filename": "Xaeros_Minimap_24.2.1_Fabric_1.21.jar",
+          "primary": true,
+          "size": 1502503,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "cDXVTAcY",
+      "project_id": "1bokaNcj",
+      "author_id": "ANNqL3WC",
+      "featured": false,
+      "name": "24.2.1",
+      "version_number": "24.2.1_NeoForge_1.21",
+      "changelog": "[Read changelogs](https://chocolateminecraft.com/update.php?mod_id=0)",
+      "changelog_url": null,
+      "date_published": "2024-06-17T11:37:31.278829Z",
+      "downloads": 8413,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ReHdWZ3B",
+          "hashes": {
+            "sha1": "333e582ee674e4d7d1ea08d1f04f924666d6fdb6",
+            "sha512": "7bf5235a5d3607b300c3dffd860fe593c1ffbc41885b89755586940e03d89bb6037e8884118693fe522e13fe1ce6583f5b63ffa6583996693e51eb0712871689"
+          },
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/cDXVTAcY/Xaeros_Minimap_24.2.1_NeoForge_1.21.jar",
+          "filename": "Xaeros_Minimap_24.2.1_NeoForge_1.21.jar",
+          "primary": true,
+          "size": 1459280,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "gF3BGWvG",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}

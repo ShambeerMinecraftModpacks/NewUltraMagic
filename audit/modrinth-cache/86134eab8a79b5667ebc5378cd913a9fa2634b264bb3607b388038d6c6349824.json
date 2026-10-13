@@ -1,0 +1,1069 @@
+{
+  "url": "https://api.modrinth.com/v2/project/1eAoo2KR/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:28.448247+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "7TVdVtxF",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.8.2 for neoforge 1.21.1",
+      "version_number": "3.8.2+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.8.2\n\n### 3.8.2 targets\n\n|                  | Fabric    | NeoForge  | Forge |\n|------------------|-----------|-----------|-------|\n| 26.1 (Snapshots) | ✅         | ❌         | ❌     |\n| 1.21.11          | ✅         | ✅         | ❌     |\n| 1.21.10          | ✅         | ✅         | ❌     |\n| 1.21.9           | ✅ 1.21.10 | ✅ 1.21.10 | ❌     |\n| 1.21.8           | ✅ 1.21.6  | ✅ 1.21.6  | ❌     |\n| 1.21.7           | ✅ 1.21.6  | ✅ 1.21.6  | ❌     |\n| 1.21.6           | ✅         | ✅         | ❌     |\n| 1.21.5           | ✅         | ✅         | ❌     |\n| 1.21.4           | ✅         | ✅         | ❌     |\n| 1.21.3           | ✅         | ✅         | ❌     |\n| 1.21.2           | ✅ 1.21.3  | ✅ 1.21.3  | ❌     |\n| 1.21.1           | ✅         | ✅         | ❌     |\n| 1.20.6           | ❌         | ❌         | ❌     |\n| 1.20.4           | ❌         | ❌         | ❌     |\n| 1.20.1           | ❌         | ❌         | ❌     |\n\n### Changes\n\n- Add targets for 26.1 snapshots.\n- Remove some excessive validation from search field.\n",
+      "changelog_url": null,
+      "date_published": "2026-01-09T16:34:35.988599Z",
+      "downloads": 3058952,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tKjdtK77",
+          "hashes": {
+            "sha512": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48",
+            "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1118651,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "o3cDn8Vp",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.8.2 for fabric 1.21.1",
+      "version_number": "3.8.2+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.8.2\n\n### 3.8.2 targets\n\n|                  | Fabric    | NeoForge  | Forge |\n|------------------|-----------|-----------|-------|\n| 26.1 (Snapshots) | ✅         | ❌         | ❌     |\n| 1.21.11          | ✅         | ✅         | ❌     |\n| 1.21.10          | ✅         | ✅         | ❌     |\n| 1.21.9           | ✅ 1.21.10 | ✅ 1.21.10 | ❌     |\n| 1.21.8           | ✅ 1.21.6  | ✅ 1.21.6  | ❌     |\n| 1.21.7           | ✅ 1.21.6  | ✅ 1.21.6  | ❌     |\n| 1.21.6           | ✅         | ✅         | ❌     |\n| 1.21.5           | ✅         | ✅         | ❌     |\n| 1.21.4           | ✅         | ✅         | ❌     |\n| 1.21.3           | ✅         | ✅         | ❌     |\n| 1.21.2           | ✅ 1.21.3  | ✅ 1.21.3  | ❌     |\n| 1.21.1           | ✅         | ✅         | ❌     |\n| 1.20.6           | ❌         | ❌         | ❌     |\n| 1.20.4           | ❌         | ❌         | ❌     |\n| 1.20.1           | ❌         | ❌         | ❌     |\n\n### Changes\n\n- Add targets for 26.1 snapshots.\n- Remove some excessive validation from search field.\n",
+      "changelog_url": null,
+      "date_published": "2026-01-09T16:34:34.781900Z",
+      "downloads": 7545270,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZZvQOafa",
+          "hashes": {
+            "sha512": "353169f85fa63e73ce9bdd0d4ddce54e3cbc4d71153a93c982f74c68fd93325986663f94fc2f2b10f4427e8b15a0485c608c5587b3840d933204b50ea4cb6d4c",
+            "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1131265,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "UCDofDYx",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.8.1 for fabric 1.21.1",
+      "version_number": "3.8.1+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.8.1\n\n### 3.8.1 targets\n\n|         | Fabric    | NeoForge     | Forge |\n|---------|-----------|--------------|-------|\n| 1.21.11 | ✅         | ❌ Unreleased | ❌     |\n| 1.21.10 | ✅         | ✅            | ❌     |\n| 1.21.9  | ✅ 1.21.10 | ✅ 1.21.10    | ❌     |\n| 1.21.8  | ✅ 1.21.6  | ✅ 1.21.6     | ❌     |\n| 1.21.7  | ✅ 1.21.6  | ✅ 1.21.6     | ❌     |\n| 1.21.6  | ✅         | ✅            | ❌     |\n| 1.21.5  | ✅         | ✅            | ❌     |\n| 1.21.4  | ✅         | ✅            | ❌     |\n| 1.21.3  | ✅         | ✅            | ❌     |\n| 1.21.2  | ✅ 1.21.3  | ✅ 1.21.3     | ❌     |\n| 1.21.1  | ✅         | ✅            | ❌     |\n| 1.20.6  | ❌         | ❌            | ❌     |\n| 1.20.4  | ❌         | ❌            | ❌     |\n| 1.20.1  | ❌         | ❌            | ❌     |\n\n### Changes\n\n- Add target for 1.21.11 (snapshots, Fabric only)\n- Fix scrolling not working on targets below 1.21.9\n- Fix crash when configuring colour pickers when they do not allow alpha\n- Fix expanding groups not updating properly\n- Fix keyboard navigation focusing on hidden options\n- Fixed InstantStateManager preventing saving (#293, thanks @LopyMine)\n",
+      "changelog_url": null,
+      "date_published": "2025-12-07T20:01:04.639255Z",
+      "downloads": 2989076,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JFKzXKEV",
+          "hashes": {
+            "sha512": "d4532cf9ed422c584447d1b44e5e16ce894675599b44bebb3c293dafb559efd87b5c4ad8c571e6a845a55095d16e3e7739011483365ef264678fd9639540c903",
+            "sha1": "b2807abb067142accce3c489e7e485fd97d4339c"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/UCDofDYx/yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1131541,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "h8Px82QV",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.8.1 for neoforge 1.21.1",
+      "version_number": "3.8.1+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.8.1\n\n### 3.8.1 targets\n\n|         | Fabric    | NeoForge     | Forge |\n|---------|-----------|--------------|-------|\n| 1.21.11 | ✅         | ❌ Unreleased | ❌     |\n| 1.21.10 | ✅         | ✅            | ❌     |\n| 1.21.9  | ✅ 1.21.10 | ✅ 1.21.10    | ❌     |\n| 1.21.8  | ✅ 1.21.6  | ✅ 1.21.6     | ❌     |\n| 1.21.7  | ✅ 1.21.6  | ✅ 1.21.6     | ❌     |\n| 1.21.6  | ✅         | ✅            | ❌     |\n| 1.21.5  | ✅         | ✅            | ❌     |\n| 1.21.4  | ✅         | ✅            | ❌     |\n| 1.21.3  | ✅         | ✅            | ❌     |\n| 1.21.2  | ✅ 1.21.3  | ✅ 1.21.3     | ❌     |\n| 1.21.1  | ✅         | ✅            | ❌     |\n| 1.20.6  | ❌         | ❌            | ❌     |\n| 1.20.4  | ❌         | ❌            | ❌     |\n| 1.20.1  | ❌         | ❌            | ❌     |\n\n### Changes\n\n- Add target for 1.21.11 (snapshots, Fabric only)\n- Fix scrolling not working on targets below 1.21.9\n- Fix crash when configuring colour pickers when they do not allow alpha\n- Fix expanding groups not updating properly\n- Fix keyboard navigation focusing on hidden options\n- Fixed InstantStateManager preventing saving (#293, thanks @LopyMine)\n",
+      "changelog_url": null,
+      "date_published": "2025-12-07T20:01:04.452502Z",
+      "downloads": 188031,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oHBZzf9j",
+          "hashes": {
+            "sha1": "b566b99f019feae4df41651ff17f8b295fa72435",
+            "sha512": "a2f4b4295f3e1b3e11904740d5be81efbb1503e62c205a303a1d7a1e7140c0a44462444ec4bd1708d947dd5c4a6588797da1369f4f33b32a5e957edcfc9e9983"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/h8Px82QV/yet_another_config_lib_v3-3.8.1%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.8.1+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1118896,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "7lgiCSAC",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.8.0 for fabric 1.21.1",
+      "version_number": "3.8.0+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.8.0\n\n### 3.8.0 targets\n\n|        | Fabric   | NeoForge     | Forge |\n|--------|----------|--------------|-------|\n| 1.21.9 | ✅        | ❌ Unreleased | ❌     |\n| 1.21.8 | ✅ 1.21.6 | ✅ 1.21.6     | ❌     |\n| 1.21.7 | ✅ 1.21.6 | ✅ 1.21.6     | ❌     |\n| 1.21.6 | ✅        | ✅            | ❌     |\n| 1.21.5 | ✅        | ✅            | ❌     |\n| 1.21.4 | ✅        | ✅            | ❌     |\n| 1.21.3 | ✅        | ✅            | ❌     |\n| 1.21.2 | ✅ 1.21.3 | ✅ 1.21.3     | ❌     |\n| 1.21.1 | ✅        | ✅            | ❌     |\n| 1.20.6 | ❌        | ❌            | ❌     |\n| 1.20.4 | ❌        | ❌            | ❌     |\n| 1.20.1 | ❌        | ❌            | ❌     |\n\n### Additions\n\n- Added a visual hint to the scrollable tab bar when there are more tabs than can fit on the screen.\n- New 1.21.9 Fabric target\n- Rewrote a significant portion of the OptionList widget to make it compatible with 1.21.9 and future versions.\n",
+      "changelog_url": null,
+      "date_published": "2025-09-26T20:15:10.474038Z",
+      "downloads": 3887176,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ICUClV1L",
+          "hashes": {
+            "sha1": "05de9dcf4d4bbfedc6ee7fc1ef0654ddb8577bf2",
+            "sha512": "1aaa44b9043aebe677bb53c28476b822c65d94eecb8c47a379b31df6faa779ac0649ec51c831ded515c5fc1c2ae9909dcbf02f5ff4d3eb72bb1f295bb0c3d153"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7lgiCSAC/yet_another_config_lib_v3-3.8.0%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1129925,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "d5rKuZdL",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.8.0 for neoforge 1.21.1",
+      "version_number": "3.8.0+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.8.0\n\n### 3.8.0 targets\n\n|        | Fabric   | NeoForge     | Forge |\n|--------|----------|--------------|-------|\n| 1.21.9 | ✅        | ❌ Unreleased | ❌     |\n| 1.21.8 | ✅ 1.21.6 | ✅ 1.21.6     | ❌     |\n| 1.21.7 | ✅ 1.21.6 | ✅ 1.21.6     | ❌     |\n| 1.21.6 | ✅        | ✅            | ❌     |\n| 1.21.5 | ✅        | ✅            | ❌     |\n| 1.21.4 | ✅        | ✅            | ❌     |\n| 1.21.3 | ✅        | ✅            | ❌     |\n| 1.21.2 | ✅ 1.21.3 | ✅ 1.21.3     | ❌     |\n| 1.21.1 | ✅        | ✅            | ❌     |\n| 1.20.6 | ❌        | ❌            | ❌     |\n| 1.20.4 | ❌        | ❌            | ❌     |\n| 1.20.1 | ❌        | ❌            | ❌     |\n\n### Additions\n\n- Added a visual hint to the scrollable tab bar when there are more tabs than can fit on the screen.\n- New 1.21.9 Fabric target\n- Rewrote a significant portion of the OptionList widget to make it compatible with 1.21.9 and future versions.\n",
+      "changelog_url": null,
+      "date_published": "2025-09-26T20:15:07.225910Z",
+      "downloads": 399622,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AinQDNlt",
+          "hashes": {
+            "sha512": "bec8d66c49034a4acacd69a08f56444f8561e7d64570ccde0d9401389927fe41b4fe6cc8b055395286bc3f2d38abac5a57ac3b304f220042ed7c4d5e10275e97",
+            "sha1": "61c9d5935b77a42bd56c5790a8f4c938f671893a"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/d5rKuZdL/yet_another_config_lib_v3-3.8.0%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.8.0+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1117442,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "kVxtKPT4",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.7.1 for fabric 1.21.1",
+      "version_number": "3.7.1+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.7.1\n\n### 3.7.1 targets\n\n|        | Fabric   | NeoForge | Forge |\n|--------|----------|----------|-------|\n| 1.21.6 | ✅        | ✅        | ❌     |\n| 1.21.5 | ✅        | ✅        | ❌     |\n| 1.21.4 | ✅        | ✅        | ❌     |\n| 1.21.3 | ✅        | ✅        | ❌     |\n| 1.21.2 | ✅ 1.21.3 | ✅ 1.21.3 | ❌     |\n| 1.21.1 | ✅        | ✅        | ❌     |\n| 1.20.6 | ❌        | ❌        | ❌     |\n| 1.20.4 | ❌        | ❌        | ❌     |\n| 1.20.1 | ❌        | ❌        | ❌     |\n\n## Bug fixes\n\n- Fix crash on some Neoforge targets when opening the colour picker\n- Fix improper rendering of the colour picker\n- Fix option group collapse button not being visible unless hovered\n",
+      "changelog_url": null,
+      "date_published": "2025-06-17T20:04:28.043577Z",
+      "downloads": 1548146,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LTYQY3YW",
+          "hashes": {
+            "sha512": "7ec418266402a702423da1f32433b731c3b27fbb493d6b1e63cffeaa31a6a8435493e45c8e5e64370910095b9cf39b52257e5b74b9bdb1ff606933db98862e3e",
+            "sha1": "13f8da46450274ab84db003ef4c37754ceeb690d"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/kVxtKPT4/yet_another_config_lib_v3-3.7.1%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1123593,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "zwRKksBU",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.7.1 for neoforge 1.21.1",
+      "version_number": "3.7.1+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.7.1\n\n### 3.7.1 targets\n\n|        | Fabric   | NeoForge | Forge |\n|--------|----------|----------|-------|\n| 1.21.6 | ✅        | ✅        | ❌     |\n| 1.21.5 | ✅        | ✅        | ❌     |\n| 1.21.4 | ✅        | ✅        | ❌     |\n| 1.21.3 | ✅        | ✅        | ❌     |\n| 1.21.2 | ✅ 1.21.3 | ✅ 1.21.3 | ❌     |\n| 1.21.1 | ✅        | ✅        | ❌     |\n| 1.20.6 | ❌        | ❌        | ❌     |\n| 1.20.4 | ❌        | ❌        | ❌     |\n| 1.20.1 | ❌        | ❌        | ❌     |\n\n## Bug fixes\n\n- Fix crash on some Neoforge targets when opening the colour picker\n- Fix improper rendering of the colour picker\n- Fix option group collapse button not being visible unless hovered\n",
+      "changelog_url": null,
+      "date_published": "2025-06-17T20:04:26.482694Z",
+      "downloads": 550566,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "90WuhAG9",
+          "hashes": {
+            "sha1": "7567715bd90e6f3420eee6d468eec1db861a03f2",
+            "sha512": "bd0bbbc8563117bc817b0d40ee345928713ac93976e34e4947472e57d3c6bad307cb56881e6772c3712cf3afed9577604c100fa9ccf22255896b703f44ec003b"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/zwRKksBU/yet_another_config_lib_v3-3.7.1%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.7.1+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1111051,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "QIFl3sOB",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.7.0 for fabric 1.21.1",
+      "version_number": "3.7.0+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.7.0\n\n### 3.7.0 targets\n\n|        | Fabric   | NeoForge | Forge |\n|--------|----------|----------|-------|\n| 1.21.6 | ✅        | ✅        | ❌     |\n| 1.21.5 | ✅        | ✅        | ❌     |\n| 1.21.4 | ✅        | ✅        | ❌     |\n| 1.21.3 | ✅        | ✅        | ❌     |\n| 1.21.2 | ✅ 1.21.3 | ✅ 1.21.3 | ❌     |\n| 1.21.1 | ✅        | ✅        | ❌     |\n| 1.20.6 | ❌        | ❌        | ❌     |\n| 1.20.4 | ❌        | ❌        | ❌     |\n| 1.20.1 | ❌        | ❌        | ❌     |\n\n## New features\n\n- Add toggle to prevent loading .webp and .gif at resource reload.\n    - When disabled, the images will be loaded on-demand when a YACL screen is opened.\n    - It is disabled by default now. This should improve startup time with mods that use such images.\n- You can now set the default collapsed state in option groups via the Kotlin DSL. You could already do this via Java.\n\n## Changes\n\n- Add 1.21.6 target\n- Removed all the 1.20.x targets.\n    - YACL now only supports 1.21.1 and later.\n- Allow the use of horizontal mouse scrolling in the options list. ([kevinthegreat1`#271`](https://github.com/isXander/YetAnotherConfigLib/pull/271))\n\n## Bug fixes\n\n- Fixes related to the colour picker widget\n    - The YACLScreen now continues to tick when the colour picker is open.\n    - Clicking outside the colour picker now closes it (without the click being consumed by the screen)\n    - Fix requiring a double click to open a colour picker after it has been closed.\n- Fix the last option sometimes being cut off in the options list. ([kevinthegreat1`#271`](https://github.com/isXander/YetAnotherConfigLib/pull/271))\n- Fix NullPointerException when using `null` with `InstantStateManager`.\n\n## Language updates\n\n- New Argentine Spanish translation. ([Texaliuz`#267`](https://github.com/isXander/YetAnotherConfigLib/pull/267))\n- Update Chinese translation. ([AC19970`#268`](https://github.com/isXander/YetAnotherConfigLib/pull/268))\n- Update Polish translation. ([lumiscosity`#269`](https://github.com/isXander/YetAnotherConfigLib/pull/269))\n- Update Brazilian Portuguese translation. ([seriousfreezing`#272`](https://github.com/isXander/YetAnotherConfigLib/pull/272))\n",
+      "changelog_url": null,
+      "date_published": "2025-06-17T18:24:45.546583Z",
+      "downloads": 19505,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "19wUR6Hb",
+          "hashes": {
+            "sha1": "e5d64ad4be1bf146a0dbfe2b45f82e602a8ccba9",
+            "sha512": "43062ed2051ecc99e7e161261470b7500c2315f7330a82fc7681105191a515c7059895e2c0cf46a308d27fca6fb875ef751df41c010a0b1ed231a9589dded527"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/QIFl3sOB/yet_another_config_lib_v3-3.7.0%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.7.0+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1123608,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "QmZ6hqcE",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.7.0 for neoforge 1.21.1",
+      "version_number": "3.7.0+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.7.0\n\n### 3.7.0 targets\n\n|        | Fabric   | NeoForge | Forge |\n|--------|----------|----------|-------|\n| 1.21.6 | ✅        | ✅        | ❌     |\n| 1.21.5 | ✅        | ✅        | ❌     |\n| 1.21.4 | ✅        | ✅        | ❌     |\n| 1.21.3 | ✅        | ✅        | ❌     |\n| 1.21.2 | ✅ 1.21.3 | ✅ 1.21.3 | ❌     |\n| 1.21.1 | ✅        | ✅        | ❌     |\n| 1.20.6 | ❌        | ❌        | ❌     |\n| 1.20.4 | ❌        | ❌        | ❌     |\n| 1.20.1 | ❌        | ❌        | ❌     |\n\n## New features\n\n- Add toggle to prevent loading .webp and .gif at resource reload.\n    - When disabled, the images will be loaded on-demand when a YACL screen is opened.\n    - It is disabled by default now. This should improve startup time with mods that use such images.\n- You can now set the default collapsed state in option groups via the Kotlin DSL. You could already do this via Java.\n\n## Changes\n\n- Add 1.21.6 target\n- Removed all the 1.20.x targets.\n    - YACL now only supports 1.21.1 and later.\n- Allow the use of horizontal mouse scrolling in the options list. ([kevinthegreat1`#271`](https://github.com/isXander/YetAnotherConfigLib/pull/271))\n\n## Bug fixes\n\n- Fixes related to the colour picker widget\n    - The YACLScreen now continues to tick when the colour picker is open.\n    - Clicking outside the colour picker now closes it (without the click being consumed by the screen)\n    - Fix requiring a double click to open a colour picker after it has been closed.\n- Fix the last option sometimes being cut off in the options list. ([kevinthegreat1`#271`](https://github.com/isXander/YetAnotherConfigLib/pull/271))\n- Fix NullPointerException when using `null` with `InstantStateManager`.\n\n## Language updates\n\n- New Argentine Spanish translation. ([Texaliuz`#267`](https://github.com/isXander/YetAnotherConfigLib/pull/267))\n- Update Chinese translation. ([AC19970`#268`](https://github.com/isXander/YetAnotherConfigLib/pull/268))\n- Update Polish translation. ([lumiscosity`#269`](https://github.com/isXander/YetAnotherConfigLib/pull/269))\n- Update Brazilian Portuguese translation. ([seriousfreezing`#272`](https://github.com/isXander/YetAnotherConfigLib/pull/272))\n",
+      "changelog_url": null,
+      "date_published": "2025-06-17T18:24:42.898851Z",
+      "downloads": 35117,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TKcpHHUA",
+          "hashes": {
+            "sha1": "3f2162d6159ee1acaaf99ce9f7bdebe7cb5e83ac",
+            "sha512": "e10936103cc53ba356ff29acb20580c29ec23f62d1b10bcd690d6e3eae53e60d6d9c0923e237aaac8e3a70956f3da415501c358d810e8ae9ad85b9ce3963b199"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/QmZ6hqcE/yet_another_config_lib_v3-3.7.0%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.7.0+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1111061,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "equv2TRU",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.6 for fabric 1.21.1",
+      "version_number": "3.6.6+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.6.6\n\nThis version of YACL has many different version targets.\nEnsure you download the correct version of YACL for your MC version.\n\n- Fabric 1.21.5\n- Fabric 1.21.4\n- Fabric 1.21.2 (also supports 1.21.3)\n- Fabric 1.20.1\n- Fabric 1.20.4\n- Fabric 1.20.6 (also supports 1.20.5)\n- Fabric 1.21\n- NeoForge 1.21.4\n- NeoForge 1.21.2 (also supports 1.21.3)\n- NeoForge 1.21\n- NeoForge 1.20.6 (also supports 1.20.5)\n- NeoForge 1.20.4\n- MinecraftForge 1.20.1\n\n## Changes\n\n- Fix crash on 1.20.1-forge target. (again)\n",
+      "changelog_url": null,
+      "date_published": "2025-03-23T19:08:24.960284Z",
+      "downloads": 2777488,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zOBFn9Uu",
+          "hashes": {
+            "sha512": "b88b213c08919e4624ca88a07a582408a8759a7f2fa7b12086c6bf1087d0e932723d92051d26596fa79f5f8bdaa6090f2d5f87851a8e8628c2eb861aa804de46",
+            "sha1": "0ffa4ad99a4c3c930f563ec6595c68b7cd31a283"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/equv2TRU/yet_another_config_lib_v3-3.6.6%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.6.6+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1116172,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "ACDNgCDA",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.6 for neoforge 1.21.1",
+      "version_number": "3.6.6+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.6.6\n\nThis version of YACL has many different version targets.\nEnsure you download the correct version of YACL for your MC version.\n\n- Fabric 1.21.5\n- Fabric 1.21.4\n- Fabric 1.21.2 (also supports 1.21.3)\n- Fabric 1.20.1\n- Fabric 1.20.4\n- Fabric 1.20.6 (also supports 1.20.5)\n- Fabric 1.21\n- NeoForge 1.21.4\n- NeoForge 1.21.2 (also supports 1.21.3)\n- NeoForge 1.21\n- NeoForge 1.20.6 (also supports 1.20.5)\n- NeoForge 1.20.4\n- MinecraftForge 1.20.1\n\n## Changes\n\n- Fix crash on 1.20.1-forge target. (again)\n",
+      "changelog_url": null,
+      "date_published": "2025-03-23T19:08:20.824303Z",
+      "downloads": 581474,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VM46luyF",
+          "hashes": {
+            "sha512": "7a3086e88e5df306ce39dd7513616fd5c04653093b104d2897a88a0331d899bd10c3ce7fe9fbf9d1452cf159cd036304223da5c38eba7b884b24fa848a1ea240",
+            "sha1": "fb169516f39dba60a40845f7eb72b9576a362f5b"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ACDNgCDA/yet_another_config_lib_v3-3.6.6%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1103081,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "XoVxAvc2",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.5 for neoforge 1.21.1",
+      "version_number": "3.6.5+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.6.5\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.5\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Fix crash on 1.20.1-forge target.\r\n- Fix image filtering\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-17T15:08:13.721933Z",
+      "downloads": 28131,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8ZPBXABc",
+          "hashes": {
+            "sha512": "d1bafa78763d1ebf67d4c938dd605efc29b01fc59e0a17280dc87952f57e5b5a0f9b6d9a8c480f0af77f7da6d54670fba51c77523813a315541a36d4493013df",
+            "sha1": "fd1bd25614d7119e44e3779d7de693d5fb1a7f6e"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/XoVxAvc2/yet_another_config_lib_v3-3.6.5%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.6.5+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1157173,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "BMVCssHI",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.5 for fabric 1.21.1",
+      "version_number": "3.6.5+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.6.5\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.5\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Fix crash on 1.20.1-forge target.\r\n- Fix image filtering\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-17T15:08:04.066361Z",
+      "downloads": 115617,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ae7l3QG2",
+          "hashes": {
+            "sha512": "58153d92dcc229f07e7ee958337228937f1f489a4edc535cc4cf8d0e9aeed00f73ec18241dab437002ca5673533cb8d08c389c83da65a2588d810a27e9d05b11",
+            "sha1": "cd8db6d3530b1dcbfbfdd36c5f58898ed617b6f7"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/BMVCssHI/yet_another_config_lib_v3-3.6.5%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.6.5+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1179404,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "1jGsUG9H",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.4 for neoforge 1.21.1",
+      "version_number": "3.6.4+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.6.4\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.5\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Fix NeoForge 21.4.84+ compatibility\r\n- Allow SerialEntry to be annotated on classes.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-17T13:02:09.616531Z",
+      "downloads": 321,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "S3WlBI4Y",
+          "hashes": {
+            "sha1": "e8353388758e415f31a7ee29e9e8d1c5165797e6",
+            "sha512": "d1199acff687769597f88c8c9fee0f11300b70d3799f3a2eac19d8b0069c8af2ae7a9b123fa1445f969ad497004475084b80fa4864ee9c4cb536591dd0ac9f59"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/1jGsUG9H/yet_another_config_lib_v3-3.6.4%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.6.4+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1156820,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "J3PB7Og6",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.4 for fabric 1.21.1",
+      "version_number": "3.6.4+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.6.4\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.5\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Fix NeoForge 21.4.84+ compatibility\r\n- Allow SerialEntry to be annotated on classes.\r\n",
+      "changelog_url": null,
+      "date_published": "2025-03-17T13:01:56.026601Z",
+      "downloads": 6785,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Cr1HrF9u",
+          "hashes": {
+            "sha512": "d3ce26f4a61f3ff383ee3243fde8ab1f3c6e749665f3fca073fc0279cfbb2b09ad05a2636d995d201a7cffb31e559020c3247e0aea6e2cd48fac37236cb8d658",
+            "sha1": "7cfcc7661664fd567ae04d2e88057634dae924ef"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/J3PB7Og6/yet_another_config_lib_v3-3.6.4%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.6.4+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1179154,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "yY173HWg",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.3 for fabric 1.21.1",
+      "version_number": "3.6.3+1.21.1-fabric",
+      "changelog": "# YetAnotherConfigLib 3.6.3\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Add `categoryIf` to `YetAnotherConfigLib.Builder` (thanks Kevin)\r\n- More translations\r\n",
+      "changelog_url": null,
+      "date_published": "2025-02-25T21:24:13.060214Z",
+      "downloads": 643558,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dE6dLvmI",
+          "hashes": {
+            "sha512": "11908061c318be4d82fda3a2155a0a5fc0e79577dceacdd1494c7778da77b7180eeb7a8d5d9883ff6352a4e902385f38d5e5c29a9bde040c48160aac83c67457",
+            "sha1": "7198829e93b40b29ff3d67f441c8e2817499f903"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/yY173HWg/yet_another_config_lib_v3-3.6.3%2B1.21.1-fabric.jar",
+          "filename": "yet_another_config_lib_v3-3.6.3+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 1178732,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "5APbkNF6",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "3.6.3 for neoforge 1.21.1",
+      "version_number": "3.6.3+1.21.1-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.6.3\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Add `categoryIf` to `YetAnotherConfigLib.Builder` (thanks Kevin)\r\n- More translations\r\n",
+      "changelog_url": null,
+      "date_published": "2025-02-25T21:24:11.367334Z",
+      "downloads": 23594,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yHaFjeHJ",
+          "hashes": {
+            "sha512": "e0236e5932f9045cb59bf220ad4b311c1f441bab22960233020d46da889ed8094cc2d70d8ca1eaea67ec7df97d298d150abe84c66c8abce33c15b9448645e1ee",
+            "sha1": "9fa636b6d5bfb40d781736955b4f06ae70232cd9"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/5APbkNF6/yet_another_config_lib_v3-3.6.3%2B1.21.1-neoforge.jar",
+          "filename": "yet_another_config_lib_v3-3.6.3+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 1156368,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "iu96ISLv",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "YetAnotherConfigLib 3.6.2 for MC 1.21",
+      "version_number": "3.6.2+1.21-fabric",
+      "changelog": "# YetAnotherConfigLib 3.6.2\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Update to support 1.21.4 (many thanks to Riflusso for this port)\r\n- Add `groupIf` to `ConfigCategory.Builder` (thanks Kevin)\r\n- Pass down middle-mouse clicks to widgets in ElementListWidgetExt (thanks Protonull)\r\n- Fix Greek translation (many thanks to Darkhax for this)\r\n- Update Kotlin to 2.0.21\r\n",
+      "changelog_url": null,
+      "date_published": "2024-12-04T21:02:44.853999Z",
+      "downloads": 2508685,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hYuDcSvw",
+          "hashes": {
+            "sha512": "0a52df2fd4126a994a2558d3c9464f886b0cb4bb7cb87cf36a12f87bd885e2525d562ff1d06625b4ff9911b89d31420e5d261ecd07f3b6ab47486543bdd017ad",
+            "sha1": "97f4b9793fbd2f06e2e8d93a7fe23f38799ed4a7"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/iu96ISLv/YetAnotherConfigLib-3.6.2%2B1.21-fabric.jar",
+          "filename": "YetAnotherConfigLib-3.6.2+1.21-fabric.jar",
+          "primary": true,
+          "size": 1108730,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "MCJlLTYc",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "YetAnotherConfigLib 3.6.2 for MC 1.21",
+      "version_number": "3.6.2+1.21-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.6.2\r\n\r\nThis version of YACL has many different version targets.\r\nEnsure you download the correct version of YACL for your MC version.\r\n\r\n- Fabric 1.21.4\r\n- Fabric 1.21.2 (also supports 1.21.3)\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21.4\r\n- NeoForge 1.21.2 (also supports 1.21.3)\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Update to support 1.21.4 (many thanks to Riflusso for this port)\r\n- Add `groupIf` to `ConfigCategory.Builder` (thanks Kevin)\r\n- Pass down middle-mouse clicks to widgets in ElementListWidgetExt (thanks Protonull)\r\n- Fix Greek translation (many thanks to Darkhax for this)\r\n- Update Kotlin to 2.0.21\r\n",
+      "changelog_url": null,
+      "date_published": "2024-12-04T21:02:44.086379Z",
+      "downloads": 48528,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UGySDHDH",
+          "hashes": {
+            "sha1": "9884c7b3a3bd1be87f786a3c34a908ed5e874eb1",
+            "sha512": "581085c98f807aa04ff6afb9a69ea6b5e543c3a013c89f66086a2086822620aa02245fb3c7ebd1d8c049d457f58c57218aecae607db3c77c5bdafd37fa022050"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/MCJlLTYc/YetAnotherConfigLib-3.6.2%2B1.21-neoforge.jar",
+          "filename": "YetAnotherConfigLib-3.6.2+1.21-neoforge.jar",
+          "primary": true,
+          "size": 1113071,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "f9ZVX07g",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "YetAnotherConfigLib 3.6.1 for MC 1.21",
+      "version_number": "3.6.1+1.21-fabric",
+      "changelog": "# YetAnotherConfigLib 3.6.1\r\n\r\nThis build supports the following versions:\r\n- Fabric 1.21.2\r\n- NeoForge 1.21.2\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Add 1.21.2 build for NeoForge\r\n- Fix not being able to type negative numbers into number field controllers ()\r\n- Fix default range of floating point field controllers being 0-MAX instead of MIN-MAX ([#213](https://github.com/isXander/YetAnotherConfigLib/pull/213))\r\n- Update translations\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-22T18:33:55.919367Z",
+      "downloads": 1935277,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oO9a1VzW",
+          "hashes": {
+            "sha512": "80ed74eaea7af50a25c2a00d6fe9d0ab7a0a94147dd64db0ca072aa3761a1723006cfa445c936cd02daa72d855a8197cf62365c3cae239a43916808c44c164fb",
+            "sha1": "d3be53c700591dc76dc504a3640f9b4af24af178"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/f9ZVX07g/YetAnotherConfigLib-3.6.1%2B1.21-fabric.jar",
+          "filename": "YetAnotherConfigLib-3.6.1+1.21-fabric.jar",
+          "primary": true,
+          "size": 1170045,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "TC62OAaO",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "YetAnotherConfigLib 3.6.1 for MC 1.21",
+      "version_number": "3.6.1+1.21-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.6.1\r\n\r\nThis build supports the following versions:\r\n- Fabric 1.21.2\r\n- NeoForge 1.21.2\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## Changes\r\n\r\n- Add 1.21.2 build for NeoForge\r\n- Fix not being able to type negative numbers into number field controllers ()\r\n- Fix default range of floating point field controllers being 0-MAX instead of MIN-MAX ([#213](https://github.com/isXander/YetAnotherConfigLib/pull/213))\r\n- Update translations\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-22T18:33:51.097863Z",
+      "downloads": 15782,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "o7VNhhv0",
+          "hashes": {
+            "sha512": "b30a2eb62fbba0489a30bacea454e6f88afdfe78093cb36e435de49663fa3535c72f471c97300035273b03a3c71b5bb2023e1f0363244a13e76549b4fa81d70b",
+            "sha1": "ef1356455be27e36594069e476c6dbe698f0002b"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/TC62OAaO/YetAnotherConfigLib-3.6.1%2B1.21-neoforge.jar",
+          "filename": "YetAnotherConfigLib-3.6.1+1.21-neoforge.jar",
+          "primary": true,
+          "size": 1174463,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "wUxT9toF",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "YetAnotherConfigLib 3.6.0 for MC 1.21",
+      "version_number": "3.6.0+1.21-fabric",
+      "changelog": "# YetAnotherConfigLib 3.6.0\r\n\r\nThis build supports the following versions:\r\n- Fabric 1.21.2\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## State Managers\r\n\r\nOptions now no longer hold their state themselves. This job is now delegated to the `StateManager`.\r\n\r\nThis change serves to allow multiple options to share the same state, but with different controllers, descriptions,\r\nnames, etc.\r\n\r\n### Example\r\n\r\nTake an example of how this might be useful:\r\n\r\nYou have a long range of gamepad bindings, utilising a custom YACL _controller_. They are sorted alphabetically in YACL.\r\nYou want a specific gamepad binding, let's call it 'Jump', to be featured at the top of the list, but also still\r\nappear alphabetically in the list.\r\n\r\nYou add a second 'Jump' YACL _option_ and place it at the beginning of the _category_, you assign it an identical\r\n_binding_.\r\n\r\nThis appears to work, but you discover a problem: you can modify the featured _option_ just fine, but when you hit\r\n'Save Changes', you see an error in your log 'Option value mismatch' and your option defaults to the previous, now\r\nunchanged value.\r\n\r\nWhy is this? Each instance of _`Option`_ holds its own _pending value_. Which is then applied to the _binding_ when you\r\nclick save. When you click save, YACL iterates over each option in-order and applies the pending value to the _binding._\r\nWhich leads to the following series of events:\r\n\r\n1. YACL successfully applies the featured 'Jump' option to the binding, as it's first in the list.\r\n2. YACL then finds the non-featured 'Jump' option, which retained the original default value because the\r\n   _pending value_ has not changed. From step 1, the binding's value has now changed to something none-default, so now\r\n   it sets the binding again to the pending value of THIS option, now the binding is back to its default state.\r\n3. YACL finishes saving _options_, and checks over each one again. It checks that the _pending value_ matches the\r\n   _binding_. Because the featured 'Jump' option now doesn't match, it creates an error in your log:\r\n   'Option value mismatch' and assigns the _pending value_ to the _binding_ value.\r\n\r\n### Solution\r\n\r\nState managers essentially solve this by moving the _pending value_ into a separate object that can then be given to\r\nmultiple _options_. They ensure that each option's controller is kept up to date by emitting events upon the state's\r\nchange that controllers then listen to, to keep themselves up to date.\r\n\r\n### Code Examples\r\n\r\n```java\r\nStateManager<Boolean> stateManager = StateManager.createSimple(getter, setter, def);\r\n\r\ncategory.option(Option.<Boolean>createOption()\r\n        .name(Component.literal(\"Sharing Tick Box\"))\r\n        .stateManager(stateManager)\r\n        .controller(TickBoxControllerBuilder::create)\r\n        .build());\r\ncategory.option(Option.<Boolean>createOption()\r\n        .name(Component.literal(\"Sharing Boolean\"))\r\n        .stateManager(stateManager)\r\n        .controller(BooleanControllerBuilder::create)\r\n        .build());\r\n```\r\n\r\nHere, instead of using a `.binding()`, you use a `.stateManager()`. Now both share and update the same state! \r\n\r\n### Event Changes\r\n\r\nOptions that listen to events, `.listener((option, newValue) -> {})`, the syntax has slightly changed. The\r\naforementioned methods have been deprecated, replaced with `.addListener((option, event) -> {})`, you can retrieve the\r\nnew value with `option.pendingValue()`.\r\n\r\n### Consolidation of .instant() behaviour\r\n\r\nBecause of this open-ness of how an option's pending value gets applied, users of YACL have a lot more power\r\non what happens with how an option's state is applied.\r\n\r\n```java\r\n.stateManager(StateManager.createInstant(getter, setter, def))\r\n```\r\n\r\nIs the new way to get instantly applied options. You can also implement `StateManager` yourself.\r\n\r\n## Other Changes\r\n\r\n- Added support for 1.21.2\r\n- Label Options now allow change of state, so labels can now be changed dynamically.\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T18:38:23.722766Z",
+      "downloads": 97854,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kISPmBWC",
+          "hashes": {
+            "sha1": "d8f0f58fb2fec31457f589d5a6a1d104e291cc48",
+            "sha512": "0e5e7aa33e0afcdb9b95fa8759b145c4fee95a088a9b03af315ff766e4a783717ce0b94a00798310ea1a5716f54e518d32df98b46b662c02b51890aeebdb084e"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/wUxT9toF/YetAnotherConfigLib-3.6.0%2B1.21-fabric.jar",
+          "filename": "YetAnotherConfigLib-3.6.0+1.21-fabric.jar",
+          "primary": true,
+          "size": 1167193,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "pV6YTxUa",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "YetAnotherConfigLib 3.6.0 for MC 1.21",
+      "version_number": "3.6.0+1.21-neoforge",
+      "changelog": "# YetAnotherConfigLib 3.6.0\r\n\r\nThis build supports the following versions:\r\n- Fabric 1.21.2\r\n- Fabric 1.20.1\r\n- Fabric 1.20.4\r\n- Fabric 1.20.6 (also supports 1.20.5)\r\n- Fabric 1.21\r\n- NeoForge 1.21\r\n- NeoForge 1.20.6 (also supports 1.20.5)\r\n- NeoForge 1.20.4\r\n- MinecraftForge 1.20.1\r\n\r\n## State Managers\r\n\r\nOptions now no longer hold their state themselves. This job is now delegated to the `StateManager`.\r\n\r\nThis change serves to allow multiple options to share the same state, but with different controllers, descriptions,\r\nnames, etc.\r\n\r\n### Example\r\n\r\nTake an example of how this might be useful:\r\n\r\nYou have a long range of gamepad bindings, utilising a custom YACL _controller_. They are sorted alphabetically in YACL.\r\nYou want a specific gamepad binding, let's call it 'Jump', to be featured at the top of the list, but also still\r\nappear alphabetically in the list.\r\n\r\nYou add a second 'Jump' YACL _option_ and place it at the beginning of the _category_, you assign it an identical\r\n_binding_.\r\n\r\nThis appears to work, but you discover a problem: you can modify the featured _option_ just fine, but when you hit\r\n'Save Changes', you see an error in your log 'Option value mismatch' and your option defaults to the previous, now\r\nunchanged value.\r\n\r\nWhy is this? Each instance of _`Option`_ holds its own _pending value_. Which is then applied to the _binding_ when you\r\nclick save. When you click save, YACL iterates over each option in-order and applies the pending value to the _binding._\r\nWhich leads to the following series of events:\r\n\r\n1. YACL successfully applies the featured 'Jump' option to the binding, as it's first in the list.\r\n2. YACL then finds the non-featured 'Jump' option, which retained the original default value because the\r\n   _pending value_ has not changed. From step 1, the binding's value has now changed to something none-default, so now\r\n   it sets the binding again to the pending value of THIS option, now the binding is back to its default state.\r\n3. YACL finishes saving _options_, and checks over each one again. It checks that the _pending value_ matches the\r\n   _binding_. Because the featured 'Jump' option now doesn't match, it creates an error in your log:\r\n   'Option value mismatch' and assigns the _pending value_ to the _binding_ value.\r\n\r\n### Solution\r\n\r\nState managers essentially solve this by moving the _pending value_ into a separate object that can then be given to\r\nmultiple _options_. They ensure that each option's controller is kept up to date by emitting events upon the state's\r\nchange that controllers then listen to, to keep themselves up to date.\r\n\r\n### Code Examples\r\n\r\n```java\r\nStateManager<Boolean> stateManager = StateManager.createSimple(getter, setter, def);\r\n\r\ncategory.option(Option.<Boolean>createOption()\r\n        .name(Component.literal(\"Sharing Tick Box\"))\r\n        .stateManager(stateManager)\r\n        .controller(TickBoxControllerBuilder::create)\r\n        .build());\r\ncategory.option(Option.<Boolean>createOption()\r\n        .name(Component.literal(\"Sharing Boolean\"))\r\n        .stateManager(stateManager)\r\n        .controller(BooleanControllerBuilder::create)\r\n        .build());\r\n```\r\n\r\nHere, instead of using a `.binding()`, you use a `.stateManager()`. Now both share and update the same state! \r\n\r\n### Event Changes\r\n\r\nOptions that listen to events, `.listener((option, newValue) -> {})`, the syntax has slightly changed. The\r\naforementioned methods have been deprecated, replaced with `.addListener((option, event) -> {})`, you can retrieve the\r\nnew value with `option.pendingValue()`.\r\n\r\n### Consolidation of .instant() behaviour\r\n\r\nBecause of this open-ness of how an option's pending value gets applied, users of YACL have a lot more power\r\non what happens with how an option's state is applied.\r\n\r\n```java\r\n.stateManager(StateManager.createInstant(getter, setter, def))\r\n```\r\n\r\nIs the new way to get instantly applied options. You can also implement `StateManager` yourself.\r\n\r\n## Other Changes\r\n\r\n- Added support for 1.21.2\r\n- Label Options now allow change of state, so labels can now be changed dynamically.\r\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T18:38:23.443158Z",
+      "downloads": 2466,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JN8dd3ZQ",
+          "hashes": {
+            "sha1": "0e6f4bca2e64f00c33d5dc74cc8c171d28b4fa2a",
+            "sha512": "90e13af737756ce3c45a13b796828704540d3b9ab1947abfca1bd860bc58d678859c79daff6e1e4260461fb0197a7dffafa65142e1954da838e48ee8e42fed28"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pV6YTxUa/YetAnotherConfigLib-3.6.0%2B1.21-neoforge.jar",
+          "filename": "YetAnotherConfigLib-3.6.0+1.21-neoforge.jar",
+          "primary": true,
+          "size": 1171590,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server",
+      "id": "Y8Wa10Re",
+      "project_id": "1eAoo2KR",
+      "author_id": "nyx2i4fB",
+      "featured": false,
+      "name": "YetAnotherConfigLib 3.5.0 for MC 1.21",
+      "version_number": "3.5.0+1.21-fabric",
+      "changelog": "# YetAnotherConfigLib 3.5.0\n\nThis build supports the following versions:\n- Fabric 1.20.1\n- Fabric 1.20.4\n- Fabric 1.20.6 (also supports 1.20.5)\n- Fabric 1.21\n- NeoForge 1.20.6 (also supports 1.20.5)\n- NeoForge 1.20.4\n- MinecraftForge 1.20.1\n\n## *Experimental* Codec Config\n\nThis update brings a new experimental config API that utilises Mojang's Codec for (de)serialization.\n\n```java\npublic class CodecConfig extends JsonFileCodecConfig/*or*/CodecConfig {\n    public static final CodecConfig INSTANCE = new CodecConfig();\n\n    public final ConfigEntry<Integer> myInt =\n            register(\"my_int\", 0, Codec.INT);\n\n    public final ReadonlyConfigEntry<InnerCodecConfig> myInnerConfig =\n            register(\"my_inner_config\", InnerCodecConfig.INSTANCE);\n\n    public CodecConfig() {\n        super(path);\n    }\n    \n    void test() {\n        loadFromFile(); // load like this\n        saveToFile(); // save like this\n        \n        // or if you just extend CodecConfig instead of JsonFileConfig:\n        JsonElement element = null;\n        this.decode(element, JsonOps.INSTANCE); // load\n        DataResult<JsonElement> encoded = this.encodeStart(JsonOps.INSTANCE); // save\n    }\n}\n```\nor in Kotlin...\n```kotlin\nobject CodecConfig : JsonFileCodecConfig(path) {\n    val myInt by register<Int>(0, Codec.INT)\n    \n    val myInnerConfig by register(InnerCodecConfig)\n    \n    fun test() {\n        loadFromFile()\n        saveToFile()\n        \n        // blah blah blah\n    }\n}\n```\n\n## Rewritten Kotlin DSL\n\nCompletely rewrote the Kotlin DSL!\n\n```kotlin\nYetAnotherConfigLib(\"namespace\") {\n    val category by categories.registering {\n        val option by rootOptions.registering<Int> {\n            controller = slider(range = 5..10)\n            binding(::thisProp, default)\n            \n            val otherOption by categories[\"category\"][\"group\"].futureRef<Boolean>()\n            otherOption.onReady { it.setAvailable(false) }\n        }\n        \n        // translation key is generated automagically\n        val label by rootOptions.registeringLabel\n        \n        val group by groups.registering {\n            val otherOption = options.register<Boolean>(\"otherOption\") {\n                controller = tickBox()\n            }\n        }\n    }\n}\n```\n\n## Changes\n\n- Fix dropdown controllers erroneously showing their dropdown - Crendgrim\n- Make cancel/reset and undo buttons public for accessing\n- Add compatibility for 1.21\n",
+      "changelog_url": null,
+      "date_published": "2024-06-13T16:13:58.635070Z",
+      "downloads": 4256938,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1kudPiqy",
+          "hashes": {
+            "sha512": "954bd6b364892afb569973e6beabcd8cce5a22b70747d124e5059b716475a82344ccf586b1ba38ab0b21e6d42485894f398b22285c81f1fff619f9b709a9fe3e",
+            "sha1": "c58dab87a7b62d0b3812c97fa69381ae041a1439"
+          },
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0%2B1.21-fabric.jar",
+          "filename": "YetAnotherConfigLib-3.5.0+1.21-fabric.jar",
+          "primary": true,
+          "size": 1150467,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

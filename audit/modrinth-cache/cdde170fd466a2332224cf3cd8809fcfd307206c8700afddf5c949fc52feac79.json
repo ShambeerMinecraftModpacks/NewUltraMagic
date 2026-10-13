@@ -1,0 +1,2844 @@
+{
+  "url": "https://api.modrinth.com/v2/project/BVzZfTc1/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:34.894746+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "CfQJbv1u",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.5-neoforge-1.21",
+      "version_number": "7.2.5-neoforge-1.21",
+      "changelog": "- reduced per frame allocations to improve performance\n",
+      "changelog_url": null,
+      "date_published": "2026-10-04T06:44:18.104239Z",
+      "downloads": 95528,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LQUP7hMT",
+          "hashes": {
+            "sha1": "ae5d4d282221a455ccd87bef7cd0f5122685426d",
+            "sha512": "7b126a027aede28ca6a31e65a1c4890212ad88504ff0e252ebcaf54b4e124abd667403ca8d084af028554e159a4964eeebb07acab609cbe7cead39ec7c84394e"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/CfQJbv1u/entity_texture_features-7.2.5-1.21-neoforge.jar",
+          "filename": "entity_texture_features-7.2.5-1.21-neoforge.jar",
+          "primary": true,
+          "size": 806812,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "44zU11wr",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.5-forge-1.21",
+      "version_number": "7.2.5-forge-1.21",
+      "changelog": "- reduced per frame allocations to improve performance\n",
+      "changelog_url": null,
+      "date_published": "2026-10-04T06:44:17.781227Z",
+      "downloads": 3755,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "froqpLQ6",
+          "hashes": {
+            "sha512": "c5aa191c775344bcdceed8e8a0996fe2c1bc3723bba365762d82da7f6271193d1ebbfa6cd9b50d74a9e9b698c8d4bb4867007fcef69ae6e14567c0829ccb2b87",
+            "sha1": "32933145a2ff281659ea414be8db931155cd7081"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/44zU11wr/entity_texture_features-7.2.5-1.21-forge.jar",
+          "filename": "entity_texture_features-7.2.5-1.21-forge.jar",
+          "primary": true,
+          "size": 986104,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "OVZ7HJXt",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.5-fabric-1.21",
+      "version_number": "7.2.5-fabric-1.21",
+      "changelog": "- reduced per frame allocations to improve performance\n",
+      "changelog_url": null,
+      "date_published": "2026-10-04T06:44:16.945458Z",
+      "downloads": 122871,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iuALelWS",
+          "hashes": {
+            "sha1": "726958e34edf7b424d7254d73d214caeedd15737",
+            "sha512": "dfa14a17b79d7318ef1734b8eae4a094d9e9350a7fab41828e9bef10389afcffdd477d0c73be804112d44fbccce1cc391f308514e801ee9e5968df011fff37af"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/OVZ7HJXt/entity_texture_features-7.2.5-1.21-fabric.jar",
+          "filename": "entity_texture_features-7.2.5-1.21-fabric.jar",
+          "primary": true,
+          "size": 799948,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "HOizEpC7",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.4-neoforge-1.21",
+      "version_number": "7.2.4-neoforge-1.21",
+      "changelog": "- fixed an issue with shoulder parrots that affected EMF\n- added `usingShaders` property to vary textures and EMF models depending on iris shaders\n- added `resourcepack` property to vary textures and EMF models depending on loaded resource-packs\n",
+      "changelog_url": null,
+      "date_published": "2026-09-18T03:48:47.690090Z",
+      "downloads": 109038,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yHDH6EoN",
+          "hashes": {
+            "sha512": "ab24eae8a255c74157f6599bcc603ef5ce03f259b0b1db43deb78896d6274512ffa2c783a925396c83d606c50fd87b12099160bd20f8986672b24641e7e47c16",
+            "sha1": "2551bb98d82d4d4064acecd8b513f1db469c635e"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/HOizEpC7/entity_texture_features-7.2.4-1.21-neoforge.jar",
+          "filename": "entity_texture_features-7.2.4-1.21-neoforge.jar",
+          "primary": true,
+          "size": 790080,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "SpiF8Eq5",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.4-forge-1.21",
+      "version_number": "7.2.4-forge-1.21",
+      "changelog": "- fixed an issue with shoulder parrots that affected EMF\n- added `usingShaders` property to vary textures and EMF models depending on iris shaders\n- added `resourcepack` property to vary textures and EMF models depending on loaded resource-packs\n",
+      "changelog_url": null,
+      "date_published": "2026-09-18T03:48:47.007728Z",
+      "downloads": 3672,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZLWapj09",
+          "hashes": {
+            "sha512": "df34e732a90712d6438f3f2d89047c99e9b6b1ed3959de4a4233873cd037c1a6dfb545ce7e19a1439ef43f3b12f7a5084f0e3f870df84c13da11dfc6904b8dd0",
+            "sha1": "24e06b593bb01a165102229e2a455c057f8d6f0d"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/SpiF8Eq5/entity_texture_features-7.2.4-1.21-forge.jar",
+          "filename": "entity_texture_features-7.2.4-1.21-forge.jar",
+          "primary": true,
+          "size": 969372,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "lmZfRqnz",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.4-fabric-1.21",
+      "version_number": "7.2.4-fabric-1.21",
+      "changelog": "- fixed an issue with shoulder parrots that affected EMF\n- added `usingShaders` property to vary textures and EMF models depending on iris shaders\n- added `resourcepack` property to vary textures and EMF models depending on loaded resource-packs\n",
+      "changelog_url": null,
+      "date_published": "2026-09-18T03:48:46.882133Z",
+      "downloads": 72181,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wCvGkTt9",
+          "hashes": {
+            "sha1": "5ab53a8fdc23e2da2bd6bcccab56358c711c4bc2",
+            "sha512": "8db823a9eeae41408e25773e9f82425bb6948cc59ff801635389f50962017827f4f8bb540cd0c9d718d69a40d40c4280cd79f144cd3f7f4c5799359c53962f3d"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/lmZfRqnz/entity_texture_features-7.2.4-1.21-fabric.jar",
+          "filename": "entity_texture_features-7.2.4-1.21-fabric.jar",
+          "primary": true,
+          "size": 783201,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Y1KtOkZf",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.3-neoforge-1.21",
+      "version_number": "7.2.3-neoforge-1.21",
+      "changelog": "- fixed several issues where third party mixins cancelling certain renders would mess up following renders\n- fixed an issue with the French localization file\n",
+      "changelog_url": null,
+      "date_published": "2026-09-17T04:17:17.196853Z",
+      "downloads": 8047,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QVP9fXu8",
+          "hashes": {
+            "sha1": "de9f37303e4dd8714eb6dc83cdee658752868eb0",
+            "sha512": "f7866cb38159131ce8555a058f966b230ba53dc538c5240e37949f8a7ce9aadca65d069a97b14f60481d671f4b67504c4a7092175267738c8d51a0d1d57e19ab"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Y1KtOkZf/entity_texture_features-7.2.3-1.21-neoforge.jar",
+          "filename": "entity_texture_features-7.2.3-1.21-neoforge.jar",
+          "primary": true,
+          "size": 784617,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "q93DNotz",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.3-forge-1.21",
+      "version_number": "7.2.3-forge-1.21",
+      "changelog": "- fixed several issues where third party mixins cancelling certain renders would mess up following renders\n- fixed an issue with the French localization file\n",
+      "changelog_url": null,
+      "date_published": "2026-09-17T04:17:17.096445Z",
+      "downloads": 198,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1pduAuNI",
+          "hashes": {
+            "sha1": "5817dc753ce41b3add855e668edf092b55e6e91b",
+            "sha512": "18b25cc54ca7983f6dd3051d68df8d2dfcb6f7f91e15b8093902fefa46d2dc1e9f52cf935ce53e409ad66d06035e135f43b8eb1d0fb1e12996ae0ffdce6540ce"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/q93DNotz/entity_texture_features-7.2.3-1.21-forge.jar",
+          "filename": "entity_texture_features-7.2.3-1.21-forge.jar",
+          "primary": true,
+          "size": 964951,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "pggnR5Yo",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.3-fabric-1.21",
+      "version_number": "7.2.3-fabric-1.21",
+      "changelog": "- fixed several issues where third party mixins cancelling certain renders would mess up following renders\n- fixed an issue with the French localization file\n",
+      "changelog_url": null,
+      "date_published": "2026-09-17T04:17:16.279957Z",
+      "downloads": 5410,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OyT8b7oR",
+          "hashes": {
+            "sha512": "0f602cf544fb14f0c46e75daea61833f583b744c3f397c72ea6e38ac603e6bce3c277699bfe7482d974704cd2ad4b0272933ada5de17aff50f693826c827b19f",
+            "sha1": "cc8aa79569cbfe65d4e0165bea8d7059168c00e3"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/pggnR5Yo/entity_texture_features-7.2.3-1.21-fabric.jar",
+          "filename": "entity_texture_features-7.2.3-1.21-fabric.jar",
+          "primary": true,
+          "size": 777761,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "BoYfMj0y",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.2-neoforge-1.21",
+      "version_number": "7.2.2-neoforge-1.21",
+      "changelog": "- re-added the 'id' field to all nbt property readings (field isn't usually present in loaded entity nbt)\n- fixed captures that broke EMF texture overrides on 1.21.9 - 26.1\n- updated to 26.3\n",
+      "changelog_url": null,
+      "date_published": "2026-09-16T00:49:50.910572Z",
+      "downloads": 12545,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tF26iPxA",
+          "hashes": {
+            "sha1": "1842a9bea1565f5565f62ca10c89e68096300488",
+            "sha512": "e4b24a8e131e53cb12569f2f37f495cfcaf507792ba2a2e18e72d7f489a5a066400c6aa53a46dd896202f5e962ed3f7979e6dc0353f4a406fa7060b972f41e6e"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/BoYfMj0y/entity_texture_features-7.2.2-1.21-neoforge.jar",
+          "filename": "entity_texture_features-7.2.2-1.21-neoforge.jar",
+          "primary": true,
+          "size": 784568,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "vnHPvfgF",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.2-forge-1.21",
+      "version_number": "7.2.2-forge-1.21",
+      "changelog": "- re-added the 'id' field to all nbt property readings (field isn't usually present in loaded entity nbt)\n- fixed captures that broke EMF texture overrides on 1.21.9 - 26.1\n- updated to 26.3\n",
+      "changelog_url": null,
+      "date_published": "2026-09-16T00:49:50.248836Z",
+      "downloads": 203,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fn1aEuRF",
+          "hashes": {
+            "sha512": "f0cd12cd6edd5391b8c4574cac65a9ba8cbc8d16df815f0a5a7bdf97933a36a4d643e645d8b0ed8bc401188c0f4ae4f596cad61dd9f4da37e9fa27e6147e5b18",
+            "sha1": "c61fbcb6b15bf2664eb12dc3dc04b9a5087c2d7a"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/vnHPvfgF/entity_texture_features-7.2.2-1.21-forge.jar",
+          "filename": "entity_texture_features-7.2.2-1.21-forge.jar",
+          "primary": true,
+          "size": 964902,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "DAwSv0Qy",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.2-fabric-1.21",
+      "version_number": "7.2.2-fabric-1.21",
+      "changelog": "- re-added the 'id' field to all nbt property readings (field isn't usually present in loaded entity nbt)\n- fixed captures that broke EMF texture overrides on 1.21.9 - 26.1\n- updated to 26.3\n",
+      "changelog_url": null,
+      "date_published": "2026-09-16T00:49:49.958380Z",
+      "downloads": 5168,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OBU7S6do",
+          "hashes": {
+            "sha1": "89344a3dadc4cf2bf3da6bdf89656c0bb4e431b6",
+            "sha512": "60e6db1556ba1c91a468c40f4ca173ea831ea93df89f4326352b9a4823db23e70ee527851421f69a59131be90eb0ad9cc12e98e4433ea85eb1d4dba333d667c8"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/DAwSv0Qy/entity_texture_features-7.2.2-1.21-fabric.jar",
+          "filename": "entity_texture_features-7.2.2-1.21-fabric.jar",
+          "primary": true,
+          "size": 777709,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "XEJeKpgJ",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.1-neoforge-1.21",
+      "version_number": "7.2.1-neoforge-1.21",
+      "changelog": "- fixed crash on 26.1\n",
+      "changelog_url": null,
+      "date_published": "2026-09-02T01:00:02.669203Z",
+      "downloads": 133934,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bwtCTALg",
+          "hashes": {
+            "sha512": "8158242ce79b38a613de7696221eae24c9a451040143fbe43f8d8a37329d7debcb6164c0d42177d2f7db306e54f2d7bbd99eee74add39ad3871c70754edd8cb7",
+            "sha1": "908d09263709193b918fdc9ca0d79c9d90c4a531"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/XEJeKpgJ/entity_texture_features-7.2.1-1.21-neoforge.jar",
+          "filename": "entity_texture_features-7.2.1-1.21-neoforge.jar",
+          "primary": true,
+          "size": 783217,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "ClvwnS6G",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.1-forge-1.21",
+      "version_number": "7.2.1-forge-1.21",
+      "changelog": "- fixed crash on 26.1\n",
+      "changelog_url": null,
+      "date_published": "2026-09-02T01:00:02.453523Z",
+      "downloads": 3104,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oewdFLSS",
+          "hashes": {
+            "sha1": "9eae1f14bd09ad9ba5d5d5bfdbc45dc1b6665250",
+            "sha512": "99a565858f7381b578d6bcee9c7cb6348058fdd186e8cbc5cbdd461b5637eb58f926285f1ca231b2b64ee9d9f8d163e7ba0ea4c3f09e136520d426d91b9946c1"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/ClvwnS6G/entity_texture_features-7.2.1-1.21-forge.jar",
+          "filename": "entity_texture_features-7.2.1-1.21-forge.jar",
+          "primary": true,
+          "size": 963550,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "Hfy3gPEK",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2.1-fabric-1.21",
+      "version_number": "7.2.1-fabric-1.21",
+      "changelog": "- fixed crash on 26.1\n",
+      "changelog_url": null,
+      "date_published": "2026-09-02T01:00:01.802374Z",
+      "downloads": 421943,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gFIbSzyi",
+          "hashes": {
+            "sha1": "dc583aaab8f47d01bbcb88c01b9cd0a65c1efd58",
+            "sha512": "237b9caa96ea2d61d211a40ddd637b2448d2177c7a40bd3b2beb83019f010e546605326a6e8f1bb436f021a8bcd8af4377f09d6bee62a01d30f0d5bf132aa0ec"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Hfy3gPEK/entity_texture_features-7.2.1-1.21-fabric.jar",
+          "filename": "entity_texture_features-7.2.1-1.21-fabric.jar",
+          "primary": true,
+          "size": 776373,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "EQWrxgr8",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2-neoforge-1.21",
+      "version_number": "7.2-neoforge-1.21",
+      "changelog": "- fixed the size property breaking with slimes in 26.2\n- fixed various texture layer issues\n- fixed various block entity issues\n- fixed various issues affecting EMF\n- fixed non .png textures registering as enchanted and emissive always\n",
+      "changelog_url": null,
+      "date_published": "2026-09-01T04:23:20.043987Z",
+      "downloads": 8840,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6m2HlExW",
+          "hashes": {
+            "sha1": "4c1a3a654cb657742ea239ffa3fe3f68ed22243c",
+            "sha512": "16c315dce01af49a281cfd25b5ffbae0185abba43e105a82c6602bc4f587aa9e4d5091121134f9dae36af2a9310958b716858c54e00e2b51fa239bf314a81211"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/EQWrxgr8/entity_texture_features-7.2-1.21-neoforge.jar",
+          "filename": "entity_texture_features-7.2-1.21-neoforge.jar",
+          "primary": true,
+          "size": 783215,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "V0wklcgY",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2-forge-1.21",
+      "version_number": "7.2-forge-1.21",
+      "changelog": "- fixed the size property breaking with slimes in 26.2\n- fixed various texture layer issues\n- fixed various block entity issues\n- fixed various issues affecting EMF\n- fixed non .png textures registering as enchanted and emissive always\n",
+      "changelog_url": null,
+      "date_published": "2026-09-01T04:23:19.579577Z",
+      "downloads": 224,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7tv6q8Xr",
+          "hashes": {
+            "sha512": "6b090f9ea79fe1085726755739c94d10996c23a4723e1ee72de01b613deec92dc5f98a27770ed98e440fc25bfbc59df8166f9efdd9d4b8582558adb810f7219f",
+            "sha1": "88bcbf49e5281c98e70de49bc3f7ebc5449543d0"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/V0wklcgY/entity_texture_features-7.2-1.21-forge.jar",
+          "filename": "entity_texture_features-7.2-1.21-forge.jar",
+          "primary": true,
+          "size": 963548,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "3QQKrSA3",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "7.2-fabric-1.21",
+      "version_number": "7.2-fabric-1.21",
+      "changelog": "- fixed the size property breaking with slimes in 26.2\n- fixed various texture layer issues\n- fixed various block entity issues\n- fixed various issues affecting EMF\n- fixed non .png textures registering as enchanted and emissive always\n",
+      "changelog_url": null,
+      "date_published": "2026-09-01T04:23:19.052530Z",
+      "downloads": 7556,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Q4QjbJvW",
+          "hashes": {
+            "sha1": "5117154ff5c984f157c0e204b84355a1b115c8d7",
+            "sha512": "9c31c60ec98f6e277baece8a7e6523006600b1d8d9a91c13113cea9247c0cf4dc96a6771f8ee5077cd6ae2cf471affb3ee4abd4119000e9035cbf3771ebee66c"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/3QQKrSA3/entity_texture_features-7.2-1.21-fabric.jar",
+          "filename": "entity_texture_features-7.2-1.21-fabric.jar",
+          "primary": true,
+          "size": 776373,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "udcdeUXw",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.1-fabric-1.21",
+      "changelog": "- Both EMF & ESF will need to update to be compatible with this version *(expect about half an hour for EMF to update)*\n- fixed immediatelyfast compat on 26.1+\n- fixed skin feature models not accounting for root transforms in player animations\n- fixed ArrayIndexOutOfBoundsException crash on 26.1+\n- fixed certain skin changing plugins not working with skin features in 1.21.4+\n\n",
+      "changelog_url": null,
+      "date_published": "2026-04-15T13:06:26.759855Z",
+      "downloads": 2193827,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RW7nMJuM",
+          "hashes": {
+            "sha512": "ee8ef05dab35287e4df9a5fac0f2b6379da217d79756620d9e5243e72f6e9033ada6f677fd520e70c4c655df0c8c808d785f7f14d25af0c00371047311602c40",
+            "sha1": "2020e3884ada68d7aba1d54f182d32d511c40e5f"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/udcdeUXw/entity_texture_features_1.21-fabric-7.1.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.1.jar",
+          "primary": true,
+          "size": 745421,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "YEMROAHv",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.1-neoforge-1.21",
+      "changelog": "- Both EMF & ESF will need to update to be compatible with this version *(expect about half an hour for EMF to update)*\n- fixed immediatelyfast compat on 26.1+\n- fixed skin feature models not accounting for root transforms in player animations\n- fixed ArrayIndexOutOfBoundsException crash on 26.1+\n- fixed certain skin changing plugins not working with skin features in 1.21.4+\n\n",
+      "changelog_url": null,
+      "date_published": "2026-04-15T13:06:24.513163Z",
+      "downloads": 1971403,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "v1qVFNjT",
+          "hashes": {
+            "sha1": "56de40b237ff44dbf1bb68844e0f118607902684",
+            "sha512": "fc4b6a75ad57defb944d188fac78e45a33342a2c2a2b0e673c81ac370df09335d4371c8e10bea8f593da4b1f1c2fcc361c124b274ee4b3c2ae75571f00742059"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.1.jar",
+          "primary": true,
+          "size": 752334,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "eBn6VFUE",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.1-forge-1.21",
+      "changelog": "- Both EMF & ESF will need to update to be compatible with this version *(expect about half an hour for EMF to update)*\n- fixed immediatelyfast compat on 26.1+\n- fixed skin feature models not accounting for root transforms in player animations\n- fixed ArrayIndexOutOfBoundsException crash on 26.1+\n- fixed certain skin changing plugins not working with skin features in 1.21.4+\n\n",
+      "changelog_url": null,
+      "date_published": "2026-04-15T13:06:22.143870Z",
+      "downloads": 34907,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HjBeFIGc",
+          "hashes": {
+            "sha1": "d11f97338d2909b5f7c86b2474e7b3fbdadf1ef9",
+            "sha512": "e05257b72a21b4a6904358055e521d8ba539f0f0e2dc088403063cd4fda9e0b97a8992a926d124d0912fe1238eca993f36d2eeac95a2d370fa31024c271ef8bf"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/eBn6VFUE/entity_texture_features_1.21-forge-7.1.jar",
+          "filename": "entity_texture_features_1.21-forge-7.1.jar",
+          "primary": true,
+          "size": 932673,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "Ljja99fh",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.13-fabric-1.21",
+      "changelog": "- fixed the player skin tool menu on 26.1\n- fixed fabric api detection\n- fixed skin feature part transforms\n\n",
+      "changelog_url": null,
+      "date_published": "2026-03-26T20:02:42.738135Z",
+      "downloads": 991976,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4g4TkpQr",
+          "hashes": {
+            "sha512": "3103cd75c795ea99e5f5a0381860fd44e4d9b71c6eac5976d2c2c024ff207bf7418c5ebb7bbf68125daf28945af4c1a1bf8c20d45a8d8e65ab93cc0aea2c8213",
+            "sha1": "79914ba4b1bd4aa8dbd18afbce9a7516a5895ca1"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Ljja99fh/entity_texture_features_1.21-fabric-7.0.13.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.13.jar",
+          "primary": true,
+          "size": 728249,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "njTVIXr7",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.13-neoforge-1.21",
+      "changelog": "- fixed the player skin tool menu on 26.1\n- fixed fabric api detection\n- fixed skin feature part transforms\n\n",
+      "changelog_url": null,
+      "date_published": "2026-03-26T20:02:40.577458Z",
+      "downloads": 108764,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OiSyAoLo",
+          "hashes": {
+            "sha512": "bd3fdd72b5f43b7d55c6fdb142855128f3e894c743efb34989edb8ce3e5967da692a350322e6aa9d7f1a9da57e0407bddc1a4f3627d8ef15d6912b1213a69f90",
+            "sha1": "22d148a6fc6d0df294ff38b957b7399fbdb95048"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/njTVIXr7/entity_texture_features_1.21-neoforge-7.0.13.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.13.jar",
+          "primary": true,
+          "size": 735147,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "6Dz38cJi",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.13-forge-1.21",
+      "changelog": "- fixed the player skin tool menu on 26.1\n- fixed fabric api detection\n- fixed skin feature part transforms\n\n",
+      "changelog_url": null,
+      "date_published": "2026-03-26T20:02:38.416099Z",
+      "downloads": 4638,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KBpJCFUY",
+          "hashes": {
+            "sha1": "4a3498b57db42ef97aa695903ee278ef7925eb0e",
+            "sha512": "0480ce5932e82026207c032d095f8b743128ce38936c321ad8eb01e32a3447a5442e7a51c80af379cbd9b930851d026d571ef5b1b4500863ea31215a9e95336c"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/6Dz38cJi/entity_texture_features_1.21-forge-7.0.13.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.13.jar",
+          "primary": true,
+          "size": 915484,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "RinXbOFW",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.9-fabric-1.21",
+      "changelog": "- added random entity properties `seedOffset` and `seedSource`\n- removed certain OptiFine limitations on newer versions where they have been lifted\n\n",
+      "changelog_url": null,
+      "date_published": "2026-02-14T12:55:17.486302Z",
+      "downloads": 1133343,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6zvRxLrA",
+          "hashes": {
+            "sha512": "1006f07e86efedfd0a230bb9b81f4e24b4751a1b8b205d0cbbf741b02f2a84e68eedd2e8ffe46a641b008f1fddf010efde5b147d3c3a735ccd686a5cf1bc0234",
+            "sha1": "0616d3dd4c8a27350ee46e94577da2c247878558"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/RinXbOFW/entity_texture_features_1.21-fabric-7.0.9.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.9.jar",
+          "primary": true,
+          "size": 728221,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Z10hRNc9",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.9-neoforge-1.21",
+      "changelog": "- added random entity properties `seedOffset` and `seedSource`\n- removed certain OptiFine limitations on newer versions where they have been lifted\n\n",
+      "changelog_url": null,
+      "date_published": "2026-02-14T12:55:15.652427Z",
+      "downloads": 195371,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ih8LoC29",
+          "hashes": {
+            "sha512": "ffe8cabdda7647ce5362a835fd28446516656e20541fd32f0c985603fd896a7b3fe5ee73680d6bdefb208786532bb0c0d3ecc5275e7acfef2c06b0a620ca21cb",
+            "sha1": "0a31d1b0753ad626b06e14fb5af840bf3d4c7973"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Z10hRNc9/entity_texture_features_1.21-neoforge-7.0.9.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.9.jar",
+          "primary": true,
+          "size": 735043,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "KEDmhrEf",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.9-forge-1.21",
+      "changelog": "- added random entity properties `seedOffset` and `seedSource`\n- removed certain OptiFine limitations on newer versions where they have been lifted\n\n",
+      "changelog_url": null,
+      "date_published": "2026-02-14T12:55:13.863866Z",
+      "downloads": 9184,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xvP5MzU4",
+          "hashes": {
+            "sha1": "6f5308bb81c1cdf0bc0c7b19251a35bd002f55a7",
+            "sha512": "a6cd452fc9c806fd718d479f6cbeabefb1981f59cee620bc37ad165f3e2246a834441c987efd9d09f204163b8c60cc58949a0b5d682e37ed5c9eee82b3033002"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/KEDmhrEf/entity_texture_features_1.21-forge-7.0.9.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.9.jar",
+          "primary": true,
+          "size": 917467,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "P3oS1dIC",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.8-fabric-1.21",
+      "changelog": "- neoforge 1.21.11\n- fixed various issues with the skin tool and uploading on 1.21.11 specifically and some other versions\n- fixed player skin enchanted pixel selections being inverted in 1.21.9+\n- fixed a crash with block entities\n- fixed the jacket/dress extension skin feature in 1.21.2+\n\n",
+      "changelog_url": null,
+      "date_published": "2025-12-29T13:32:25.533415Z",
+      "downloads": 2801167,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1HSdcv67",
+          "hashes": {
+            "sha512": "180f3d27ec18026fa27b1f49eb6bcec46c62b29c744ab81182e1c0834363472d2978c4a96074e678635a442019e0645ef6930feb0e03edc9fc289305f855f14c",
+            "sha1": "6a8ead6c257b184ed1d59d535b7c51a05bb0ba69"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/P3oS1dIC/entity_texture_features_1.21-fabric-7.0.8.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.8.jar",
+          "primary": true,
+          "size": 730042,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "p7wtsUSV",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.8-neoforge-1.21",
+      "changelog": "- neoforge 1.21.11\n- fixed various issues with the skin tool and uploading on 1.21.11 specifically and some other versions\n- fixed player skin enchanted pixel selections being inverted in 1.21.9+\n- fixed a crash with block entities\n- fixed the jacket/dress extension skin feature in 1.21.2+\n\n",
+      "changelog_url": null,
+      "date_published": "2025-12-29T13:32:23.847502Z",
+      "downloads": 377686,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DnCcvQGp",
+          "hashes": {
+            "sha1": "1b9fa548d04b67508a9ad63fe6fb69d6a315232f",
+            "sha512": "f07da56e0b6c2ea6a02da41efb157fad3fc2d797bd6ee3170f3e8f2f5a5b91930d610015034a467eb042561b3e6d976d4ea4a491957063e56c2f1ef1bf77890c"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p7wtsUSV/entity_texture_features_1.21-neoforge-7.0.8.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.8.jar",
+          "primary": true,
+          "size": 733270,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "as8bFNK4",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.8-forge-1.21",
+      "changelog": "- neoforge 1.21.11\n- fixed various issues with the skin tool and uploading on 1.21.11 specifically and some other versions\n- fixed player skin enchanted pixel selections being inverted in 1.21.9+\n- fixed a crash with block entities\n- fixed the jacket/dress extension skin feature in 1.21.2+\n\n",
+      "changelog_url": null,
+      "date_published": "2025-12-29T13:32:21.974725Z",
+      "downloads": 13434,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "W6afK2XM",
+          "hashes": {
+            "sha512": "cbf1fc5e9726598dbdf6f5966d5684a1e9e3849c4808bc3bd27100f842ab5743d6a0064743da377e713f7f2bdb64c7c0cea109bfe384768271d2eedcf45413ab",
+            "sha1": "298649bbaa221fdfadfd610264a9530e4877aea3"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/as8bFNK4/entity_texture_features_1.21-forge-7.0.8.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.8.jar",
+          "primary": true,
+          "size": 915694,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "j4aOsQzM",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.6-fabric-1.21",
+      "changelog": "- fixed crash when clicking \"Add ETF features to skin\" in the skin tool\n- fixed forge and neoforge crash, affecting EMF also, relating to checking loaded mods\n\n",
+      "changelog_url": null,
+      "date_published": "2025-11-22T15:07:17.572781Z",
+      "downloads": 2240503,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Jaj53QwZ",
+          "hashes": {
+            "sha512": "3c87ae99ac2df55f3ccb559c6336a88a8778f526f04c112f9d0aaaad74b5119ce63d8c78060495da229e4a6a142e647a5187d5ecf2cbfcd2ef23d3c3864f7a92",
+            "sha1": "4ae44efc76bfc89f117c810886ac6bc492385fd0"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/j4aOsQzM/entity_texture_features_1.21-fabric-7.0.6.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.6.jar",
+          "primary": true,
+          "size": 754004,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "PDrlXJz8",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.6-neoforge-1.21",
+      "changelog": "- fixed crash when clicking \"Add ETF features to skin\" in the skin tool\n- fixed forge and neoforge crash, affecting EMF also, relating to checking loaded mods\n\n",
+      "changelog_url": null,
+      "date_published": "2025-11-22T15:07:14.726302Z",
+      "downloads": 210244,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D29EGVIY",
+          "hashes": {
+            "sha512": "783e49ad764163c21a03dd69b7e7693124ed429c32d6b17d663d859a0269c463a990ebc1048ab5b232428a54d1e6e8b4b249d11c802ccd0d1aac93ebed462fed",
+            "sha1": "fcf2df8ede6007d4ab8ae86013fe29b2d09f6682"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/PDrlXJz8/entity_texture_features_1.21-neoforge-7.0.6.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.6.jar",
+          "primary": true,
+          "size": 757756,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "EdD2sIll",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.6-forge-1.21",
+      "changelog": "- fixed crash when clicking \"Add ETF features to skin\" in the skin tool\n- fixed forge and neoforge crash, affecting EMF also, relating to checking loaded mods\n\n",
+      "changelog_url": null,
+      "date_published": "2025-11-22T15:07:12.449753Z",
+      "downloads": 8595,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QXfScf1l",
+          "hashes": {
+            "sha512": "f1c6e39d11122f2bb2a62e2e641fac6be18b4f161ef48c110fa384d79262716f5347dffd18bafd2d95fd5bf35c87159336524e07c758319c17abf53a03b85363",
+            "sha1": "b0d4563371616dfdfd901bafe62f406bb48015aa"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/EdD2sIll/entity_texture_features_1.21-forge-7.0.6.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.6.jar",
+          "primary": true,
+          "size": 939667,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "NqIDGf6n",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.5-fabric-1.21",
+      "changelog": "- added a search bar to config screens with more than a dozen listings\n- fixed 1.21.9 config lists appearing blank until scrolled\n- fixed config titles being missing in 1.21.6+\n- added missing config translation support for \"Undo changes\"\n\n",
+      "changelog_url": null,
+      "date_published": "2025-11-21T07:43:23.226731Z",
+      "downloads": 159233,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "smZYzXsB",
+          "hashes": {
+            "sha1": "7ba7fc23de0de3cbad0ee067f58fd358bfcc6990",
+            "sha512": "619a971d820ef466e7b0cded21f7cb9721098dea8ae1d32a71f9cec2cdc9032e27cc6e778bea62071d18d27199943037772b84c90073b4c50924ed3fc4bdc1ad"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/NqIDGf6n/entity_texture_features_1.21-fabric-7.0.5.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.5.jar",
+          "primary": true,
+          "size": 753995,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "uGBt1h06",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.5-neoforge-1.21",
+      "changelog": "- added a search bar to config screens with more than a dozen listings\n- fixed 1.21.9 config lists appearing blank until scrolled\n- fixed config titles being missing in 1.21.6+\n- added missing config translation support for \"Undo changes\"\n\n",
+      "changelog_url": null,
+      "date_published": "2025-11-21T07:43:20.945156Z",
+      "downloads": 37747,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LS99YkxB",
+          "hashes": {
+            "sha512": "edee682a959086ab5eaed0991f0e1b5b0a628037e88263965f8c7af0d48622aebb200bcf4f8f39c01635e45441cc361ade704e938215bc15931c42e705479e67",
+            "sha1": "8231eba165834138e7b6398141894f4f05c8765a"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/uGBt1h06/entity_texture_features_1.21-neoforge-7.0.5.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.5.jar",
+          "primary": true,
+          "size": 757210,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "4oVebAGX",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.5-forge-1.21",
+      "changelog": "- added a search bar to config screens with more than a dozen listings\n- fixed 1.21.9 config lists appearing blank until scrolled\n- fixed config titles being missing in 1.21.6+\n- added missing config translation support for \"Undo changes\"\n\n",
+      "changelog_url": null,
+      "date_published": "2025-11-21T07:43:19.171412Z",
+      "downloads": 427,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4bkfDsjb",
+          "hashes": {
+            "sha1": "1548d33d755311e3664506cf462d11b00134d53e",
+            "sha512": "b55eca785c6a8138f775dc88aed0a7d6788e88498c7e60076d0e9065395938e33318be38347a66c008b2d4a62a636f24c7988d3ebc030df18378ec2e9a0e2fe5"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/4oVebAGX/entity_texture_features_1.21-forge-7.0.5.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.5.jar",
+          "primary": true,
+          "size": 939122,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "Sw0q85rE",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.2",
+      "changelog": "- fixed parrots on shoulders crashing the game\n- fixed ArrayIndexOutOfBoundsException crash",
+      "changelog_url": null,
+      "date_published": "2025-09-02T03:04:41.894802Z",
+      "downloads": 1162053,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xzPtErdo",
+          "hashes": {
+            "sha1": "7c595765bd95f9bc4edbbef5070637f568e68924",
+            "sha512": "87ea6e6e51556c3bc9bf31d722e3183cd80c194328d38626ad2e254d012db3ed0591113c6320e213edd7e067540ed8de0285161014405f7dea1d352eea109f03"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Sw0q85rE/entity_texture_features_1.21-fabric-7.0.2.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.2.jar",
+          "primary": true,
+          "size": 697674,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "4qRHVcko",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.2",
+      "changelog": "- fixed parrots on shoulders crashing the game\n- fixed ArrayIndexOutOfBoundsException crash",
+      "changelog_url": null,
+      "date_published": "2025-09-02T03:04:38.427095Z",
+      "downloads": 235803,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uYJQtE7Y",
+          "hashes": {
+            "sha1": "4542d41d8993bff2c5454b8d91ba166242949c5e",
+            "sha512": "ab2d7089f1b800b81d23124acea73aee759c642ef3aec6158538326405d6a7139317b40fa22441792177fdd99e2e915a17ecf6ce419f00f38c624bcd6c4942e6"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/4qRHVcko/entity_texture_features_1.21-neoforge-7.0.2.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.2.jar",
+          "primary": true,
+          "size": 700889,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "xdTuSTtX",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.2",
+      "changelog": "- fixed parrots on shoulders crashing the game\n- fixed ArrayIndexOutOfBoundsException crash",
+      "changelog_url": null,
+      "date_published": "2025-09-02T03:04:35.213930Z",
+      "downloads": 13547,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "m5rXgUGQ",
+          "hashes": {
+            "sha1": "fcd087a5f9ebea5c953f6d1f69f01a5f10c1ec3e",
+            "sha512": "c4e4b65525ee37b0d3d998f1d366327fcf3046686748082053225f1e14a7a3b47ca91ea5442b97fc0681c326d8cf65bf1a454dccf749d722d67de2f7b7c7a296"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/xdTuSTtX/entity_texture_features_1.21-forge-7.0.2.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.2.jar",
+          "primary": true,
+          "size": 882834,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "etb76zSi",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.1",
+      "changelog": "- fixed crash with immediatelyfast\n- bumped api number",
+      "changelog_url": null,
+      "date_published": "2025-08-25T03:28:54.098885Z",
+      "downloads": 42286,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SOdbnNig",
+          "hashes": {
+            "sha1": "cdede645a65a715ce280ab17614460eda41c4b29",
+            "sha512": "ba38bc9747a04893a2d5dffec88da0a9ae08154901fc13c7c276b7a2e0ebb4f42e961d62c5af9a58188dbe319451a4f358aba6aab50b687c8370c2eb092a935b"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/etb76zSi/entity_texture_features_1.21-fabric-7.0.1.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.1.jar",
+          "primary": true,
+          "size": 701024,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "LfbfnpXb",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.1",
+      "changelog": "- fixed crash with immediatelyfast\n- bumped api number",
+      "changelog_url": null,
+      "date_published": "2025-08-25T03:28:50.970111Z",
+      "downloads": 30385,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WDT6h7gS",
+          "hashes": {
+            "sha1": "27469cacadd6fac41b36fe2b7b279ccd1b1fbc9c",
+            "sha512": "4a39e66bfd97764bff81de5ba524a806a55f45f0e0295b96027dd485035cd0cad1023ae187c0099762f3b9930ef0d798f7c7d8d632c40f2a44551bf06b041bba"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/LfbfnpXb/entity_texture_features_1.21-neoforge-7.0.1.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.1.jar",
+          "primary": true,
+          "size": 704235,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "ywzYrT3Y",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.1",
+      "changelog": "- fixed crash with immediatelyfast\n- bumped api number",
+      "changelog_url": null,
+      "date_published": "2025-08-25T03:28:47.914091Z",
+      "downloads": 1448,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qicSVx4g",
+          "hashes": {
+            "sha512": "770be36597af7185594df25585431e8f80844c4b3430c28c7b246f449374b5666cce34752757327acf97e9e5e2ce21b8c1447583be2c0816ffb039a263766141",
+            "sha1": "7ac1a1dc47cfef9ea3110a2704f32f744d481905"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/ywzYrT3Y/entity_texture_features_1.21-forge-7.0.1.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.1.jar",
+          "primary": true,
+          "size": 886179,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "ogR3y3ac",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "7.0.0",
+      "changelog": "- fixed entities in gui in 1.21.6+\n- fixed extreme lag caused when un-leashing entities in 1.21.5+ caused by invalid leash data breaking nbt reading1.20\n- fixed entity nbt tests in 1.21.5+\n- changed nbt list testing behaviour allowing consistent behaviour with uses like `nbt.1.list.*` and `nbt.1.list.*.further.instructions` matching optifine\n- reduce nbt crash log spam when entity is null\n- large restructure of the source code\n- first release for 1.20 in a while\n- fixed a crash when illegal paths were enabled\n- fixed minecart random textures\n- fixed several crashes",
+      "changelog_url": null,
+      "date_published": "2025-08-24T11:22:07.422135Z",
+      "downloads": 6450,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UYwFUy3C",
+          "hashes": {
+            "sha1": "e4186ad546ba6a41a2dfc9623b78f40923b11666",
+            "sha512": "7c3c5bcf394b671a83bbf9cdab145e4d8841751952a7ae59faa6b80f1effc1221ab3e1da4c578109fbb3126f879a3644e1ad2ebd599cfc9ef6e494fa0394289c"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/ogR3y3ac/entity_texture_features_1.21-fabric-7.0.0.jar",
+          "filename": "entity_texture_features_1.21-fabric-7.0.0.jar",
+          "primary": true,
+          "size": 700879,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "D8CQGAUD",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "7.0.0",
+      "changelog": "- fixed entities in gui in 1.21.6+\n- fixed extreme lag caused when un-leashing entities in 1.21.5+ caused by invalid leash data breaking nbt reading1.20\n- fixed entity nbt tests in 1.21.5+\n- changed nbt list testing behaviour allowing consistent behaviour with uses like `nbt.1.list.*` and `nbt.1.list.*.further.instructions` matching optifine\n- reduce nbt crash log spam when entity is null\n- large restructure of the source code\n- first release for 1.20 in a while\n- fixed a crash when illegal paths were enabled\n- fixed minecart random textures\n- fixed several crashes",
+      "changelog_url": null,
+      "date_published": "2025-08-24T11:22:04.451496Z",
+      "downloads": 2792,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ci3SxJMm",
+          "hashes": {
+            "sha1": "40e0cac5cde6813a8c82bd0879f6b528c6d11ec1",
+            "sha512": "26f88203875a5ecd9851fcbb669220ffeef42d90f2b9ecfe93df40fa9590c359287e91cf6205eef5974690daa488939930a8387d17ef5a57e12196252d155923"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/D8CQGAUD/entity_texture_features_1.21-neoforge-7.0.0.jar",
+          "filename": "entity_texture_features_1.21-neoforge-7.0.0.jar",
+          "primary": true,
+          "size": 704106,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "uXEAg4S4",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "7.0.0",
+      "changelog": "- fixed entities in gui in 1.21.6+\n- fixed extreme lag caused when un-leashing entities in 1.21.5+ caused by invalid leash data breaking nbt reading1.20\n- fixed entity nbt tests in 1.21.5+\n- changed nbt list testing behaviour allowing consistent behaviour with uses like `nbt.1.list.*` and `nbt.1.list.*.further.instructions` matching optifine\n- reduce nbt crash log spam when entity is null\n- large restructure of the source code\n- first release for 1.20 in a while\n- fixed a crash when illegal paths were enabled\n- fixed minecart random textures\n- fixed several crashes",
+      "changelog_url": null,
+      "date_published": "2025-08-24T11:22:00.719368Z",
+      "downloads": 258,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pe704JYC",
+          "hashes": {
+            "sha512": "3272f59df2acb65b4fcb108c5a5e0064ee6e76e0c996f908fbc0b98ec4120271fab7fee997eb019e9f1c3ebb39d50e5c27545f6deb480ea7125f9f06bf4d63d6",
+            "sha1": "7dffb2f6e1d83082e01cea1b4dab0ab126371768"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/uXEAg4S4/entity_texture_features_1.21-forge-7.0.0.jar",
+          "filename": "entity_texture_features_1.21-forge-7.0.0.jar",
+          "primary": true,
+          "size": 886051,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "zzyLrMkD",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21.1",
+      "version_number": "6.2.9",
+      "changelog": "- updated to 1.21.4 for Forge & NeoForge\n- fixed a crash when the ETF config object was loaded far too early by another mod\n- fixed Illusioner entity copy illusions not all varying their textures\n- fixed the resource-pack screen config button not resizing when the screen size is modified in 1.20.6+",
+      "changelog_url": null,
+      "date_published": "2024-12-11T09:26:13.758411Z",
+      "downloads": 4827859,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dkYIAZfS",
+          "hashes": {
+            "sha1": "3e77439154fada468475b08a268de7012c8d90f3",
+            "sha512": "2acbb6da814568cfc1899eb30b9a7459ec4ed25229fecd5fb9252d79f42bf5bfd92fc61fc57adb5002e4fc844223ffe0ff2e395dd7ae760e955c514e9967b42f"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/zzyLrMkD/entity_texture_features_fabric_1.21.1-6.2.9.jar",
+          "filename": "entity_texture_features_fabric_1.21.1-6.2.9.jar",
+          "primary": true,
+          "size": 649930,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "jmfAD9oz",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21.1",
+      "version_number": "6.2.9",
+      "changelog": "- updated to 1.21.4 for Forge & NeoForge\n- fixed a crash when the ETF config object was loaded far too early by another mod\n- fixed Illusioner entity copy illusions not all varying their textures\n- fixed the resource-pack screen config button not resizing when the screen size is modified in 1.20.6+",
+      "changelog_url": null,
+      "date_published": "2024-12-11T09:26:10.567782Z",
+      "downloads": 911997,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yS5mi4xE",
+          "hashes": {
+            "sha1": "81c9e2bba951825730143be4cb1ed5bedae446cf",
+            "sha512": "8b39e8cd9645ab2f4a27f34fd06d8f2a42a42ee143635fabd52fe770205d55aca4cc33f69f5e58b60c1eaeaed4a11df06e4bf14ac5ee36c30ccb4a03f0bbec0d"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/jmfAD9oz/entity_texture_features_neoforge_1.21.1-6.2.9.jar",
+          "filename": "entity_texture_features_neoforge_1.21.1-6.2.9.jar",
+          "primary": true,
+          "size": 672734,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "346KdYLF",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21.1",
+      "version_number": "6.2.9",
+      "changelog": "- updated to 1.21.4 for Forge & NeoForge\n- fixed a crash when the ETF config object was loaded far too early by another mod\n- fixed Illusioner entity copy illusions not all varying their textures\n- fixed the resource-pack screen config button not resizing when the screen size is modified in 1.20.6+",
+      "changelog_url": null,
+      "date_published": "2024-12-11T09:26:06.794222Z",
+      "downloads": 36426,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fDeQd2HJ",
+          "hashes": {
+            "sha1": "499430101737be1ea0dda36f74f3a55b3c58b810",
+            "sha512": "4cce872aa20c802728d4148cbad3eb58d233e921966529301f81e53895efb2c21d3ef64d53a972dc4831d7a70b51c458b09557172bb754e83dc65a3e6076e564"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/346KdYLF/entity_texture_features_forge_1.21.1-6.2.9.jar",
+          "filename": "entity_texture_features_forge_1.21.1-6.2.9.jar",
+          "primary": true,
+          "size": 672980,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "KmnvNiTO",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21.1",
+      "version_number": "6.2.8",
+      "changelog": "- fixed a crash in the inventory screen with 3d skin layers latest update with player skin features active\n- added an OptiFine compat option to prevent loading a non-variant / base texture present in the variant directories (e.g. optifine/random/entity/chicken.png won't be loaded as an override to the vanilla base texture, as this does not happen in OptiFine), enabled by default.\n- fixed the settings gui background not rendering in 1.20.1",
+      "changelog_url": null,
+      "date_published": "2024-11-20T02:13:11.621705Z",
+      "downloads": 285298,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7EQtdZeW",
+          "hashes": {
+            "sha512": "7ed597cdede33600c0c4c55557a71cdd01a841149283f121c935948b14c9532b333201199f5422a963de6bbb383d205a7a6e746c42691d779dcf78d1ed021c60",
+            "sha1": "13718110463f867ef3d6f150d9108564e615f0aa"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/KmnvNiTO/entity_texture_features_fabric_1.21.1-6.2.8.jar",
+          "filename": "entity_texture_features_fabric_1.21.1-6.2.8.jar",
+          "primary": true,
+          "size": 645967,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "vVFfQs14",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21.1",
+      "version_number": "6.2.8",
+      "changelog": "- fixed a crash in the inventory screen with 3d skin layers latest update with player skin features active\n- added an OptiFine compat option to prevent loading a non-variant / base texture present in the variant directories (e.g. optifine/random/entity/chicken.png won't be loaded as an override to the vanilla base texture, as this does not happen in OptiFine), enabled by default.\n- fixed the settings gui background not rendering in 1.20.1",
+      "changelog_url": null,
+      "date_published": "2024-11-20T02:13:08.376953Z",
+      "downloads": 9254,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mXdipnGO",
+          "hashes": {
+            "sha1": "e75b3c38dc7104434720744d36490bd8e87844e9",
+            "sha512": "de4b00c8225393bf0ac67542ec8b67cb85911c55265739de5c851818f2f8213d12c8b23f190e90d4b95bf257205199611676333f7cd4088f0424253b057d33ad"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/vVFfQs14/entity_texture_features_neoforge_1.21.1-6.2.8.jar",
+          "filename": "entity_texture_features_neoforge_1.21.1-6.2.8.jar",
+          "primary": true,
+          "size": 668885,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "kBtNnlJQ",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21.1",
+      "version_number": "6.2.8",
+      "changelog": "- fixed a crash in the inventory screen with 3d skin layers latest update with player skin features active\n- added an OptiFine compat option to prevent loading a non-variant / base texture present in the variant directories (e.g. optifine/random/entity/chicken.png won't be loaded as an override to the vanilla base texture, as this does not happen in OptiFine), enabled by default.\n- fixed the settings gui background not rendering in 1.20.1",
+      "changelog_url": null,
+      "date_published": "2024-11-20T02:13:03.909812Z",
+      "downloads": 2461,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xS1hu58W",
+          "hashes": {
+            "sha1": "e52dbb2ca4b8a466b14a8c876451c1b3482a9603",
+            "sha512": "f4c30605a04836153a819a2f681abf28bb610280c39b10b49b81dafa7ec51dbd4c85eabc19e89aaf6ca1892c8f2e5bcd1c8feb56475f8c5a97049aabab4237cf"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/kBtNnlJQ/entity_texture_features_forge_1.21.1-6.2.8.jar",
+          "filename": "entity_texture_features_forge_1.21.1-6.2.8.jar",
+          "primary": true,
+          "size": 669122,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "XjQ2f0CR",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21.1",
+      "version_number": "6.2.7",
+      "changelog": "- fixed log spam in 1.21.3 due to errors with the shoulder parrot feature renderer\n- updated for forge 1.21.3\n- fixed compatibility with the new `3d skin layers` mod update v1.7\n- fixed visual issues in the player skin tool in 1.21.3\n- added the `biomeTag` property to vary textures based on the biome tags of the entities spawn biome, does not support regex, only exact string matches, `minecraft:` is optional for vanilla tags. Prefix with `print:` to log the found biome tags\n- added the `temperature` property to vary textures based on the entities spawn position temperature, supports ranges e.g. `0-0.15` is an approximate range for snowfall. Prefix with `print:` to log the found temperature",
+      "changelog_url": null,
+      "date_published": "2024-11-04T09:22:22.057268Z",
+      "downloads": 195657,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GYxkHfI6",
+          "hashes": {
+            "sha512": "59ccf1344c204509342758e6d8db524d7b9d261a6c6badb4c47100ce56200cad57f0628c408587e77f262eb77e6be395c48b2af7cafa5dedc1266fd56ff5e981",
+            "sha1": "917f460034a85221e37bb53b98ab805e29a7a19b"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/XjQ2f0CR/entity_texture_features_fabric_1.21.1-6.2.7.jar",
+          "filename": "entity_texture_features_fabric_1.21.1-6.2.7.jar",
+          "primary": true,
+          "size": 644235,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "9jUVosnb",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21.1",
+      "version_number": "6.2.7",
+      "changelog": "- fixed log spam in 1.21.3 due to errors with the shoulder parrot feature renderer\n- updated for forge 1.21.3\n- fixed compatibility with the new `3d skin layers` mod update v1.7\n- fixed visual issues in the player skin tool in 1.21.3\n- added the `biomeTag` property to vary textures based on the biome tags of the entities spawn biome, does not support regex, only exact string matches, `minecraft:` is optional for vanilla tags. Prefix with `print:` to log the found biome tags\n- added the `temperature` property to vary textures based on the entities spawn position temperature, supports ranges e.g. `0-0.15` is an approximate range for snowfall. Prefix with `print:` to log the found temperature",
+      "changelog_url": null,
+      "date_published": "2024-11-04T09:22:18.847835Z",
+      "downloads": 5423,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iVlwH16B",
+          "hashes": {
+            "sha512": "6ef25d5407968c15abe4315e2b018d32ca60ed78ef1157fcd04bbaee6086c0ddbdbf012e3802bad6682dc15cfcc11ec2db7f3f59c84ce4c69087c7cc1162310b",
+            "sha1": "a2cd8d112ed09a09de3171ff48bfd865b6353c75"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/9jUVosnb/entity_texture_features_neoforge_1.21.1-6.2.7.jar",
+          "filename": "entity_texture_features_neoforge_1.21.1-6.2.7.jar",
+          "primary": true,
+          "size": 667171,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "e35xTXcD",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21.1",
+      "version_number": "6.2.7",
+      "changelog": "- fixed log spam in 1.21.3 due to errors with the shoulder parrot feature renderer\n- updated for forge 1.21.3\n- fixed compatibility with the new `3d skin layers` mod update v1.7\n- fixed visual issues in the player skin tool in 1.21.3\n- added the `biomeTag` property to vary textures based on the biome tags of the entities spawn biome, does not support regex, only exact string matches, `minecraft:` is optional for vanilla tags. Prefix with `print:` to log the found biome tags\n- added the `temperature` property to vary textures based on the entities spawn position temperature, supports ranges e.g. `0-0.15` is an approximate range for snowfall. Prefix with `print:` to log the found temperature",
+      "changelog_url": null,
+      "date_published": "2024-11-04T09:22:15.153447Z",
+      "downloads": 1915,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HDK70Atn",
+          "hashes": {
+            "sha512": "06e8f92fba2be34af462040a2e383c78fff22c64828bbcdbb99713bef5e3965fa119cb097cd1b25a11d89a887c88a7bb36f144de18cc9291b743e290d6ad6055",
+            "sha1": "933d5b0b48b74ae87078d3d948bc1fcf20feca9d"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/e35xTXcD/entity_texture_features_forge_1.21.1-6.2.7.jar",
+          "filename": "entity_texture_features_forge_1.21.1-6.2.7.jar",
+          "primary": true,
+          "size": 667408,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "qQQ5ffvS",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "6.2.5",
+      "changelog": "- fixed a logical error that would make spawn locked properties occasionally override the fact that non spawn locked properties were still present and still needed future updates.\n- fixed block entities not updating when using non spawn locked properties.\n- made the properties settings screen list display in alphabetical order.\n- removed log spam if ETF accidentally read a cit .properties file, due to a texture pointing there.\n- ensured all ETF logs pre append `[ETF]: ` for easier log filtering.\n- added the `blockBelow` && `blockBelowSolid` properties to vary textures based on the first non-air block below the entity, no matter the distance, the latter only triggers for the first solid block found.\n- added the `blockAbove` && `blockAboveSolid` properties to vary textures based on the first non-air block above the entity, no matter the distance, the latter only triggers for the first solid block found.",
+      "changelog_url": null,
+      "date_published": "2024-09-18T14:04:17.766109Z",
+      "downloads": 980962,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "51KWGVDG",
+          "hashes": {
+            "sha1": "a23175e7262ff0a089b13cd2cbad99e315e4cfa6",
+            "sha512": "480723a27dac633dd22e9b2909c4d5c71cc660bbec9c0b9784b7ed44cb379f9dbe1054bd5ed0e159f72fa20697bf7e8c7fbc9f382e9890b8fd74bfc4901169d0"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/qQQ5ffvS/entity_texture_features_fabric_1.21-6.2.5.jar",
+          "filename": "entity_texture_features_fabric_1.21-6.2.5.jar",
+          "primary": true,
+          "size": 635951,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "8VsYqnvV",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "6.2.5",
+      "changelog": "- fixed a logical error that would make spawn locked properties occasionally override the fact that non spawn locked properties were still present and still needed future updates.\n- fixed block entities not updating when using non spawn locked properties.\n- made the properties settings screen list display in alphabetical order.\n- removed log spam if ETF accidentally read a cit .properties file, due to a texture pointing there.\n- ensured all ETF logs pre append `[ETF]: ` for easier log filtering.\n- added the `blockBelow` && `blockBelowSolid` properties to vary textures based on the first non-air block below the entity, no matter the distance, the latter only triggers for the first solid block found.\n- added the `blockAbove` && `blockAboveSolid` properties to vary textures based on the first non-air block above the entity, no matter the distance, the latter only triggers for the first solid block found.",
+      "changelog_url": null,
+      "date_published": "2024-09-18T14:04:13.341120Z",
+      "downloads": 21179,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "V1crw4BH",
+          "hashes": {
+            "sha512": "73064db93d5877af1d572ca28b5bbb178b12f27b42749b2661ecf041c7762a5fa8a4522175954991b11ad9419b3e87864a018ac810e74dce1f088e73f37712d0",
+            "sha1": "ff64169456a25cc21acbcd31d31f9c18a73f7bf7"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/8VsYqnvV/entity_texture_features_neoforge_1.21-6.2.5.jar",
+          "filename": "entity_texture_features_neoforge_1.21-6.2.5.jar",
+          "primary": true,
+          "size": 658946,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "LfWFJvsY",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "6.2.5",
+      "changelog": "- fixed a logical error that would make spawn locked properties occasionally override the fact that non spawn locked properties were still present and still needed future updates.\n- fixed block entities not updating when using non spawn locked properties.\n- made the properties settings screen list display in alphabetical order.\n- removed log spam if ETF accidentally read a cit .properties file, due to a texture pointing there.\n- ensured all ETF logs pre append `[ETF]: ` for easier log filtering.\n- added the `blockBelow` && `blockBelowSolid` properties to vary textures based on the first non-air block below the entity, no matter the distance, the latter only triggers for the first solid block found.\n- added the `blockAbove` && `blockAboveSolid` properties to vary textures based on the first non-air block above the entity, no matter the distance, the latter only triggers for the first solid block found.",
+      "changelog_url": null,
+      "date_published": "2024-09-18T14:04:08.684979Z",
+      "downloads": 10790,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M0Rl1Uew",
+          "hashes": {
+            "sha512": "0e8b2597f15866e074e4871e3b01e07f9137e697d7efa43415ee7cde6f3ebf06bfafbd54cb1e0af1af3024a1dabfe509052f1fdb64b278f28b79e081d6dacf2e",
+            "sha1": "6bda8ca93733349ed1e08721a8f7bf8626bc22cd"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/LfWFJvsY/entity_texture_features_forge_1.21-6.2.5.jar",
+          "filename": "entity_texture_features_forge_1.21-6.2.5.jar",
+          "primary": true,
+          "size": 659199,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "2WL1sPyE",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "6.2.4",
+      "changelog": "- fixed the `nbt` property breaking since version 6.2 when declaring more than one `nbt` property in a single rule\n- added the `nbtVehicle` property to vary textures by the entity nbt data of the entity being ridden by the current entity, passenger nbt can be found within the regular `nbt` property under the passenger nbt data\n- added the `nbtClient` property to vary textures by the entity nbt data of the client player",
+      "changelog_url": null,
+      "date_published": "2024-09-12T05:36:03.403613Z",
+      "downloads": 181025,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qMfSH3A6",
+          "hashes": {
+            "sha512": "467415d48da2f6f90121a49fb6665dfb47ce7af320287b7d858bb0d937c8d5d40753d322e15ce62f542ce8224fc1caa34bf43962f8c12ec4bdd42ae2b9016f6b",
+            "sha1": "49017d221d38f2789172a8f15cc090b37781f5b5"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/2WL1sPyE/entity_texture_features_fabric_1.21-6.2.4.jar",
+          "filename": "entity_texture_features_fabric_1.21-6.2.4.jar",
+          "primary": true,
+          "size": 628161,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "8YcUz8bg",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "6.2.4",
+      "changelog": "- fixed the `nbt` property breaking since version 6.2 when declaring more than one `nbt` property in a single rule\n- added the `nbtVehicle` property to vary textures by the entity nbt data of the entity being ridden by the current entity, passenger nbt can be found within the regular `nbt` property under the passenger nbt data\n- added the `nbtClient` property to vary textures by the entity nbt data of the client player",
+      "changelog_url": null,
+      "date_published": "2024-09-12T05:35:59.415582Z",
+      "downloads": 3625,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lptCH3cd",
+          "hashes": {
+            "sha512": "b07a665a89a7cb02a0b8fddae46aa739155b3506833e08c446c931394cb49cd0bbc43bf9f3f64ba8e577b649af6fac437eab922616bcc8be3ab6cd505925e7fc",
+            "sha1": "873e2e39a0bc12db9cdaea6ad46497be9c0fe24d"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/8YcUz8bg/entity_texture_features_neoforge_1.21-6.2.4.jar",
+          "filename": "entity_texture_features_neoforge_1.21-6.2.4.jar",
+          "primary": true,
+          "size": 651040,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "C2S6oAol",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "6.2.4",
+      "changelog": "- fixed the `nbt` property breaking since version 6.2 when declaring more than one `nbt` property in a single rule\n- added the `nbtVehicle` property to vary textures by the entity nbt data of the entity being ridden by the current entity, passenger nbt can be found within the regular `nbt` property under the passenger nbt data\n- added the `nbtClient` property to vary textures by the entity nbt data of the client player",
+      "changelog_url": null,
+      "date_published": "2024-09-12T05:35:56.613445Z",
+      "downloads": 1338,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XHnMoQ50",
+          "hashes": {
+            "sha512": "61ddbd014aa1fa36bbfb0e4daa8127a8db89598f6d01572cce89f202d830606a2284e484ea233162e41f4d5a04e8b8df4a4eed28717addcb188c322fdf704d22",
+            "sha1": "46c52cce9b687c3eab595053cc672dcf072f7e33"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/C2S6oAol/entity_texture_features_forge_1.21-6.2.4.jar",
+          "filename": "entity_texture_features_forge_1.21-6.2.4.jar",
+          "primary": true,
+          "size": 651291,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "qdV5egjG",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "6.2.3",
+      "changelog": "- removed excessive log spam from the nbt property rewrite in 6.2 with empty/missing nbt values\n- fixed `biomes` property breaking when adding the redundant `minecraft:`\n- replaced the `Hide settings button` setting with `Settings button location` to choose where/how the resource-pack screen settings button appears these can be: `OFF`, `BOTTOM_RIGHT`, `BOTTOM_LEFT`, `TOP_RIGHT`, `TOP_LEFT`. Defaults to bottom right.",
+      "changelog_url": null,
+      "date_published": "2024-09-06T11:11:26.917379Z",
+      "downloads": 121270,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aYPeLpl9",
+          "hashes": {
+            "sha1": "a6d349500cf71fca1de4b0881486fb89c0adb3af",
+            "sha512": "2369ff284d7ab2bd81c54a3dafd7364d98b4bfcb4ecd5c4f09b4ddad63664e67ef1c7431f8a0e44d4f2463d1d6735304c1e4681fbe055f8cc46b84a9835fe08f"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/qdV5egjG/entity_texture_features_fabric_1.21-6.2.3.jar",
+          "filename": "entity_texture_features_fabric_1.21-6.2.3.jar",
+          "primary": true,
+          "size": 625184,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "9UxOmzdl",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "6.2.3",
+      "changelog": "- removed excessive log spam from the nbt property rewrite in 6.2 with empty/missing nbt values\n- fixed `biomes` property breaking when adding the redundant `minecraft:`\n- replaced the `Hide settings button` setting with `Settings button location` to choose where/how the resource-pack screen settings button appears these can be: `OFF`, `BOTTOM_RIGHT`, `BOTTOM_LEFT`, `TOP_RIGHT`, `TOP_LEFT`. Defaults to bottom right.",
+      "changelog_url": null,
+      "date_published": "2024-09-06T11:11:23.642396Z",
+      "downloads": 1363,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ABvrnesC",
+          "hashes": {
+            "sha512": "f1ab3f790156dfd89a82d227b893dc4dda972afc7ed2258bbb68b36a2816c00f86c4f1cea421b2e713e09c9443d57835f591110eb13efa5369935aee6fde9f01",
+            "sha1": "bc6c5dabf8951fc83d814e2b72e9772524835b01"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/9UxOmzdl/entity_texture_features_neoforge_1.21-6.2.3.jar",
+          "filename": "entity_texture_features_neoforge_1.21-6.2.3.jar",
+          "primary": true,
+          "size": 648053,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "qHhVCzjP",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "6.2.3",
+      "changelog": "- removed excessive log spam from the nbt property rewrite in 6.2 with empty/missing nbt values\n- fixed `biomes` property breaking when adding the redundant `minecraft:`\n- replaced the `Hide settings button` setting with `Settings button location` to choose where/how the resource-pack screen settings button appears these can be: `OFF`, `BOTTOM_RIGHT`, `BOTTOM_LEFT`, `TOP_RIGHT`, `TOP_LEFT`. Defaults to bottom right.",
+      "changelog_url": null,
+      "date_published": "2024-09-06T11:11:20.592570Z",
+      "downloads": 1293,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yKFwlcBC",
+          "hashes": {
+            "sha512": "e76513785d3d000e62a49d8830aa5cd7dc0ce14928f15015f2e0eb9cb7821e04e422514d36c5b067704ab439b828ae2c16676befd26d601e65ddca85d1eb8709",
+            "sha1": "1b60d46e2731894680330c677f12da13ad4d83dd"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/qHhVCzjP/entity_texture_features_forge_1.21-6.2.3.jar",
+          "filename": "entity_texture_features_forge_1.21-6.2.3.jar",
+          "primary": true,
+          "size": 648305,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "7SQiYQty",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21",
+      "version_number": "6.2.2",
+      "changelog": "- added more leniency to the mod config file reading used by this, EMF, and ESF\n- now catches all exceptions on mod config file reading not just IOExceptions",
+      "changelog_url": null,
+      "date_published": "2024-08-27T07:09:22.480316Z",
+      "downloads": 275103,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nSuBRFL2",
+          "hashes": {
+            "sha1": "354844187b9210049c144be71609376e2e64dae6",
+            "sha512": "23a3f1d149043a0cef6a8dab96ff13886fb320cc42f13bda278ac7a4fc1744773613587a5dd9299671665886b95f3f906ffbcf32e841d39620991f269c59d513"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/7SQiYQty/entity_texture_features_fabric_1.21-6.2.2.jar",
+          "filename": "entity_texture_features_fabric_1.21-6.2.2.jar",
+          "primary": true,
+          "size": 606369,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "e2mqTnkW",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21",
+      "version_number": "6.2.2",
+      "changelog": "- added more leniency to the mod config file reading used by this, EMF, and ESF\n- now catches all exceptions on mod config file reading not just IOExceptions",
+      "changelog_url": null,
+      "date_published": "2024-08-27T07:09:19.659566Z",
+      "downloads": 4773,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VBMykhMx",
+          "hashes": {
+            "sha1": "e2aac20db3f57f816c2c516ee580caaf2d98b0da",
+            "sha512": "29a266dc9787686932264402379d5966f38b9128ce99d17f687a6b7e35a726d7fbc1de3e5c538a03eb27932ba448d2bfb4039fc62095412ea088273607e3ccaa"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/e2mqTnkW/entity_texture_features_neoforge_1.21-6.2.2.jar",
+          "filename": "entity_texture_features_neoforge_1.21-6.2.2.jar",
+          "primary": true,
+          "size": 629240,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "12UAq7i8",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21",
+      "version_number": "6.2.2",
+      "changelog": "- added more leniency to the mod config file reading used by this, EMF, and ESF\n- now catches all exceptions on mod config file reading not just IOExceptions",
+      "changelog_url": null,
+      "date_published": "2024-08-27T07:09:16.619493Z",
+      "downloads": 2113,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QJXOSJ06",
+          "hashes": {
+            "sha512": "260ea12225f7bf838a7acef669cbd666e68ca23d0ab557341de7c18609963eaccca0e6e79e8409caebc927e9b23268e5d9c60c293653f6e5c6e29075633b7033",
+            "sha1": "2d570ad9b1ae9a2c268e6b12078ba0cbcbc375d0"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/12UAq7i8/entity_texture_features_forge_1.21-6.2.2.jar",
+          "filename": "entity_texture_features_forge_1.21-6.2.2.jar",
+          "primary": true,
+          "size": 629492,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "jPQAUD19",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Fabric - 1.21.1",
+      "version_number": "6.2.1",
+      "changelog": "- fixed a bug where non updating properties, e.g. `biomes`, would not test correctly\n- added an OptiFine parity settings category and a few options to control matching OptiFine restrictions or weirdness\n- random suffix selection now completely matches what optifine users will randomly get\n- added `print:` debug functionality to all string list and regex properties to log the given value when tested\n- added `print:` debug functionality to most numeric properties to log the given value when tested\n- the `pattern:` wildcard `?` has been changed to the equivalent of `.` in regex whereas it was incorrectly documented as being `.+`\n- removed old mod compatibility files for older versions of `iris`, `sodium`, and `immediatelyfast`, that were kept for a time to retain compatibility, as long as you use the latest version for your given MC version you will be fine",
+      "changelog_url": null,
+      "date_published": "2024-08-25T16:56:48.611039Z",
+      "downloads": 38202,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Vbw5l8de",
+          "hashes": {
+            "sha1": "0243b0969f4c71dc83ee6e2d1e3a9b13f69841c5",
+            "sha512": "181832faff9d0b5c801c436db01913eeb72abce85e8e60c170375c9343ff11a5119a2438332d3d818b97878d5996ee70aa2b74baaf6554a1da2710dcad947de8"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/jPQAUD19/entity_texture_features_fabric_1.21.1-6.2.1.jar",
+          "filename": "entity_texture_features_fabric_1.21.1-6.2.1.jar",
+          "primary": true,
+          "size": 606310,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "qcg13OvW",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "NeoForge - 1.21.1",
+      "version_number": "6.2.1",
+      "changelog": "- fixed a bug where non updating properties, e.g. `biomes`, would not test correctly\n- added an OptiFine parity settings category and a few options to control matching OptiFine restrictions or weirdness\n- random suffix selection now completely matches what optifine users will randomly get\n- added `print:` debug functionality to all string list and regex properties to log the given value when tested\n- added `print:` debug functionality to most numeric properties to log the given value when tested\n- the `pattern:` wildcard `?` has been changed to the equivalent of `.` in regex whereas it was incorrectly documented as being `.+`\n- removed old mod compatibility files for older versions of `iris`, `sodium`, and `immediatelyfast`, that were kept for a time to retain compatibility, as long as you use the latest version for your given MC version you will be fine",
+      "changelog_url": null,
+      "date_published": "2024-08-25T16:56:46.154325Z",
+      "downloads": 942,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jBzatVT8",
+          "hashes": {
+            "sha1": "7cc1fbeea20e1de34ed08165f6ad1f735e8ec773",
+            "sha512": "a587c6c5ab9d624932143039a7b370fbbc8569df5b127d6c4d187d8ffa59551708df131231eb99787e7580b353a82fc9495a1f5ccbab5e49abd8b6aa32764f96"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/qcg13OvW/entity_texture_features_neoforge_1.21.1-6.2.1.jar",
+          "filename": "entity_texture_features_neoforge_1.21.1-6.2.1.jar",
+          "primary": true,
+          "size": 629180,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "n9I6ywkv",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "Forge - 1.21.1",
+      "version_number": "6.2.1",
+      "changelog": "- fixed a bug where non updating properties, e.g. `biomes`, would not test correctly\n- added an OptiFine parity settings category and a few options to control matching OptiFine restrictions or weirdness\n- random suffix selection now completely matches what optifine users will randomly get\n- added `print:` debug functionality to all string list and regex properties to log the given value when tested\n- added `print:` debug functionality to most numeric properties to log the given value when tested\n- the `pattern:` wildcard `?` has been changed to the equivalent of `.` in regex whereas it was incorrectly documented as being `.+`\n- removed old mod compatibility files for older versions of `iris`, `sodium`, and `immediatelyfast`, that were kept for a time to retain compatibility, as long as you use the latest version for your given MC version you will be fine",
+      "changelog_url": null,
+      "date_published": "2024-08-25T16:56:43.260713Z",
+      "downloads": 1747,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HPudFs3E",
+          "hashes": {
+            "sha1": "ab2adb2dbdf12cf7f60007cee9934ea73b31f080",
+            "sha512": "c90b8248efbf05da8871de03e1193bd66e5ee960c23aff017ee8346508a71d5a47ac23e480dca6576924ea8676842173d06d3ed0a67828ec076f326982b8d14e"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/n9I6ywkv/entity_texture_features_forge_1.21.1-6.2.1.jar",
+          "filename": "entity_texture_features_forge_1.21.1-6.2.1.jar",
+          "primary": true,
+          "size": 629432,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "BoF2n3m7",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "[ETF] Entity Texture Features 6.2",
+      "version_number": "6.2",
+      "changelog": "[6.2]\n- forge 1.21 & 1.20.6 fixed\n- changed gui icon\n- added checks to ensure random property suffixes are always valid integers above 0\n- fixed crash when rendering entity nameplates and having renderlayer overrides affect entity shadows\n- fixed the skin pixel transparency override setting in skin features not affecting all of the pixels correctly\n- reworked and improved the `nbt` property to improve both performance and log printing functionality\n  - if your nbt test starts with `print_all:` the entire entity client-side nbt will be printed with nice formatting\n  - if your nbt test starts with `print:` that specific nbt value will be printed every time it tests, as well as its result\n  - (these will go before tests like `raw:`, `exists:` or `range:`, e.g.  `print_all:exists:false`)\n- made many minor source code adjustments, no functionality changes, no API changes",
+      "changelog_url": null,
+      "date_published": "2024-08-20T07:44:54.137111Z",
+      "downloads": 525897,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8ujqAVp9",
+          "hashes": {
+            "sha512": "4740e843b0b5c7c395a5fd922189d6f04676d231cad8f9e1e05b0add1fe17159e8bc3ec55155bab53e2c5fde1e8deb9c6a365781f50346ecbe3e78a9059f4040",
+            "sha1": "613fdb1335c5f60f3057125bf33116fa19510bdf"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/BoF2n3m7/entity_texture_features_fabric_1.21-6.2.jar",
+          "filename": "entity_texture_features_fabric_1.21-6.2.jar",
+          "primary": true,
+          "size": 604292,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "R8m6MVA4",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "[ETF] Entity Texture Features 6.2",
+      "version_number": "6.2",
+      "changelog": "[6.2]\n- forge 1.21 & 1.20.6 fixed\n- changed gui icon\n- added checks to ensure random property suffixes are always valid integers above 0\n- fixed crash when rendering entity nameplates and having renderlayer overrides affect entity shadows\n- fixed the skin pixel transparency override setting in skin features not affecting all of the pixels correctly\n- reworked and improved the `nbt` property to improve both performance and log printing functionality\n  - if your nbt test starts with `print_all:` the entire entity client-side nbt will be printed with nice formatting\n  - if your nbt test starts with `print:` that specific nbt value will be printed every time it tests, as well as its result\n  - (these will go before tests like `raw:`, `exists:` or `range:`, e.g.  `print_all:exists:false`)\n- made many minor source code adjustments, no functionality changes, no API changes",
+      "changelog_url": null,
+      "date_published": "2024-08-20T07:43:03.897561Z",
+      "downloads": 1295,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "19jV7q5x",
+          "hashes": {
+            "sha512": "bdc0def71c18137fdbd46a85e870972ef76fcd0f0e538b0bff5373c92207fccad65a740df843001e7760595a572a3ec0184d28a57bfa63c9f60015ffe96803c3",
+            "sha1": "74b266326a785959708d394c48815e8700d002a0"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/R8m6MVA4/entity_texture_features_forge_1.21-6.2.jar",
+          "filename": "entity_texture_features_forge_1.21-6.2.jar",
+          "primary": true,
+          "size": 627408,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "i7ohnPPO",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "etf",
+      "version_number": "6.2",
+      "changelog": "[6.2]\n- forge 1.21 & 1.20.6 fixed\n- changed gui icon\n- added checks to ensure random property suffixes are always valid integers above 0\n- fixed crash when rendering entity nameplates and having renderlayer overrides affect entity shadows\n- fixed the skin pixel transparency override setting in skin features not affecting all of the pixels correctly\n- reworked and improved the `nbt` property to improve both performance and log printing functionality\n  - if your nbt test starts with `print_all:` the entire entity client-side nbt will be printed with nice formatting\n  - if your nbt test starts with `print:` that specific nbt value will be printed every time it tests, as well as its result\n  - (these will go before tests like `raw:`, `exists:` or `range:`, e.g.  `print_all:exists:false`)\n- made many minor source code adjustments, no functionality changes, no API changes",
+      "changelog_url": null,
+      "date_published": "2024-08-20T07:38:35.908861Z",
+      "downloads": 2653,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bTT5pZeL",
+          "hashes": {
+            "sha512": "42317e31dd84ae59d7838a1320337e1df82712b052c2705c8930fc865896b9dc8c77aa95bb5c5b2979e9eae983025a7aada94e75d1ae5a0a5f6ee8d80cd7bfbf",
+            "sha1": "ee46349aa6ed53733a54752888c26c0350698a28"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/i7ohnPPO/entity_texture_features_neoforge_1.21-6.2.jar",
+          "filename": "entity_texture_features_neoforge_1.21-6.2.jar",
+          "primary": true,
+          "size": 627158,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "O3jDICoH",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "[ETF] Entity Texture Features 6.1.3",
+      "version_number": "6.1.3",
+      "changelog": "[6.1.3]\n- added additional null checks to fix some odd mod crashes\n- fixed the config breaking with some mods\n- fixed player skin tool pixel select image being sideways in 1.21",
+      "changelog_url": null,
+      "date_published": "2024-07-03T10:01:26.064111Z",
+      "downloads": 1552132,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ON0mz02V",
+          "hashes": {
+            "sha1": "f2c9e292b9582a02903f1886f8f9f0313299d91f",
+            "sha512": "8f65090404d38aa6b35386003c7fe3138b7b337a931d9b4b21038d3389725a5fcd4027b89a4d86517067df9a6c73255e13dba9c106900b574f6ec41d71c52358"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/O3jDICoH/entity_texture_features_fabric_1.21-6.1.3.jar",
+          "filename": "entity_texture_features_fabric_1.21-6.1.3.jar",
+          "primary": true,
+          "size": 599401,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "sDShx7xX",
+      "project_id": "BVzZfTc1",
+      "author_id": "rLbuLV6t",
+      "featured": false,
+      "name": "etf",
+      "version_number": "6.1.3",
+      "changelog": "[6.1.3]\n- added additional null checks to fix some odd mod crashes\n- fixed the config breaking with some mods\n- fixed player skin tool pixel select image being sideways in 1.21",
+      "changelog_url": null,
+      "date_published": "2024-07-03T09:59:17.030565Z",
+      "downloads": 9786,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3kh6In2Y",
+          "hashes": {
+            "sha512": "a00a6ae14209d016ef774af293886af7f5ed501e319c2b0120a7bf91d877ee648d19dc49f29a3fa9ce65aa9613aa53f6fcd61dcc8864429321c71b687f2dfc24",
+            "sha1": "5f2b0fdb476162c1dd372e4d8603f86c38b4c134"
+          },
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/sDShx7xX/entity_texture_features_neoforge_1.21-6.1.3.jar",
+          "filename": "entity_texture_features_neoforge_1.21-6.1.3.jar",
+          "primary": true,
+          "size": 621808,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

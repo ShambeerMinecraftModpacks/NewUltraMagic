@@ -1,0 +1,965 @@
+{
+  "url": "https://api.modrinth.com/v2/project/jv7tzVE4/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:50.738749+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "HnAHMeR1",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.6 Neoforge 1.21.1",
+      "version_number": "1.5.6+1.21.1-neoforge",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.6]\n**New**\n- Minecraft 26.1/26.2 support (Fabric & NeoForge): mixins adapted for the new input/effect/screen systems, sound-pack generation deferred until item components are bound (sound manager is re-prepared afterwards), JEI integration entrypoint, NeoForge startup timing\n- Trial Chambers content: the mace gets a dedicated heavy sound, spears are classified by their material, and copper tools/spears use the iron gear sound\n- Dropping items in the world (Q key outside an inventory) now plays the drop sound\n\n**Fixes**\n- Fixed bows being classified with the bowl sound instead of the generic gear sound\n- Fixed a startup crash on some NeoForge setups where the Minecraft mod container could not be resolved\n",
+      "changelog_url": null,
+      "date_published": "2026-08-07T06:40:29.426758Z",
+      "downloads": 8635,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Zan9HlpR",
+          "hashes": {
+            "sha1": "fb22d8c7e6cdf37acaca69b505165ac70ee3d5b9",
+            "sha512": "a46f7e39e2fac171462b06136114e32d0bfb570cb8096f70b559a0ea1983a318a4ee0917740b513101128a2f4711c23002b220e7e7333e641f40a569d0d4ae3d"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/HnAHMeR1/extrasounds-1.5.6%2B1.21.1-neoforge.jar",
+          "filename": "extrasounds-1.5.6+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 376588,
+          "file_type": null
+        },
+        {
+          "id": "NFriGiIx",
+          "hashes": {
+            "sha512": "34319b9050a346b46d37672f2e03eab1b1c86c46451533554c41c21765bdde217a585428eb2ae3aafa79e3b3f6f9bdc724dfdfbaf89da467b84fe3788b36fbb9",
+            "sha1": "b09bd27af7684de17e77e3175bb84913e6c632e2"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/HnAHMeR1/extrasounds-1.5.6%2B1.21.1-neoforge-sources.jar",
+          "filename": "extrasounds-1.5.6+1.21.1-neoforge-sources.jar",
+          "primary": false,
+          "size": 303097,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "lvu1TxsT",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.6 Fabric 1.21.1",
+      "version_number": "1.5.6+1.21.1-fabric",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.6]\n**New**\n- Minecraft 26.1/26.2 support (Fabric & NeoForge): mixins adapted for the new input/effect/screen systems, sound-pack generation deferred until item components are bound (sound manager is re-prepared afterwards), JEI integration entrypoint, NeoForge startup timing\n- Trial Chambers content: the mace gets a dedicated heavy sound, spears are classified by their material, and copper tools/spears use the iron gear sound\n- Dropping items in the world (Q key outside an inventory) now plays the drop sound\n\n**Fixes**\n- Fixed bows being classified with the bowl sound instead of the generic gear sound\n- Fixed a startup crash on some NeoForge setups where the Minecraft mod container could not be resolved\n",
+      "changelog_url": null,
+      "date_published": "2026-08-07T06:40:22.884328Z",
+      "downloads": 2107,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WjUSfMi9",
+          "hashes": {
+            "sha512": "e876166c3edddfbdc5f932f0d63dd8c018883db5096bdda66181c8dcb2932d7a920316497c6aadb2310ce09338547b323546bd29f0daa7bf4d208b972949e4a2",
+            "sha1": "4690de3ece6605ef1f0d626a854ff2a2860afddf"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/lvu1TxsT/extrasounds-1.5.6%2B1.21.1-fabric.jar",
+          "filename": "extrasounds-1.5.6+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 377143,
+          "file_type": null
+        },
+        {
+          "id": "9SrqLwoQ",
+          "hashes": {
+            "sha1": "89bca87998f65ca90dc52c9f308a3d8ca1083ff7",
+            "sha512": "31090170b0ef143287405c5ccd58d934f499cc091e7205302e133915be2f4ca5f52731fd0f9608c273ca301d12923c2cacba4ed7db051ab44141615ee60336cc"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/lvu1TxsT/extrasounds-1.5.6%2B1.21.1-fabric-sources.jar",
+          "filename": "extrasounds-1.5.6+1.21.1-fabric-sources.jar",
+          "primary": false,
+          "size": 305496,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "Mcf8Xmkm",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.5 Fabric 1.21.1",
+      "version_number": "1.5.5+1.21.1-fabric",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.5]\n**Fixes**\n- Improved JEI compatibility by mezz\n",
+      "changelog_url": null,
+      "date_published": "2026-08-06T09:37:58.612630Z",
+      "downloads": 85,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5cKMtAsg",
+          "hashes": {
+            "sha1": "6c4d5033370886a4cb70ee787126052a496c8f49",
+            "sha512": "a268ec4c180c852165ea8e6e437d6227012185a96addb9cac26aefb2d60bf22f123dac4b61f4ec49951ddcd59a5ed0b173eb1ab80fbcb612bcdf636fa674d3e1"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/Mcf8Xmkm/extrasounds-1.5.5%2B1.21.1-fabric.jar",
+          "filename": "extrasounds-1.5.5+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 375700,
+          "file_type": null
+        },
+        {
+          "id": "VEUCcfxw",
+          "hashes": {
+            "sha512": "2748d0fc2b4ba336e9906ae3217d3bea0501a830e3c858f4b5eae5ba4aef8ebe21ae8f95a189648dd1013982db004433be1ce24d055f71941fab7a129cd11476",
+            "sha1": "7df7e07de69652c0365905763668749763ee1647"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/Mcf8Xmkm/extrasounds-1.5.5%2B1.21.1-fabric-sources.jar",
+          "filename": "extrasounds-1.5.5+1.21.1-fabric-sources.jar",
+          "primary": false,
+          "size": 298874,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "y668qZx4",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.5 Neoforge 1.21.1",
+      "version_number": "1.5.5+1.21.1-neoforge",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.5]\n**Fixes**\n- Improved JEI compatibility by mezz\n",
+      "changelog_url": null,
+      "date_published": "2026-08-06T09:37:58.116225Z",
+      "downloads": 196,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vZZUgXPS",
+          "hashes": {
+            "sha1": "ebc48f3c776715e711cc5727d1bb5c6fb6c111d3",
+            "sha512": "7084a03f749bd272eddf4e047d34ac3e922ba3cee92b90734fbb53e952027e9beb430172aa4c0bed3aa5798ec7fd401dca398615f24b7f844e3e54255d9af0c2"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/y668qZx4/extrasounds-1.5.5%2B1.21.1-neoforge.jar",
+          "filename": "extrasounds-1.5.5+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 375008,
+          "file_type": null
+        },
+        {
+          "id": "ecs78Yr4",
+          "hashes": {
+            "sha512": "a5a4fec1acc9baca9985aa868ba3ad7e7ef001d95b0e2abafc3d41e7a7c77a7c8f53339a316ecba5740e463a9f261d56fcf00ada8df4819a240d76e350db412a",
+            "sha1": "fec78d19de0756f673bbfbb113fb294a13e8e130"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/y668qZx4/extrasounds-1.5.5%2B1.21.1-neoforge-sources.jar",
+          "filename": "extrasounds-1.5.5+1.21.1-neoforge-sources.jar",
+          "primary": false,
+          "size": 297093,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "E4JAKwaU",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.4 Fabric 1.21.1",
+      "version_number": "1.5.4+1.21.1-fabric",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0 - 1.5.3]\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n\n**Fixes**\n- Sound switches not working properly\n- Correct mixin refmap configuration\n- Fixed Forge jar used development version instead of release version\n\n## [1.5.4]\n**Fixes**\n- Make DEBUG flag via system property\n- Fixed ae2 compatibility\n",
+      "changelog_url": null,
+      "date_published": "2026-03-26T05:02:21.512891Z",
+      "downloads": 8905,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "llFn51I4",
+          "hashes": {
+            "sha512": "20c9794b65456ba0d144206ce0de140fbfdeb74f35f2d4aeb547191489db031f12200cff9716bcc1d331b423cfc1a2f6b83af24faea02eb515982ad65715daf8",
+            "sha1": "e36c4d3012f527f17f710d1938356d0087041cad"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/E4JAKwaU/extrasounds-1.5.4%2B1.21.1-fabric.jar",
+          "filename": "extrasounds-1.5.4+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 372549,
+          "file_type": null
+        },
+        {
+          "id": "OF4L2RgT",
+          "hashes": {
+            "sha1": "6cff246a18837006045c128608b34c82c3b41edd",
+            "sha512": "b2fb60d4c56d77d3243dcf7c87f613a6a600c9e5705ea3c8a9ef7b478747f746d6cefdc6ae6683199e465466f73f23c9e1821282a4fcbed9472faa1aa763e088"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/E4JAKwaU/extrasounds-1.5.4%2B1.21.1-fabric-sources.jar",
+          "filename": "extrasounds-1.5.4+1.21.1-fabric-sources.jar",
+          "primary": false,
+          "size": 297404,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "61VTwiK1",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.4 Neoforge 1.21.1",
+      "version_number": "1.5.4+1.21.1-neoforge",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0 - 1.5.3]\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n\n**Fixes**\n- Sound switches not working properly\n- Correct mixin refmap configuration\n- Fixed Forge jar used development version instead of release version\n\n## [1.5.4]\n**Fixes**\n- Make DEBUG flag via system property\n- Fixed ae2 compatibility\n",
+      "changelog_url": null,
+      "date_published": "2026-03-26T05:01:57.831497Z",
+      "downloads": 92873,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PfzgwBBU",
+          "hashes": {
+            "sha512": "065d0f4ac0a6a5b8aafb26b34acdacb51bd286c12c02f8d47cad6c14768ad7de61de69f17f2162a31366162805aaee7f8e7744f6be09e27498e650e0a6e136bd",
+            "sha1": "5af4b3e68c2b063b5c03ee3c1860fb8ad31909d1"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/61VTwiK1/extrasounds-1.5.4%2B1.21.1-neoforge.jar",
+          "filename": "extrasounds-1.5.4+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 371823,
+          "file_type": null
+        },
+        {
+          "id": "nUhbfwGh",
+          "hashes": {
+            "sha512": "470bed6d19f72bf551adaa0c48a9c7e21c01c4fdf3fd6ab883b493f0af7a2eff23cb38f580f65156e4af1dc57844817a66fae58f24cb36736e608afcc1fa2e44",
+            "sha1": "1764c888406c53dd757239779bf1cd4530144d0d"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/61VTwiK1/extrasounds-1.5.4%2B1.21.1-neoforge-sources.jar",
+          "filename": "extrasounds-1.5.4+1.21.1-neoforge-sources.jar",
+          "primary": false,
+          "size": 295574,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "E1tMLN55",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.2 Fabric 1.21.1",
+      "version_number": "1.5.2+1.21.1-fabric",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0]\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n\n## [1.5.1]\n\n**Fixes**\n- Sound switches not working properly\n\n## [1.5.2]\n\n**Chores**\n- Correct mixin refmap configuration\n",
+      "changelog_url": null,
+      "date_published": "2026-03-24T11:18:11.223252Z",
+      "downloads": 212,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sxAMy1zC",
+          "hashes": {
+            "sha512": "6018c423f6d178e0b06ec4b6f7ffaa0e8b48a29ba064b06358414546946fb393ce8d25347987c6bfd21e12c74a435432e3784a9b9180b624d63c9b899b0936fb",
+            "sha1": "ffbcbcbba79af80f1940640a29caeeee49a8fa7b"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/E1tMLN55/extrasounds-1.5.2%2B1.21.1-fabric.jar",
+          "filename": "extrasounds-1.5.2+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 372418,
+          "file_type": null
+        },
+        {
+          "id": "COmqTWCG",
+          "hashes": {
+            "sha512": "350a542c48f39c467f77b090e29e47bde4b6671b65afe8897be37788a9b682acacf182e16897c0584752d4198f3b8255897136e4cc1a00482f8a71b1693c36a0",
+            "sha1": "146fb42b26c2412ac556f696d2f806fb6f32e7e2"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/E1tMLN55/extrasounds-1.5.2%2B1.21.1-fabric-sources.jar",
+          "filename": "extrasounds-1.5.2+1.21.1-fabric-sources.jar",
+          "primary": false,
+          "size": 297391,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "sDEY9UJY",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.2 Neoforge 1.21.1",
+      "version_number": "1.5.2+1.21.1-neoforge",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0]\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n\n## [1.5.1]\n\n**Fixes**\n- Sound switches not working properly\n\n## [1.5.2]\n\n**Chores**\n- Correct mixin refmap configuration\n",
+      "changelog_url": null,
+      "date_published": "2026-03-24T11:18:09.340854Z",
+      "downloads": 175,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5vLA81Hl",
+          "hashes": {
+            "sha512": "83ba7abdacada2f3e8d2e2b77126a770bec174faa06d16ce7b26afca878731369d4318b7e122f7676c368ac9703f2c0219a9895a0eae86e60e59be75454f4a77",
+            "sha1": "0382b01db9641ec9233206a9e8ce73439669b312"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/sDEY9UJY/extrasounds-1.5.2%2B1.21.1-neoforge.jar",
+          "filename": "extrasounds-1.5.2+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 371701,
+          "file_type": null
+        },
+        {
+          "id": "u8TvYcru",
+          "hashes": {
+            "sha1": "78108c09f886a050a116ea6573bc4aef782c2f65",
+            "sha512": "317ec87d19a9db64afcb71d1f5a82bd2e8550b2312b0ca8b943e51e6ee0be18806779d4d5d438e17acdf14bed888e11f985f0213757826087278299ed4894280"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/sDEY9UJY/extrasounds-1.5.2%2B1.21.1-neoforge-sources.jar",
+          "filename": "extrasounds-1.5.2+1.21.1-neoforge-sources.jar",
+          "primary": false,
+          "size": 295562,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "C6LIvxyN",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.1 Fabric 1.21.1",
+      "version_number": "1.5.1+1.21.1-fabric",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0]\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n\n## [1.5.1]\n\n**Fixes**\n- Sound switches not working properly\n",
+      "changelog_url": null,
+      "date_published": "2026-03-23T14:58:08.982739Z",
+      "downloads": 97,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7h6hVn1z",
+          "hashes": {
+            "sha512": "b60c2b542e7dbad8e83fef3d9ddd66a751afc7c31ec436f72de9141dcb0c28143c037a05ca13bcecbdc77315748e7b0719dd64134ccf7e461a8087fda497af83",
+            "sha1": "2652542f96f533062cb7f295fed32ef42d8dfa6b"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/C6LIvxyN/extrasounds-1.5.1%2B1.21.1-fabric.jar",
+          "filename": "extrasounds-1.5.1+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 372402,
+          "file_type": null
+        },
+        {
+          "id": "STZ6whI4",
+          "hashes": {
+            "sha512": "8fae7df1728820f62c623a0006d2f7296883e21c6cf3b47515fa5130c53cae2f99aacb2c744a855d76e7a3f2c9715993a9269efb44cf9f40777e00d39c79d46a",
+            "sha1": "59708710cd26552ce6a778cb74768b7d1a5b52de"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/C6LIvxyN/extrasounds-1.5.1%2B1.21.1-fabric-sources.jar",
+          "filename": "extrasounds-1.5.1+1.21.1-fabric-sources.jar",
+          "primary": false,
+          "size": 297379,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "OXO6pgj9",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.1 Neoforge 1.21.1",
+      "version_number": "1.5.1+1.21.1-neoforge",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0]\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n\n## [1.5.1]\n\n**Fixes**\n- Sound switches not working properly\n",
+      "changelog_url": null,
+      "date_published": "2026-03-23T14:57:48.988241Z",
+      "downloads": 74,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zIlvES7o",
+          "hashes": {
+            "sha512": "2b418346c73c1a240809bdc4e28cb76cf695c3c79b9a2015908c5bc85f44ea113bea5047a722c1901e3f8af24564170e6c881f77c7ea9004e683da343b58b7d5",
+            "sha1": "cf351b91f3fec5a8144802f778020816efb6e464"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/OXO6pgj9/extrasounds-1.5.1%2B1.21.1-neoforge.jar",
+          "filename": "extrasounds-1.5.1+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 371254,
+          "file_type": null
+        },
+        {
+          "id": "Hrx425sZ",
+          "hashes": {
+            "sha1": "172c821fe839a47018a3e8d444a089e1651ffd1b",
+            "sha512": "091dee99dba24f0612a164ec293ecfe2bcd969a7bbdb013b2d06d8d8e21540fbbfb35b02a1bf654bcabb5d46d5160caf0dcc3047779d5f8cb60f4609efdc4e3c"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/OXO6pgj9/extrasounds-1.5.1%2B1.21.1-neoforge-sources.jar",
+          "filename": "extrasounds-1.5.1+1.21.1-neoforge-sources.jar",
+          "primary": false,
+          "size": 295550,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "TBLrn2n6",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.0 Fabric 1.21.1",
+      "version_number": "1.5.0+1.21.1-fabric",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0] - Upcoming\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n---\n",
+      "changelog_url": null,
+      "date_published": "2026-03-23T13:07:30.575196Z",
+      "downloads": 47,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VWkIX6rP",
+          "hashes": {
+            "sha1": "34510a266ca517e0e524217d00159299accbabbe",
+            "sha512": "5a9b73432fe83303ffde0af33cc281b2093e2f58f625c981d5dac51d146f36bd5b900be6599d4802b3ee0370017ce8b980a18d2480d49b59883e0b4bad602b7b"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/TBLrn2n6/extrasounds-1.5.0%2B1.21.1-fabric.jar",
+          "filename": "extrasounds-1.5.0+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 372283,
+          "file_type": null
+        },
+        {
+          "id": "ajA6kKfA",
+          "hashes": {
+            "sha1": "8cceaf77b62bd1209ec45f58e31ef73a878d1519",
+            "sha512": "a86308a6aed3e89cd8829ba1cd2a4443aabe9c8b21b1b197f74e5852139c38b04f1eadd761f237f644d15733406c6dd03d7ce8e3a3ca35ad83e054ccae078197"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/TBLrn2n6/extrasounds-1.5.0%2B1.21.1-fabric-sources.jar",
+          "filename": "extrasounds-1.5.0+1.21.1-fabric-sources.jar",
+          "primary": false,
+          "size": 297133,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Rn2vzmmk",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.5.0 Neoforge 1.21.1",
+      "version_number": "1.5.0+1.21.1-neoforge",
+      "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0] - Upcoming\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n---\n",
+      "changelog_url": null,
+      "date_published": "2026-03-23T13:07:16.092340Z",
+      "downloads": 69,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kzBRnKbK",
+          "hashes": {
+            "sha1": "069005e54832f04c3292a30dbe3a0f1263cd6fa0",
+            "sha512": "f07565d789870c8a8cbdce8b097ca896abbd3a56ad223f75debb2a740024d6b49c1f55380a8929c115e1b22cb8ee3d780387fe2e123e1b60498e1f35f0ae614d"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/Rn2vzmmk/extrasounds-1.5.0%2B1.21.1-neoforge.jar",
+          "filename": "extrasounds-1.5.0+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 371129,
+          "file_type": null
+        },
+        {
+          "id": "HRNZVazF",
+          "hashes": {
+            "sha1": "316b21c958fdfcc501a48ddddfaab60e492e5636",
+            "sha512": "744757d10efa608d3652d49c240ea738b4c8bd78dc4e68a14fc08681f5a4d49c2e3776b408ba0ca312c9499f4639501df1323f4cef6b1d25d1e6c49777e87fd6"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/Rn2vzmmk/extrasounds-1.5.0%2B1.21.1-neoforge-sources.jar",
+          "filename": "extrasounds-1.5.0+1.21.1-neoforge-sources.jar",
+          "primary": false,
+          "size": 295303,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "bdZup836",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.4-1.21.1-fabric",
+      "version_number": "1.4",
+      "changelog": "* Fix stack up sound bug\n* Fix compatibility with carry on\n* Add compatibility with Sophisticated Backpack/Storage\n* Add scroll sound in stonecutter, loom or villager trade ui",
+      "changelog_url": null,
+      "date_published": "2025-04-02T06:20:48.561073Z",
+      "downloads": 49070,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "87akrRLe",
+          "hashes": {
+            "sha512": "807222945de5b07d759f8ab4624f6b68d3f87f48eb0a430974904e25d7ce56cb1230806516fdaaed4f45fc9cdf74cea295b072efa428820402e2ca446601a26d",
+            "sha1": "46bf2ed5fdae7b707c9703120d2d517d76868e59"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/bdZup836/ExtraSoundsNext-fabric-1.21.1-1.4.jar",
+          "filename": "ExtraSoundsNext-fabric-1.21.1-1.4.jar",
+          "primary": true,
+          "size": 220930,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "tX3GsOVb",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.4-1.21.1-neoforge",
+      "version_number": "1.4",
+      "changelog": "* Fix stack up sound bug\n* Fix compatibility with carry on\n* Add compatibility with Sophisticated Backpack/Storage\n* Add scroll sound in stonecutter, loom or villager trade ui",
+      "changelog_url": null,
+      "date_published": "2025-04-02T06:20:16.060396Z",
+      "downloads": 47627,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dyr6ZzD2",
+          "hashes": {
+            "sha1": "ca4de73892009546855c8a6e47b18a75c661ffd6",
+            "sha512": "59aac1c9d442cfbc8d92d1201d687d046af783d6e07b86e9845fa3379acd2ea15845701e3ee940f49bb7760c0342b01e6821adc0d08f6cf3311943aefc10f841"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/tX3GsOVb/ExtraSoundsNext-neoforge-1.21.1-1.4.jar",
+          "filename": "ExtraSoundsNext-neoforge-1.21.1-1.4.jar",
+          "primary": true,
+          "size": 222621,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "4mXKhDJb",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.3a",
+      "version_number": "1.3a",
+      "changelog": "* Fix the latest JEI compatibility",
+      "changelog_url": null,
+      "date_published": "2024-10-20T07:28:30.735553Z",
+      "downloads": 131097,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zgjbTaRC",
+          "hashes": {
+            "sha1": "2dfb0404d57d76a72509c3f7dba1cf223abac796",
+            "sha512": "ff91a1a0c56941e79ba88171780998d7ff7fd087c27f530c943929de92dfa56257022f2c00bc4723258e48ed6c6e96e34552f31a92426441531464ae544745be"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/4mXKhDJb/ExtraSoundsNext-fabric-1.21.1-1.3a.jar",
+          "filename": "ExtraSoundsNext-fabric-1.21.1-1.3a.jar",
+          "primary": true,
+          "size": 214790,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "JCO3kBSv",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.3a",
+      "version_number": "1.3a",
+      "changelog": "* Fix the latest JEI compatibility",
+      "changelog_url": null,
+      "date_published": "2024-10-20T07:27:40.030257Z",
+      "downloads": 2681,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4pRfxpq6",
+          "hashes": {
+            "sha1": "bdc85e9daeaf6fa63aa479d3f00ac67e6647fb07",
+            "sha512": "db94ac8a7c56c2d9aef90da99b7f0cef75703f28b3aaf7897d2195d20a9f0c9ef9e1654eb013ba355f44a5308b70e942854e59b66d5191cbf8d8627c0815d668"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/JCO3kBSv/ExtraSoundsNext-neoforge-1.21.1-1.3a.jar",
+          "filename": "ExtraSoundsNext-neoforge-1.21.1-1.3a.jar",
+          "primary": true,
+          "size": 216339,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "deZNbkhj",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds Next 1.3",
+      "version_number": "1.3",
+      "changelog": "* support 1.21",
+      "changelog_url": null,
+      "date_published": "2024-08-24T04:08:40.327411Z",
+      "downloads": 18586,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BXQBSKAW",
+          "hashes": {
+            "sha512": "8789a694e15fcfcc7c26f3cb117aee2c44e9c1994e938cac16619317ab50bb107429ae9fbf5e1dba4318d74b375dbc011a6fba2a3e2a0fdd8f3848528381f18d",
+            "sha1": "162e5235c34863f643cb0144c4adfbec2fb44a17"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/deZNbkhj/ExtraSoundsNext-fabric-1.21-1.3.jar",
+          "filename": "ExtraSoundsNext-fabric-1.21-1.3.jar",
+          "primary": true,
+          "size": 214568,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "ULkjK4Gn",
+      "project_id": "jv7tzVE4",
+      "author_id": "REhLdPc0",
+      "featured": false,
+      "name": "ExtraSounds 1.3 for Neoforge 1.21",
+      "version_number": "1.3",
+      "changelog": "* update to 1.21 by @vfyjxf",
+      "changelog_url": null,
+      "date_published": "2024-06-20T19:16:17.796963Z",
+      "downloads": 1733,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yY5l9SY0",
+          "hashes": {
+            "sha1": "7b1a0532df2dc29ec0e899939c389bbc2e794794",
+            "sha512": "2e976518579b52fbe086b8b868e7c2820eecfa1d0ba662848a33b80780b91ca15ec4cddbf0373c7902238334fc4d17ba707817eef2a1cf7587bcbd25b81e0db1"
+          },
+          "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/ULkjK4Gn/extrasounds-1.21-neoforge-1.3.jar",
+          "filename": "extrasounds-1.21-neoforge-1.3.jar",
+          "primary": true,
+          "size": 203865,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}

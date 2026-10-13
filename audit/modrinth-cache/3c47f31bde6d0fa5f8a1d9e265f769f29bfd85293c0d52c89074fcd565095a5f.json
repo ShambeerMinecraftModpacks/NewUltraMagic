@@ -1,0 +1,2421 @@
+{
+  "url": "https://api.modrinth.com/v2/project/P0Mu4wcQ/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:42.762661+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "lMfuK0o7",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.2.5",
+      "version_number": "13.2.5",
+      "changelog": "- Fixed a crash with Quark",
+      "changelog_url": null,
+      "date_published": "2026-09-02T11:14:45.391471Z",
+      "downloads": 114495,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D68op6sK",
+          "hashes": {
+            "sha512": "9079bc8a22c237881b22b38027bbab2a8a2e685a1f49c1e1e0e5796f3e0a5509a130d73753c7b2980f12e4f00845f8e8c967ee969f1eadcd52139c2780afe09d",
+            "sha1": "fb6cd3be2d034dde369ffd7558c95c6daa44189e"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lMfuK0o7/artifacts-neoforge-13.2.5.jar",
+          "filename": "artifacts-neoforge-13.2.5.jar",
+          "primary": true,
+          "size": 1086922,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "cTss6Iq4",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.2.4",
+      "version_number": "13.2.4",
+      "changelog": "- Fixed mimics rapidly switching between different textures when Quark is installed\n- Fixed a crash when killing specific modded entities",
+      "changelog_url": null,
+      "date_published": "2026-09-01T16:00:04.449859Z",
+      "downloads": 151682,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qz1ZSuwW",
+          "hashes": {
+            "sha1": "58c9d21078945dec2d20df05aeacd635be9d3502",
+            "sha512": "9c119bd0b7c3752ede281acf227936306a6b0bd533fdd52c1dd7e1ac296ddfa500ed8f015162c549e4b3cb4394834d9a410e8b693e8b37cebf255ba0d32a5dd9"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/cTss6Iq4/artifacts-fabric-13.2.4.jar",
+          "filename": "artifacts-fabric-13.2.4.jar",
+          "primary": true,
+          "size": 1487812,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "anyJmRGp",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.2.4",
+      "version_number": "13.2.4",
+      "changelog": "- Fixed mimics rapidly switching between different textures when Quark is installed\n- Fixed a crash when killing specific modded entities",
+      "changelog_url": null,
+      "date_published": "2026-09-01T15:58:55.318291Z",
+      "downloads": 4020,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5hIoeEMe",
+          "hashes": {
+            "sha512": "3cd99282276117d69ddc64c27b67c099d5fbdaa717a060c0ba34e8a44d936c9662772e7bba4b5eefc7ff8ace6589c662270e08babce325dcfede263442dbf512",
+            "sha1": "e030a2fe41e7d14b1d18d6bb7d8d632d16ecb2d5"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/anyJmRGp/artifacts-neoforge-13.2.4.jar",
+          "filename": "artifacts-neoforge-13.2.4.jar",
+          "primary": true,
+          "size": 1086916,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Z0AbY3eY",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.2.3",
+      "version_number": "13.2.3",
+      "changelog": "- Fixed missing mimic texture when Lootr is installed\n- Fixed artifacts not working properly when equipped in a trinket slot",
+      "changelog_url": null,
+      "date_published": "2026-08-19T10:38:00.370161Z",
+      "downloads": 34849,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sMyXhpa6",
+          "hashes": {
+            "sha512": "e84c86ee18e550aab69f418b2a3d7f8c7e4bfcef4aa88c80ccc0e67add9243f676dc34ed53b3aad01a6dab9e9771a04970efef3f85f141799171826cebfee6fd",
+            "sha1": "92f7d044212ebe858857e7023f3d280180f31000"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/Z0AbY3eY/artifacts-fabric-13.2.3.jar",
+          "filename": "artifacts-fabric-13.2.3.jar",
+          "primary": true,
+          "size": 1487801,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "aE1GPGY4",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.2.3",
+      "version_number": "13.2.3",
+      "changelog": "- Fixed missing mimic texture when Lootr is installed\n- Fixed artifacts not working properly when equipped in a trinket slot",
+      "changelog_url": null,
+      "date_published": "2026-08-19T10:37:39.087706Z",
+      "downloads": 64231,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SlO6mAhA",
+          "hashes": {
+            "sha512": "ead9c301e9cc70492fe4cdeadd0473846fdde1483211a6f5ea7c4cffba79ae4c83c1ef646d160eff99eca970093fba6aaf10f3e5b20485595faf27fd2d87ac43",
+            "sha1": "8247516201418bda17ef76d5ba02a3d71698477c"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/aE1GPGY4/artifacts-neoforge-13.2.3.jar",
+          "filename": "artifacts-neoforge-13.2.3.jar",
+          "primary": true,
+          "size": 1086882,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "VRTzXG5z",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.2.2",
+      "version_number": "13.2.2",
+      "changelog": "- PrincessStellar: Update pt_br.json\n- Updated the texture for the Curios feet slot\n- Added a `showArtifactsOnPlayers` client-side config option\n- Added a config option to hide status effect particles while wearing the scarf of invisibility\n- Removed hardcoded restrictions on which entities can spawn wearing artifacts, added an equipment loot table for Bogged\n- Fixed scarf of invisibility not respecting the `hideWhenInvisible` config option if it was dropped by a zombie\n- Mimics will now use the default Lootr chest texture when Lootr is installed and the `useModdedMimicTextures` config option is disabled\n- Fixed helium flamingo & withered bracelet not being shown next to the hotbar when on cooldown\n- [NeoForge] Fixed a crash with Origins\n- Fixed Malum's scythes not triggering the vampiric glove\n- Fixed an issue allowing some effects to persist when switching between different artifacts\n- English language localisation fixes\n- Fixed a possible crash when taking damage while wearing a pendant",
+      "changelog_url": null,
+      "date_published": "2026-08-18T14:30:39.203419Z",
+      "downloads": 993,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GOJi45w3",
+          "hashes": {
+            "sha1": "9fbae875ce4be6abdb2d7c4ddfeaf4a8adfbbc10",
+            "sha512": "836dccfe5e31409d0c21daa04c67c140863e1c2d045fd41ad3063e2071e75235ec1ca0a2f4532724ffbed9aee3b545a309f93121f35ed46c181e185c3270baf1"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/VRTzXG5z/artifacts-fabric-13.2.2.jar",
+          "filename": "artifacts-fabric-13.2.2.jar",
+          "primary": true,
+          "size": 1487799,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "PKwX7dEL",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.2.2",
+      "version_number": "13.2.2",
+      "changelog": "- PrincessStellar: Update pt_br.json\n- Updated the texture for the Curios feet slot\n- Added a `showArtifactsOnPlayers` client-side config option\n- Added a config option to hide status effect particles while wearing the scarf of invisibility\n- Removed hardcoded restrictions on which entities can spawn wearing artifacts, added an equipment loot table for Bogged\n- Fixed scarf of invisibility not respecting the `hideWhenInvisible` config option if it was dropped by a zombie\n- Mimics will now use the default Lootr chest texture when Lootr is installed and the `useModdedMimicTextures` config option is disabled\n- Fixed helium flamingo & withered bracelet not being shown next to the hotbar when on cooldown\n- [NeoForge] Fixed a crash with Origins\n- Fixed Malum's scythes not triggering the vampiric glove\n- Fixed an issue allowing some effects to persist when switching between different artifacts\n- English language localisation fixes\n- Fixed a possible crash when taking damage while wearing a pendant",
+      "changelog_url": null,
+      "date_published": "2026-08-18T14:29:58.673309Z",
+      "downloads": 4057,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WS0wtYoF",
+          "hashes": {
+            "sha1": "11cc1db09015b52c94b0bc87a5359012b6840328",
+            "sha512": "c6568393d9d5a4c456003eabdbfe6982f230a5c7b83691eddc87ddff633a1b555d87931a0d09e0ddfe903e3095200c99a1adcdb666dc28fb138379664ee3825c"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/PKwX7dEL/artifacts-neoforge-13.2.2.jar",
+          "filename": "artifacts-neoforge-13.2.2.jar",
+          "primary": true,
+          "size": 1086879,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "WTnRdeH6",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.2.1",
+      "version_number": "13.2.1",
+      "changelog": "- PrincessStellar: Updated pt_br.json\n- Fixed snorkel granting infinite water breathing when using the Merling origin\n- [NeoForge] Fixed gloves not displaying in first person when using Trinkets with Sinytra Connector\n- [NeoForge] Fixed the umbrella not blocking sunlight for origins affected by it",
+      "changelog_url": null,
+      "date_published": "2026-04-04T18:57:49.304498Z",
+      "downloads": 444661,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WP6ez3s9",
+          "hashes": {
+            "sha1": "1164108ca303a357544ae1a15988a151ec5094c9",
+            "sha512": "3a2efe7f3686118ce7159b68d3ab74de901583d50557ac0d5bef08d806e95ec0bdc1ba21c728b6bf6368b34961709eac6b4a4b93a35bdba53f387880db783795"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/WTnRdeH6/artifacts-fabric-13.2.1.jar",
+          "filename": "artifacts-fabric-13.2.1.jar",
+          "primary": true,
+          "size": 1430493,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "rGPw090r",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.2.1",
+      "version_number": "13.2.1",
+      "changelog": "- PrincessStellar: Updated pt_br.json\n- Fixed snorkel granting infinite water breathing when using the Merling origin\n- [NeoForge] Fixed gloves not displaying in first person when using Trinkets with Sinytra Connector\n- [NeoForge] Fixed the umbrella not blocking sunlight for origins affected by it",
+      "changelog_url": null,
+      "date_published": "2026-04-04T18:57:09.432475Z",
+      "downloads": 423602,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Qz0Eceh6",
+          "hashes": {
+            "sha512": "4e5ccc2733e2ede833e6c4ae6b44751eab5ac48857055b61fdcbb6434c7d867c17b438eea9f226f6af652ee397f3fb4d7583f263a5d706d730ff7243ace865dc",
+            "sha1": "3fe4d52cc0b11d91c75005030e83e3f675e62383"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/rGPw090r/artifacts-neoforge-13.2.1.jar",
+          "filename": "artifacts-neoforge-13.2.1.jar",
+          "primary": true,
+          "size": 1030252,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "3mrF4Dac",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.2.0",
+      "version_number": "13.2.0",
+      "changelog": "- Added a \"minimalist campsites\" config option that replaces under ground campsites with a single chest or mimic\n- PrincessStelllar: Update pt_br.json\n- spongebob98636e-stack: Update ko_kr.json\n- Added Chorus Totem to the `hardcorerevival:passthrough_dead_when_held` item tag",
+      "changelog_url": null,
+      "date_published": "2026-01-16T16:05:23.957758Z",
+      "downloads": 133961,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "u7EmpeaR",
+          "hashes": {
+            "sha512": "10f525096ed36b38b09b023a392bc1d7caff569280bfab8ecb28460aa0268a42a3638fc9257f1c47f1b049744454b242f191a991d64b87b9798f6079e9fbef82",
+            "sha1": "f3403634b73df9e7813b907f804076a4b70f956e"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/3mrF4Dac/artifacts-fabric-13.2.0.jar",
+          "filename": "artifacts-fabric-13.2.0.jar",
+          "primary": true,
+          "size": 1427967,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bYbUZqGA",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.2.0",
+      "version_number": "13.2.0",
+      "changelog": "- Added a \"minimalist campsites\" config option that replaces under ground campsites with a single chest or mimic\n- PrincessStelllar: Update pt_br.json\n- spongebob98636e-stack: Update ko_kr.json\n- Added Chorus Totem to the `hardcorerevival:passthrough_dead_when_held` item tag",
+      "changelog_url": null,
+      "date_published": "2026-01-16T16:04:16.291431Z",
+      "downloads": 150359,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PlCF9IGk",
+          "hashes": {
+            "sha1": "01e4df6f6a0d8d73190c0fc4a5493db79fa5386c",
+            "sha512": "cd7132ed680ee73cc08b4058e3e1cb658eec8df9236780bf8315f2400ec3e5c8c734e0b7ae20cf08385f074599ffc93283152926aad5231220805144526f3801"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bYbUZqGA/artifacts-neoforge-13.2.0.jar",
+          "filename": "artifacts-neoforge-13.2.0.jar",
+          "primary": true,
+          "size": 1022570,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "P8L80qnU",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.1.0",
+      "version_number": "13.1.0",
+      "changelog": "- Added config options to allow disabling compatibility with Accessories, Curios or Trinkets individually\n- [Trinkets] Added a config option that adds a face slot and moves the Snorkel and Night Vision Goggles to the face slot type\n- [Curios & Trinkets] Added a config option to allow any artifact to be equipped in any slot\n- [NeoForge] Fixed Vampiric Glove not absorbing health from killing blows",
+      "changelog_url": null,
+      "date_published": "2025-10-16T13:30:47.828758Z",
+      "downloads": 704416,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tOrdXrcJ",
+          "hashes": {
+            "sha1": "9d4fede438e158f43cb324a90915dcbbb5662933",
+            "sha512": "560c8843d38c9b310c7271bcefd749317d943f2bc37013c70534ca222b80fb9d96d79555be226996c8ae97a572458f7e1b2f43cd1a77d39c3e3e915ba4d1bbc0"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/P8L80qnU/artifacts-fabric-13.1.0.jar",
+          "filename": "artifacts-fabric-13.1.0.jar",
+          "primary": true,
+          "size": 1410244,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uOlFeZbS",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.1.0",
+      "version_number": "13.1.0",
+      "changelog": "- Added config options to allow disabling compatibility with Accessories, Curios or Trinkets individually\n- [Trinkets] Added a config option that adds a face slot and moves the Snorkel and Night Vision Goggles to the face slot type\n- [Curios & Trinkets] Added a config option to allow any artifact to be equipped in any slot\n- [NeoForge] Fixed Vampiric Glove not absorbing health from killing blows",
+      "changelog_url": null,
+      "date_published": "2025-10-16T13:30:23.560521Z",
+      "downloads": 171219,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "56xTF6BH",
+          "hashes": {
+            "sha512": "32cdb6df0ed2a9d2fe500c0bc548b116e8b8e444c51df95f535656b7a08a2e7327f9751705f814669299e90843d2966dfae66c4fc1589c756e67dbb0812ce292",
+            "sha1": "2f3fb112b836415d3128b1888779b8b93323a871"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/uOlFeZbS/artifacts-neoforge-13.1.0.jar",
+          "filename": "artifacts-neoforge-13.1.0.jar",
+          "primary": true,
+          "size": 1003578,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "rPIBUOto",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.0.7",
+      "version_number": "13.0.7",
+      "changelog": "- Added a config option that controls the vertical position of the Helium Flamingo's charge meter\n- Fixed Superstitious Hat applying looting on the entity wearing it rather than entities killed by the wearer\n- omerbenda: Fixed Warp Drive applying the wrong cooldown in creative mode\n- SnapDot: Updated zh_cn.json\n- PrincessStellar: Updated pt_br.json\n- Wajt: Updated uk_ua.json",
+      "changelog_url": null,
+      "date_published": "2025-08-10T12:54:11.677227Z",
+      "downloads": 56363,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "u3izUiGm",
+          "hashes": {
+            "sha512": "c1946a79c45e88f89b0d6c2778ec5afe477fd1c4608e3a2a69e5bf167d6ec3bfa5a729a1307845c9fb7b62b563ef5bbe5a7777046bda4cfcd1bfc8e6a372655c",
+            "sha1": "2dffe34a50857220c00246f07af768d5008f9322"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/rPIBUOto/artifacts-fabric-13.0.7.jar",
+          "filename": "artifacts-fabric-13.0.7.jar",
+          "primary": true,
+          "size": 1382594,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "iMbEj7ys",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.0.7",
+      "version_number": "13.0.7",
+      "changelog": "- Added a config option that controls the vertical position of the Helium Flamingo's charge meter\n- Fixed Superstitious Hat applying looting on the entity wearing it rather than entities killed by the wearer\n- omerbenda: Fixed Warp Drive applying the wrong cooldown in creative mode\n- SnapDot: Updated zh_cn.json\n- PrincessStellar: Updated pt_br.json\n- Wajt: Updated uk_ua.json",
+      "changelog_url": null,
+      "date_published": "2025-08-10T12:53:31.526468Z",
+      "downloads": 69508,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5FvKEBFK",
+          "hashes": {
+            "sha512": "ccb62421411342c73f17ae5bfcc78c742a18b8470fdf894f214d9a743faffa7452b623a5cf3bf9917e59f01efee297a8a129ff493b49d1563dfa608efc541752",
+            "sha1": "7e3844012efad7ba8bfea9795daad7a6e509d0d2"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/iMbEj7ys/artifacts-neoforge-13.0.7.jar",
+          "filename": "artifacts-neoforge-13.0.7.jar",
+          "primary": true,
+          "size": 978772,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "uxIiRKQD",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.0.6",
+      "version_number": "13.0.6",
+      "changelog": "- Fixed an issue preventing lightning bolts summoned by the Shock Pendant from being marked as spawned by the attacked player.\n- [NeoForge] Fixed an issue that could cause unnecessary log spam",
+      "changelog_url": null,
+      "date_published": "2025-05-30T14:53:17.914270Z",
+      "downloads": 51790,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "O5Z3RdEE",
+          "hashes": {
+            "sha1": "5995c635f05765901f24bda57e39b791e9e3543b",
+            "sha512": "24a5706e090679116d7d6b6af1b16908c8eaeda5b284222365a0f53aa35325bd0f2fa38adb0eb1ffe5193708e5a385dcdc93de4495ea441950d4d353adc2b372"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/uxIiRKQD/artifacts-fabric-13.0.6.jar",
+          "filename": "artifacts-fabric-13.0.6.jar",
+          "primary": true,
+          "size": 1370279,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GlP0QYZf",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.0.6",
+      "version_number": "13.0.6",
+      "changelog": "- Fixed an issue preventing lightning bolts summoned by the Shock Pendant from being marked as spawned by the attacked player.\n- [NeoForge] Fixed an issue that could cause unnecessary log spam",
+      "changelog_url": null,
+      "date_published": "2025-05-30T14:52:45.252322Z",
+      "downloads": 117321,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dj60PQjd",
+          "hashes": {
+            "sha512": "d09fb46ada91a4eacfe04e41630067a19f41157c6c5f715033f99c7c7710518564bc419c65d6ba2c6fc4cfd3880627261f1f5fb4f7383da31c917395ba23f408",
+            "sha1": "5fd1510977d4ff037b29d5c1fae8f50510edc896"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/GlP0QYZf/artifacts-neoforge-13.0.6.jar",
+          "filename": "artifacts-neoforge-13.0.6.jar",
+          "primary": true,
+          "size": 966452,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1ov8ALNN",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.0.5",
+      "version_number": "13.0.5",
+      "changelog": "- Fix a possible ConcurrentModificationException crash during startup",
+      "changelog_url": null,
+      "date_published": "2025-05-16T15:35:04.914888Z",
+      "downloads": 11352,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "77ZFQqNX",
+          "hashes": {
+            "sha512": "0c79624086d5c23f5efb5fdaae93e984375b65dc0366bf04ca21b36c8a91bd81938daf046663123872f34306817ddb13365a76df3de726288008c433691f6593",
+            "sha1": "83b895c25aaf5b47243d20716a9eb451b299c179"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/1ov8ALNN/artifacts-neoforge-13.0.5.jar",
+          "filename": "artifacts-neoforge-13.0.5.jar",
+          "primary": true,
+          "size": 966164,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "fa7v7ycL",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.0.4",
+      "version_number": "13.0.4",
+      "changelog": "- [Fabric] Fixed equipped artifacts not rendering correctly with Accessories",
+      "changelog_url": null,
+      "date_published": "2025-05-11T13:29:17.771250Z",
+      "downloads": 12641,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RFEC7R5L",
+          "hashes": {
+            "sha1": "b5c28fd5034544381bcaa6bf1b1e9b91e9ff8f52",
+            "sha512": "3b4e736876453ee1a1b9f7514b54bfd833d8dc53127cbf5ea33efba992ecc338fdd2b806e39a30f14ae0ab3a26a787fddd686c5c914d2c4d0739a4e776a7ef78"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/fa7v7ycL/artifacts-fabric-13.0.4.jar",
+          "filename": "artifacts-fabric-13.0.4.jar",
+          "primary": true,
+          "size": 1369742,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "hnjWuLvV",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.0.3",
+      "version_number": "13.0.3",
+      "changelog": "- RuyaSavascisi: Added Turkish localization\n- [NeoForge]: Fixed Artifacts crashing the game when Trinkets is loaded through Sinytra Connector\n- [NeoForge]: Added back the unused `artifacts:ability_toggles` data attachment to prevent errors from being logged when loading old entities",
+      "changelog_url": null,
+      "date_published": "2025-05-10T18:30:53.653971Z",
+      "downloads": 982,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "peU6MR4Y",
+          "hashes": {
+            "sha512": "df0d44bcfeae515f379abcfcb43dc444d6df421655e9204a655b0c70630ee86072ad8c5997fc3e43d3057d905e0b32d28ffa94b879d5dad380ebdf6eb735e0e7",
+            "sha1": "df52a06de008d88cf690350dd4a03194de4acaf6"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/hnjWuLvV/artifacts-fabric-13.0.3.jar",
+          "filename": "artifacts-fabric-13.0.3.jar",
+          "primary": true,
+          "size": 1370502,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "a7IbgGBE",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.0.3",
+      "version_number": "13.0.3",
+      "changelog": "- RuyaSavascisi: Added Turkish localization\n- [NeoForge]: Fixed Artifacts crashing the game when Trinkets is loaded through Sinytra Connector\n- [NeoForge]: Added back the unused `artifacts:ability_toggles` data attachment to prevent errors from being logged when loading old entities",
+      "changelog_url": null,
+      "date_published": "2025-05-10T18:30:22.762333Z",
+      "downloads": 4402,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iaOCA0si",
+          "hashes": {
+            "sha512": "68e1e4364b4c8dcf9f7748e4ed8d0e4c15dcc4f7ce54d83e99fc8fdaa93c7c2aeaa662af667e10f1bb9013a2ee6b521d4d9e8e1bf8696c798e9cb99086292159",
+            "sha1": "36147ced1bc98f4f941d161c8ac50238f0003f3e"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/a7IbgGBE/artifacts-neoforge-13.0.3.jar",
+          "filename": "artifacts-neoforge-13.0.3.jar",
+          "primary": true,
+          "size": 966655,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "t6i4uuEi",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.0.2",
+      "version_number": "13.0.2",
+      "changelog": "- Fixed an issue preventing the Magnetism effect from working as intended\n- Fixed an issue with the codec of the `artifacts:retaliation_effects` item component",
+      "changelog_url": null,
+      "date_published": "2025-04-23T20:09:30.844797Z",
+      "downloads": 338829,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cvIPoZ9Z",
+          "hashes": {
+            "sha1": "52be2790ad8db3d7a892b5694c7eebee07342565",
+            "sha512": "ad2dfc5b6ed482e80216fecaf23547befc03456af151b905b90ad3371efe9c1fe95fa2b400678e422e9eade3e4049912bb6aa5c03150e6b993ea38801b2de737"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/t6i4uuEi/artifacts-fabric-13.0.2.jar",
+          "filename": "artifacts-fabric-13.0.2.jar",
+          "primary": true,
+          "size": 1361114,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "xtSh8NaQ",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.0.2",
+      "version_number": "13.0.2",
+      "changelog": "- Fixed an issue preventing the Magnetism effect from working as intended\n- Fixed an issue with the codec of the `artifacts:retaliation_effects` item component",
+      "changelog_url": null,
+      "date_published": "2025-04-23T20:08:47.321096Z",
+      "downloads": 22041,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qsMYy4IO",
+          "hashes": {
+            "sha1": "09e8ee76642d9f144c9c2677d56ffb4d8931e216",
+            "sha512": "a237dfe963d5f095445405d32132308a257ee287fd31ef7658f99ec0d65b245072d9fe9e672cd5be9e52bd330b8dcbda3c8129968ff6061a58679220c3b47cc0"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/xtSh8NaQ/artifacts-neoforge-13.0.2.jar",
+          "filename": "artifacts-neoforge-13.0.2.jar",
+          "primary": true,
+          "size": 956825,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "ETSKIn2O",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.0.1",
+      "version_number": "13.0.1",
+      "changelog": "- Fixed an issue preventing the magnetism effect from working when Open Parties and Claims is loaded",
+      "changelog_url": null,
+      "date_published": "2025-04-23T19:04:06.534826Z",
+      "downloads": 143,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uVV5aB5z",
+          "hashes": {
+            "sha512": "32d38341a2e024401b7431abc73db276b53f31a10b8bbdadc95ddc353e843276c0a90620f22ef66b3a1f8154fce1f19d95f20d18c996b03213cffee579def9fe",
+            "sha1": "88b7aa5a9a76ccefe1feddfbc728df9fe7943224"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ETSKIn2O/artifacts-fabric-13.0.1.jar",
+          "filename": "artifacts-fabric-13.0.1.jar",
+          "primary": true,
+          "size": 1361106,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "XqglqC1O",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.0.1",
+      "version_number": "13.0.1",
+      "changelog": "- Fixed an issue preventing the magnetism effect from working when Open Parties and Claims is loaded",
+      "changelog_url": null,
+      "date_published": "2025-04-23T19:03:29.294704Z",
+      "downloads": 193,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "10fM70Iz",
+          "hashes": {
+            "sha512": "6ed7f59454d6808ad10cafac45fdc81a5f1a042db1ba8c728c4bebcf3d315af1472ed8c77dbccdc69dcded2eff6a87989b555ab1a570c01289f1487adac578da",
+            "sha1": "596a7031d5f68078ebefc786eb1b372c70aecaa8"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/XqglqC1O/artifacts-neoforge-13.0.1.jar",
+          "filename": "artifacts-neoforge-13.0.1.jar",
+          "primary": true,
+          "size": 956817,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "aF3qURGR",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 13.0.0",
+      "version_number": "13.0.0",
+      "changelog": "⚠️ Note: Some config options have been moved or replaced in this update, and will be reset to their default values.\n\n### Config Changes\n- The `kitty_slippers.enabled` config option has been split into\n  `kitty_slippers.repelCreepers` and `kitty_slippers.repelPhantoms`\n- The `modifyHurtSounds` config option has been moved to the item config file and split into\n  `kitty_slippers.modifyHurtSounds` and `bunny_hoppers.modifyHurtSounds`\n- The `everlastingBeefChance` option has been moved to the item config file and renamed to `everlasting_beef.dropRate`\n- The `enableCooldownOverlay` option in the client config is now set to `true` by default\n- Reduced the default value of `warp_drive.hungerCost` from `4` to `2`\n- The `universal_attractor.enabled` option has been replaced with `universal_attractor.magnetismLevel`\n\n### Config Additions\n- Added an `<item_name>.generateAsLoot` (default = `true`) config option for each item,\n  which can be used to exclude it from being generated as loot\n- Added `cloud_in_a_bottle.fallDistanceMultiplier` (default = `0`), which controls how much\n  fall damage is applied when double jumping after falling\n- Added `scarf_of_invisibility.hideWhenInvisible` (default = `false`), which hides the Scarf of Invisibility\n  model when the player is invisible\n- Added `universal_attractor.magnetismLevel` (default = `5`), which controls\n  the range of the Universal Attractor in blocks. Setting this config option to 0 will make the item cosmetic-only.\n- Added `charm_of_sinking.underwaterFallDamage` (default = `false`), which causes players to take fall damage underwater\n  when wearing the Charm of Sinking\n\n\n### Item Changes\n- Players wearing the Charm of Sinking no longer take fall damage underwater.\n- The Charm of Sinking now reduces the rate at which players lose air underwater\n- It is now possible to stop flying with the Helium Flamingo by pressing the flight keybind again\n- The Helium Flamingo can now be re-activated before it is fully charged.\n  Instead, a three-second cooldown is now applied to the item when stopping flight without landing\n- Kitty Slippers will now hiss at Phantoms\n- The Universal Attractor now applies the `artifacts:magnetism` mob effect\n- Farts from the Whoopee Cushion can now be detected by Sculk Sensors, Shriekers and Wardens\n\n\n### Miscellaneous\n- Architectury API is no longer a required dependency\n- Mimics will now try to flee from players when the game is set to peaceful mode\n- Added keybinding to allowing toggling the following items:\n    - Charm of Sinking\n    - Charm of Shrinking\n    - Scarf of Invisibility\n- Mob Effects applied by artifacts will now show their icon in the HUD to make it easier to see whether an item is enabled\n    - To prevent visual issues, the duration of mob effects applied by artifacts has been increased to 10 seconds\n- Items that have a probability to apply an effect will now display this probability in their tooltips\n\n### Bug Fixes\n- [Fabric] Fixed the config screen not working even when Cloth Config is loaded\n- [Fabric] Fixed an issue preventing the cooldown overlay from rendering\n- Fixed Aqua-Dashers dealing hot floor damage when running on the edge of a block next to lava\n- Fixed the Chorus Totem displaying an incorrect tooltip\n- Fixed mob effects in tooltips displaying incorrect durations when the tick rate is not set to 20\n\n\n### Technical Changes\n- The `artifacts:abilities` item component has been split into a separate item component per ability.\n  Some abilities have been merged, had their names altered or have new parameters, an updated list can be found here: https://github.com/ochotonida/artifacts/wiki/Creating-Custom-Items\n",
+      "changelog_url": null,
+      "date_published": "2025-04-23T14:48:02.392952Z",
+      "downloads": 286,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "27m0SHvX",
+          "hashes": {
+            "sha512": "89bfe91354a01dca817b63a84ae88c5c1892c2f6b9e7b0b756c85c14bd03d2d4790ab179e7e808e3f9860ceeb17db231914ae1febc8a076e8c722c6aab037435",
+            "sha1": "56a7a34062bb11cb50951c48410bc44dee415547"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/aF3qURGR/artifacts-fabric-13.0.0.jar",
+          "filename": "artifacts-fabric-13.0.0.jar",
+          "primary": true,
+          "size": 1358143,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "KII5sNYl",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 13.0.0",
+      "version_number": "13.0.0",
+      "changelog": "⚠️ Note: Some config options have been moved or replaced in this update, and will be reset to their default values.\n\n### Config Changes\n- The `kitty_slippers.enabled` config option has been split into\n  `kitty_slippers.repelCreepers` and `kitty_slippers.repelPhantoms`\n- The `modifyHurtSounds` config option has been moved to the item config file and split into\n  `kitty_slippers.modifyHurtSounds` and `bunny_hoppers.modifyHurtSounds`\n- The `everlastingBeefChance` option has been moved to the item config file and renamed to `everlasting_beef.dropRate`\n- The `enableCooldownOverlay` option in the client config is now set to `true` by default\n- Reduced the default value of `warp_drive.hungerCost` from `4` to `2`\n- The `universal_attractor.enabled` option has been replaced with `universal_attractor.magnetismLevel`\n\n### Config Additions\n- Added an `<item_name>.generateAsLoot` (default = `true`) config option for each item,\n  which can be used to exclude it from being generated as loot\n- Added `cloud_in_a_bottle.fallDistanceMultiplier` (default = `0`), which controls how much\n  fall damage is applied when double jumping after falling\n- Added `scarf_of_invisibility.hideWhenInvisible` (default = `false`), which hides the Scarf of Invisibility\n  model when the player is invisible\n- Added `universal_attractor.magnetismLevel` (default = `5`), which controls\n  the range of the Universal Attractor in blocks. Setting this config option to 0 will make the item cosmetic-only.\n- Added `charm_of_sinking.underwaterFallDamage` (default = `false`), which causes players to take fall damage underwater\n  when wearing the Charm of Sinking\n\n\n### Item Changes\n- Players wearing the Charm of Sinking no longer take fall damage underwater.\n- The Charm of Sinking now reduces the rate at which players lose air underwater\n- It is now possible to stop flying with the Helium Flamingo by pressing the flight keybind again\n- The Helium Flamingo can now be re-activated before it is fully charged.\n  Instead, a three-second cooldown is now applied to the item when stopping flight without landing\n- Kitty Slippers will now hiss at Phantoms\n- The Universal Attractor now applies the `artifacts:magnetism` mob effect\n- Farts from the Whoopee Cushion can now be detected by Sculk Sensors, Shriekers and Wardens\n\n\n### Miscellaneous\n- Architectury API is no longer a required dependency\n- Mimics will now try to flee from players when the game is set to peaceful mode\n- Added keybinding to allowing toggling the following items:\n    - Charm of Sinking\n    - Charm of Shrinking\n    - Scarf of Invisibility\n- Mob Effects applied by artifacts will now show their icon in the HUD to make it easier to see whether an item is enabled\n    - To prevent visual issues, the duration of mob effects applied by artifacts has been increased to 10 seconds\n- Items that have a probability to apply an effect will now display this probability in their tooltips\n\n### Bug Fixes\n- [Fabric] Fixed the config screen not working even when Cloth Config is loaded\n- [Fabric] Fixed an issue preventing the cooldown overlay from rendering\n- Fixed Aqua-Dashers dealing hot floor damage when running on the edge of a block next to lava\n- Fixed the Chorus Totem displaying an incorrect tooltip\n- Fixed mob effects in tooltips displaying incorrect durations when the tick rate is not set to 20\n\n\n### Technical Changes\n- The `artifacts:abilities` item component has been split into a separate item component per ability.\n  Some abilities have been merged, had their names altered or have new parameters, an updated list can be found here: https://github.com/ochotonida/artifacts/wiki/Creating-Custom-Items\n",
+      "changelog_url": null,
+      "date_published": "2025-04-23T14:47:10.467887Z",
+      "downloads": 1937,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kWCxnlKk",
+          "hashes": {
+            "sha1": "d714d5e2e97dc50d1f706d1558a72cbf23eefe82",
+            "sha512": "c9540eae7b74b82ff6929aa238cf257c11fd25df1969c85529d4b00205dde71284f4b1d4fbf77ad39b1bd7ac79e6bda9590b72dd57179808c77d7985efefabdc"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/KII5sNYl/artifacts-neoforge-13.0.0.jar",
+          "filename": "artifacts-neoforge-13.0.0.jar",
+          "primary": true,
+          "size": 953855,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "r2Frp5jn",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.1.5",
+      "version_number": "12.1.5",
+      "changelog": "- Cloth config is now optional\n  + You only need to download it if you want to access the config screen in-game\n- (NeoForge) Fixed an issue preventing attributes and effects from being displayed in tooltips",
+      "changelog_url": null,
+      "date_published": "2025-04-08T19:38:09.655718Z",
+      "downloads": 27437,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TZtjrbRx",
+          "hashes": {
+            "sha1": "5697115014b54db05b4a7745b8e3a689106537dd",
+            "sha512": "42d9aec6a0b6b1219687704d9f4b23bab9e5f62d348dc6e9a25f126e78c311ba39f81d5dc119c0517c837bf965d8b0b66158ffd6608f64d4206a7e22ea044c45"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/r2Frp5jn/artifacts-fabric-12.1.5.jar",
+          "filename": "artifacts-fabric-12.1.5.jar",
+          "primary": true,
+          "size": 1309330,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZiWmUeZJ",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 12.1.5",
+      "version_number": "12.1.5",
+      "changelog": "- Cloth config is now optional\n  + You only need to download it if you want to access the config screen in-game\n- (NeoForge) Fixed an issue preventing attributes and effects from being displayed in tooltips",
+      "changelog_url": null,
+      "date_published": "2025-04-08T19:37:23.041236Z",
+      "downloads": 11463,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "y0STh0fS",
+          "hashes": {
+            "sha512": "b1c409afe0e42db5f05086947b4f0a4f3803c8a1973fe38d464f6c3bee08c3c988cba94e9d5d59cbfca4429962e4c8454e49631c61bb38fd7a051bbdc45d5317",
+            "sha1": "3fed5fa1e53a012b887838bf76a9d1afc2ded596"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ZiWmUeZJ/artifacts-neoforge-12.1.5.jar",
+          "filename": "artifacts-neoforge-12.1.5.jar",
+          "primary": true,
+          "size": 902867,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Q40sULbS",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.1.4",
+      "version_number": "12.1.4",
+      "changelog": "- Reduced lag from entity ticking\n- Reduced lag from dormant mimics\n- Dormant mimics will no longer wake up or drown when inside water\n- Miscellaneous performance improvements",
+      "changelog_url": null,
+      "date_published": "2025-04-05T22:51:48.838824Z",
+      "downloads": 6118,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZapgEi5E",
+          "hashes": {
+            "sha1": "939abf4c3b5a0322e9c0b239454838b3d0c8f6ff",
+            "sha512": "ec8d722fe7dfcf6dd939bdbf1a0248eab9438551694d34aba8a68bf88710c7e9155de5cad59e65dadfbb1e1cfc584fffb1505880ab1166b9f0b341a976a6f0b2"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/Q40sULbS/artifacts-fabric-12.1.4.jar",
+          "filename": "artifacts-fabric-12.1.4.jar",
+          "primary": true,
+          "size": 1306445,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nXBSwxlC",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 12.1.4",
+      "version_number": "12.1.4",
+      "changelog": "- Reduced lag from entity ticking\n- Reduced lag from dormant mimics\n- Dormant mimics will no longer wake up or drown when inside water\n- Miscellaneous performance improvements",
+      "changelog_url": null,
+      "date_published": "2025-04-05T22:50:53.855571Z",
+      "downloads": 3408,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IITVcvt0",
+          "hashes": {
+            "sha512": "08bb07ff96834545e2acebc954fdeb21692fe3ce8d6645a5850f9d81eeed6939c19b139075dbbc70522c9c15a3257b9aa41b9338813bae114be5c8bf245ec6f5",
+            "sha1": "7bc14b7fa5b6de6178d85790968b4632d220c19f"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/nXBSwxlC/artifacts-neoforge-12.1.4.jar",
+          "filename": "artifacts-neoforge-12.1.4.jar",
+          "primary": true,
+          "size": 899668,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "YnRecpbJ",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.1.3",
+      "version_number": "12.1.3",
+      "changelog": "- Improved entity ticking performance",
+      "changelog_url": null,
+      "date_published": "2025-04-04T10:36:01.457517Z",
+      "downloads": 1477,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SKxWXZ5Q",
+          "hashes": {
+            "sha1": "1c8c55f7ae02d39c3f3feabc2294b74c0fff122b",
+            "sha512": "a1f82c50591121acbfc4fffc41c1a45a373abca77d8d6d3a267596a9b1be726fa0a521f0bb35722ad27e1e6674c8c4441b988f1613ae29d895e04346763cd710"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/YnRecpbJ/artifacts-fabric-12.1.3.jar",
+          "filename": "artifacts-fabric-12.1.3.jar",
+          "primary": true,
+          "size": 1301380,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MBH77WB6",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 12.1.3",
+      "version_number": "12.1.3",
+      "changelog": "- Improved entity ticking performance",
+      "changelog_url": null,
+      "date_published": "2025-04-04T10:34:52.775246Z",
+      "downloads": 1278,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3109jK6N",
+          "hashes": {
+            "sha512": "c2283fa1904c1320974548c916a1af67efbfc0ba7c67dadf030b405806bb8f64ad0ff5c8054c09f940c67846e95615400f72960a48f937646adcf75a80792f04",
+            "sha1": "8bdfb89cb762f3b605026d923e9cdc92607958b4"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/MBH77WB6/artifacts-neoforge-12.1.3.jar",
+          "filename": "artifacts-neoforge-12.1.3.jar",
+          "primary": true,
+          "size": 894403,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "uhpAh5FY",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.1.2",
+      "version_number": "12.1.2",
+      "changelog": "- Fixed mimics crashing the game on April 1st when Lootr is loaded",
+      "changelog_url": null,
+      "date_published": "2025-04-01T01:23:23.622678Z",
+      "downloads": 1918,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D0xuTsWc",
+          "hashes": {
+            "sha512": "779e9f30af83a1839b5ebd02956d6c89e51af648136555c1841861d493b08aa14a79086a27020dfa29a37f9385ec5ed7a0a8024fcfd28b2f8d69f7638f40d251",
+            "sha1": "0c13349b0f692d11dea799553e3a192e646dd68c"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/uhpAh5FY/artifacts-fabric-12.1.2.jar",
+          "filename": "artifacts-fabric-12.1.2.jar",
+          "primary": true,
+          "size": 1302599,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6LbdaF44",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 12.1.2",
+      "version_number": "12.1.2",
+      "changelog": "- Fixed mimics crashing the game on April 1st when Lootr is loaded",
+      "changelog_url": null,
+      "date_published": "2025-04-01T01:22:28.021174Z",
+      "downloads": 3533,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dHrutnfO",
+          "hashes": {
+            "sha512": "81ba71d5b200205da51e70670fe91c936085bd82350539a72b61c57a72e62c55c0032e9341a630e7cfffbee6cceacd8f763b4b9a192fc396aee7e2a46771c2be",
+            "sha1": "b0880cf5fe8eb26eed7bdbfc8ab69d170d80719c"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/6LbdaF44/artifacts-neoforge-12.1.2.jar",
+          "filename": "artifacts-neoforge-12.1.2.jar",
+          "primary": true,
+          "size": 896093,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2yzaKEA7",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 12.1.1",
+      "version_number": "12.1.1",
+      "changelog": "- Fixed mimics using the wrong texture when Lootr's vanilla textures config option is enabled\n- Campsites now use a custom feature config",
+      "changelog_url": null,
+      "date_published": "2025-03-26T14:17:13.619791Z",
+      "downloads": 3254,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "faawpp7x",
+          "hashes": {
+            "sha1": "978399abac2d62b7cbf71027c7a631a37d83c5fd",
+            "sha512": "dc2a003d39830eb0b621e8e276f10eb9eabba87a5c2f6f1fde059ab4406a1554dfe29bb0596de2bc24615f58263e3ddacde85d02c323fbb9a71db112cf8a2092"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/2yzaKEA7/artifacts-neoforge-12.1.1.jar",
+          "filename": "artifacts-neoforge-12.1.1.jar",
+          "primary": true,
+          "size": 896052,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "hoAyTNeY",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.1.1",
+      "version_number": "12.1.1",
+      "changelog": "- Fixed mimics using the wrong texture when Lootr's vanilla textures config option is enabled\n- Campsites now use a custom feature config",
+      "changelog_url": null,
+      "date_published": "2025-03-26T14:16:31.181605Z",
+      "downloads": 15355,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Het2idAd",
+          "hashes": {
+            "sha1": "114d046c9d62e9bacf72fc59a36bed7dcecf68f5",
+            "sha512": "1bffab846608cd8407bdae8f804ee6723cf2f21e016f7718c01e860b3f3268b10bb33b96ba014feda0dbeeea2a1b898fa50a59aec634bd1ff6e08e8163b74335"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/hoAyTNeY/artifacts-fabric-12.1.1.jar",
+          "filename": "artifacts-fabric-12.1.1.jar",
+          "primary": true,
+          "size": 1302557,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "LFsBtgTN",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.1.0",
+      "version_number": "12.1.0",
+      "changelog": "- Dragon-Seeker: Added support for Accessories as an alternative to Curios or Trinkets\n- [Fabric] Removed the option to toggle an artifact's visibility by right-clicking it. Transmog or Accessories can be used as a replacement.\n- Increased the default duration of the Snorkel's water breathing effect from 15 to 30 seconds\n- The Rooted Boots will now restore the player's hunger on moss, podzol and dirt paths in addition to grass\n- Snapshot_light: Update zh_cn.json\n- MerchantPug: Fixed an issue causing major TPS lag when many entities are loaded\n- eggohito: [Fabric] Fixed and simplified Apoli/Origins compatibility impl.\n- turtton: Fixed an issue preventing the Obsidian Skull from working when wearing armor\n- Fixed a ConcurrentModificationException crash related to the thorn pendant\n- Fixed shock pendant not working as intended\n- Fixed hats sometimes rendering below the outer skin layer\n- Fixed gloves not rendering in first person when not in a hand slot\n- [Fabric] Fixed an issue causing multiple errors to be logged when Porting Lib is loaded\n- Added an april fools easter egg",
+      "changelog_url": null,
+      "date_published": "2025-03-19T10:29:26.144588Z",
+      "downloads": 8050,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "izKcKXA0",
+          "hashes": {
+            "sha512": "a3941c0cd25c2644bb18d9d6ccd158db150d8b887426b26d3eab537d8d3c20100eab8a6b4743db2f08cb422fe5ee7e6b6249a28bcd3d07824002c5a78b8e858e",
+            "sha1": "0880cf69b491bca94077836de9489b275290fa4c"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/LFsBtgTN/artifacts-fabric-12.1.0.jar",
+          "filename": "artifacts-fabric-12.1.0.jar",
+          "primary": true,
+          "size": 1299728,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "m4gab3h2",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 12.1.0",
+      "version_number": "12.1.0",
+      "changelog": "- Dragon-Seeker: Added support for Accessories as an alternative to Curios or Trinkets\n- [Fabric] Removed the option to toggle an artifact's visibility by right-clicking it. Transmog or Accessories can be used as a replacement.\n- Increased the default duration of the Snorkel's water breathing effect from 15 to 30 seconds\n- The Rooted Boots will now restore the player's hunger on moss, podzol and dirt paths in addition to grass\n- Snapshot_light: Update zh_cn.json\n- MerchantPug: Fixed an issue causing major TPS lag when many entities are loaded\n- eggohito: [Fabric] Fixed and simplified Apoli/Origins compatibility impl.\n- turtton: Fixed an issue preventing the Obsidian Skull from working when wearing armor\n- Fixed a ConcurrentModificationException crash related to the thorn pendant\n- Fixed shock pendant not working as intended\n- Fixed hats sometimes rendering below the outer skin layer\n- Fixed gloves not rendering in first person when not in a hand slot\n- [Fabric] Fixed an issue causing multiple errors to be logged when Porting Lib is loaded\n- Added an april fools easter egg",
+      "changelog_url": null,
+      "date_published": "2025-03-19T10:28:21.359008Z",
+      "downloads": 4180,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "d4kNQNvS",
+          "hashes": {
+            "sha1": "ae94e39f007c1733b35773b2ab2c83c2e8eb9cb4",
+            "sha512": "c872aa1539845ca235026989b54d7ea050593fb42f6a2cb1366ebe6c801cd8da88c24204385778ef8c62463c66bd863e921b14770ddf27c38c01635a1ae1ce8b"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/m4gab3h2/artifacts-neoforge-12.1.0.jar",
+          "filename": "artifacts-neoforge-12.1.0.jar",
+          "primary": true,
+          "size": 892021,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "jtmvUHXj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "A5axAziO",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.0.6",
+      "version_number": "12.0.6",
+      "changelog": "- Fixed crash with Origins",
+      "changelog_url": null,
+      "date_published": "2024-09-04T18:25:51.645835Z",
+      "downloads": 111918,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ou3Oer0q",
+          "hashes": {
+            "sha512": "ddcc4de853a94b60c7d91c8d66cb4a48b99649a6b8f2cad98de74385e7a5c99e940dcf8c04c52f0dcd779e172c17c0d9228af358db1629279e417d73efd37c01",
+            "sha1": "a1403160381b00056d4f14dbaab6abcd000f87e5"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/A5axAziO/artifacts-fabric-12.0.6.jar",
+          "filename": "artifacts-fabric-12.0.6.jar",
+          "primary": true,
+          "size": 1282386,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "5N2GJypV",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts Fabric 12.0.5",
+      "version_number": "12.0.5",
+      "changelog": "- Fixed an issue preventing night vision effects with infinite duration from working correctly",
+      "changelog_url": null,
+      "date_published": "2024-08-13T15:12:30.985508Z",
+      "downloads": 8556,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Z7A9YegW",
+          "hashes": {
+            "sha512": "1123da4a302f9fd61e9b862a072a2fa436ec16e2d3dd841a8dc3d112d1470c6d0f61bbe568867c1bc0082acb99c454d13414a04aa8e9e69e03b86048abb62dcf",
+            "sha1": "86ca337080a0c9802c2fb3e9b88992dcab9c5302"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/5N2GJypV/artifacts-fabric-12.0.5.jar",
+          "filename": "artifacts-fabric-12.0.5.jar",
+          "primary": true,
+          "size": 1282036,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5aaWibi9",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "oLw9PXUb",
+      "project_id": "P0Mu4wcQ",
+      "author_id": "Q50e8wKr",
+      "featured": false,
+      "name": "Artifacts NeoForge 12.0.5",
+      "version_number": "12.0.5",
+      "changelog": "- Fixed an issue preventing night vision effects with infinite duration from working correctly",
+      "changelog_url": null,
+      "date_published": "2024-08-13T15:12:00.678324Z",
+      "downloads": 43087,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "waYK1Ore",
+          "hashes": {
+            "sha512": "ff93e8e4db507e275ed820e63a77417feb96f37387d9466451b3974caa60c6c2fa4ec7307ab0d0a05bf42d854f253c1ae81b8ddf861a83e43f14406491e8a194",
+            "sha1": "8edf830cf4a18afd75dc063b2b6ff7c42ca89e08"
+          },
+          "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/oLw9PXUb/artifacts-neoforge-12.0.5.jar",
+          "filename": "artifacts-neoforge-12.0.5.jar",
+          "primary": true,
+          "size": 856174,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

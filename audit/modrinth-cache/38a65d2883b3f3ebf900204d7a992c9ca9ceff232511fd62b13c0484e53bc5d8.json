@@ -1,0 +1,204 @@
+{
+  "url": "https://api.modrinth.com/v2/project/corail-tombstone",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:51.951071+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.12.2",
+      "1.13.2",
+      "1.14.2",
+      "1.15.2",
+      "1.16.5",
+      "1.17.1",
+      "1.18.2",
+      "1.19.2",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "YT5K34AB",
+    "slug": "corail-tombstone",
+    "project_type": "mod",
+    "team": "eaQWU2tk",
+    "organization": null,
+    "title": "Corail Tombstone",
+    "description": "Keeps safe your inventory items in graves on death, with many features for better survivability and exploration, in a medieval fantasy atmosphere related to the decorative grave & the haunting souls.",
+    "body": "# Corail Tombstone\n_\"Let death be a chapter, not an ending.\"_\n\n## Description\n\nCorail Tombstone keeps your inventory safe in a grave when you die, while enriching your survival and exploration with a wealth of features, all set in a medieval fantasy atmosphere where haunting souls linger around decorative graves.\n\nDeep configuration, a perk system, soul-bound magic, and exploration driven by forgotten knowledge waiting to be rediscovered: the mod builds a complete experience around death, without ever making it punishing.\n\nAvailable on Forge and NeoForge, the mod works just as well in singleplayer as in multiplayer/dedicated servers, and offers many compatibilities with other mods. Main supported languages: English and French (several other languages provided).\n\n**- Safe inventory recovery on death**<br />\n**- Knowledge & perk progression system**<br />\n**- Souls, magic, enchantments and rituals**<br />\n**- Exploration with forgotten scrolls and hidden lore**<br />\n**- Tame undead companions & ride a flying carpet**<br />\n**- Customize your grave's look and engraving**<br />\n**- Deeply configurable, from solo tweaks to server rules**<br />\n**- Multiplayer friendly**<br />\n**- Broad mod compatibility**<br />\n**- Actively maintained since 2016**<br />\n\n_**You can contact me on CurseForge in private message if you need informations.**_\n\n_<center>Special thanks to Gegy, Barteks2x, Raycoms & Runemoro for their advice.</center>_<br />\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/fd5b220695617f76e04fc5e893040981e625b7e1.jpeg\" alt=\"Grave in snow\" height=\"280\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/921b600797aea25bdc39f4a9b1b983da5b592fa5.jpeg\" alt=\"Cross grave and inscription\" height=\"280\" />\n\n## Decorative graves\nWhen you die, a decorative grave appears: a special block giving off a faint fog at night, harvestable with a pickaxe or shovel, and customizable through the anvil (see below). It comes in several models and colors, with no gameplay difference between them — purely a matter of taste. After a while, a soul will often come to haunt the grave (the config lets you adjust how often this happens) and stays until it's freed — it then enables certain enchantments (magic scroll/tablet) or an upgrade to the grave's key.\n\nTo build your own decorative grave, you'll need **Grave's Dust** (obtained by killing undeads or through the Cat Morning Gift) and an **Essence of Undeath**, an ingredient unlocked through the advancements (the first one is obtained by picking your favorite grave in the in-game config) and rarely found on undeads, through the Cat Morning Gift, or by fishing in deep water — though don't count on it without a bit of luck.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/81cd80da8c73332e258634b3adf0a9247b566f0d.jpeg\" alt=\"Decorative Graves\" height=\"166\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/06dc2d1b6f6c4087c1822e0f9e9a8ccd5d69c5e2.jpeg\" alt=\"Grave Smoke\" height=\"166\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/29e0bc33f09125e320c97fb1087e25b3a5f2aaa8.jpeg\" alt=\"Magic Circle\" height=\"166\" />\n\n## Engraving a grave\n\nAt the anvil, combine a grave plate with an iron ingot to engrave a name onto it, which you can then apply or change on your decorative graves (a config option allows disabling name changes). In older versions, grave plates didn't exist and graves had to be combined directly at the anvil.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/a345ab27f5e637e2ffcf42ea9a0f583a06cbde6a.jpeg\" alt=\"Memorial Plaque\" height=\"114\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/471b3f11e5bf783145c78a1460bce5e2df451cde.jpeg\" alt=\"Engraved Memorial Plaque\" height=\"114\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/06a3dc35c8d30affab8b7dbae5d59c4468e11453.jpeg\" alt=\"Engraved Grave\" height=\"114\" />\n\n## Grave Guardian\n\nRarely, a Grave Guardian may appear near a grave. It protects the surrounding area from hostile creatures and offers trades to players — one of the ways to obtain Essence of Undeath. Its trades may differ during special events.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/3eed85d253b340ecb8a43a91b6871b0312ab3c04.jpeg\" alt=\"Grave Guardian\" height=\"176\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/0be5c32e57f8d30250f173831752addf7a147c0f.jpeg\" alt=\"Grave Guardian during Christmas\" height=\"176\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/02353cda50d10675b2384fbe40ab70a6ead5402f.jpeg\" alt=\"Trades with Grave Guardian\" height=\"176\" />\n\n## Abandoned Graves\n\nLootable abandoned graves can be found on the Overworld surface or in the ocean (only in Minecraft 1.20.1+). They exist in 5 different colors, and their loot is configurable in _config/tombstone/loottables_.\n\n- Locate them using the structure tag _#tombstone:abandoned_grave_\n- Adjust available biomes with the tags _#tombstone:has_structure/abandoned_grave_land_ and _#tombstone:has_structure/abandoned_grave_ocean_ (via datapack or a tweak mod)\n- Configure equipment loot through the item tags _#tombstone:lootable/armor_, _#tombstone:lootable/weapon_ and _#tombstone:lootable/tool_\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/600e8034f493a2a5756a869a30f82c9d82859f9e.jpeg\" alt=\"Abandoned Grave 1\" height=\"270\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/542b987b5a07c932ab49d54489ccdd59143cec07.jpeg\" alt=\"Abandoned Grave 2\" height=\"270\" />\n\n## Forgotten Knowledge\n\nRecent versions introduce mysterious readable and scrollable scrolls, revealing forgotten knowledge to those who solve the riddles hidden within (a ritual flute, found as loot, can be used to start some of them). Elyra's Diary, for example, lets you cast enhanced prayers on graves; the Rite of Silent Bound archives grant an affinity with undeads under certain conditions.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/c72f8d8cc3377d91677e23827307ddd2ee39c5fe.jpeg\" alt=\"Forgotten Knowledge and Lore\" height=\"400\" />\n\n## Ankh Prayers\n\nThe Ankh of Prayer lets you perform various prayers, depending on your alignment, earning you knowledge points along the way. Among other things, it can grant beneficial effects when praying at decorative graves, or charm certain creatures such as undeads, turning them into adventuring companions.\n\n## Knowledge of Death\n\nEarn knowledge points by using a grave's soul to enchant an item, by freeing a soul from a receptacle, by praying near a decorative grave with the **Ankh of Prayer** (default cooldown: 6 in-game hours, adjustable in config), or by completing the mod's advancements.\n\nThese points unlock perks in the dedicated **Knowledge of Death** screen (keybind not set by default, under \"misc\"). Each perk is a small bonus tied to one of the mod's features — rather than granting it by default, it's yours to unlock (some perks only appear if the related feature is enabled in the config).\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/5a9347e97507cfce8e91e8fd7255646700bd76eb.jpeg\" alt=\"Knowledge of Death\" height=\"400\" />\n\n## The Compendium\n\nA dedicated section of the Knowledge of Death screen gathers information about the mod, cross-linked for smooth reading.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/6406c75e159743bd2bf6a33862517a30bf777087.jpeg\" alt=\"Compendium\" height=\"400\" />\n\n## Configuration\n\nThree files, all prefixed _tombstone_, live in the _run/config_ folder. Most features, items, and enchantments can be disabled there (some, like PvP, are disabled by default).\n\n## In-game configuration\n\nAccessible directly through a dedicated screen, via the _/tbgui_ command or a customizable keybind.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/a17e437315eafde19290fdf110e20393be3e2a88.jpeg\" alt=\"Client Config in Game\" height=\"400\" />\n\n## Commands\n\n<details>\n<summary>Click to see details</summary>\n\n- TBTeleport - Dimensional teleportation (position, player, village, biome, your respawn, your last grave, your last death point)\n- TBShowLastGrave - Shows your last grave's position\n- TBRestoreInventory - Click your grave at a distance to restore your inventory\n- TBRecovery - Manually back up all players (or one), or roll back a player from an old save\n- TBKnowledge - Modify a player's knowledge points or reset their Ankh's cooldown\n- TBSiege - Launch or stop a Zombie Siege\n- TBReviveFamiliar - Bring your last dead familiar back to life\n- TBRequestTeleport - Send a teleport authorization request to another player, with a custom cooldown\n- TBGui - Client command to open the Tombstone screens\n\n</details>\n\n## Enchantments\n\n<details>\n<summary>Click to see details</summary>\n  \n- Soulbound - preserves the item on death\n- Shadow Step - discreetly reduces the distance at which creatures can detect you, based on darkness\n- Magic Siphon - absorbs beneficial effects from enemies hit\n- Plague Bringer - applies negative effects to enemies hit\n- Blessing - chance to receive a beneficial effect when hit\n- Curse of Bones - chance to reflect damage when hit\n- Frostbite - freezes and damages enemies hit\n- Spectral Bite - chance to trigger an area attack when hit\n- Spectral Conjurer - chance to conjure a Spectral Wolf when hit\n- Incurable Wounds - reduces healing received by enemies hit\n- Decrepitude - reduces the health of enemies hit by a percentage over time\n- Sanctified - deals holy damage and slightly regenerates health on hitting\n- Ruthless Strike - increases critical damage\n\n</details>\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/0fc705c62e9feb9f31bda2481f903ba08d68d28e.jpeg\" alt=\"Flying Carpet\" height=\"280\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/9678df3ca870f8c47bad813ad03311798519670c.jpeg\" alt=\"Tamable Undeads\" height=\"280\" />\n\n## Effects\n\n<details>\n<summary>Click to see details</summary>\n\n- tombstone:ghostly_shape — ghostly appearance received after a death\n- tombstone:diversion — preserves experience and beneficial effects on death\n- tombstone:preservation — keeps your beneficial effects after your death\n- tombstone:unstable_intangibility — prevents damage for a full second every five seconds\n- tombstone:feather_fall — slows down your falls\n- tombstone:purification — dispels negative effects over time\n- tombstone:true_sight — lets you see in the dark, underwater, and in lava; reveals invisible creatures\n- tombstone:reach — increases the range to hit creatures or to harvest\n- tombstone:lightning_resistance — reduces damage taken by lightning by 75%\n- tombstone:frost_resistance — prevents freezing and reduces frost damage taken by 75%\n- tombstone:bait — attracts aggressive creatures\n- tombstone:bone_shield — protects against melee damage and reflects part of it\n- tombstone:aquatic_life — allows you to move freely and breathe underwater\n- tombstone:frostbite — freezes and damages the enemy\n- tombstone:earthly_garden — makes the surroundings more flowery\n- tombstone:discretion — improves stealth speed and reduces detection range\n- tombstone:mercy — shares beneficial effects among nearby allies\n- tombstone:restoration — heals all wounds\n- tombstone:incurable — heals have no effect\n- tombstone:decrepitude — reduces health by a percentage over time\n- tombstone:weaver_walk — allows you to move quickly over cobwebs\n- tombstone:giant_strength — increases your strength as well as your height\n- tombstone:little_world — decreases your height and makes you faster\n- tombstone:beyond_the_grave_bond — undeads consider you one of their own\n\n</details>\n\n## Loot Tables\n\nThe mod's loot tables can be edited in _config/tombstone/loottables_. Simply reload the save (or use the _/reload_ command) after making changes. They cover: lost treasures (unlucky fishing in open water), chest treasures (structures), tamed cats' morning gifts, undead loot (including bosses), and archaeology (1.19.4+).\n\n## Statistics\n\nThe mod exposes several statistics that can be used as scoreboard objectives (via the vanilla _/scoreboard_ command), viewable from the game menu.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/0f30f3ba529115045b90e4064c8e4c68380913b3_0.webp\" alt=\"Halloween Ghost\" height=\"200\" />\n<img src=\"https://cdn.modrinth.com/data/cached_images/912f9e5cbcdf1959abbbe85ea32fa23b997f45ce.jpeg\" alt=\"Spooky smoke during halloween\" height=\"200\" />\n\n## Compatibility\n\nThe mod offers many compatibilities with other mods. Players' graves are indestructible — only creative-mode players can destroy them. As a general rule, avoid using another grave mod alongside this one.\n\n## Supported Versions\n\nOnly the latest and most popular versions receive new content updates (1.20.1 / 1.21.1 / 26.1.2 / 26.2).\n\n## License\n\n**Corail Tombstone is All Rights Reserved. As a Minecraft contribution, this license obviously doesn't apply to its creator, Mojang Studios. The mod is hosted on CurseForge (and recently Modrinth) and cannot be redistributed for any reason**.",
+    "body_url": null,
+    "published": "2026-07-27T01:01:25.819340Z",
+    "updated": "2026-10-05T14:37:26.936057Z",
+    "approved": "2026-08-03T05:45:45.948803Z",
+    "queued": "2026-07-30T00:02:32.611436Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "downloads": 307999,
+    "followers": 13,
+    "categories": [
+      "adventure",
+      "game-mechanics",
+      "magic"
+    ],
+    "additional_categories": [
+      "decoration",
+      "mobs",
+      "utility"
+    ],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "6bJBFm2h",
+      "T4kHto2f",
+      "kOleiPYi",
+      "fPIleJ9z",
+      "XHHjQIuO",
+      "JV8b3bNh",
+      "19OzaIuK",
+      "EDNqZVy4",
+      "iVaWMsvS",
+      "LAjSRQwq",
+      "XEzw6k79",
+      "wGn1ZLcX",
+      "BIrtEqTC",
+      "sr7VSf2v",
+      "29tIw7cx",
+      "6ZkZoZ8J",
+      "pr9FtBVg",
+      "bg5OwGlR",
+      "D0Sge2mT",
+      "hhuYOKaa",
+      "53ABlBFY",
+      "8PqMozyJ",
+      "IjzlccWp",
+      "7lY3xEVw",
+      "qVMHX3LD",
+      "zLwFOXYW",
+      "qgDfK2mp",
+      "e68NhQJm",
+      "s9Zdl0Yg",
+      "3b4J5Ukv",
+      "I34Nt5pp",
+      "7nkZMT16",
+      "nTAliy2r"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/YT5K34AB/b279e8756761d8160f678ad20fb632d0a09b89b4_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/YT5K34AB/b279e8756761d8160f678ad20fb632d0a09b89b4.jpeg",
+    "issues_url": "https://github.com/Corail31/tombstone_lite/issues",
+    "source_url": null,
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/06dc2d1b6f6c4087c1822e0f9e9a8ccd5d69c5e2.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/06dc2d1b6f6c4087c1822e0f9e9a8ccd5d69c5e2.jpeg",
+        "featured": false,
+        "title": "Grave Smoke",
+        "description": "Graves are surrounded with smoke during night. The color of smoke can be selected by players in the config gui.",
+        "created": "2026-07-27T03:45:14.475645Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/0fc705c62e9feb9f31bda2481f903ba08d68d28e.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/0fc705c62e9feb9f31bda2481f903ba08d68d28e.jpeg",
+        "featured": false,
+        "title": "Flying Carpet",
+        "description": "The Flying Carpet is a flying mount. It can be found by following the different steps of the lore \"Nights of Nour\".",
+        "created": "2026-07-27T03:41:41.944674Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/3eed85d253b340ecb8a43a91b6871b0312ab3c04.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/3eed85d253b340ecb8a43a91b6871b0312ab3c04.jpeg",
+        "featured": false,
+        "title": "Grave Guardian",
+        "description": "The Grave Guardian appears near decorative graves and protects the surrounding from hostile creatures, and trades with players.",
+        "created": "2026-07-27T03:40:16.072929Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/5a9347e97507cfce8e91e8fd7255646700bd76eb.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/5a9347e97507cfce8e91e8fd7255646700bd76eb.jpeg",
+        "featured": false,
+        "title": "Knowledge of Death",
+        "description": "The Knowledge of Death is the perk tree providing to players differents bonus in game (mostly related to death).",
+        "created": "2026-07-27T03:42:42.274805Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/600e8034f493a2a5756a869a30f82c9d82859f9e.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/600e8034f493a2a5756a869a30f82c9d82859f9e.jpeg",
+        "featured": false,
+        "title": "Abandoned grave",
+        "description": "Abandoned graves are structure foundable in the world, and containing rare items.",
+        "created": "2026-07-27T03:39:03.698207Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/6406c75e159743bd2bf6a33862517a30bf777087.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/6406c75e159743bd2bf6a33862517a30bf777087.jpeg",
+        "featured": false,
+        "title": "Compendium",
+        "description": "The compendium provides you all the needed informations to learn better how to use the mod.",
+        "created": "2026-07-27T03:49:00.397974Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/81cd80da8c73332e258634b3adf0a9247b566f0d.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/81cd80da8c73332e258634b3adf0a9247b566f0d.jpeg",
+        "featured": false,
+        "title": "Decorative graves",
+        "description": "Decorative graves are sometimes haunted with souls allowing multiple magic creations.",
+        "created": "2026-07-27T03:46:15.060078Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/9678df3ca870f8c47bad813ad03311798519670c.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/9678df3ca870f8c47bad813ad03311798519670c.jpeg",
+        "featured": false,
+        "title": "Tamable Undeads",
+        "description": "With a bad alignment, the Ankh of Prayer allows you to tame undeads. They can sit to stay quiet or with the perk necromancy, they can cast magic spells.",
+        "created": "2026-07-27T03:44:07.748020Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/a17e437315eafde19290fdf110e20393be3e2a88.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/a17e437315eafde19290fdf110e20393be3e2a88.jpeg",
+        "featured": false,
+        "title": "Client Config",
+        "description": "The client config in game allows you multiple configurations specific to the player.",
+        "created": "2026-07-27T03:48:04.662171Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/YT5K34AB/images/fd5b220695617f76e04fc5e893040981e625b7e1.jpeg",
+        "raw_url": "https://cdn.modrinth.com/data/YT5K34AB/images/fd5b220695617f76e04fc5e893040981e625b7e1.jpeg",
+        "featured": false,
+        "title": "Grave in snow",
+        "description": "Simple grave with inscription",
+        "created": "2026-07-27T03:38:07.785729Z",
+        "ordering": 0
+      }
+    ],
+    "color": 4664360,
+    "thread_id": "DWi1OspG",
+    "monetization_status": "monetized"
+  }
+}

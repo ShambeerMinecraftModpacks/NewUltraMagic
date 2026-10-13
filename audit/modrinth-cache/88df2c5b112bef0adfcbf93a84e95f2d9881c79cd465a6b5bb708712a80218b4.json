@@ -1,0 +1,197 @@
+{
+  "url": "https://api.modrinth.com/v2/project/YT5K34AB/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:52.569163+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "e68NhQJm",
+      "project_id": "YT5K34AB",
+      "author_id": "z0WGmZcQ",
+      "featured": false,
+      "name": "Corail Tombstone 9.5.6 for 1.21.1 [Neoforge]",
+      "version_number": "neoforge-1.21.1-9.5.6",
+      "changelog": "**This mod supports mc version from 1.8.9 to 26.2<br />\nMinecraft Version = [1.21.1] - NeoForge Version [21.+] - Java 21<br />\nLatest : 9.5.6 - Recommended : 9.5.6<br />**\n\n**Changes 9.5.6:**\n\n- fixes xp restoration on death with high level count (integer overflow)",
+      "changelog_url": null,
+      "date_published": "2026-09-09T08:44:36.513147Z",
+      "downloads": 66863,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ier5V7Rb",
+          "hashes": {
+            "sha512": "c987d0321bf9c38107c33882c23761963c2a76bd6b24baf24b83ae846efd56d8f29ecb9bec8a80092f1624910ed10d2b7e3d07cf2dde3984524fb65d894a539c",
+            "sha1": "d830d16caa20b0d23a44ed6b1d339bc22afc2460"
+          },
+          "url": "https://cdn.modrinth.com/data/YT5K34AB/versions/e68NhQJm/tombstone-neoforge-1.21.1-9.5.6.jar",
+          "filename": "tombstone-neoforge-1.21.1-9.5.6.jar",
+          "primary": true,
+          "size": 2520705,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qgDfK2mp",
+      "project_id": "YT5K34AB",
+      "author_id": "z0WGmZcQ",
+      "featured": false,
+      "name": "Corail Tombstone 9.5.5 for 1.21.1 [Neoforge]",
+      "version_number": "neoforge-1.21.1-9.5.5",
+      "changelog": "**This mod supports mc version from 1.8.9 to 26.2**<br />\n**Minecraft Version = [1.21.1] - NeoForge Version [21.+] - Java 21**<br />\n**Latest : 9.5.5 - Recommended : 9.5.5**<br />\n\n**Changes 9.5.5:**\n- compatibility Create Aeronautics (respawn on vehicule, issue 351)",
+      "changelog_url": null,
+      "date_published": "2026-08-16T10:23:16.257782Z",
+      "downloads": 61416,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8gCIBZUB",
+          "hashes": {
+            "sha1": "b01953c1a0d069a8318e871490a388b5df7b8960",
+            "sha512": "e50769c64690fedd1be4519d93760fd5145b472ba5a26e6e322937c93e1795c02a44681d85c3b3fef39282bc8a1ea3f2d7382510480808a48a8a5df2fb9fa8e3"
+          },
+          "url": "https://cdn.modrinth.com/data/YT5K34AB/versions/qgDfK2mp/tombstone-neoforge-1.21.1-9.5.5.jar",
+          "filename": "tombstone-neoforge-1.21.1-9.5.5.jar",
+          "primary": true,
+          "size": 2520446,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8PqMozyJ",
+      "project_id": "YT5K34AB",
+      "author_id": "z0WGmZcQ",
+      "featured": false,
+      "name": "Corail Tombstone 9.5.4 for 1.21.1 [Neoforge]",
+      "version_number": "neoforge-1.21.1-9.5.4",
+      "changelog": "**This mod supports mc version from 1.8.9 to 26.2**<br />\n**Minecraft Version = [1.21.1] - NeoForge Version [21.+] - Java 21**<br />\n**Latest : 9.5.4 - Recommended : 9.5.4**<br />\n\n**Changes 9.5.4:**\n\n- ritual flute melodies now play automatically on the correct block once learned (the ritual flute screen is removed)\n- rewrote most lore stories (some objectives may have changed)",
+      "changelog_url": null,
+      "date_published": "2026-08-06T06:07:12.830689Z",
+      "downloads": 36228,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fCERbNhj",
+          "hashes": {
+            "sha1": "001d9a07c6f414773663309aa6a3a03f968e2d47",
+            "sha512": "25fb99ee3518fafa0257a0e878c7680e0aedcaf903540af13e80cc5f8526db347940a53559af8277f40d9f7e7e143c7b3f9a2b2efca7cbc0551a24cc19af3aa3"
+          },
+          "url": "https://cdn.modrinth.com/data/YT5K34AB/versions/8PqMozyJ/tombstone-neoforge-1.21.1-9.5.4.jar",
+          "filename": "tombstone-neoforge-1.21.1-9.5.4.jar",
+          "primary": true,
+          "size": 2521532,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "XEzw6k79",
+      "project_id": "YT5K34AB",
+      "author_id": "z0WGmZcQ",
+      "featured": false,
+      "name": "Corail Tombstone 9.5.3 for 1.21.1 [Neoforge]",
+      "version_number": "neoforge-1.21.1-9.5.3",
+      "changelog": "**This mod supports mc version from 1.8.9 to 26.2**<br />\n**Minecraft Version = [1.21.1] - NeoForge Version [21.+] - Java 21**<br />\n**Latest : 9.5.3 - Recommended : 9.5.3**<br />\n\n**Changes 9.5.3:**\n\n- new lore \"The Nights of Nour\": the Endless Storyteller has left her parchments scattered across the desert, and an ancient lamp seems to interest the undead roaming there. A very special carpet might be offered to you\n\n**Changes 9.5.2:**\n\n- Grave Guardian trades are now data-driven\n-> cost/reward items can simply be item/count or a loot entry (so also a loottable)\n-> If you want to add new trades with a datapack, you can check the default trades as examples (in folder /data/tombstone/grave_guardian_trades)\n- adapts readable scrolls to be less cryptic (and command /tbreadable)\n- updates dutch lang\n- fixes guiscale being changed when opening guiscreen (issue 349)\n\n**Changes 9.5.1:**\n\n- About Grave Guardian trades:\n  - trades will no longer reset entirely if a single trade can't be loaded (from a removed mod's item)\n  - trades for items disabled via config now show as \"out of stock\" instead of being removed or replaced, and will work again automatically if the item is re-enabled\n  - trade restocking now depends on each trade's behavior: some trades gradually regain stock over time, others swap to a new offer once exhausted, and some always swap offers on restock\n  - updates all trades to be more dynamic\n- cyclable options in screen config are translatable (with text scrolling if needed)\n- re-adds the crafting recipe to set a capturable type on receptacle of familiar\n- ingredients from coded recipes are put correctly in the crafting grid when clicking the recipe in the recipe book (enchanted grave key & receptacle of familiar with a capturable type)\n- added russian translation (courtesy of lNullCatl)\n- fixes command /tbrecovery (issue 347)\n\n**Changes 9.5.0:**\n\n- new item Bone Scepter allowing to force tamed undeads to sit\n- overhauled Grave Guardian trades system\n- Grave Guardian trades now update immediately when forcing a special event via config\n- some Grave Guardian trades now have specific restock behaviors\n- new spellcasting animation for tamed undeads & Grave Guardian\n- improves AI goals\n- fixes automatic player backup not happening (condition never true, since 9.4.7)",
+      "changelog_url": null,
+      "date_published": "2026-07-27T16:44:01.093298Z",
+      "downloads": 24089,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5Lb2vJND",
+          "hashes": {
+            "sha1": "c1092771176c2bd29cfa1b94c606c27f699d9897",
+            "sha512": "5ff3067483f9726246de782d4f481cba3ad775e438c90e72f3e4db23dc1e442c176dc5628fbc4382351f29bdfc630c446bd14ade7f6f4bb2373febf5f1288121"
+          },
+          "url": "https://cdn.modrinth.com/data/YT5K34AB/versions/XEzw6k79/tombstone-neoforge-1.21.1-9.5.3.jar",
+          "filename": "tombstone-neoforge-1.21.1-9.5.3.jar",
+          "primary": true,
+          "size": 2536331,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "LAjSRQwq",
+      "project_id": "YT5K34AB",
+      "author_id": "z0WGmZcQ",
+      "featured": false,
+      "name": "Corail Tombstone 9.1.10 for 1.21.1 [Forge]",
+      "version_number": "forge-1.21.1-9.1.10",
+      "changelog": "**This mod supports mc version from 1.8.9 to 26.2**<br />\n**Minecraft Version = [1.21.1] - Forge Version [51.0.30+] - Java 21**<br />\n**Latest : 9.1.10 - Recommended : 9.1.10**<br />\n\n**Changes 9.1.10:**\n\n- configs to allow enchantments at enchanting table (default is true)\n- crafting recipes for \"combination\"\n- fixes lost tablet not being awaken\n- fixes \"Knowledge of Death\" being broken (since 9.1.9)\n- fixes Seeker Rod model\n\n**Changes 9.1.9:**\n\n- updates Christmas event\n- Christmas Hat & Rabbit Mask can be enchanted\n- improves checking FakePlayer for drops",
+      "changelog_url": null,
+      "date_published": "2026-07-27T16:40:54.906511Z",
+      "downloads": 1268,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AYByMDjK",
+          "hashes": {
+            "sha1": "8430fb5f026e30875b605f0535a03335cfaf03ba",
+            "sha512": "d5ff596f2880b080afefc4353292fdc04cbe5438c620efae290f3ecc8fbc002cdc5966aad24f6a744edd98b53e6e8f8f2cf133a3c75165107925e73afc7f7bae"
+          },
+          "url": "https://cdn.modrinth.com/data/YT5K34AB/versions/LAjSRQwq/tombstone-forge-1.21.1-9.1.10.jar",
+          "filename": "tombstone-forge-1.21.1-9.1.10.jar",
+          "primary": true,
+          "size": 2307609,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

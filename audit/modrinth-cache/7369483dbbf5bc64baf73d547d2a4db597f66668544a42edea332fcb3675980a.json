@@ -1,0 +1,2977 @@
+{
+  "url": "https://api.modrinth.com/v2/project/NNAgCjsB/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:40.952765+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "eieYbWYb",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.3-1.21.1 - NeoForge",
+      "version_number": "1.11.3",
+      "changelog": "## What's Changed\r\n- Fix frustumculling not using whitelist, Fix frustum-culling using the uninflated hitbox. Fix [#341](https://github.com/tr7zw/EntityCulling/issues/341). This should fix any weird pop-in/outs happening when just turning the camera\r\n- Make the entity reference weak to prevent leaks caused by Fabric API. Fix [#6](https://github.com/tr7zw/TRansition/issues/6) . Over multiple corners, TRansition(one of my libs) with FabricAPI caused a leak of the entire level when leaving a world, wasting memory. \r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.2...1.11.3\n",
+      "changelog_url": null,
+      "date_published": "2026-10-08T16:52:03.416509Z",
+      "downloads": 132465,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VZ418MMC",
+          "hashes": {
+            "sha1": "f122f84f329793675b2625d51b77f990d7de3579",
+            "sha512": "93e83dd690b91d610be29451b34836c9daa7e08bd952f88ffa07c62d8774bbaac2ff0c6768d2cbf1b14f47d0b86f98cef9fd341e0d29bd37207eaf4aa2abea63"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/eieYbWYb/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.11.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 1510075,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "yllJFBpU",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.3-1.21.1 - Fabric",
+      "version_number": "1.11.3",
+      "changelog": "## What's Changed\r\n- Fix frustumculling not using whitelist, Fix frustum-culling using the uninflated hitbox. Fix [#341](https://github.com/tr7zw/EntityCulling/issues/341). This should fix any weird pop-in/outs happening when just turning the camera\r\n- Make the entity reference weak to prevent leaks caused by Fabric API. Fix [#6](https://github.com/tr7zw/TRansition/issues/6) . Over multiple corners, TRansition(one of my libs) with FabricAPI caused a leak of the entire level when leaving a world, wasting memory. \r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.2...1.11.3\n",
+      "changelog_url": null,
+      "date_published": "2026-10-08T16:52:00.591341Z",
+      "downloads": 139931,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "w7r9l6Eh",
+          "hashes": {
+            "sha1": "5a65a3944e32cc57b73b0f208d15d16fe9df4ed1",
+            "sha512": "51cc760b886f53a8469f5f87098688c8e00a70e9499f4146908f676dc95c78bbfd6de6ddab124e5ba8c1057335c3727c24243af2807497c6e4b05cb2da811364"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.11.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 1519243,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "lWf0fUMm",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.3-1.21.1 - Forge",
+      "version_number": "1.11.3",
+      "changelog": "## What's Changed\r\n- Fix frustumculling not using whitelist, Fix frustum-culling using the uninflated hitbox. Fix [#341](https://github.com/tr7zw/EntityCulling/issues/341). This should fix any weird pop-in/outs happening when just turning the camera\r\n- Make the entity reference weak to prevent leaks caused by Fabric API. Fix [#6](https://github.com/tr7zw/TRansition/issues/6) . Over multiple corners, TRansition(one of my libs) with FabricAPI caused a leak of the entire level when leaving a world, wasting memory. \r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.2...1.11.3\n",
+      "changelog_url": null,
+      "date_published": "2026-10-08T16:52:00.466412Z",
+      "downloads": 5476,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "y0BuHieJ",
+          "hashes": {
+            "sha512": "2ec19b48abeff9767ff58d3f49fabb348ed54b7b025734a0f4ec9c01919b6e3c99657ba58517b549ce0d20a4f636f764ef6cd1ccc9d1a06c7f02b92a48da2165",
+            "sha1": "6bf0761b3da652648e74f916a4509cebfba7330d"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/lWf0fUMm/entityculling-forge-1.11.3-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.11.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 1511281,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "8w8FfUPs",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.2-1.21.1 - NeoForge",
+      "version_number": "1.11.2",
+      "changelog": "## Hotfix 1.11.2\r\n* Use own var to store BlockPos.\r\n   * Fixes older mc versions < 1.21.1? not culling BlockEntities at all due to silent failure in prod envs\r\n   * Fixes game crashing with \"Kaleidoscope Cookery Refabricated\"\r\n   \r\nCompatibility note: Create: Nowheel 2.0.0 needs to be updated to be compatible with 1.11.0+ of EntityCulling\r\n\r\n## Hotfix 1.11.1\r\n* Missing interpolation of tick culled entities in 26.3 causes invisibility and fast movements. Fix [#330](https://github.com/tr7zw/EntityCulling/issues/330) Fix [#328](https://github.com/tr7zw/EntityCulling/issues/328) Fix [#326](https://github.com/tr7zw/EntityCulling/issues/326)\r\n* Fix older Neoforge versions. Fix [#329](https://github.com/tr7zw/EntityCulling/issues/329)\r\n* Never cull the local player, preventing crashing, for example, during freecam in 26.3\r\n\r\n## What's Changed 1.11.0\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.1...1.11.2\n",
+      "changelog_url": null,
+      "date_published": "2026-09-21T19:46:52.810258Z",
+      "downloads": 323447,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9y0QX4Xu",
+          "hashes": {
+            "sha1": "2f723582d44b60b41d701a797846eaa45a3fef58",
+            "sha512": "dbb40066796ea54bfe902251ccbe743770e3fa9da555fa762da56b3f0427d4a24d3790a8c224519955185a8d1e17fbad462cd314c3acb998b9fc2c8fec257f7a"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 1510018,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "5l06eOSc",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.2-1.21.1 - Forge",
+      "version_number": "1.11.2",
+      "changelog": "## Hotfix 1.11.2\r\n* Use own var to store BlockPos.\r\n   * Fixes older mc versions < 1.21.1? not culling BlockEntities at all due to silent failure in prod envs\r\n   * Fixes game crashing with \"Kaleidoscope Cookery Refabricated\"\r\n   \r\nCompatibility note: Create: Nowheel 2.0.0 needs to be updated to be compatible with 1.11.0+ of EntityCulling\r\n\r\n## Hotfix 1.11.1\r\n* Missing interpolation of tick culled entities in 26.3 causes invisibility and fast movements. Fix [#330](https://github.com/tr7zw/EntityCulling/issues/330) Fix [#328](https://github.com/tr7zw/EntityCulling/issues/328) Fix [#326](https://github.com/tr7zw/EntityCulling/issues/326)\r\n* Fix older Neoforge versions. Fix [#329](https://github.com/tr7zw/EntityCulling/issues/329)\r\n* Never cull the local player, preventing crashing, for example, during freecam in 26.3\r\n\r\n## What's Changed 1.11.0\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.1...1.11.2\n",
+      "changelog_url": null,
+      "date_published": "2026-09-21T19:46:51.395314Z",
+      "downloads": 12164,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qt3DBB6C",
+          "hashes": {
+            "sha512": "bf14f1a46c51e367cd94ba06522add16122c1c84ffe9c285a20e0e2f39af9d9c00c8c8f40559019474b0ab22d6efd166951d4f6346ad82b289d98e8c394b3b68",
+            "sha1": "cb3d2d5d001b58398a0bbbe4be8d652fdf270e5f"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5l06eOSc/entityculling-forge-1.11.2-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.11.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 1511225,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "AaC52CuD",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.2-1.21.1 - Fabric",
+      "version_number": "1.11.2",
+      "changelog": "## Hotfix 1.11.2\r\n* Use own var to store BlockPos.\r\n   * Fixes older mc versions < 1.21.1? not culling BlockEntities at all due to silent failure in prod envs\r\n   * Fixes game crashing with \"Kaleidoscope Cookery Refabricated\"\r\n   \r\nCompatibility note: Create: Nowheel 2.0.0 needs to be updated to be compatible with 1.11.0+ of EntityCulling\r\n\r\n## Hotfix 1.11.1\r\n* Missing interpolation of tick culled entities in 26.3 causes invisibility and fast movements. Fix [#330](https://github.com/tr7zw/EntityCulling/issues/330) Fix [#328](https://github.com/tr7zw/EntityCulling/issues/328) Fix [#326](https://github.com/tr7zw/EntityCulling/issues/326)\r\n* Fix older Neoforge versions. Fix [#329](https://github.com/tr7zw/EntityCulling/issues/329)\r\n* Never cull the local player, preventing crashing, for example, during freecam in 26.3\r\n\r\n## What's Changed 1.11.0\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.1...1.11.2\n",
+      "changelog_url": null,
+      "date_published": "2026-09-21T19:46:50.532602Z",
+      "downloads": 179729,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1zAYJlYM",
+          "hashes": {
+            "sha1": "c400f3fb5f8668f99cdb52b5d4f92d11b4e3edf1",
+            "sha512": "6b948d411ce48354797276f9c2de479c9eda74084554cce3b634e884d3d6845ef27fd56f99707afd1fc95b2f84e67380db9d07e20492feb43a9f99b5d524f7cb"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/AaC52CuD/entityculling-fabric-1.11.2-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.11.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 1519213,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "RMi7ywBj",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.1-1.21.1 - NeoForge",
+      "version_number": "1.11.1",
+      "changelog": "## Hotfix 1.11.1\r\n* Missing interpolation of tick culled entities in 26.3 causes invisibility and fast movements. Fix [#330](https://github.com/tr7zw/EntityCulling/issues/330) Fix [#328](https://github.com/tr7zw/EntityCulling/issues/328) Fix [#326](https://github.com/tr7zw/EntityCulling/issues/326)\r\n* Fix older Neoforge versions. Fix [#329](https://github.com/tr7zw/EntityCulling/issues/329)\r\n* Never cull the local player, preventing crashing, for example, during freecam in 26.3\r\n\r\n## What's Changed 1.11.0\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.0...1.11.1\n",
+      "changelog_url": null,
+      "date_published": "2026-09-20T09:37:15.079505Z",
+      "downloads": 30073,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1eucqhxz",
+          "hashes": {
+            "sha512": "4be3c864d0c3155d8bbfd664b247fe3fdcfb25731aa03cf95b93515384789b90e0f353f4f8486a7cd11247ab271c0a19e3a5092be408b8e3c9a80fd5d4f68820",
+            "sha1": "3531eb68fece9019590dda3607ad15b93ee17186"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/RMi7ywBj/entityculling-neoforge-1.11.1-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.11.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 1509973,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "tQtnWxfH",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.1-1.21.1 - Forge",
+      "version_number": "1.11.1",
+      "changelog": "## Hotfix 1.11.1\r\n* Missing interpolation of tick culled entities in 26.3 causes invisibility and fast movements. Fix [#330](https://github.com/tr7zw/EntityCulling/issues/330) Fix [#328](https://github.com/tr7zw/EntityCulling/issues/328) Fix [#326](https://github.com/tr7zw/EntityCulling/issues/326)\r\n* Fix older Neoforge versions. Fix [#329](https://github.com/tr7zw/EntityCulling/issues/329)\r\n* Never cull the local player, preventing crashing, for example, during freecam in 26.3\r\n\r\n## What's Changed 1.11.0\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.0...1.11.1\n",
+      "changelog_url": null,
+      "date_published": "2026-09-20T09:37:14.479283Z",
+      "downloads": 803,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HMq6jEiL",
+          "hashes": {
+            "sha1": "51a5bee7492ff3f3ea6ea36a50ca730910a24bd9",
+            "sha512": "b4a745ee37a4988c1e8551e3cf547ade8fe3fab213ee0141f13761771d1e78fd0b9c5c414e28369dddff26e04a9a3a08fe585fb1c5bfb80d2c961242d4996973"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/tQtnWxfH/entityculling-forge-1.11.1-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.11.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 1511179,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "GcPS7MWk",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.1-1.21.1 - Fabric",
+      "version_number": "1.11.1",
+      "changelog": "## Hotfix 1.11.1\r\n* Missing interpolation of tick culled entities in 26.3 causes invisibility and fast movements. Fix [#330](https://github.com/tr7zw/EntityCulling/issues/330) Fix [#328](https://github.com/tr7zw/EntityCulling/issues/328) Fix [#326](https://github.com/tr7zw/EntityCulling/issues/326)\r\n* Fix older Neoforge versions. Fix [#329](https://github.com/tr7zw/EntityCulling/issues/329)\r\n* Never cull the local player, preventing crashing, for example, during freecam in 26.3\r\n\r\n## What's Changed 1.11.0\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.11.0...1.11.1\n",
+      "changelog_url": null,
+      "date_published": "2026-09-20T09:37:14.166906Z",
+      "downloads": 20349,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XJ8OoLnX",
+          "hashes": {
+            "sha1": "804a1c1974a4d606160f1f7a86efdaee58f56dcb",
+            "sha512": "1394b59cd3af11f6809dd62e2720f55fa471f686f2d727d97bb7d2ba1867a986f7c2f95420cfc9189afbe49259b515d5f3e178e3dcaa4523b027ec8d0663a15b"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/GcPS7MWk/entityculling-fabric-1.11.1-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.11.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 1519171,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "IDtHA7MV",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.0-1.21.1 - NeoForge",
+      "version_number": "1.11.0",
+      "changelog": "## What's Changed\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.5...1.11.0\n",
+      "changelog_url": null,
+      "date_published": "2026-09-19T19:55:07.184945Z",
+      "downloads": 10321,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "z2xLmDrZ",
+          "hashes": {
+            "sha1": "07c8a925d4ed7a715896b12273ea16b05f68f05f",
+            "sha512": "3993b84154cd902147a585324980d04085cc5e96ba9708ccf7c820a744e227caecdab918d95f1c3fbf8a70e83c9fba08fff83f4bfe4a5a6efe9b87929e7f1036"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/IDtHA7MV/entityculling-neoforge-1.11.0-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.11.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 1509892,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "qmWRsWqs",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.0-1.21.1 - Forge",
+      "version_number": "1.11.0",
+      "changelog": "## What's Changed\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.5...1.11.0\n",
+      "changelog_url": null,
+      "date_published": "2026-09-19T19:55:06.910138Z",
+      "downloads": 276,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HKro940G",
+          "hashes": {
+            "sha1": "fc0e02eb91e3329f31d168481284c238f15c4cbe",
+            "sha512": "4ff05c156f023e3bbb161e479a01056a9a2a6146b09a6f2ddc72d0e4cfe571dd5314e70e6e30c87d677f8701d69c6bd592b3412443508fe2a397d78bf6606210"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/qmWRsWqs/entityculling-forge-1.11.0-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.11.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 1511097,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "1IyMQfxb",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.11.0-1.21.1 - Fabric",
+      "version_number": "1.11.0",
+      "changelog": "## What's Changed\r\n* Add 26.3 Fabric/NeoForge\r\n* Add 26.2 NeoForge\r\n* Fully unhooked the Cull Thread from the Entity gamelogic (see below)\r\n* Fix NeoForge not using the getRenderBoundingBox method for BlockEntities\r\n* Add getRenderBoundingBox method for fabric. Fix [#313](https://github.com/tr7zw/EntityCulling/issues/313)\r\n* Fix debug flag confusion\r\n* Formatting, optimize icon [#309](https://github.com/tr7zw/EntityCulling/issues/309)\r\n* Create en_ud.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/310\r\n* Update id_id.json by @nunoguevara in https://github.com/tr7zw/EntityCulling/pull/308\r\n* Respect name display distances for culled entities by @artegoser in https://github.com/tr7zw/EntityCulling/pull/316\r\n* All builds <= 1.12.2 got moved into a repo located at https://github.com/tr7zw/Legacy_EntityCulling\r\n\r\n## New Contributors\r\n* @nunoguevara made their first contribution in https://github.com/tr7zw/EntityCulling/pull/308\r\n* @artegoser made their first contribution in https://github.com/tr7zw/EntityCulling/pull/316\r\n\r\n## Note\r\nThis release contains a bunch of reworks around extracting the required (block)entity data on the main thread to prevent crashes with some other mods that can't handle the async looking up of data. These \"correctness\" fixes come at the cost of performance in the main client tick, so it is a tradeoff. In my tests, during reasonable conditions, this should take under 1ms every 5 ticks (250ms), up from ~0.5ms in the last release. This should be fine but needs general testing to better understand the impact. If you are experiencing issues, get in contact via GitHub/Discord. In case you are feeling adventurous and have a mod configuration that isn't impacted by these async access crashes, there is a ``safeMode`` flag in the config file to move all the lookups away from the main thread, removing all the overhead.\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.5...1.11.0\n",
+      "changelog_url": null,
+      "date_published": "2026-09-19T19:52:59.632782Z",
+      "downloads": 8484,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Yzspkc8g",
+          "hashes": {
+            "sha512": "08bed569c935f85f8521ca228feaf9a78025246c44652d4ec2a00f9e751d28ce7b61c2d2edc38bfa39ac36c1703540bea59c846f1a942348a159f0b90dddaacc",
+            "sha1": "4148fca9c9a4c8997d3e11235264642c02deb4bb"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1IyMQfxb/entityculling-fabric-1.11.0-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.11.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 1519089,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "5zRIon6w",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.5-1.21.1 - NeoForge",
+      "version_number": "1.10.5",
+      "changelog": "## What's changed\r\n* Fix older Neoforge versions crashing on startup due to keybinds. Fix [#307](https://github.com/tr7zw/EntityCulling/issues/307)\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.4...1.10.5\n",
+      "changelog_url": null,
+      "date_published": "2026-06-20T14:41:50.863801Z",
+      "downloads": 2400912,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YvLncJWU",
+          "hashes": {
+            "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
+            "sha512": "0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+          "primary": true,
+          "size": 1585287,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "wrIoFQiH",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.5-1.21.1 - Forge",
+      "version_number": "1.10.5",
+      "changelog": "## What's changed\r\n* Fix older Neoforge versions crashing on startup due to keybinds. Fix [#307](https://github.com/tr7zw/EntityCulling/issues/307)\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.4...1.10.5\n",
+      "changelog_url": null,
+      "date_published": "2026-06-20T14:41:49.394799Z",
+      "downloads": 64938,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XDX4pZuZ",
+          "hashes": {
+            "sha1": "6ac689ce20cc6b782ca2ea3541ec72e949ca4c8e",
+            "sha512": "d7c6d8b3e277d387cbe6028f27211c6da3aeb3d8c6dbe8a92f7a3d5ed171c82a3ca08914e11534780b6756ff501a883eb250073a2a499e26dffc302a6f720914"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/wrIoFQiH/entityculling-forge-1.10.5-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.10.5-mc1.21.1.jar",
+          "primary": true,
+          "size": 1586508,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "hsWvcyFJ",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.5-1.21.1 - Fabric",
+      "version_number": "1.10.5",
+      "changelog": "## What's changed\r\n* Fix older Neoforge versions crashing on startup due to keybinds. Fix [#307](https://github.com/tr7zw/EntityCulling/issues/307)\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.4...1.10.5\n",
+      "changelog_url": null,
+      "date_published": "2026-06-20T14:41:49.364596Z",
+      "downloads": 3072390,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FLTs6tnQ",
+          "hashes": {
+            "sha1": "7e8c9c44049e6575e75d1fe38d6006306b8d5623",
+            "sha512": "5072ddbfc8dbbef450cd80b1e4824a9bd9a5e084ac285eea15f92baef47ab2bf4c37991ec68b56cee47c8b29905ca699f79676ae1c6c964cc92632d2761dd21a"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.10.5-mc1.21.1.jar",
+          "primary": true,
+          "size": 1595131,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "VEj2SUh8",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.4-1.21.1 - NeoForge",
+      "version_number": "1.10.4",
+      "changelog": "## What's changed\r\n* Fix 26.1.x NeoForge key binds\r\n* Fix incomplete CurseForge deploy\r\n* Cinematic Cataclysm compatibility & whitelists alphabetical order by @Redls07 in https://github.com/tr7zw/EntityCulling/pull/306\r\n* Force refresh the lists in the config, because for some people with older installs it has become really outdated\r\n\r\n## Known issues\r\n* 26.2.x NeoForge will be released at a later point, it is so broken right now, that I can't even boot it\r\n\r\n## New Contributors\r\n* @Redls07 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/306\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.3...1.10.4\n",
+      "changelog_url": null,
+      "date_published": "2026-06-18T18:39:44.704712Z",
+      "downloads": 45724,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fkbG4vH2",
+          "hashes": {
+            "sha1": "36b5cfbc67226cdee6776a566d0fab8844059221",
+            "sha512": "1c59eca1680d9eab3541ee1ef316d79a9513229b6265e8e618ff130f0aaa1fd7c54d43ad88e6bf3bf5cd316213447955a7dcfb3f47e759119505de6a46569591"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/VEj2SUh8/entityculling-neoforge-1.10.4-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.10.4-mc1.21.1.jar",
+          "primary": true,
+          "size": 1585350,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "RBLYcu7h",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.4-1.21.1 - Forge",
+      "version_number": "1.10.4",
+      "changelog": "## What's changed\r\n* Fix 26.1.x NeoForge key binds\r\n* Fix incomplete CurseForge deploy\r\n* Cinematic Cataclysm compatibility & whitelists alphabetical order by @Redls07 in https://github.com/tr7zw/EntityCulling/pull/306\r\n* Force refresh the lists in the config, because for some people with older installs it has become really outdated\r\n\r\n## Known issues\r\n* 26.2.x NeoForge will be released at a later point, it is so broken right now, that I can't even boot it\r\n\r\n## New Contributors\r\n* @Redls07 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/306\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.3...1.10.4\n",
+      "changelog_url": null,
+      "date_published": "2026-06-18T18:39:44.038995Z",
+      "downloads": 1857,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gwimqf8t",
+          "hashes": {
+            "sha1": "edde0b182448161abf260db3f7a4ef47f227279e",
+            "sha512": "33bccb3c39b4d1c8aaa9020671dcefc2acc23aaacd99168bbcec6c8a557773f6c1efc30463f937ea806a0a0ba78779eb22f4f8830871f4ac10064dace30dc887"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/RBLYcu7h/entityculling-forge-1.10.4-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.10.4-mc1.21.1.jar",
+          "primary": true,
+          "size": 1586507,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "KIGLGgx3",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.4-1.21.1 - Fabric",
+      "version_number": "1.10.4",
+      "changelog": "## What's changed\r\n* Fix 26.1.x NeoForge key binds\r\n* Fix incomplete CurseForge deploy\r\n* Cinematic Cataclysm compatibility & whitelists alphabetical order by @Redls07 in https://github.com/tr7zw/EntityCulling/pull/306\r\n* Force refresh the lists in the config, because for some people with older installs it has become really outdated\r\n\r\n## Known issues\r\n* 26.2.x NeoForge will be released at a later point, it is so broken right now, that I can't even boot it\r\n\r\n## New Contributors\r\n* @Redls07 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/306\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.3...1.10.4\n",
+      "changelog_url": null,
+      "date_published": "2026-06-18T18:39:44.002485Z",
+      "downloads": 32504,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "x7MgHlWY",
+          "hashes": {
+            "sha512": "4627de490246f63f0eda947fe774dfc6223be92f1802e7f50d284aec6d34c9c1aa059a451bbbed0754b17cd494fd057d26d59e880bb7050c686c9f25a0baa28d",
+            "sha1": "fc2345c913881ed080d3071ad01db271fa3af944"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/KIGLGgx3/entityculling-fabric-1.10.4-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.10.4-mc1.21.1.jar",
+          "primary": true,
+          "size": 1595131,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "pcxOr0dj",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.3-1.21.1 - NeoForge",
+      "version_number": "1.10.3",
+      "changelog": "## What's Changed\r\n* Add 26.2.x Fabric\r\n* Add 26.1.x NeoForge \r\n* bug: Update default config to not break Create Big Cannons entities by @rbasamoyai in https://github.com/tr7zw/EntityCulling/pull/304\r\n* Update zh-cn by @NumberSir in https://github.com/tr7zw/EntityCulling/pull/302\r\n* Once again reworked build scripts, please report any issues caused by this update \r\n\r\n## Known issues\r\n* 26.1.x NeoForge doesn't show keybinds\r\n* 26.2.x NeoForge will be released at a later point \r\n\r\n## New Contributors\r\n* @rbasamoyai made their first contribution in https://github.com/tr7zw/EntityCulling/pull/304\r\n* @NumberSir made their first contribution in https://github.com/tr7zw/EntityCulling/pull/302\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.2...1.10.3\n",
+      "changelog_url": null,
+      "date_published": "2026-06-16T17:35:21.653089Z",
+      "downloads": 55434,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "erSzc5lw",
+          "hashes": {
+            "sha512": "8e6927aed5c18f54ebb5d1b0143e3372f97aa5e1796c3769bc49a239b4d4442ff3b42b8f279f698a43acc83795f436a6add2d368d8964f0f8cadc317bc3323f1",
+            "sha1": "0e8e5018b8ca0c881c91bc8fe0ce6a7f16d63854"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/pcxOr0dj/entityculling-neoforge-1.10.3-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.10.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 1584335,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "tzwu1cAB",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.3-1.21.1 - Forge",
+      "version_number": "1.10.3",
+      "changelog": "## What's Changed\r\n* Add 26.2.x Fabric\r\n* Add 26.1.x NeoForge \r\n* bug: Update default config to not break Create Big Cannons entities by @rbasamoyai in https://github.com/tr7zw/EntityCulling/pull/304\r\n* Update zh-cn by @NumberSir in https://github.com/tr7zw/EntityCulling/pull/302\r\n* Once again reworked build scripts, please report any issues caused by this update \r\n\r\n## Known issues\r\n* 26.1.x NeoForge doesn't show keybinds\r\n* 26.2.x NeoForge will be released at a later point \r\n\r\n## New Contributors\r\n* @rbasamoyai made their first contribution in https://github.com/tr7zw/EntityCulling/pull/304\r\n* @NumberSir made their first contribution in https://github.com/tr7zw/EntityCulling/pull/302\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.2...1.10.3\n",
+      "changelog_url": null,
+      "date_published": "2026-06-16T17:35:19.786377Z",
+      "downloads": 1445,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "32suFcYO",
+          "hashes": {
+            "sha512": "75a264a76173e1364ee918283595703de1aa9abb75756d658fea9c324452d82f040f731938ae76f3bdbd3036a8477dba80119219ad84838a1d5ca76a29b7b8cb",
+            "sha1": "128e415ad8b0ec039b1e4ca7df2ae80b5a28a5ab"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/tzwu1cAB/entityculling-forge-1.10.3-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.10.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 1585575,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "WQdwjoRP",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.3-1.21.1 - Fabric",
+      "version_number": "1.10.3",
+      "changelog": "## What's Changed\r\n* Add 26.2.x Fabric\r\n* Add 26.1.x NeoForge \r\n* bug: Update default config to not break Create Big Cannons entities by @rbasamoyai in https://github.com/tr7zw/EntityCulling/pull/304\r\n* Update zh-cn by @NumberSir in https://github.com/tr7zw/EntityCulling/pull/302\r\n* Once again reworked build scripts, please report any issues caused by this update \r\n\r\n## Known issues\r\n* 26.1.x NeoForge doesn't show keybinds\r\n* 26.2.x NeoForge will be released at a later point \r\n\r\n## New Contributors\r\n* @rbasamoyai made their first contribution in https://github.com/tr7zw/EntityCulling/pull/304\r\n* @NumberSir made their first contribution in https://github.com/tr7zw/EntityCulling/pull/302\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.2...1.10.3\n",
+      "changelog_url": null,
+      "date_published": "2026-06-16T17:35:19.354312Z",
+      "downloads": 54152,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MeCvZ0iD",
+          "hashes": {
+            "sha512": "fd3d3191f82da7a7925b2aad7ac29576bcc920b3b5fa5bc22640f5b2ba3559faa62c9f04f302b5bec96bf1df432d264c6c258d9e19795b57522ffae9aa7971f6",
+            "sha1": "a6cb66a5d47766b0f3bac7cdb477b6de5d261c80"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/WQdwjoRP/entityculling-fabric-1.10.3-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.10.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 1594188,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "2tOn8XA2",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.2-1.21.1 - NeoForge",
+      "version_number": "1.10.2",
+      "changelog": "## What's Changed\r\n* Add new option to make leaves solid for culling (use with ``See-Through Leaves`` on Off or when using a bushy leaves resource pack)\r\n* Added support for the Lunar Client\r\n* Update pl_pl.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/297\r\n* Update fr_fr.json v0.0.2 by @XtraBe in https://github.com/tr7zw/EntityCulling/pull/293\r\n\r\n## New Contributors\r\n* @Fhilips613 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/297\r\n* @XtraBe made their first contribution in https://github.com/tr7zw/EntityCulling/pull/293\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.1...1.10.2\n",
+      "changelog_url": null,
+      "date_published": "2026-05-07T17:02:07.192469Z",
+      "downloads": 1915931,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZU7ecsRh",
+          "hashes": {
+            "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca",
+            "sha512": "237b9cb0df379341d27e22d20f9c87d1ec5bab571131df5d481da7f19450e0dd9eb42c0a5d6cccc913975f72ff4acf2af356765ff07383b20f3357b07db4bb2d"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/2tOn8XA2/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 1582824,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "cwzntbDs",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.2-1.21.1 - Forge",
+      "version_number": "1.10.2",
+      "changelog": "## What's Changed\r\n* Add new option to make leaves solid for culling (use with ``See-Through Leaves`` on Off or when using a bushy leaves resource pack)\r\n* Added support for the Lunar Client\r\n* Update pl_pl.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/297\r\n* Update fr_fr.json v0.0.2 by @XtraBe in https://github.com/tr7zw/EntityCulling/pull/293\r\n\r\n## New Contributors\r\n* @Fhilips613 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/297\r\n* @XtraBe made their first contribution in https://github.com/tr7zw/EntityCulling/pull/293\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.1...1.10.2\n",
+      "changelog_url": null,
+      "date_published": "2026-05-07T17:02:07.095856Z",
+      "downloads": 21376,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "y4aKeHa4",
+          "hashes": {
+            "sha1": "8450c06ca0df073a9580e4ac72daab306d52b104",
+            "sha512": "45980b5a8d9747332dab8126cbfbc09f2d870dffb6a16c813e6ad7e1918f188add6202d892a637ad19f9fab5601851919015f6677a5ee183f700cdeaa776caf4"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/cwzntbDs/entityculling-forge-1.10.2-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.10.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 1584069,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "FX8eJJiJ",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.2-1.21.1 - Fabric",
+      "version_number": "1.10.2",
+      "changelog": "## What's Changed\r\n* Add new option to make leaves solid for culling (use with ``See-Through Leaves`` on Off or when using a bushy leaves resource pack)\r\n* Added support for the Lunar Client\r\n* Update pl_pl.json by @Fhilips613 in https://github.com/tr7zw/EntityCulling/pull/297\r\n* Update fr_fr.json v0.0.2 by @XtraBe in https://github.com/tr7zw/EntityCulling/pull/293\r\n\r\n## New Contributors\r\n* @Fhilips613 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/297\r\n* @XtraBe made their first contribution in https://github.com/tr7zw/EntityCulling/pull/293\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.1...1.10.2\n",
+      "changelog_url": null,
+      "date_published": "2026-05-07T17:02:05.800132Z",
+      "downloads": 748537,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "s2hVitKR",
+          "hashes": {
+            "sha1": "7d78734241d291d2abea47ffacb4ea377cf83982",
+            "sha512": "79800c1dd21835c4f2ec09afda271eb7f84071e14bb0aaf0972beb9181fd4911cc98cbd9549888938fbce79e28bfc8bd0b24ef350dda14303d9b5bc5597d82df"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/FX8eJJiJ/entityculling-fabric-1.10.2-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.10.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 1592870,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "LrKSuU8e",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.1-1.21.1 - NeoForge",
+      "version_number": "1.10.1",
+      "changelog": "Sorry for the delay.\r\n\r\n## What's Changed\r\n* Set 26.1.x as compatible (like 26.1.1/26.1.2, in the potential future 26.1.3)\r\n* Added some new debug tools, but its WIP\r\n* Update libs to fix stuff like broken controls\r\n* Set client-side/java version flags on Curseforge\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/287\r\n\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.0...1.10.1\n",
+      "changelog_url": null,
+      "date_published": "2026-04-09T16:06:28.565697Z",
+      "downloads": 937452,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pb6SyUdj",
+          "hashes": {
+            "sha512": "dc3c746929c454ca0bebf0b06788f20896a0f3a477150b4ce23399054eecd831ee6b0bd14edadf6a3f921eb695ae13c1a20b70d72d7f78bd6dda07ffa6e0e304",
+            "sha1": "68759da313caf8990bcd5d961bc691fa85fa3f0e"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/LrKSuU8e/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.10.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 1578350,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "IBR6Hsg2",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.1-1.21.1 - Forge",
+      "version_number": "1.10.1",
+      "changelog": "Sorry for the delay.\r\n\r\n## What's Changed\r\n* Set 26.1.x as compatible (like 26.1.1/26.1.2, in the potential future 26.1.3)\r\n* Added some new debug tools, but its WIP\r\n* Update libs to fix stuff like broken controls\r\n* Set client-side/java version flags on Curseforge\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/287\r\n\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.0...1.10.1\n",
+      "changelog_url": null,
+      "date_published": "2026-04-09T16:06:27.470466Z",
+      "downloads": 11680,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KrGSbtW5",
+          "hashes": {
+            "sha1": "2ec4ffa3458573410d3d2794a3735bd1c7cad491",
+            "sha512": "fcee9d43661a3f5aaf86763c2f104835a5fd28dfa69388e8b3de5fdc8990956906654ff0906abd156b98629826df4dfb75b1b82e86154dcdb83d8a9ffdac7e13"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/IBR6Hsg2/entityculling-forge-1.10.1-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.10.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 1579312,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "umue6GAJ",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.1-1.21.1 - Fabric",
+      "version_number": "1.10.1",
+      "changelog": "Sorry for the delay.\r\n\r\n## What's Changed\r\n* Set 26.1.x as compatible (like 26.1.1/26.1.2, in the potential future 26.1.3)\r\n* Added some new debug tools, but its WIP\r\n* Update libs to fix stuff like broken controls\r\n* Set client-side/java version flags on Curseforge\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/287\r\n\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.10.0...1.10.1\n",
+      "changelog_url": null,
+      "date_published": "2026-04-09T16:06:27.359413Z",
+      "downloads": 389264,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hfU0jw8E",
+          "hashes": {
+            "sha512": "57c2db4458d64f47f28e0b753745ff0c62441372432f55454f4a626c3425b264663e0884edbb52e1f6b2545411425056707bd77cfeeac370b9a984f28c38c8c4",
+            "sha1": "6f7234ec1d50f563def59ab05ab44f62c119016b"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/umue6GAJ/entityculling-fabric-1.10.1-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.10.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 1574328,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "f771UfeW",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.0-1.21.1 - NeoForge",
+      "version_number": "1.10.0",
+      "changelog": "## What's Changed\r\n* Add Fabric 26.1 support\r\n* Large build script and lib updates due to 26.1, please report any issues. Enter ``godmode`` into the recipe book for debugging\r\n* Add German translation by @GulutGames in https://github.com/tr7zw/EntityCulling/pull/277\r\n* lang: Update zh_cn.json by @Moralts in https://github.com/tr7zw/EntityCulling/pull/284\r\n\r\n## New Contributors\r\n* @GulutGames made their first contribution in https://github.com/tr7zw/EntityCulling/pull/277\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.5...1.10.0\n",
+      "changelog_url": null,
+      "date_published": "2026-03-25T19:23:11.217903Z",
+      "downloads": 217969,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "90NsbFXi",
+          "hashes": {
+            "sha512": "98406c96eb7d2314d23bfc51c1bb68730d06c5ce668fdf8edc0e1a87f2e1c061aef6f96ad9244fc8eece07c1dceff6a45b5d1401e1abf0920bafd2543bd410b2",
+            "sha1": "3ed524d21dfc679e8f1b9de148c26d49eaf89475"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/f771UfeW/entityculling-neoforge-1.10.0-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.10.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 1573130,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "Q4r7bVsu",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.0-1.21.1 - Forge",
+      "version_number": "1.10.0",
+      "changelog": "## What's Changed\r\n* Add Fabric 26.1 support\r\n* Large build script and lib updates due to 26.1, please report any issues. Enter ``godmode`` into the recipe book for debugging\r\n* Add German translation by @GulutGames in https://github.com/tr7zw/EntityCulling/pull/277\r\n* lang: Update zh_cn.json by @Moralts in https://github.com/tr7zw/EntityCulling/pull/284\r\n\r\n## New Contributors\r\n* @GulutGames made their first contribution in https://github.com/tr7zw/EntityCulling/pull/277\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.5...1.10.0\n",
+      "changelog_url": null,
+      "date_published": "2026-03-25T19:23:10.548618Z",
+      "downloads": 6576,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UtQo0nuc",
+          "hashes": {
+            "sha1": "7415858a96c2c8ed2deb76ae97125e9ef40f6bed",
+            "sha512": "0c70cb923e34678d9c21b52a427588b2850a9aa5675b62a85de7995c7c22ef4e9dfb6af012cce4fd4a12a4104ffad97c7fcba3186af78d593864659ae81c1944"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Q4r7bVsu/entityculling-forge-1.10.0-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.10.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 1574127,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "zzguHbcL",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.10.0-1.21.1 - Fabric",
+      "version_number": "1.10.0",
+      "changelog": "## What's Changed\r\n* Add Fabric 26.1 support\r\n* Large build script and lib updates due to 26.1, please report any issues. Enter ``godmode`` into the recipe book for debugging\r\n* Add German translation by @GulutGames in https://github.com/tr7zw/EntityCulling/pull/277\r\n* lang: Update zh_cn.json by @Moralts in https://github.com/tr7zw/EntityCulling/pull/284\r\n\r\n## New Contributors\r\n* @GulutGames made their first contribution in https://github.com/tr7zw/EntityCulling/pull/277\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.5...1.10.0\n",
+      "changelog_url": null,
+      "date_published": "2026-03-25T19:23:09.759296Z",
+      "downloads": 1122700,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FOp0SGgi",
+          "hashes": {
+            "sha1": "aeeb915fb8d464af917737fbf466ea7f815106a1",
+            "sha512": "edba92c3ff773e1bc069090c9ddc5f34cca978f9dd83e72d6ff3cac9f7b6cee8d9f3158003a540327d0e1d842b40968e17894fc6b03546a61c4501162a56050e"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/zzguHbcL/entityculling-fabric-1.10.0-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.10.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 1569123,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "DwB2BGbW",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.5-1.21.1 - NeoForge",
+      "version_number": "1.9.5",
+      "changelog": "## What's Changed\r\n* Fix nametag inconsistency causing fps loss in later versions\r\n* Added option to force a culling box on unconfigured display entities. This will increase fps on servers/maps that did not configure their displays, but can cause visual issues for really big displays (Default is off)\r\n* Add new translations for block entity culling by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/260\r\n\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.4...1.9.5\n",
+      "changelog_url": null,
+      "date_published": "2025-12-30T15:26:16.331652Z",
+      "downloads": 1102749,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nejiFKUl",
+          "hashes": {
+            "sha512": "09fa3cfcf5c4b57291a0ebeb358e7fc2a3c0247647249f490680ba1c931263e49b55cba3e585606c2ce1e554140db6523b9e831220f03464d401834067ee540c",
+            "sha1": "0b4a085c1b79c86d7054342123a0ce8deaa0b174"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/DwB2BGbW/entityculling-neoforge-1.9.5-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.9.5-mc1.21.1.jar",
+          "primary": true,
+          "size": 1564767,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "pfx60l1P",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.5-1.21.1 - Forge",
+      "version_number": "1.9.5",
+      "changelog": "## What's Changed\r\n* Fix nametag inconsistency causing fps loss in later versions\r\n* Added option to force a culling box on unconfigured display entities. This will increase fps on servers/maps that did not configure their displays, but can cause visual issues for really big displays (Default is off)\r\n* Add new translations for block entity culling by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/260\r\n\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.4...1.9.5\n",
+      "changelog_url": null,
+      "date_published": "2025-12-30T15:26:15.120264Z",
+      "downloads": 32953,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xvDeiHzi",
+          "hashes": {
+            "sha1": "6cf78f138f44ea526bdd312891f89f39c11cbccb",
+            "sha512": "24d3438a0dd4e61c5641aae6eaa43635c4d70af9a66e6dece3c1ec18258d9c38b556e556d96b6302c7bdaa785b0f609149b90c1934a0b3e41606632264fdf2c1"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/pfx60l1P/entityculling-forge-1.9.5-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.9.5-mc1.21.1.jar",
+          "primary": true,
+          "size": 1565916,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "xcyXBGgI",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.5-1.21.1 - Fabric",
+      "version_number": "1.9.5",
+      "changelog": "## What's Changed\r\n* Fix nametag inconsistency causing fps loss in later versions\r\n* Added option to force a culling box on unconfigured display entities. This will increase fps on servers/maps that did not configure their displays, but can cause visual issues for really big displays (Default is off)\r\n* Add new translations for block entity culling by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/260\r\n\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.4...1.9.5\n",
+      "changelog_url": null,
+      "date_published": "2025-12-30T15:26:14.036279Z",
+      "downloads": 7267838,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "N1bewuJO",
+          "hashes": {
+            "sha512": "2a980756192abb8f7841e61017d77b16824752d349348976ba890779a8f556b4a0edb7b392bc5a29b29975342b6b18d8cfde888ae670532ce2418e5943f2009c",
+            "sha1": "dffd306c5aeba040595e2f02badf441db638624b"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/xcyXBGgI/entityculling-fabric-1.9.5-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.9.5-mc1.21.1.jar",
+          "primary": true,
+          "size": 1560675,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "p1xJ9gcC",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.4-1.21.1 - NeoForge",
+      "version_number": "1.9.4",
+      "changelog": "## What's changed\r\n* Add 1.21.11 Fabric/NeoForge support (Forge will be released later once it's out)\r\n* Switched from preprocessor to Stonecutter for building (Please report new issues that show up)\r\n* If you are reading changelogs, you might care about the mod. There is a new options menu on the lib \"TRender\" (hidden on Fabrics mod menu under \"tr7zw Library Modules\" and potentially hidden by the setting at the top \"Libraries: Shown/Hidden\"). It lets you change the UI Style of the config screens, and enable automatic stack trace reporting for my mods. Consider turning this on to help detect and fix issues faster. (No personal identifiable information is collected, just the crash report, loaded mods and versions)\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.3...1.9.4\n",
+      "changelog_url": null,
+      "date_published": "2025-12-09T21:10:10.511600Z",
+      "downloads": 291391,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1ITkmCWO",
+          "hashes": {
+            "sha512": "1c97bcda9ff59b772b89f47beda8c60d08af26984d416af0a065c55b2586f770800e97a7c112bee6debb0cc012697770b62da771b25401be0ec2460476731a8a",
+            "sha1": "d265fdd6f8c052873f098b7acd5db7617f6d7bc0"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/p1xJ9gcC/entityculling-neoforge-1.9.4-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.9.4-mc1.21.1.jar",
+          "primary": true,
+          "size": 1563532,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "ApSSe5ZP",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.4-1.21.1 - Forge",
+      "version_number": "1.9.4",
+      "changelog": "## What's changed\r\n* Add 1.21.11 Fabric/NeoForge support (Forge will be released later once it's out)\r\n* Switched from preprocessor to Stonecutter for building (Please report new issues that show up)\r\n* If you are reading changelogs, you might care about the mod. There is a new options menu on the lib \"TRender\" (hidden on Fabrics mod menu under \"tr7zw Library Modules\" and potentially hidden by the setting at the top \"Libraries: Shown/Hidden\"). It lets you change the UI Style of the config screens, and enable automatic stack trace reporting for my mods. Consider turning this on to help detect and fix issues faster. (No personal identifiable information is collected, just the crash report, loaded mods and versions)\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.3...1.9.4\n",
+      "changelog_url": null,
+      "date_published": "2025-12-09T21:10:09.574468Z",
+      "downloads": 5838,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HQb7wsB8",
+          "hashes": {
+            "sha1": "1d74e0f88cc331a97de67d38f0ae22a478dbe093",
+            "sha512": "94ed9f66ce0ad4184b7c0599c3b4a0c3b7f0787a4d32aa0c658d29b92cd3627b5756efcdb8bc4bbef67c29ab60083f6b15455be6318f4850382ca1b229b8f755"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ApSSe5ZP/entityculling-forge-1.9.4-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.9.4-mc1.21.1.jar",
+          "primary": true,
+          "size": 1564687,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "mJOIGEOM",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.4-1.21.1 - Fabric",
+      "version_number": "1.9.4",
+      "changelog": "## What's changed\r\n* Add 1.21.11 Fabric/NeoForge support (Forge will be released later once it's out)\r\n* Switched from preprocessor to Stonecutter for building (Please report new issues that show up)\r\n* If you are reading changelogs, you might care about the mod. There is a new options menu on the lib \"TRender\" (hidden on Fabrics mod menu under \"tr7zw Library Modules\" and potentially hidden by the setting at the top \"Libraries: Shown/Hidden\"). It lets you change the UI Style of the config screens, and enable automatic stack trace reporting for my mods. Consider turning this on to help detect and fix issues faster. (No personal identifiable information is collected, just the crash report, loaded mods and versions)\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.3...1.9.4\n",
+      "changelog_url": null,
+      "date_published": "2025-12-09T21:10:09.152463Z",
+      "downloads": 1120981,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "b2pJNmEg",
+          "hashes": {
+            "sha1": "5470b8ca2d5ae760febc31906fb0695122975b0f",
+            "sha512": "328a1a23e39fde894ea47c1011b7b672daf20d9180e1c8ad84ecf4f73ebfc7b45fbdea1e23edf000ca0adab75a9a5a7c96d5cc0ce8b61cd209ca544c3c2bd9a4"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/mJOIGEOM/entityculling-fabric-1.9.4-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.9.4-mc1.21.1.jar",
+          "primary": true,
+          "size": 1559420,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "aymdvJn6",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.3-1.21.1 - NeoForge",
+      "version_number": "1.9.3",
+      "changelog": "## What's Changed\r\n* Fix rare race condition crash with Mekanism+Sodium in <=1.21.1 #225 \r\n* Fix marker armor stands having a too small culling box #252 \r\n* Add the \"voidscape:corrupted_pawn\" to the default tick whitelist config\r\n* Fixed log lines about ``Couldn't load ... pack metadata`` in 1.21.9+\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/254\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.2...1.9.3\n",
+      "changelog_url": null,
+      "date_published": "2025-10-30T19:06:01.012974Z",
+      "downloads": 519803,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wATgmtLd",
+          "hashes": {
+            "sha1": "dffecdb172ec6fefb27e68ebd7192b2416d56da9",
+            "sha512": "12ebb7b46088a5603b18759a33c0be0b92629c86336f309be41d510c35ae05a1b359facb2993f51e950d71daf6f3506d8d1952a6704b3dfee8d398261e82ed88"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/aymdvJn6/entityculling-neoforge-1.9.3-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.9.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 474485,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "m9f2wG9p",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.3-1.21.1 - Forge",
+      "version_number": "1.9.3",
+      "changelog": "## What's Changed\r\n* Fix rare race condition crash with Mekanism+Sodium in <=1.21.1 #225 \r\n* Fix marker armor stands having a too small culling box #252 \r\n* Add the \"voidscape:corrupted_pawn\" to the default tick whitelist config\r\n* Fixed log lines about ``Couldn't load ... pack metadata`` in 1.21.9+\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/254\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.2...1.9.3\n",
+      "changelog_url": null,
+      "date_published": "2025-10-30T19:06:00.037600Z",
+      "downloads": 11551,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fDhWDM6V",
+          "hashes": {
+            "sha1": "1b1ddf7bf9437f6ec4582193694a5674047422fc",
+            "sha512": "8e541b2d4327d07213db42b2fd936aeb031d66f6641aba1ede5e4b65b800d2b635dfbe054077dd76fab88aabe02105e658bc3ea4cd73aac9c461a7262563a292"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/m9f2wG9p/entityculling-forge-1.9.3-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.9.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 475697,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "K4vXrboK",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.3-1.21.1 - Fabric",
+      "version_number": "1.9.3",
+      "changelog": "## What's Changed\r\n* Fix rare race condition crash with Mekanism+Sodium in <=1.21.1 #225 \r\n* Fix marker armor stands having a too small culling box #252 \r\n* Add the \"voidscape:corrupted_pawn\" to the default tick whitelist config\r\n* Fixed log lines about ``Couldn't load ... pack metadata`` in 1.21.9+\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/254\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.2...1.9.3\n",
+      "changelog_url": null,
+      "date_published": "2025-10-30T19:06:00.015816Z",
+      "downloads": 2317796,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DjynPONb",
+          "hashes": {
+            "sha1": "f2b94ee52789bb0c50bc28030269a232e354a176",
+            "sha512": "f06043d1130598e504659babe31c16e8912808840e1380aed5ca946ca9ea4effc992ad4f545b6979d6e3a7f39d27b9d4ac0febf02f91c4e0a69d253533f583bc"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/K4vXrboK/entityculling-fabric-1.9.3-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.9.3-mc1.21.1.jar",
+          "primary": true,
+          "size": 470161,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Q17CHgSH",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.2-1.21.1 - NeoForge",
+      "version_number": "1.9.2",
+      "changelog": "## What's Changed\r\n* use interaction entity when possible and fix below name display by @viciscat in https://github.com/tr7zw/EntityCulling/pull/250\r\n* Fix laggy culled name tag movement in 1.21.9+\r\n* Fix invisible armor stands not being culled when they should be. Increases performance in places like the Hypixel Housing lobby\r\n\r\n## New Contributors\r\n* @viciscat made their first contribution in https://github.com/tr7zw/EntityCulling/pull/250\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.1...1.9.2\n",
+      "changelog_url": null,
+      "date_published": "2025-10-19T13:25:45.430376Z",
+      "downloads": 71508,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cOKoeSKq",
+          "hashes": {
+            "sha1": "91dabcc1e1bca9dcd5fb9171a4c9cb1d10c3b775",
+            "sha512": "585b4af104139482842a7e198896c1163f4e34c5d32345dce3ad75e63e66097a14d5677cc512271bfe1dc1e5babf500258ccad07178c9407dbcf163ac156f940"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Q17CHgSH/entityculling-neoforge-1.9.2-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.9.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 473962,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "GfxlODBp",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.2-1.21.1 - Forge",
+      "version_number": "1.9.2",
+      "changelog": "## What's Changed\r\n* use interaction entity when possible and fix below name display by @viciscat in https://github.com/tr7zw/EntityCulling/pull/250\r\n* Fix laggy culled name tag movement in 1.21.9+\r\n* Fix invisible armor stands not being culled when they should be. Increases performance in places like the Hypixel Housing lobby\r\n\r\n## New Contributors\r\n* @viciscat made their first contribution in https://github.com/tr7zw/EntityCulling/pull/250\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.1...1.9.2\n",
+      "changelog_url": null,
+      "date_published": "2025-10-19T13:25:44.596884Z",
+      "downloads": 2820,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1knIOVfG",
+          "hashes": {
+            "sha1": "7480a12aed7cc4726c00e57083e6781f63c960cf",
+            "sha512": "c35962b2c8a48d52e8fd54554ad06ef908d04061047ba226eca802ef11e948eb7298c34dae3619e007ea18098df9b85f6ff4697807f3d7110d27b1e525aad50e"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/GfxlODBp/entityculling-forge-1.9.2-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.9.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 475179,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "er1ZDoWB",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.2-1.21.1 - Fabric",
+      "version_number": "1.9.2",
+      "changelog": "## What's Changed\r\n* use interaction entity when possible and fix below name display by @viciscat in https://github.com/tr7zw/EntityCulling/pull/250\r\n* Fix laggy culled name tag movement in 1.21.9+\r\n* Fix invisible armor stands not being culled when they should be. Increases performance in places like the Hypixel Housing lobby\r\n\r\n## New Contributors\r\n* @viciscat made their first contribution in https://github.com/tr7zw/EntityCulling/pull/250\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.1...1.9.2\n",
+      "changelog_url": null,
+      "date_published": "2025-10-19T13:25:43.856466Z",
+      "downloads": 130009,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IF37HqhO",
+          "hashes": {
+            "sha1": "8c5d3510c6846b379a18a9934d7d08510e63539a",
+            "sha512": "aa9967cbcd71baeb46d2b752b13ce1f23141460b04a702134f909c8f361107302589032f9323a3ea253882b65d2e963454f69972b41b5515706fa5d7f49b0571"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/er1ZDoWB/entityculling-fabric-1.9.2-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.9.2-mc1.21.1.jar",
+          "primary": true,
+          "size": 469696,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "bJtodvkz",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.1-1.21.1 - NeoForge",
+      "version_number": "1.9.1",
+      "changelog": "## What's Changed\r\n* Don't render anything for culled entities in 1.21.9+. Fix https://github.com/tr7zw/EntityCulling/issues/246 , should improve fps\r\n* Reworked nametag logic for 1.21.9+. Fix https://github.com/tr7zw/EntityCulling/issues/243\r\n* Fixed that some entities might get culled that shouldn't be culled\r\n* Banners are 2 tall. Fix https://github.com/tr7zw/EntityCulling/issues/248\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/245\r\n* Add Traditional Chinese translation by @notlin4 in https://github.com/tr7zw/EntityCulling/pull/244\r\n\r\n## New Contributors\r\n* @notlin4 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/244\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.0...1.9.1\n",
+      "changelog_url": null,
+      "date_published": "2025-10-15T18:08:45.555896Z",
+      "downloads": 24711,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EmzgFMe8",
+          "hashes": {
+            "sha1": "210f09d0b909b2cddb6eb425a2dbf595b2b85126",
+            "sha512": "23a15f81318b9d035089af722ad13a5149373cbfcf326129d035afa74251d7eb8d8b241426fdb447848ccc1ae657028cf150281f81c50ea9ac3dbf6d5d09a777"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/bJtodvkz/entityculling-neoforge-1.9.1-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.9.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 474183,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "moDSSCji",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.1-1.21.1 - Forge",
+      "version_number": "1.9.1",
+      "changelog": "## What's Changed\r\n* Don't render anything for culled entities in 1.21.9+. Fix https://github.com/tr7zw/EntityCulling/issues/246 , should improve fps\r\n* Reworked nametag logic for 1.21.9+. Fix https://github.com/tr7zw/EntityCulling/issues/243\r\n* Fixed that some entities might get culled that shouldn't be culled\r\n* Banners are 2 tall. Fix https://github.com/tr7zw/EntityCulling/issues/248\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/245\r\n* Add Traditional Chinese translation by @notlin4 in https://github.com/tr7zw/EntityCulling/pull/244\r\n\r\n## New Contributors\r\n* @notlin4 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/244\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.0...1.9.1\n",
+      "changelog_url": null,
+      "date_published": "2025-10-15T18:08:44.803185Z",
+      "downloads": 1161,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aHmXzlkF",
+          "hashes": {
+            "sha512": "8f0e27e097e90ab2fa658c3316eff82ef08ec087b41c92ae9394f60cf00faf0630cd45c637406dbdb37844f0aadfa1a9f5c28ea750924642d9ed77260fe4937c",
+            "sha1": "6c92ffc048fe3d3a7581c0580f327e5ceda26001"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/moDSSCji/entityculling-forge-1.9.1-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.9.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 475401,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "B7wGMYbi",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.1-1.21.1 - Fabric",
+      "version_number": "1.9.1",
+      "changelog": "## What's Changed\r\n* Don't render anything for culled entities in 1.21.9+. Fix https://github.com/tr7zw/EntityCulling/issues/246 , should improve fps\r\n* Reworked nametag logic for 1.21.9+. Fix https://github.com/tr7zw/EntityCulling/issues/243\r\n* Fixed that some entities might get culled that shouldn't be culled\r\n* Banners are 2 tall. Fix https://github.com/tr7zw/EntityCulling/issues/248\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/245\r\n* Add Traditional Chinese translation by @notlin4 in https://github.com/tr7zw/EntityCulling/pull/244\r\n\r\n## New Contributors\r\n* @notlin4 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/244\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.9.0...1.9.1\n",
+      "changelog_url": null,
+      "date_published": "2025-10-15T18:08:43.742933Z",
+      "downloads": 29011,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5QgmPqFi",
+          "hashes": {
+            "sha1": "a8789be781ada8313ca6eaa264989f5a6a4f293c",
+            "sha512": "7ab6c67042bb2195e6a947d9c3d6ae159f6c12da743c509ae4439c4dca79b568dc72cd514da83b8c4b80101fa29c1e79b7830488375b131679d56d09ddc0e62b"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/B7wGMYbi/entityculling-fabric-1.9.1-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.9.1-mc1.21.1.jar",
+          "primary": true,
+          "size": 469902,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "CbWkacg6",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.0-1.21.1 - NeoForge",
+      "version_number": "1.9.0",
+      "changelog": "## What's Changed\r\n* Add 1.21.10 support (also marked for 1.21.9, please update to 1.21.10, 1.21.9 is not supported)\r\n* Add block entity frustum culling mainly for 1.21.9+ Fabric\r\n* Update 1.21.6 -> 1.21.8 and 1.21 -> 1.21.1. This means the following versions are now unsupported: 1.21(.0), 1.21.6, 1.21.7\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/234\r\n* Add fa_ir by @PawyVile in https://github.com/tr7zw/EntityCulling/pull/239\r\n* Fix grammatical issues in the ReadMe by @mrjasonn in https://github.com/tr7zw/EntityCulling/pull/233\r\n\r\n## New Contributors\r\n* @StarmanMine142 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/234\r\n* @PawyVile made their first contribution in https://github.com/tr7zw/EntityCulling/pull/239\r\n* @mrjasonn made their first contribution in https://github.com/tr7zw/EntityCulling/pull/233\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.2...1.9.0\n",
+      "changelog_url": null,
+      "date_published": "2025-10-07T19:50:40.049025Z",
+      "downloads": 44712,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yl3MBuer",
+          "hashes": {
+            "sha512": "2c57c662c261997d60a0be31f2a53b7cf5b7e49eb210ebee6e3cd171f4d095bd7f9ef896de0d53ee8046a805376ad18bd9439b71dfc485e63cc5758bcb9c8870",
+            "sha1": "40c46f32a458f107e817fd611e2e6d5d5fc34762"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/CbWkacg6/entityculling-neoforge-1.9.0-mc1.21.1.jar",
+          "filename": "entityculling-neoforge-1.9.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 472625,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "JgVTUjQ3",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.0-1.21.1 - Forge",
+      "version_number": "1.9.0",
+      "changelog": "## What's Changed\r\n* Add 1.21.10 support (also marked for 1.21.9, please update to 1.21.10, 1.21.9 is not supported)\r\n* Add block entity frustum culling mainly for 1.21.9+ Fabric\r\n* Update 1.21.6 -> 1.21.8 and 1.21 -> 1.21.1. This means the following versions are now unsupported: 1.21(.0), 1.21.6, 1.21.7\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/234\r\n* Add fa_ir by @PawyVile in https://github.com/tr7zw/EntityCulling/pull/239\r\n* Fix grammatical issues in the ReadMe by @mrjasonn in https://github.com/tr7zw/EntityCulling/pull/233\r\n\r\n## New Contributors\r\n* @StarmanMine142 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/234\r\n* @PawyVile made their first contribution in https://github.com/tr7zw/EntityCulling/pull/239\r\n* @mrjasonn made their first contribution in https://github.com/tr7zw/EntityCulling/pull/233\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.2...1.9.0\n",
+      "changelog_url": null,
+      "date_published": "2025-10-07T19:50:39.529143Z",
+      "downloads": 2071,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GwfEb9HE",
+          "hashes": {
+            "sha512": "79f6d1cef7ef374c640d6c6718dafbb018b886f5180f678890ca123b1c68cb4f4572b29717f0a4f3b881c886e1b3bae6974c98a92f4d2893f99fb3ef67226e11",
+            "sha1": "9877e85f5f352392fa5a70debc35b4673c9ea813"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/JgVTUjQ3/entityculling-forge-1.9.0-mc1.21.1.jar",
+          "filename": "entityculling-forge-1.9.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 473920,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "PjgyUEfm",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.9.0-1.21.1 - Fabric",
+      "version_number": "1.9.0",
+      "changelog": "## What's Changed\r\n* Add 1.21.10 support (also marked for 1.21.9, please update to 1.21.10, 1.21.9 is not supported)\r\n* Add block entity frustum culling mainly for 1.21.9+ Fabric\r\n* Update 1.21.6 -> 1.21.8 and 1.21 -> 1.21.1. This means the following versions are now unsupported: 1.21(.0), 1.21.6, 1.21.7\r\n* Update uk_ua.json by @StarmanMine142 in https://github.com/tr7zw/EntityCulling/pull/234\r\n* Add fa_ir by @PawyVile in https://github.com/tr7zw/EntityCulling/pull/239\r\n* Fix grammatical issues in the ReadMe by @mrjasonn in https://github.com/tr7zw/EntityCulling/pull/233\r\n\r\n## New Contributors\r\n* @StarmanMine142 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/234\r\n* @PawyVile made their first contribution in https://github.com/tr7zw/EntityCulling/pull/239\r\n* @mrjasonn made their first contribution in https://github.com/tr7zw/EntityCulling/pull/233\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.2...1.9.0\n",
+      "changelog_url": null,
+      "date_published": "2025-10-07T19:50:38.735355Z",
+      "downloads": 232250,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hvhFti6Y",
+          "hashes": {
+            "sha512": "02a1275c5aaa9a3baed64c183ffc8ee1410d1a6dd66c9bcccbc822c8186d38649cb43059ef1750715bdd597ea4793d60d9559b02e1fa48429976351dc0b1eaca",
+            "sha1": "d05cfa8057fa6da82c9d94ffcd77e6578a87b3be"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/PjgyUEfm/entityculling-fabric-1.9.0-mc1.21.1.jar",
+          "filename": "entityculling-fabric-1.9.0-mc1.21.1.jar",
+          "primary": true,
+          "size": 468324,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "11PvLmko",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.2-1.21 - NeoForge",
+      "version_number": "1.8.2",
+      "changelog": "## What's Changed\r\n* Add 1.21.8 as compatible version for the 1.21.6 build\r\n* Add lang hu_hu by @bayi in https://github.com/tr7zw/EntityCulling/pull/224\r\n\r\n## New Contributors\r\n* @bayi made their first contribution in https://github.com/tr7zw/EntityCulling/pull/224\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.1...1.8.2\n",
+      "changelog_url": null,
+      "date_published": "2025-07-17T19:31:38.570879Z",
+      "downloads": 670711,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VOWbsDak",
+          "hashes": {
+            "sha1": "47f92b8568158f688456b7e3bee7416e61b14dc3",
+            "sha512": "34f9bbfc1773557b3b1eff0c8bc2e9faea08607d732e0090d260dda9e7738d2864d695596eec2e81f8f3d64d873297b91deb5473e45af466babb718a3ac51d57"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/11PvLmko/entityculling-neoforge-1.8.2-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.8.2-mc1.21.jar",
+          "primary": true,
+          "size": 473832,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "DutsY8u5",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.2-1.21 - Forge",
+      "version_number": "1.8.2",
+      "changelog": "## What's Changed\r\n* Add 1.21.8 as compatible version for the 1.21.6 build\r\n* Add lang hu_hu by @bayi in https://github.com/tr7zw/EntityCulling/pull/224\r\n\r\n## New Contributors\r\n* @bayi made their first contribution in https://github.com/tr7zw/EntityCulling/pull/224\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.1...1.8.2\n",
+      "changelog_url": null,
+      "date_published": "2025-07-17T19:31:37.420796Z",
+      "downloads": 55191,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jIQHx2yl",
+          "hashes": {
+            "sha512": "5372b69af4d394a30d259a9c41230e7757bd1fcdbccd4309adb83e2ea63fbb3954f53b70ad4de7ed7bb9e28281da27e314319c9ab692711b87d5cce414ec6d80",
+            "sha1": "ae4850b188a9d757cdf2f05d44bb5ba64928f112"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/DutsY8u5/entityculling-forge-1.8.2-mc1.21.jar",
+          "filename": "entityculling-forge-1.8.2-mc1.21.jar",
+          "primary": true,
+          "size": 474763,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ivkfruZP",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.2-1.21 - Fabric",
+      "version_number": "1.8.2",
+      "changelog": "## What's Changed\r\n* Add 1.21.8 as compatible version for the 1.21.6 build\r\n* Add lang hu_hu by @bayi in https://github.com/tr7zw/EntityCulling/pull/224\r\n\r\n## New Contributors\r\n* @bayi made their first contribution in https://github.com/tr7zw/EntityCulling/pull/224\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.1...1.8.2\n",
+      "changelog_url": null,
+      "date_published": "2025-07-17T19:31:36.509388Z",
+      "downloads": 1792423,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hj8fvYyk",
+          "hashes": {
+            "sha512": "5b53406eccf6518f6bf0f33c9cafa47745f9d80acf92e97163d1feb107c63634dbf5cd86cb9c1ae55fca865dbd94d3ccb4c2575c4ad934620492d2d550efbe9f",
+            "sha1": "9b21d48e4c95ebf94aac46b5fcd6a4d86fd7cfc7"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ivkfruZP/entityculling-fabric-1.8.2-mc1.21.jar",
+          "filename": "entityculling-fabric-1.8.2-mc1.21.jar",
+          "primary": true,
+          "size": 469193,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Z8Figf1c",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.1-1.21 - NeoForge",
+      "version_number": "1.8.1",
+      "changelog": "## What's Changed\r\n* Add 1.21.7 as supported\r\n* Fix crash with outdated Forge versions\r\n* Defensive copy entity lists to hopefully reduce issues with Sodium and other mods. Please report if this causes any other issues #220\r\n* F3 times are now shown with sub ms precision, added value for main-thread timings\r\n* Update `ru_ru.json` by @mpustovoi in https://github.com/tr7zw/EntityCulling/pull/217\r\n* Update zh_cn.json by @Moralts in https://github.com/tr7zw/EntityCulling/pull/215\r\n* Indonesian Translation by @re-vliz in https://github.com/tr7zw/EntityCulling/pull/216\r\n* Update es_ar.json by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/214\r\n* Update Vietnamese by @godkyo98 in https://github.com/tr7zw/EntityCulling/pull/212\r\n\r\n## New Contributors\r\n* @mpustovoi made their first contribution in https://github.com/tr7zw/EntityCulling/pull/217\r\n* @Moralts made their first contribution in https://github.com/tr7zw/EntityCulling/pull/215\r\n* @re-vliz made their first contribution in https://github.com/tr7zw/EntityCulling/pull/216\r\n* @godkyo98 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/212\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.0...1.8.1\n",
+      "changelog_url": null,
+      "date_published": "2025-07-05T23:08:36.330092Z",
+      "downloads": 57764,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Hlxz3rx2",
+          "hashes": {
+            "sha1": "50b99b4c4eeba810a4f9df11ea401da8b5945d34",
+            "sha512": "3234d1d5a895023d7d13c018db52896cd72b854d1dd5448827ded54b6c17b80e0018730563db86bb9fe83231414ec4c5816b51c02147f0ff9b9e98694b534144"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Z8Figf1c/entityculling-neoforge-1.8.1-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.8.1-mc1.21.jar",
+          "primary": true,
+          "size": 472861,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "ec013Tlo",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.1-1.21 - Forge",
+      "version_number": "1.8.1",
+      "changelog": "## What's Changed\r\n* Add 1.21.7 as supported\r\n* Fix crash with outdated Forge versions\r\n* Defensive copy entity lists to hopefully reduce issues with Sodium and other mods. Please report if this causes any other issues #220\r\n* F3 times are now shown with sub ms precision, added value for main-thread timings\r\n* Update `ru_ru.json` by @mpustovoi in https://github.com/tr7zw/EntityCulling/pull/217\r\n* Update zh_cn.json by @Moralts in https://github.com/tr7zw/EntityCulling/pull/215\r\n* Indonesian Translation by @re-vliz in https://github.com/tr7zw/EntityCulling/pull/216\r\n* Update es_ar.json by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/214\r\n* Update Vietnamese by @godkyo98 in https://github.com/tr7zw/EntityCulling/pull/212\r\n\r\n## New Contributors\r\n* @mpustovoi made their first contribution in https://github.com/tr7zw/EntityCulling/pull/217\r\n* @Moralts made their first contribution in https://github.com/tr7zw/EntityCulling/pull/215\r\n* @re-vliz made their first contribution in https://github.com/tr7zw/EntityCulling/pull/216\r\n* @godkyo98 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/212\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.0...1.8.1\n",
+      "changelog_url": null,
+      "date_published": "2025-07-05T23:08:35.184432Z",
+      "downloads": 4430,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "95u0ZUXx",
+          "hashes": {
+            "sha1": "6a604e245fbf8c6c9776f44cb0f521b8ffe75707",
+            "sha512": "90209a7b8e52d9bde0d5d14775e6688604811745a3c4244745b020328de4e2ea25ec5654ee49d53fe11f30eef0389ad3dab345cb67928cc53e9978781717ca62"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ec013Tlo/entityculling-forge-1.8.1-mc1.21.jar",
+          "filename": "entityculling-forge-1.8.1-mc1.21.jar",
+          "primary": true,
+          "size": 473790,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "84LNy1pR",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.1-1.21 - Fabric",
+      "version_number": "1.8.1",
+      "changelog": "## What's Changed\r\n* Add 1.21.7 as supported\r\n* Fix crash with outdated Forge versions\r\n* Defensive copy entity lists to hopefully reduce issues with Sodium and other mods. Please report if this causes any other issues #220\r\n* F3 times are now shown with sub ms precision, added value for main-thread timings\r\n* Update `ru_ru.json` by @mpustovoi in https://github.com/tr7zw/EntityCulling/pull/217\r\n* Update zh_cn.json by @Moralts in https://github.com/tr7zw/EntityCulling/pull/215\r\n* Indonesian Translation by @re-vliz in https://github.com/tr7zw/EntityCulling/pull/216\r\n* Update es_ar.json by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/214\r\n* Update Vietnamese by @godkyo98 in https://github.com/tr7zw/EntityCulling/pull/212\r\n\r\n## New Contributors\r\n* @mpustovoi made their first contribution in https://github.com/tr7zw/EntityCulling/pull/217\r\n* @Moralts made their first contribution in https://github.com/tr7zw/EntityCulling/pull/215\r\n* @re-vliz made their first contribution in https://github.com/tr7zw/EntityCulling/pull/216\r\n* @godkyo98 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/212\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.8.0...1.8.1\n",
+      "changelog_url": null,
+      "date_published": "2025-07-05T23:08:34.402218Z",
+      "downloads": 250323,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bqgzqkpI",
+          "hashes": {
+            "sha1": "5dae3efc671b8a616aadbae1e35bd63a9458134f",
+            "sha512": "53158ad29138643ffa14f7de8664761875d31bc803bcd4aa5c17ed56b9640149f6834283737120aa9c5dcddb1af8512b604e5577a082b5bdcfbb3224697fa4b5"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/84LNy1pR/entityculling-fabric-1.8.1-mc1.21.jar",
+          "filename": "entityculling-fabric-1.8.1-mc1.21.jar",
+          "primary": true,
+          "size": 468222,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "gOriLpko",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.0-1.21 - NeoForge",
+      "version_number": "1.8.0",
+      "changelog": "Pretty big update with many optimizations and fixes, perfect to celebrate recently hit download milestones and the new Partnership with Essential.\r\n\r\n## What's Changed\r\n* Update to 1.21.6\r\n* Add config screen to modify the tick culling whitelist/entity whitelist/block-entity whitelist in game\r\n* Optimization of the culling thread logic and rendered block entity count\r\n* Fix tick culling whitelist unintendedly merging into the entity whitelist\r\n* Fix warning about a mixin conflict with Sodium\r\n* Add display entities to the tick whitelist to let them move/transform while offscreen\r\n* Translation into Argentine Spanish (es_ar) for EntityCulling by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/199\r\n* Add Polish translation (`pl_pl.json`) by @lumiscosity in https://github.com/tr7zw/EntityCulling/pull/203\r\n* Add quark soul bead to default whitelist by @redchess64 in https://github.com/tr7zw/EntityCulling/pull/205\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/209\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/210\r\n\r\n## New Contributors\r\n* @Texaliuz made their first contribution in https://github.com/tr7zw/EntityCulling/pull/199\r\n* @lumiscosity made their first contribution in https://github.com/tr7zw/EntityCulling/pull/203\r\n* @redchess64 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/205\r\n* @seriousfreezing made their first contribution in https://github.com/tr7zw/EntityCulling/pull/209\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.4...1.8.0\n",
+      "changelog_url": null,
+      "date_published": "2025-06-20T15:45:39.718041Z",
+      "downloads": 141910,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JlG7LvxP",
+          "hashes": {
+            "sha1": "449435a11ce43e21067eca6a6169c41d4a53f290",
+            "sha512": "d6cb75d49c40e9d08efc0d626021f9901cdacb2277755c1bc8d3a62e37470783d2ec7dd87fe3454e355a9b0e38b0c3df7a9879ebe5a258e112ebe9a101d3d240"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/gOriLpko/entityculling-neoforge-1.8.0-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.8.0-mc1.21.jar",
+          "primary": true,
+          "size": 467982,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "7x6nFVLO",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.0-1.21 - Forge",
+      "version_number": "1.8.0",
+      "changelog": "Pretty big update with many optimizations and fixes, perfect to celebrate recently hit download milestones and the new Partnership with Essential.\r\n\r\n## What's Changed\r\n* Update to 1.21.6\r\n* Add config screen to modify the tick culling whitelist/entity whitelist/block-entity whitelist in game\r\n* Optimization of the culling thread logic and rendered block entity count\r\n* Fix tick culling whitelist unintendedly merging into the entity whitelist\r\n* Fix warning about a mixin conflict with Sodium\r\n* Add display entities to the tick whitelist to let them move/transform while offscreen\r\n* Translation into Argentine Spanish (es_ar) for EntityCulling by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/199\r\n* Add Polish translation (`pl_pl.json`) by @lumiscosity in https://github.com/tr7zw/EntityCulling/pull/203\r\n* Add quark soul bead to default whitelist by @redchess64 in https://github.com/tr7zw/EntityCulling/pull/205\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/209\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/210\r\n\r\n## New Contributors\r\n* @Texaliuz made their first contribution in https://github.com/tr7zw/EntityCulling/pull/199\r\n* @lumiscosity made their first contribution in https://github.com/tr7zw/EntityCulling/pull/203\r\n* @redchess64 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/205\r\n* @seriousfreezing made their first contribution in https://github.com/tr7zw/EntityCulling/pull/209\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.4...1.8.0\n",
+      "changelog_url": null,
+      "date_published": "2025-06-20T15:45:39.361382Z",
+      "downloads": 4991,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Rw2xaGRq",
+          "hashes": {
+            "sha512": "d44e997c3ec22df487ed33310451a7864427d20492f59129e45aadf25bb3b49a3ef85769bdfb3add2f47a40420bc9b473d0e5363ae71c508b23e4c44849fa187",
+            "sha1": "e08e27136e7aaccfea0421b69852e15a64b40f77"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/7x6nFVLO/entityculling-forge-1.8.0-mc1.21.jar",
+          "filename": "entityculling-forge-1.8.0-mc1.21.jar",
+          "primary": true,
+          "size": 468919,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "wZSIbKbB",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.8.0-1.21 - Fabric",
+      "version_number": "1.8.0",
+      "changelog": "Pretty big update with many optimizations and fixes, perfect to celebrate recently hit download milestones and the new Partnership with Essential.\r\n\r\n## What's Changed\r\n* Update to 1.21.6\r\n* Add config screen to modify the tick culling whitelist/entity whitelist/block-entity whitelist in game\r\n* Optimization of the culling thread logic and rendered block entity count\r\n* Fix tick culling whitelist unintendedly merging into the entity whitelist\r\n* Fix warning about a mixin conflict with Sodium\r\n* Add display entities to the tick whitelist to let them move/transform while offscreen\r\n* Translation into Argentine Spanish (es_ar) for EntityCulling by @Texaliuz in https://github.com/tr7zw/EntityCulling/pull/199\r\n* Add Polish translation (`pl_pl.json`) by @lumiscosity in https://github.com/tr7zw/EntityCulling/pull/203\r\n* Add quark soul bead to default whitelist by @redchess64 in https://github.com/tr7zw/EntityCulling/pull/205\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/209\r\n* Update pt_br.json by @seriousfreezing in https://github.com/tr7zw/EntityCulling/pull/210\r\n\r\n## New Contributors\r\n* @Texaliuz made their first contribution in https://github.com/tr7zw/EntityCulling/pull/199\r\n* @lumiscosity made their first contribution in https://github.com/tr7zw/EntityCulling/pull/203\r\n* @redchess64 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/205\r\n* @seriousfreezing made their first contribution in https://github.com/tr7zw/EntityCulling/pull/209\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.4...1.8.0\n",
+      "changelog_url": null,
+      "date_published": "2025-06-20T15:45:29.565161Z",
+      "downloads": 218411,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Z8FsOYsG",
+          "hashes": {
+            "sha512": "e6e1e7f75016b8cc0c7288f42e4eccecb6a70f51e09e48a48f1b2f28269a3c6eb6db295f9e9b0b8a09c80998e7cc8ca4ca73b37d19005794e24fe769fc75167e",
+            "sha1": "9ba701abb01eeb144ceb4f138ccd6c9f4d9db73f"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/wZSIbKbB/entityculling-fabric-1.8.0-mc1.21.jar",
+          "filename": "entityculling-fabric-1.8.0-mc1.21.jar",
+          "primary": true,
+          "size": 463536,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "jNAhVci4",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.4-1.21 - NeoForge",
+      "version_number": "1.7.4",
+      "changelog": "## Changes\r\n- Added 1.21.5 support\r\n- Removed 1.19.3 support\r\n- Fix Debug hitboxes not working correctly/being available in Forge/NeoForge 1.21.4+\r\n- Updated tooling, expect a bigger update soon\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.3...1.7.4\n",
+      "changelog_url": null,
+      "date_published": "2025-03-27T15:50:47.447949Z",
+      "downloads": 680440,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "15ojWv0T",
+          "hashes": {
+            "sha1": "7cb54ebe04e236b474470bd30caef310282aa486",
+            "sha512": "f0d8c10e925a3be7bdf2f7b408bccc83847e02a46a79207e79079ec8ff5f2e9182698e97d2c4ef062db4840f01dd32229051131e60991b858e8305295bc428ff"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/jNAhVci4/entityculling-neoforge-1.7.4-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.7.4-mc1.21.jar",
+          "primary": true,
+          "size": 72110,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "bSihRPs8",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.4-1.21 - Forge",
+      "version_number": "1.7.4",
+      "changelog": "## Changes\r\n- Added 1.21.5 support\r\n- Removed 1.19.3 support\r\n- Fix Debug hitboxes not working correctly/being available in Forge/NeoForge 1.21.4+\r\n- Updated tooling, expect a bigger update soon\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.3...1.7.4\n",
+      "changelog_url": null,
+      "date_published": "2025-03-27T15:50:47.133207Z",
+      "downloads": 23892,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bxZDR7dW",
+          "hashes": {
+            "sha1": "2984974b6445c95d3a1c3184194c55846db5b710",
+            "sha512": "8c4959731eff4c1e13d233b7f38b953c77fa539f3a3ed3fa3699d349412ac5408f95780d768bf0b718ddddf2ca3cc3c6f5ac6bfd0d815f2d9cea0f0e37c10520"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/bSihRPs8/entityculling-forge-1.7.4-mc1.21.jar",
+          "filename": "entityculling-forge-1.7.4-mc1.21.jar",
+          "primary": true,
+          "size": 73055,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "eKX1ek3L",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.4-1.21 - Fabric",
+      "version_number": "1.7.4",
+      "changelog": "## Changes\r\n- Added 1.21.5 support\r\n- Removed 1.19.3 support\r\n- Fix Debug hitboxes not working correctly/being available in Forge/NeoForge 1.21.4+\r\n- Updated tooling, expect a bigger update soon\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.3...1.7.4\n",
+      "changelog_url": null,
+      "date_published": "2025-03-27T15:50:46.927033Z",
+      "downloads": 2882137,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "r32qpOCd",
+          "hashes": {
+            "sha512": "9deacc4695d0be204600b2f0bfc9ecaac6c639f5d0823108ac927d6a9d1eaa95af9ee41a750b8d3e478df629ea0c4105014df27763384af20f706ba59d83c11e",
+            "sha1": "c080d794ff1e58e09a4d742a9c47d95950c67e90"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/eKX1ek3L/entityculling-fabric-1.7.4-mc1.21.jar",
+          "filename": "entityculling-fabric-1.7.4-mc1.21.jar",
+          "primary": true,
+          "size": 69301,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ssEdOyua",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": true,
+      "name": "1.7.3-1.21(.1) - Fabric",
+      "version_number": "1.7.3",
+      "changelog": "## What's Changed\r\n* Fix that moving boats without passengers get incorrectly culled by desyncing clientside (#189)\r\n* Add debug hotkey for 1.21.4+ to visualize the culling boxes of entities\r\n* Create zh_cn.json and add Chinese MOD instructions. by @Q2297045667 in https://github.com/tr7zw/EntityCulling/pull/191\r\n\r\n## New Contributors\r\n* @Q2297045667 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/191\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.2...1.7.3",
+      "changelog_url": null,
+      "date_published": "2025-02-25T20:17:21.660183Z",
+      "downloads": 2047956,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LG7hTyqO",
+          "hashes": {
+            "sha1": "b2e066d4d0ee80d000fc628c8138ae1ca1c3cc98",
+            "sha512": "924677750f167722f767f69b644b1492705d2fb0ac02abbfe7dd39cf9718d88f7de3a0a764b602e224e1199c6e66b475128cbf35b2e78700fff2902136efb65c"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ssEdOyua/entityculling-fabric-1.7.3-mc1.21.jar",
+          "filename": "entityculling-fabric-1.7.3-mc1.21.jar",
+          "primary": true,
+          "size": 71253,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "4HW5j3ty",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": true,
+      "name": "1.7.3-1.21(.1) - NeoForge",
+      "version_number": "1.7.3",
+      "changelog": "## What's Changed\r\n* Fix that moving boats without passengers get incorrectly culled by desyncing clientside (#189)\r\n* Add debug hotkey for 1.21.4+ to visualize the culling boxes of entities\r\n* Create zh_cn.json and add Chinese MOD instructions. by @Q2297045667 in https://github.com/tr7zw/EntityCulling/pull/191\r\n\r\n## New Contributors\r\n* @Q2297045667 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/191\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.2...1.7.3",
+      "changelog_url": null,
+      "date_published": "2025-02-25T20:17:16.585414Z",
+      "downloads": 217835,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zpKFQ7nJ",
+          "hashes": {
+            "sha1": "82484a6f4a92818826ca53e472624311ecdcd954",
+            "sha512": "809d46d0c8f85f7324d6cce793c9978501dd0c2a2f5d4d00924f31a67276fe1183a43d383420e55a9f61d460ceb21a1ef76836e90a8d656dc5237b20661e4c6a"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/4HW5j3ty/entityculling-neoforge-1.7.3-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.7.3-mc1.21.jar",
+          "primary": true,
+          "size": 74131,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "qPGBO8P3",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": true,
+      "name": "1.7.3-1.21(.1) - Forge",
+      "version_number": "1.7.3",
+      "changelog": "## What's Changed\r\n* Fix that moving boats without passengers get incorrectly culled by desyncing clientside (#189)\r\n* Add debug hotkey for 1.21.4+ to visualize the culling boxes of entities\r\n* Create zh_cn.json and add Chinese MOD instructions. by @Q2297045667 in https://github.com/tr7zw/EntityCulling/pull/191\r\n\r\n## New Contributors\r\n* @Q2297045667 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/191\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.2...1.7.3",
+      "changelog_url": null,
+      "date_published": "2025-02-25T20:17:11.910478Z",
+      "downloads": 8446,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "A2mYG77r",
+          "hashes": {
+            "sha1": "bb65cb61812a5843cf3179443a81235d8545a9f9",
+            "sha512": "60d55a8b6285951a8821e72f66843f7c331fb447cdac7227a5f9a764557153eec48d7ee1b88698153c93fd42107ccb39047132a0839f5d874dd96ef1c568d998"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/qPGBO8P3/entityculling-forge-1.7.3-mc1.21.jar",
+          "filename": "entityculling-forge-1.7.3-mc1.21.jar",
+          "primary": true,
+          "size": 75077,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "MQuJQtw8",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.2-1.21(.1) - Fabric",
+      "version_number": "1.7.2",
+      "changelog": "## What's Changed\r\n* Add 1.21.4 support\r\n* Whitelist avm_staff:campfire_flame entity by @opekope2 in https://github.com/tr7zw/EntityCulling/pull/180\r\n* Add Malay and Malay (Jawi) translations by @NuruddinPlays in https://github.com/tr7zw/EntityCulling/pull/182\r\n\r\n## New Contributors\r\n* @opekope2 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/180\r\n* @NuruddinPlays made their first contribution in https://github.com/tr7zw/EntityCulling/pull/182\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.1...1.7.2",
+      "changelog_url": null,
+      "date_published": "2024-12-06T18:58:34.414356Z",
+      "downloads": 2187175,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9luaRzTr",
+          "hashes": {
+            "sha1": "9e2a99e7dd4772492a62acc62174baa56e581af8",
+            "sha512": "b92426d38cd1e21e5064cb773a40d4c02130a80e16266dd77711965b30d3ffeaa5d73f8e989214e2a160a2181de6d71ed2e7723b387f3d6b10ca746bea0638d9"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/MQuJQtw8/entityculling-fabric-1.7.2-mc1.21.jar",
+          "filename": "entityculling-fabric-1.7.2-mc1.21.jar",
+          "primary": true,
+          "size": 67575,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "8BvicUz9",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.2-1.21(.1) - NeoForge",
+      "version_number": "1.7.2",
+      "changelog": "## What's Changed\r\n* Add 1.21.4 support\r\n* Whitelist avm_staff:campfire_flame entity by @opekope2 in https://github.com/tr7zw/EntityCulling/pull/180\r\n* Add Malay and Malay (Jawi) translations by @NuruddinPlays in https://github.com/tr7zw/EntityCulling/pull/182\r\n\r\n## New Contributors\r\n* @opekope2 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/180\r\n* @NuruddinPlays made their first contribution in https://github.com/tr7zw/EntityCulling/pull/182\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.1...1.7.2",
+      "changelog_url": null,
+      "date_published": "2024-12-06T18:58:30.827737Z",
+      "downloads": 250084,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1Pk8xs2E",
+          "hashes": {
+            "sha1": "a67a3d7d1e4d912823773f8e7a6fdc4f90171ac4",
+            "sha512": "14d0348cf9ac0c0434a19494caf6052e38b295b6677457c7297cd44fc61f10ef4d5ae66388aacc9362167e9f44f8f89ffbbb86fee9dfcc92b2cf1c7cf08f56ae"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8BvicUz9/entityculling-neoforge-1.7.2-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.7.2-mc1.21.jar",
+          "primary": true,
+          "size": 70410,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "kVHgBQjB",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.2-1.21(.1) - Forge",
+      "version_number": "1.7.2",
+      "changelog": "## What's Changed\r\n* Add 1.21.4 support\r\n* Whitelist avm_staff:campfire_flame entity by @opekope2 in https://github.com/tr7zw/EntityCulling/pull/180\r\n* Add Malay and Malay (Jawi) translations by @NuruddinPlays in https://github.com/tr7zw/EntityCulling/pull/182\r\n\r\n## New Contributors\r\n* @opekope2 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/180\r\n* @NuruddinPlays made their first contribution in https://github.com/tr7zw/EntityCulling/pull/182\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.1...1.7.2",
+      "changelog_url": null,
+      "date_published": "2024-12-06T18:58:27.272191Z",
+      "downloads": 15288,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jMne88xo",
+          "hashes": {
+            "sha1": "7761ba9341a93cad8431c6cdc4392d26dceaa6a3",
+            "sha512": "1b5e31fb8a7f3a4c25c9a735deae13de051e5f80891bf45659ed65d2f10353acb0e9998cdc1455cfadec9b55b7b509617c6e3d5523420a411b87bcdb5c3a6946"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/kVHgBQjB/entityculling-forge-1.7.2-mc1.21.jar",
+          "filename": "entityculling-forge-1.7.2-mc1.21.jar",
+          "primary": true,
+          "size": 71356,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "hD1f5amG",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.1-1.21(.1) - Fabric",
+      "version_number": "1.7.1",
+      "changelog": "## What's Changed\n* Add 1.21.3 support (no 1.21.2)\n* Correctly skip invisible armor stands instead of marker\n* Fix drg_flares:drg_flare whitelist\n* Whitelist Alex's Caves Gum Worm entity in Config by @AlexModGuy in https://github.com/tr7zw/EntityCulling/pull/174\n* Create es_es.json by @C4BR3R4 in https://github.com/tr7zw/EntityCulling/pull/171\n* Added translation key for keybind category (fix issue #172) by @Thijzert123 in https://github.com/tr7zw/EntityCulling/pull/175\n\n## New Contributors\n* @AlexModGuy made their first contribution in https://github.com/tr7zw/EntityCulling/pull/174\n* @C4BR3R4 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/171\n* @Thijzert123 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/175\n\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.0...1.7.1",
+      "changelog_url": null,
+      "date_published": "2024-11-01T21:18:32.194307Z",
+      "downloads": 667470,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FpYCLwox",
+          "hashes": {
+            "sha1": "b43d12dccfc423f6ffa61e7aea261166793155ab",
+            "sha512": "0440f0c0c87f2de29e0b6583d9fc6d347db30eb5f4e8fedae52ea2b38261cd2a06b5644aeffdce1680f21d7c5370bd00ddceeb776db1d63f4011fc41a7bac865"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.7.1-mc1.21.jar",
+          "filename": "entityculling-fabric-1.7.1-mc1.21.jar",
+          "primary": true,
+          "size": 67033,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "aQk7X2Um",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.1-1.21(.1) - NeoForge",
+      "version_number": "1.7.1",
+      "changelog": "## What's Changed\n* Add 1.21.3 support (no 1.21.2)\n* Correctly skip invisible armor stands instead of marker\n* Fix drg_flares:drg_flare whitelist\n* Whitelist Alex's Caves Gum Worm entity in Config by @AlexModGuy in https://github.com/tr7zw/EntityCulling/pull/174\n* Create es_es.json by @C4BR3R4 in https://github.com/tr7zw/EntityCulling/pull/171\n* Added translation key for keybind category (fix issue #172) by @Thijzert123 in https://github.com/tr7zw/EntityCulling/pull/175\n\n## New Contributors\n* @AlexModGuy made their first contribution in https://github.com/tr7zw/EntityCulling/pull/174\n* @C4BR3R4 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/171\n* @Thijzert123 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/175\n\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.0...1.7.1",
+      "changelog_url": null,
+      "date_published": "2024-11-01T21:18:07.505413Z",
+      "downloads": 54464,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BGJA08bo",
+          "hashes": {
+            "sha512": "1f4cc2174ddc5180f978bb43de999b58785e2d9ced4a3561b9cc08b3d888c4483931a5bee20b540f5b321851917ead4a7e044f5a84a35f6d5bc01ba3e19d429e",
+            "sha1": "663c9d0fc89cdbe82eaaff810f7ad5e80c3f0981"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/aQk7X2Um/entityculling-neoforge-1.7.1-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.7.1-mc1.21.jar",
+          "primary": true,
+          "size": 69868,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "gRnWPDZr",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.1-1.21(.1) - Forge",
+      "version_number": "1.7.1",
+      "changelog": "## What's Changed\n* Add 1.21.3 support (no 1.21.2)\n* Correctly skip invisible armor stands instead of marker\n* Fix drg_flares:drg_flare whitelist\n* Whitelist Alex's Caves Gum Worm entity in Config by @AlexModGuy in https://github.com/tr7zw/EntityCulling/pull/174\n* Create es_es.json by @C4BR3R4 in https://github.com/tr7zw/EntityCulling/pull/171\n* Added translation key for keybind category (fix issue #172) by @Thijzert123 in https://github.com/tr7zw/EntityCulling/pull/175\n\n## New Contributors\n* @AlexModGuy made their first contribution in https://github.com/tr7zw/EntityCulling/pull/174\n* @C4BR3R4 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/171\n* @Thijzert123 made their first contribution in https://github.com/tr7zw/EntityCulling/pull/175\n\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.7.0...1.7.1",
+      "changelog_url": null,
+      "date_published": "2024-11-01T21:17:38.940050Z",
+      "downloads": 6776,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "US6cOGIu",
+          "hashes": {
+            "sha512": "6751b7f290505640b776cdf1d0b4f64a816fb07e2ddd2f66ff725f68496b134b06d2f07e2c47a7d012aa329befa4046cb95e9bbfeac78f8412e509e2072d0739",
+            "sha1": "206fe258f922901a80388300a27ff7760337ace1"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/gRnWPDZr/entityculling-forge-1.7.1-mc1.21.jar",
+          "filename": "entityculling-forge-1.7.1-mc1.21.jar",
+          "primary": true,
+          "size": 70814,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "kPbJu8eF",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.0-1.21(.1) - Fabric",
+      "version_number": "1.7.0",
+      "changelog": "## Changes\r\n* Fix a rare bug that gets the culling thread stuck for some time, causing visual issues. Huge thanks to @pietro-lopes for finding the root cause\r\n* 1.19.4 and 1.19.3 now also use the latest codebase with all features/fixes\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.6.7...1.7.0",
+      "changelog_url": null,
+      "date_published": "2024-08-28T18:56:01.548840Z",
+      "downloads": 1887396,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kJnv22Wh",
+          "hashes": {
+            "sha1": "ef4acec15876eafba8ce1618d2c2a6b3de27e58f",
+            "sha512": "6a43e3309add2ba9944df9dee18812ca5f0f2fad9dd69333b55f7c9ac4f70f1f8b661bc2ce63214d5ba089f46bed6b76e58f1926e83a8e6ee474a272766232aa"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/kPbJu8eF/entityculling-fabric-1.7.0-mc1.21.jar",
+          "filename": "entityculling-fabric-1.7.0-mc1.21.jar",
+          "primary": true,
+          "size": 65591,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "RpWp3udp",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.0-1.21(.1) - NeoForge",
+      "version_number": "1.7.0",
+      "changelog": "## Changes\r\n* Fix a rare bug that gets the culling thread stuck for some time, causing visual issues. Huge thanks to @pietro-lopes for finding the root cause\r\n* 1.19.4 and 1.19.3 now also use the latest codebase with all features/fixes\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.6.7...1.7.0",
+      "changelog_url": null,
+      "date_published": "2024-08-28T18:55:57.520613Z",
+      "downloads": 118305,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CaJFYCFi",
+          "hashes": {
+            "sha1": "3e22ba07edfbf42cbe48173c30a53ca297b798b1",
+            "sha512": "05131d4191c6702f0c764e02be69ddcc63f9b7b2a905620b4c64d2f3cb7e0bce2452ed5154bc58893b0bc27b19fd66e1cf403905ca168ad29886e4d6f915e3bb"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/RpWp3udp/entityculling-neoforge-1.7.0-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.7.0-mc1.21.jar",
+          "primary": true,
+          "size": 68397,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "dJTijYHW",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.7.0-1.21(.1) - Forge",
+      "version_number": "1.7.0",
+      "changelog": "## Changes\r\n* Fix a rare bug that gets the culling thread stuck for some time, causing visual issues. Huge thanks to @pietro-lopes for finding the root cause\r\n* 1.19.4 and 1.19.3 now also use the latest codebase with all features/fixes\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.6.7...1.7.0",
+      "changelog_url": null,
+      "date_published": "2024-08-28T18:55:53.741353Z",
+      "downloads": 23029,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3LqX5yBC",
+          "hashes": {
+            "sha512": "877ee60ab0c7ca181ab9b6e9e7e49294f1e426a5490e4a96b962b6b9474883dd1f07ddb42cbad9c3cece852f79e541ade040033caeb1487a3c4ce474dbdcab7e",
+            "sha1": "85916dd0a3550c959988963201be3365fc4a0cf8"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/dJTijYHW/entityculling-forge-1.7.0-mc1.21-all.jar",
+          "filename": "entityculling-forge-1.7.0-mc1.21-all.jar",
+          "primary": true,
+          "size": 67664,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "uh3DtMnM",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.6.7-1.21(.1) - Fabric",
+      "version_number": "1.6.7",
+      "changelog": "## Changes\r\n* Fix 1.21.1 support\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.6.6...1.6.7",
+      "changelog_url": null,
+      "date_published": "2024-08-20T14:23:42.698353Z",
+      "downloads": 489302,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Lw6WdbMV",
+          "hashes": {
+            "sha512": "aa958f6bbdc4c99e9d1ddcc951c56d105edca8ae9454eb7b14fb38586e475776da7adebbcaf34f59b2ea175b9efaa61efcbe748b7e7d84ffa79896c103630e79",
+            "sha1": "a99034c625e63a9e1e5e2768893e57296d91c0e5"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uh3DtMnM/entityculling-fabric-1.6.7-mc1.21.jar",
+          "filename": "entityculling-fabric-1.6.7-mc1.21.jar",
+          "primary": true,
+          "size": 65568,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "VgprkY4E",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.6.7-1.21(.1) - NeoForge",
+      "version_number": "1.6.7",
+      "changelog": "## Changes\r\n* Fix 1.21.1 support\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.6.6...1.6.7",
+      "changelog_url": null,
+      "date_published": "2024-08-20T14:23:38.024280Z",
+      "downloads": 10772,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oK0aGqfG",
+          "hashes": {
+            "sha1": "a1ab198b9de80d46c0b648918c3646c5dd9af9cd",
+            "sha512": "85f7d36d8780aa8fc8f59a410ab176d0f1d8116243a33b7087a3dff856b0b8bee066eff3cd374e1216e741933bb7f5bd4bd6bca10e9788f89e63471a23d4f580"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/VgprkY4E/entityculling-neoforge-1.6.7-mc1.21.jar",
+          "filename": "entityculling-neoforge-1.6.7-mc1.21.jar",
+          "primary": true,
+          "size": 68376,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "iVUgWfyD",
+      "project_id": "NNAgCjsB",
+      "author_id": "Qnt13hO8",
+      "featured": false,
+      "name": "1.6.7-1.21(.1) - Forge",
+      "version_number": "1.6.7",
+      "changelog": "## Changes\r\n* Fix 1.21.1 support\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.6.6...1.6.7",
+      "changelog_url": null,
+      "date_published": "2024-08-20T14:23:33.576802Z",
+      "downloads": 4322,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "beWGBczh",
+          "hashes": {
+            "sha512": "1ea054a5537ca7c067b5591e9de4c04dbcdc33997dcbfaafbf14dd7da88b1bbb06ba7ae15759fdb8b953c7e4f1eb2c212318c42991f688312aad16828e4d6627",
+            "sha1": "a7fca58fb05c4a123025e394f341ff9cad2cc5b2"
+          },
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/iVUgWfyD/entityculling-forge-1.6.7-mc1.21-all.jar",
+          "filename": "entityculling-forge-1.6.7-mc1.21-all.jar",
+          "primary": true,
+          "size": 67643,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

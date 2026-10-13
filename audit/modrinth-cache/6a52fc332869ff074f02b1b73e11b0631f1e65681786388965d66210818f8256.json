@@ -1,0 +1,156 @@
+{
+  "url": "https://api.modrinth.com/v2/project/1kcHy4de/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:50.340407+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ttcWWp3r",
+      "project_id": "1kcHy4de",
+      "author_id": "EQpIx3zw",
+      "featured": false,
+      "name": "Born in Chaos 1.7.6",
+      "version_number": "1.7.6",
+      "changelog": "_Thornshell Crab breeding season has been fixed._\n\n**The mod is currently being completely rewritten using manual code and preparing a global update 2.0; until then, there will be no updates.**",
+      "changelog_url": null,
+      "date_published": "2026-06-17T21:26:17.952351Z",
+      "downloads": 100391,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EMrKTKUO",
+          "hashes": {
+            "sha512": "69310fffb1d60f27c75ece2bf2f6feb06f9b364cd772917544fad06cacf24b195f838c6fc3807ca8d5ae84675fb08db59179ced4d18de71b9b7d8ddabe4b0fe7",
+            "sha1": "73704f38ac368c03716f9cc8f537470d3b352fa2"
+          },
+          "url": "https://cdn.modrinth.com/data/1kcHy4de/versions/ttcWWp3r/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.6.jar",
+          "filename": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+          "primary": true,
+          "size": 11842184,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5sy6g3kz",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SmoP64vt",
+      "project_id": "1kcHy4de",
+      "author_id": "EQpIx3zw",
+      "featured": false,
+      "name": "Born in Chaos 1.7.5",
+      "version_number": "1.7.5",
+      "changelog": "**To add some variety to the wait for updates, a spring event was launched. If you don't want it in the game, simply disable it using the general game rules or simply don't update to this version.**\n_**- Start of the Chaotic Spring event**\nThe event will last until April 22 **(The event can be disabled by the Seasonal Events game rule)**\n-Now you can enable the Chaotic Spring event at any time, regardless of the date and season, using the **chaoticSpringEvent** game rule._",
+      "changelog_url": null,
+      "date_published": "2026-04-12T21:24:45.494107Z",
+      "downloads": 41350,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VSqwRiXS",
+          "hashes": {
+            "sha1": "60d2ce7f9ce3f6e5da6a0bce0a84048fe3a0152e",
+            "sha512": "9827e7569df214775083d805019740e56a9e674cce93efeeb5c723db779cc652cff6596be542b91e8297bd39d93fbc197159361e296054b5a8a850e5e74a5f2a"
+          },
+          "url": "https://cdn.modrinth.com/data/1kcHy4de/versions/SmoP64vt/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.5.jar",
+          "filename": "born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar",
+          "primary": true,
+          "size": 11841361,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "8BmcQJ2H",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5sy6g3kz",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "pWRRWRPv",
+      "project_id": "1kcHy4de",
+      "author_id": "EQpIx3zw",
+      "featured": false,
+      "name": "Born in Chaos 1.7.4",
+      "version_number": "1.7.4",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-01-15T23:41:44.993690Z",
+      "downloads": 78887,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7hSnTWSC",
+          "hashes": {
+            "sha512": "396cca0ecfd55c8d1c42da05c1e6c98dcaf3dc45241e9f76b8180d83507885922ff200a7d792abdf0f34d969f5f5994d8aa2d1935ca66656450a5c0366eff077",
+            "sha1": "d04a1c74bd1b7ef1e3e6a3885f50d4f668922707"
+          },
+          "url": "https://cdn.modrinth.com/data/1kcHy4de/versions/pWRRWRPv/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.4.jar",
+          "filename": "born_in_chaos_[Neoforge]_1.21.1_1.7.4.jar",
+          "primary": true,
+          "size": 11835258,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "url": "https://api.modrinth.com/v2/project/gKNwt7xu/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:57.656971+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "T26aJH7E",
+      "project_id": "gKNwt7xu",
+      "author_id": "6ZoP9xY8",
+      "featured": true,
+      "name": "Tempad 3.0.4",
+      "version_number": "3.0.4",
+      "changelog": "- You can now shift right click batteries on blocks to take energy if the battery is empty\n- Metronome inventory is now accessible with pipes\n- Fixed text rendering being crunchy and weird (thanks nebi for that phrasing)\n- Fixed Timedoor Projector not opening glitchy portals when its in your hand\n- Fixed several missing config entries\n- Fix timedoors forever being chunkloaded",
+      "changelog_url": null,
+      "date_published": "2025-05-11T00:29:07.518757Z",
+      "downloads": 160735,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LBSFBhn5",
+          "hashes": {
+            "sha1": "7a4d6837c6f7a4c9a8f4e7054952df25c148033e",
+            "sha512": "8f577c902ed0074f7636cda73f61f95a4bab4f4009c6039a3ccfaf5d70fe528ab8b9a88ba1f19548c70caea7f652d8b9fbdfba855b5543c3e660b64bd5b18bef"
+          },
+          "url": "https://cdn.modrinth.com/data/gKNwt7xu/versions/T26aJH7E/tempad-1.21.1-3.0.4-all.jar",
+          "filename": "tempad-1.21.1-3.0.4-all.jar",
+          "primary": true,
+          "size": 1696464,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "G1hIVOrD",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "M1953qlQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fEWKxVzh",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lYGGm3A9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "bb2EpKpx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ILzPvFBD",
+      "project_id": "gKNwt7xu",
+      "author_id": "6ZoP9xY8",
+      "featured": false,
+      "name": "Tempad 3.0.3",
+      "version_number": "3.0.3",
+      "changelog": "- Fix massive server lag with metronome data\n- Fixed metronome not having its energy when you drop it",
+      "changelog_url": null,
+      "date_published": "2025-05-01T19:23:20.839723Z",
+      "downloads": 5371,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j5rOJMNX",
+          "hashes": {
+            "sha512": "5ced700c1327b02009c12fc0c05a5d6c2e965fb24664d967dbd301fd4e510d39f16adad6b53151653c84656f52522e9040844bab83ef163020d2e564aa518cf4",
+            "sha1": "84e0ba9c1eb96d2bb997278d300225155daae888"
+          },
+          "url": "https://cdn.modrinth.com/data/gKNwt7xu/versions/ILzPvFBD/tempad-1.21.1-3.0.3-all.jar",
+          "filename": "tempad-1.21.1-3.0.3-all.jar",
+          "primary": true,
+          "size": 1685863,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "G1hIVOrD",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "M1953qlQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lYGGm3A9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "bb2EpKpx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fEWKxVzh",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "TfaA9wD3",
+      "project_id": "gKNwt7xu",
+      "author_id": "6ZoP9xY8",
+      "featured": false,
+      "name": "Tempad 3.0.2",
+      "version_number": "3.0.2",
+      "changelog": "- Add support for latest version of Odyssey Allies (still in alpha)\n- Fix issue with Time Twister not working in survival\n- Fix keyboard shortcuts not opening tempad screens\n- Added a confirmation window when you delete a location\n- Removed delete button from locations that dont permit deletion\n- Timedoor now faces you when opening it\n- Default position of the timedoor is now to the left of the workstation\n- Fixed placement of player when going back through a timedoor\n- Fixed tempad not working with AE2 (https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/8482#issuecomment-2841728230)\n- Dimension tag for blacklisting now accepts a dimension type, not a dimension",
+      "changelog_url": null,
+      "date_published": "2025-04-30T15:55:14.832374Z",
+      "downloads": 264,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nVJJapzY",
+          "hashes": {
+            "sha512": "27c3f0bb5773d19427ab3aa2db2cb9d6cbf72b2a52c5d262506d8ba46879889406097fa859d7072c46c06423a31b21b6ba952dbe26aff140789fe6ad2adb736d",
+            "sha1": "4fbd5dbfede29cf5507bcd9f6935b37b2a84fe33"
+          },
+          "url": "https://cdn.modrinth.com/data/gKNwt7xu/versions/TfaA9wD3/tempad-1.21.1-3.0.2-all.jar",
+          "filename": "tempad-1.21.1-3.0.2-all.jar",
+          "primary": true,
+          "size": 1685526,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fEWKxVzh",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "M1953qlQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lYGGm3A9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "G1hIVOrD",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "bb2EpKpx",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8UXeH5nl",
+      "project_id": "gKNwt7xu",
+      "author_id": "6ZoP9xY8",
+      "featured": false,
+      "name": "Tempad 3.0.1",
+      "version_number": "3.0.1",
+      "changelog": "- Fix rendering on bracelet worn curios clipping through non-slim arms\n- Add sfx when walking through a timedoor\n- Add sfx when placing an upgrade in workstation\n- Add sfx for upgrade installing\n- Fix config not working properly",
+      "changelog_url": null,
+      "date_published": "2025-04-22T15:02:09.325071Z",
+      "downloads": 1499,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "d3SacYWR",
+          "hashes": {
+            "sha512": "3c540a626a5d76f430b26a3385264226e7e2f3c0a33af360ba8a1f115dc5da5f98d3b21a9e042e47323367962372324593adad8621b44f656af047d392bff589",
+            "sha1": "62da49fa9a37cf7e5d788271b7e57c5dd8f92a6f"
+          },
+          "url": "https://cdn.modrinth.com/data/gKNwt7xu/versions/8UXeH5nl/tempad-1.21.1-3.0.1-all.jar",
+          "filename": "tempad-1.21.1-3.0.1-all.jar",
+          "primary": true,
+          "size": 1682631,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "G1hIVOrD",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "M1953qlQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fEWKxVzh",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "bb2EpKpx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "lYGGm3A9",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "lIK90y42",
+      "project_id": "gKNwt7xu",
+      "author_id": "mL6r9Xal",
+      "featured": false,
+      "name": "Tempad 3.0.0",
+      "version_number": "3.0.0",
+      "changelog": "1.21 Release\nAll new blocks and items:\n\n- Card Wallet (Item that holds location cards)\n- Time Steel\n- Knowledge Projector (In Game Guide)\n- Chronon Generator (New energy generating item)\n- Chronon Cell (New energy storage item)\n- Timedoor Projector (New early game teleporter block/item)\n- Timedoor Marker (New early game location marking block)\n- Location Broadcaster (Allows other players to teleport to you)\n- Chronon Battery (Bigger chronon cell)\n- Chronometer (Better chronon generator)\n- Time Twister (New device for travelling back to previous locations)\n- Workstation (New Block for block form of Tempad)\n- Metronome (Block form of Chronometer)\n- Screening Device (Advanced form of Location Broadcaster)\n\nCheck out this video by SirColor to learn more about the new blocks and items!\n\nIn addition, there is now mod compat for:\n1. Cadmus\n    - Allows you to disable timedoor summoning on claimed land\n3. Argonauts\n    - Allows you to filter guildmates and party members specifically to teleport to your Chronomarks or to you via filtering on the Screening Device\n5. Jade\n    - All blocks have relevant information, and Timedoors now show where they're headed and the name of the location\n7. Dark Mode Everywhere\n    - Screens aren't dimmed\n8. FTB Teams\n    - Similar to Argonauts, you can filter teammates to teleport to you via the Screening Device or to your Chronomarks\n9. Curios\n    - Several items have dedicated slots you can put them in, and they will render on the player",
+      "changelog_url": null,
+      "date_published": "2025-04-21T19:25:36.769618Z",
+      "downloads": 411,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JrTKhqDe",
+          "hashes": {
+            "sha512": "e66ae7444a53f48114e8518cea47b71071e6888914a32972c253dc4e531cf88bd4a791d91bbb268a6e12ceb89edc81875b06343cb9fde535fde9e0df93548c12",
+            "sha1": "9bea14b7d3d6b53c1aa806fb2f55f9a56456858e"
+          },
+          "url": "https://cdn.modrinth.com/data/gKNwt7xu/versions/lIK90y42/tempad-1.21.1-3.0.0-all.jar",
+          "filename": "tempad-1.21.1-3.0.0-all.jar",
+          "primary": true,
+          "size": 1538653,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "bb2EpKpx",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "G1hIVOrD",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "k3lrwGqk",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fEWKxVzh",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "M1953qlQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Chunk+Pregenerator&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:03.714287+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "3PDHuC6e",
+        "project_type": "mod",
+        "all_project_types": [
+          "datapack",
+          "mod"
+        ],
+        "slug": "chunk-pregenerator",
+        "author": "XAVI333",
+        "author_id": "FHEfdqDM",
+        "organization": null,
+        "organization_id": null,
+        "title": "Chunk Pregenerator",
+        "description": "No more lag while exploring!\nLoad chunks beforehand so you can enjoy exploration.",
+        "categories": [
+          "datapack",
+          "fabric",
+          "forge",
+          "management",
+          "neoforge",
+          "optimization",
+          "quilt",
+          "technology",
+          "utility",
+          "worldgen"
+        ],
+        "display_categories": [
+          "datapack",
+          "fabric",
+          "forge",
+          "management",
+          "neoforge",
+          "optimization",
+          "quilt",
+          "worldgen"
+        ],
+        "versions": [
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 100196,
+        "follows": 42,
+        "icon_url": "https://cdn.modrinth.com/data/3PDHuC6e/e0d42751d9e69e36cea737d04b4978619e4085b2.png",
+        "date_created": "2025-08-08T03:26:57.382861+00:00",
+        "date_modified": "2026-09-17T16:05:55.780292+00:00",
+        "latest_version": "72nJQHtR",
+        "license": "CC-BY-NC-ND-4.0",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "server_only",
+          "unknown"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/3PDHuC6e/images/a5ca147e2d9f9a4308c561e25d0d0fc4faacaf82_350.webp",
+          "https://cdn.modrinth.com/data/3PDHuC6e/images/ff84dcc0f122553a670b8a5c58321560cc64657f_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/3PDHuC6e/images/87baa350fc8c569f644668f2605e63ab85157753_350.webp",
+        "color": 12361992
+      },
+      {
+        "project_id": "AsjPpia1",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "fabricquilt-chunk-pregenerator",
+        "author": "jaskarth",
+        "author_id": "Ap72D5Fa",
+        "organization": null,
+        "organization_id": null,
+        "title": "Fabric/Quilt Chunk Pregenerator",
+        "description": "Pregenerate your chunks!",
+        "categories": [
+          "fabric",
+          "management",
+          "quilt",
+          "worldgen"
+        ],
+        "display_categories": [
+          "fabric",
+          "management",
+          "quilt",
+          "worldgen"
+        ],
+        "versions": [
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.20",
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 75118,
+        "follows": 92,
+        "icon_url": "https://cdn.modrinth.com/data/AsjPpia1/2baf33f2284ea2aa27510da06a5aa7a277df3646_96.webp",
+        "date_created": "2023-04-19T04:31:42.451096+00:00",
+        "date_modified": "2025-09-10T15:37:44.007851+00:00",
+        "latest_version": "pcXhRH0v",
+        "license": "LGPL-3.0-only",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2174236
+      },
+      {
+        "project_id": "a7ZtSmv6",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "passivepregen",
+        "author": "liliandev",
+        "author_id": "tcsdrUqp",
+        "organization": null,
+        "organization_id": null,
+        "title": "Passive Chunk Pregenerator",
+        "description": "This mod generates chunks passively around players, offline or online, and the worldspawn to generate chunks that will most likely be needed in the near future.",
+        "categories": [
+          "fabric",
+          "forge",
+          "quilt",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "quilt",
+          "utility"
+        ],
+        "versions": [
+          "1.18.2",
+          "1.19.2"
+        ],
+        "downloads": 10303,
+        "follows": 58,
+        "icon_url": "https://cdn.modrinth.com/data/a7ZtSmv6/7d6067a27818237ff46dd68a1224871716ad5844_96.webp",
+        "date_created": "2022-08-02T18:03:49.101344+00:00",
+        "date_modified": "2022-12-02T15:15:42.633671+00:00",
+        "latest_version": "iSnv3LYs",
+        "license": "Unlicense",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 16032780
+      },
+      {
+        "project_id": "APIm2c3e",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "chunkmill",
+        "author": "Lynk",
+        "author_id": "YkADmhL5",
+        "organization": "Codx",
+        "organization_id": "dFtBNGpX",
+        "title": "ChunkMill",
+        "description": "A fast, efficient, and easy-to-manage chunk pregenerator — generate your world on command or on a schedule, without lagging the players who are online.",
+        "categories": [
+          "fabric",
+          "forge",
+          "management",
+          "neoforge",
+          "technology"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "management",
+          "neoforge",
+          "technology"
+        ],
+        "versions": [
+          "26.1",
+          "26.1.1",
+          "26.1.2"
+        ],
+        "downloads": 306,
+        "follows": 2,
+        "icon_url": "https://cdn.modrinth.com/data/APIm2c3e/cce612ad032ec5fd62225b2949c68ef3d20b8bdd_96.webp",
+        "date_created": "2026-06-17T23:35:06.694924+00:00",
+        "date_modified": "2026-06-16T09:47:43.244213+00:00",
+        "latest_version": "ycGEttNe",
+        "license": "CC-BY-NC-ND-4.0",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only",
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/APIm2c3e/images/a25247e0b5af6700a4eabd6c86940d18fac54a59_350.webp",
+          "https://cdn.modrinth.com/data/APIm2c3e/images/6d96e425d6042e465bc4ebdf56765784700d34ab_350.webp",
+          "https://cdn.modrinth.com/data/APIm2c3e/images/96f5aa2efa33a34a4f1d70944967793968e02e23_350.webp",
+          "https://cdn.modrinth.com/data/APIm2c3e/images/04121e444d5902f803b746a553aa7883cf3b454d_350.webp",
+          "https://cdn.modrinth.com/data/APIm2c3e/images/8c9d076579bec5cecf715cc24b81c9208d80e643_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 2378288
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 4
+  }
+}

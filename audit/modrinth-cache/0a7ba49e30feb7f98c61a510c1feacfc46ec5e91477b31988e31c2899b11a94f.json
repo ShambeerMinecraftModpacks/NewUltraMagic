@@ -1,0 +1,107 @@
+{
+  "url": "https://api.modrinth.com/v2/project/40FYwb4z/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:50.327190+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "KsfI4QsR",
+      "project_id": "40FYwb4z",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "caelus-neoforge-7.0.1+1.21.1",
+      "version_number": "7.0.1+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\nPrior to version 3.1.0, this project used [Forge Recommended Versioning](https://mcforge.readthedocs.io/en/latest/conventions/versioning/).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/caelus/blob/1.21.x/CHANGELOG.md).\n\n## [7.0.1+1.21.1] - 2024.09.05\n### Added\n- Added `es_cl` localization [#41](https://github.com/illusivesoulworks/caelus/pull/41)\n### Changed\n- Updated to Minecraft 1.21.1\n",
+      "changelog_url": null,
+      "date_published": "2024-09-05T07:16:42.216168Z",
+      "downloads": 1389587,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M4rpu4ih",
+          "hashes": {
+            "sha1": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515",
+            "sha512": "3763f95304ade2bacb217828c74eeef7905a114f71d41537d56121af58c182c2685467a5afb7e03ddb3997ec3d7496bdfdf71a9946a9f33e3470393e7a13306d"
+          },
+          "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar",
+          "filename": "caelus-neoforge-7.0.1+1.21.1.jar",
+          "primary": true,
+          "size": 50235,
+          "file_type": null
+        },
+        {
+          "id": "I7NmsqVD",
+          "hashes": {
+            "sha1": "78af3c764cb492aa7118d3569785620ec829355c",
+            "sha512": "0af727235796670eecd006b0c6d26045dfc756b912ffc4f7cf559658835a74015f0ac0bf5099a233da7895f53697d65ccc01a2a4d739f3ab16d08ee093b73025"
+          },
+          "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1-sources.jar",
+          "filename": "caelus-neoforge-7.0.1+1.21.1-sources.jar",
+          "primary": false,
+          "size": 45487,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "wrfZfShf",
+      "project_id": "40FYwb4z",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "caelus-forge-7.0.1+1.21.1",
+      "version_number": "7.0.1+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\nPrior to version 3.1.0, this project used [Forge Recommended Versioning](https://mcforge.readthedocs.io/en/latest/conventions/versioning/).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/caelus/blob/1.21.x/CHANGELOG.md).\n\n## [7.0.1+1.21.1] - 2024.09.05\n### Added\n- Added `es_cl` localization [#41](https://github.com/illusivesoulworks/caelus/pull/41)\n### Changed\n- Updated to Minecraft 1.21.1\n",
+      "changelog_url": null,
+      "date_published": "2024-09-05T07:16:32.921678Z",
+      "downloads": 15135,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vry0p49Z",
+          "hashes": {
+            "sha1": "be4e4fb4407050afee515a0b82132c55144f8d4d",
+            "sha512": "d8946c8d2e5ca83b04e9ee487e40426ab491bd55285ce7c67c2467986015923d6ade6d190baecbebbf5203b7bdd25dc9d07ebda34e03c715c864ed8267215504"
+          },
+          "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/wrfZfShf/caelus-forge-7.0.1%2B1.21.1.jar",
+          "filename": "caelus-forge-7.0.1+1.21.1.jar",
+          "primary": true,
+          "size": 50058,
+          "file_type": null
+        },
+        {
+          "id": "bk1QS6DZ",
+          "hashes": {
+            "sha512": "214613fa9ad4146c679f9f9b3e3a6bafd4317c64eeeffd30a26bce8d56aa4efca71974d6482dae23e1a1492e4877c35e2aa601b4c2c1c3d9b62310d23be10698",
+            "sha1": "dce646cbba4bb1dbdd116f05fc26b08692d52039"
+          },
+          "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/wrfZfShf/caelus-forge-7.0.1%2B1.21.1-sources.jar",
+          "filename": "caelus-forge-7.0.1+1.21.1-sources.jar",
+          "primary": false,
+          "size": 45365,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

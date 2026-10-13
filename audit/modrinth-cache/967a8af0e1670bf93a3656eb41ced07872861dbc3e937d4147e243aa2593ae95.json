@@ -1,0 +1,58 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Enigmatic+Addons&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:08.859924+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "dxNvj4GU",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "enigmatic-addons",
+        "author": "Auviotre",
+        "author_id": "gAmdqjhc",
+        "organization": null,
+        "organization_id": null,
+        "title": "Enigmatic Addons",
+        "description": "An Addon of Enigmatic Legacy that provides a better gaming experience.",
+        "categories": [
+          "adventure",
+          "forge",
+          "magic"
+        ],
+        "display_categories": [
+          "adventure",
+          "forge",
+          "magic"
+        ],
+        "versions": [
+          "1.19.2",
+          "1.20.1"
+        ],
+        "downloads": 1266858,
+        "follows": 40,
+        "icon_url": "https://cdn.modrinth.com/data/dxNvj4GU/5d18c0c99aa3e6511b1035aac66ebfc43314836b_96.webp",
+        "date_created": "2024-09-29T04:11:54.462634+00:00",
+        "date_modified": "2026-09-06T11:58:38.938283+00:00",
+        "latest_version": "EajlN3M4",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/dxNvj4GU/images/5871e469b299c2c8ac2fe35bc591d74b2cd9e777.png"
+        ],
+        "featured_gallery": null,
+        "color": 6028379
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 1
+  }
+}

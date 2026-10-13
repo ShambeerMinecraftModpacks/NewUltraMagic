@@ -1,0 +1,374 @@
+{
+  "url": "https://api.modrinth.com/v2/project/ygTFuViO/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:59.597091+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ua6OU2jv",
+      "project_id": "ygTFuViO",
+      "author_id": "7fqMBMno",
+      "featured": false,
+      "name": "VampirismIntegrations-1.21.1-1.10.2",
+      "version_number": "1.21.1-1.10.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-06-30T13:54:14.369654Z",
+      "downloads": 14684,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XS5WLFZ4",
+          "hashes": {
+            "sha1": "d0f3a4378aea64c1abf352b0846400d075fdcced",
+            "sha512": "7eb89de58eea6d68ef3ac3e27c470703dcbc569def15c3876d67f0dd0b3cb15e2edc100537ce597b1ce941cdfd7982bfd71608c2055fae98213d45b841c980fd"
+          },
+          "url": "https://cdn.modrinth.com/data/ygTFuViO/versions/ua6OU2jv/vampirism_integrations-1.21.1-1.10.2.jar",
+          "filename": "vampirism_integrations-1.21.1-1.10.2.jar",
+          "primary": true,
+          "size": 305825,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "H1sntfo8",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "3ANq2btA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "HXF82T3G",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ge1sOdFH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vg4qcCBb",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5sy6g3kz",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "uXhSmPjd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fgmhI8kH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jVZ0F1wn",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Xg35A4rS",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "lUZ3VFxN",
+      "project_id": "ygTFuViO",
+      "author_id": "7fqMBMno",
+      "featured": false,
+      "name": "VampirismIntegrations-1.21.1-1.10.0",
+      "version_number": "1.21.1-1.10.0",
+      "changelog": "- **Readd MCA Reborn compatibility**\n- Fix crash on world creation when Lithostiched but not CTOV is installed\n- Make sure GuardVillagers do not attack entities that belong to the faction of the village, but are hostile towards the Singleplayer player (BTW they still don't like it when you feed on a villager in their village, regardless of the village's faction)\n- Fix ToughAsNail thirst not being disabled for vampires\n- Fix ColdSweat modifiers resetting upon respawn\n- Show entity blood level only for vampire players (Jade)\n- Show the faction of entities (WHIT and Jade)\n",
+      "changelog_url": null,
+      "date_published": "2026-01-21T12:05:51.010849Z",
+      "downloads": 14843,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZLDPj325",
+          "hashes": {
+            "sha512": "71e088ed69501166c2b737bd19f681ddf60c397b52bdff0be99e32c17082ebc4198e65da642ca8e7c6c6c222c4f40ba7e9369cbf5159f7da504aea606dfe0187",
+            "sha1": "5e55fdc1a6ceb3864c19ddc84452d817571f02b9"
+          },
+          "url": "https://cdn.modrinth.com/data/ygTFuViO/versions/lUZ3VFxN/vampirism_integrations-1.21.1-1.10.0.jar",
+          "filename": "vampirism_integrations-1.21.1-1.10.0.jar",
+          "primary": true,
+          "size": 304401,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "uXhSmPjd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vg4qcCBb",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Xg35A4rS",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "3ANq2btA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "HXF82T3G",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "H1sntfo8",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jVZ0F1wn",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fgmhI8kH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ge1sOdFH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5sy6g3kz",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "UTvzbRFz",
+      "project_id": "ygTFuViO",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "VampirismIntegrations-1.21.1-1.9.1",
+      "version_number": "1.9.1",
+      "changelog": "fix issue with TAN on servers",
+      "changelog_url": null,
+      "date_published": "2025-08-03T12:15:56.196791Z",
+      "downloads": 21341,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EcQOkLWe",
+          "hashes": {
+            "sha1": "6019c8962c1e7f68a2ec66afc05638d389ef2ac8",
+            "sha512": "16fd6f3874f81e0a3ca1769211a086b5d402f1720ded2fd4cc2c093d0c82f03555c3cf888345a8d3910daf212b89bdecd7dc554e27ae999884ec5c8bc2fc7009"
+          },
+          "url": "https://cdn.modrinth.com/data/ygTFuViO/versions/UTvzbRFz/vampirism_integrations-1.21.1-1.9.1.jar",
+          "filename": "vampirism_integrations-1.21.1-1.9.1.jar",
+          "primary": true,
+          "size": 254248,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Rgs0vJqh",
+      "project_id": "ygTFuViO",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "VampirismIntegrations-1.21.1-1.9.0",
+      "version_number": "1.9.0",
+      "changelog": "- update to 1.21\n- update CTOV compatibility ",
+      "changelog_url": null,
+      "date_published": "2025-05-17T11:42:24.538333Z",
+      "downloads": 2250,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1lYAlwgj",
+          "hashes": {
+            "sha512": "4ebe41e8d12d5bac1eb2b4f2f0edb6ce9886b7c19995aaf457a2e34d6dd54517c88153ce217a6e62f06db9247bca18b3e5f3ee176e2e283ca39bff8048344299",
+            "sha1": "c90e6b55a0e34efef2dc8c18fda9e4abfd34b5f5"
+          },
+          "url": "https://cdn.modrinth.com/data/ygTFuViO/versions/Rgs0vJqh/vampirism_integrations-1.21.1-1.9.0.jar",
+          "filename": "vampirism_integrations-1.21.1-1.9.0.jar",
+          "primary": true,
+          "size": 254216,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "3ANq2btA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "6AQIaxuO",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "H1sntfo8",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ge1sOdFH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Xg35A4rS",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "vg4qcCBb",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "HXF82T3G",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nvQzSEkH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5sy6g3kz",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fgmhI8kH",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "uXhSmPjd",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "jVZ0F1wn",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

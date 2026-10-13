@@ -1,0 +1,1794 @@
+{
+  "url": "https://api.modrinth.com/v2/project/onSQdWhM/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:53.068062+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "BGe4KMlE",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.3 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.6.3",
+      "changelog": "## What's new\n\n### 6.6.3\n\n-   Removed dependency on kotlin for forge. Looks like they are not interested in suppoting forge anymore.\n-   libIPN now embeds the Kotlin jars\n-   Removed the last direct dependencies on OpenGL in 1.21.11 builds.\n-   Minecraft versions 1.21.6-10 are no longer supported.\n",
+      "changelog_url": null,
+      "date_published": "2026-03-25T11:26:18.704020Z",
+      "downloads": 697611,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LGxj8ls5",
+          "hashes": {
+            "sha512": "89383465eb8dfa296e7518dd0e6ddc1a242f4537a3183425f2319c79a3e97843ded0f5e13f86b095f2f09beacd2a1f249f554e0f4e18291209720826031a8b93",
+            "sha1": "baab9e8cae3d2b77b5e172b5694e465ee9f30d4a"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/BGe4KMlE/libIPN-neoforge-1.21.1-6.6.3.jar",
+          "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
+          "primary": true,
+          "size": 626146,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "PSscYPRs",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.3 for fabric 1.21.1",
+      "version_number": "fabric-1.21.1-6.6.3",
+      "changelog": "## What's new\n\n### 6.6.3\n\n-   Removed dependency on kotlin for forge. Looks like they are not interested in suppoting forge anymore.\n-   libIPN now embeds the Kotlin jars\n-   Removed the last direct dependencies on OpenGL in 1.21.11 builds.\n-   Minecraft versions 1.21.6-10 are no longer supported.\n",
+      "changelog_url": null,
+      "date_published": "2026-03-25T11:26:06.562470Z",
+      "downloads": 389167,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tIBeK4uh",
+          "hashes": {
+            "sha1": "0fdc425d1fc0ad8703256f43deadcadee4328eea",
+            "sha512": "765991facc85b2cbc5a40c5ddc506da16f18a5c43de7c42757195dbc8d43e09573504602d3695de0054e5a868c6368fca7ad982738f509ba17a68d373532d16c"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/PSscYPRs/libIPN-fabric-1.21.1-6.6.3.jar",
+          "filename": "libIPN-fabric-1.21.1-6.6.3.jar",
+          "primary": true,
+          "size": 636114,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "teCQx11p",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.2 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.6.2",
+      "changelog": "## What's new\n\n### 6.6.2\n\n-   added support for 1.21.11\n-   fixed scroll wheel input causing crash in creative inventory\n\n*NOTE*: this is the last release that supports 1.21.6 and probably 1.21.10\n",
+      "changelog_url": null,
+      "date_published": "2025-12-13T08:49:12.375983Z",
+      "downloads": 186010,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kgRV6e6c",
+          "hashes": {
+            "sha1": "b67f700bb76d44fbc7161a3466e1db85d60edec7",
+            "sha512": "a5c68cd916449fd0d34c0ebaa8e3b44253c642f87617dfa6e17e99c03d753cf9752f205c3e295f216a6751cbbf83c547e6f1f9cf92e1359205b32a72d47f6f54"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/teCQx11p/libIPN-neoforge-1.21.1-6.6.2.jar",
+          "filename": "libIPN-neoforge-1.21.1-6.6.2.jar",
+          "primary": true,
+          "size": 626176,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "3rPzmg5m",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.2 for fabric 1.21.1",
+      "version_number": "fabric-1.21.1-6.6.2",
+      "changelog": "## What's new\n\n### 6.6.2\n\n-   added support for 1.21.11\n-   fixed scroll wheel input causing crash in creative inventory\n\n*NOTE*: this is the last release that supports 1.21.6 and probably 1.21.10\n",
+      "changelog_url": null,
+      "date_published": "2025-12-13T08:48:08.548806Z",
+      "downloads": 571520,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sSCYQEWl",
+          "hashes": {
+            "sha512": "aecc0bd47a7cabf6e7bc11013e578b12fd9156406161b4635d25c8337c0817fbe7fe67157f4cb11b9c98338859b68b7eeb7b16dd159f5c3b773235115e94a8ba",
+            "sha1": "f87812771b059853b96c3d1ba589f1655cd05e28"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/3rPzmg5m/libIPN-fabric-1.21.1-6.6.2.jar",
+          "filename": "libIPN-fabric-1.21.1-6.6.2.jar",
+          "primary": true,
+          "size": 636108,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "VeZPht82",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.1 for fabric 1.21.1",
+      "version_number": "fabric-1.21.1-6.6.1",
+      "changelog": "## What's new\n\n### 6.6.1\n\n-   fixed 'escape closes the settings screen during shortcut assigment'\n-   fixed a number of minor problems caused by the 1.21.9/10 port\n",
+      "changelog_url": null,
+      "date_published": "2025-11-08T19:53:25.140307Z",
+      "downloads": 1133577,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "q2UYaNux",
+          "hashes": {
+            "sha512": "1bfe75eac37e5abf4c86ae2c89ba0a194b5b73adf9a71e72deead3442b0f1e7e28ceb4d914d4c82fbceb14a4aeffed431e6c3fea7693b0bc327fce819247d258",
+            "sha1": "84658f20587676cacb2524d1a6d6250e5c97f188"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/VeZPht82/libIPN-fabric-1.21.1-6.6.1.jar",
+          "filename": "libIPN-fabric-1.21.1-6.6.1.jar",
+          "primary": true,
+          "size": 632440,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "zE3hANeN",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.1 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.6.1",
+      "changelog": "## What's new\n\n### 6.6.1\n\n-   fixed 'escape closes the settings screen during shortcut assigment'\n-   fixed a number of minor problems caused by the 1.21.9/10 port\n",
+      "changelog_url": null,
+      "date_published": "2025-11-08T19:51:39.980184Z",
+      "downloads": 47316,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TnRMFEFU",
+          "hashes": {
+            "sha1": "7e06f3fd77e63388ee46f2b0a3e7258c36d582e6",
+            "sha512": "5dc501543df16365236aef8a9b955f0c1c7ee38e6f86b20f94fe84446ae727be7811709b97f582cac84f0ba110c0deaf978e637a820dad4c83b07da3def1c8c2"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/zE3hANeN/libIPN-neoforge-1.21.1-6.6.1.jar",
+          "filename": "libIPN-neoforge-1.21.1-6.6.1.jar",
+          "primary": true,
+          "size": 622025,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "Dy64jVRA",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.0 for fabric 1.21.1",
+      "version_number": "fabric-1.21.1-6.6.0",
+      "changelog": "## What's new\n\n### 6.6.0\n\n-   Adds support for fabric and neoforge 1.21.9\n\n#### WARNING\n\n**The neoforge 1.21.9 port is probably wishful thinking. Since at the time of this release, KotlinForForge for 1.21.9 has not been yet released. And no testing has been done.**\n",
+      "changelog_url": null,
+      "date_published": "2025-10-05T20:04:25.119104Z",
+      "downloads": 45797,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bhXI46AK",
+          "hashes": {
+            "sha512": "f271187c23d83b107790f6b59822b01b741bd1bbdfed22b75ee082c5ee84abeed04b85be1864639119c7ae52a9c08d4d33cd6c23941313cb3d0ca9082971585c",
+            "sha1": "ec3c5e4d61fe912a356e7af93d302f98031ecf3f"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Dy64jVRA/libIPN-fabric-1.21-6.6.0.jar",
+          "filename": "libIPN-fabric-1.21-6.6.0.jar",
+          "primary": true,
+          "size": 631843,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "6r4Oasoa",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.6.0 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.6.0",
+      "changelog": "## What's new\n\n### 6.6.0\n\n-   Adds support for fabric and neoforge 1.21.9\n\n#### WARNING\n\n**The neoforge 1.21.9 port is probably wishful thinking. Since at the time of this release, KotlinForForge for 1.21.9 has not been yet released. And no testing has been done.**\n",
+      "changelog_url": null,
+      "date_published": "2025-10-05T20:03:21.890973Z",
+      "downloads": 45352,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GjgaXZtj",
+          "hashes": {
+            "sha512": "a1d374abe0eb1c2fd237ea21ba4930fc34a1bedc35faa13bbfaef3e1a1dcbf9f4c49b897ae1d39060e325aac72ad593b12358f31905739427012fe6c98150bff",
+            "sha1": "d29cb1c5126efc254660ae5a5a7d5f0396dd8007"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/6r4Oasoa/libIPN-neoforge-1.21-6.6.0.jar",
+          "filename": "libIPN-neoforge-1.21-6.6.0.jar",
+          "primary": true,
+          "size": 621327,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "CUdRo4aG",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.5.1 for fabric 1.21.1",
+      "version_number": "fabric-1.21.1-6.5.1",
+      "changelog": "## What's new\n\n### 6.5.1\n\n-   Fixes rendering issues that were results of the port to 1.21.5/6/7\n\n###### NOTICE\n\n-   1.21.4/5 will not receive further updates.\n-   forge will not receive support for 1.21.6/7\n",
+      "changelog_url": null,
+      "date_published": "2025-07-09T12:44:31.265223Z",
+      "downloads": 181368,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HtHx50VQ",
+          "hashes": {
+            "sha1": "0a6e2cea9ebcd6594659f0147be24e5e9f74cdd0",
+            "sha512": "b4e5b42dafc12211bc4a822977dd45328d5828f7a5a585a08a1d7fd32e1643d6bd02ab2c336eb47cf94e0048dbe262d68ce783d62580a10f2098ba9ff88f32d1"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/CUdRo4aG/libIPN-fabric-1.21-6.5.1.jar",
+          "filename": "libIPN-fabric-1.21-6.5.1.jar",
+          "primary": true,
+          "size": 631682,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "QFi1HxQ2",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.5.1 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.5.1",
+      "changelog": "## What's new\n\n### 6.5.1\n\n-   Fixes rendering issues that were results of the port to 1.21.5/6/7\n\n###### NOTICE\n\n-   1.21.4/5 will not receive further updates.\n-   forge will not receive support for 1.21.6/7\n",
+      "changelog_url": null,
+      "date_published": "2025-07-09T12:41:45.327528Z",
+      "downloads": 217281,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZCGJqgm0",
+          "hashes": {
+            "sha1": "9f7b91e2e8c729bff6eaac0c1c4123160ca4b7f5",
+            "sha512": "57bb7c94cefbcb5d8eb9da1651c34f536b371d87e1cb251f3ed60782b94b7fff62d655e4fbe3b6b7c8e537fbb23e0ba445ee762c6a333677f10959c5f6ee0ea8"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/QFi1HxQ2/libIPN-neoforge-1.21-6.5.1.jar",
+          "filename": "libIPN-neoforge-1.21-6.5.1.jar",
+          "primary": true,
+          "size": 620652,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "iYKDgBUU",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.5.1 for forge 1.21.1",
+      "version_number": "forge-1.21.1-6.5.1",
+      "changelog": "## What's new\n\n### 6.5.1\n\n-   Fixes rendering issues that were results of the port to 1.21.5/6/7\n\n###### NOTICE\n\n-   1.21.4/5 will not receive further updates.\n-   forge will not receive support for 1.21.6/7\n",
+      "changelog_url": null,
+      "date_published": "2025-07-09T12:41:32.582602Z",
+      "downloads": 75935,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1pca3h2I",
+          "hashes": {
+            "sha1": "5158660ad7c22015128409c1530f29d7362ca52c",
+            "sha512": "0779954fbf1223b09a8eb26f34617114182fbfd3b2639acc6e427804772a9fee739b0f550bd0f24d4aa714ed631df2b8d59869c28f77d3524aa3404da6e7ef7f"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/iYKDgBUU/libIPN-forge-1.21-6.5.1.jar",
+          "filename": "libIPN-forge-1.21-6.5.1.jar",
+          "primary": true,
+          "size": 619892,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "L8oOJIG9",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.5.0 for fabric 1.21",
+      "version_number": "fabric-1.21-6.5.0",
+      "changelog": "## What's new\n\n### 6.5.0\n\n-   Adds support for xForge 1.21.5\n",
+      "changelog_url": null,
+      "date_published": "2025-04-11T16:27:09.248566Z",
+      "downloads": 172100,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rZ95xzWj",
+          "hashes": {
+            "sha1": "9ef87d6fa2ad2cf4e702ece7a7726cb8b9313dd8",
+            "sha512": "8dc0e99203aa23d2b3f1d0913a504f8c1817c6dea508ebb70e1997d94e875050006e7aadd6a25c479d8f25bc0baa11890a2869cc89bd13c165fae95d80459160"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/L8oOJIG9/libIPN-fabric-1.21-6.5.0.jar",
+          "filename": "libIPN-fabric-1.21-6.5.0.jar",
+          "primary": true,
+          "size": 630967,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "jLoEF5th",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.5.0 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.5.0",
+      "changelog": "## What's new\n\n### 6.5.0\n\n-   Adds support for xForge 1.21.5\n",
+      "changelog_url": null,
+      "date_published": "2025-04-11T16:25:56.445471Z",
+      "downloads": 163143,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nWtikXkj",
+          "hashes": {
+            "sha1": "c439afa90ca14a4a790a4e2ba0d98c78c0b27f27",
+            "sha512": "57920830abf6da1fb7ef7722c00c1c259e31677e7f773f6eaf8b057d61cd15ab598dd1ebbe021c658bf8e3214db881505441643c9b7a37263993ccf8d2b62c79"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jLoEF5th/libIPN-neoforge-1.21-6.5.0.jar",
+          "filename": "libIPN-neoforge-1.21-6.5.0.jar",
+          "primary": true,
+          "size": 620766,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "T2crlGpe",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.5.0 for forge 1.21",
+      "version_number": "forge-1.21-6.5.0",
+      "changelog": "## What's new\n\n### 6.5.0\n\n-   Adds support for xForge 1.21.5\n",
+      "changelog_url": null,
+      "date_published": "2025-04-11T16:25:51.138831Z",
+      "downloads": 11381,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2bCHseQz",
+          "hashes": {
+            "sha512": "db1e3be0b8a8affbb68bd6dc448e3244bfe9e5b7b018da33481019d09ae1604b2c2a7bc11eeef30bbd8cb3aa1474544bdd881c7c042a2fb0cb0768917196d1bc",
+            "sha1": "93b66aec5f232397fb8f24b09bbdcb6324d3b9fe"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/T2crlGpe/libIPN-forge-1.21-6.5.0.jar",
+          "filename": "libIPN-forge-1.21-6.5.0.jar",
+          "primary": true,
+          "size": 620041,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "GnltIwjx",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.4.0 for fabric 1.21",
+      "version_number": "fabric-1.21-6.4.0",
+      "changelog": "## What's new\n\n### 6.4.0\n\n-   Due to changes how rendering works in 1.21.5 the libIPN API has incompatible changes.\n-   Due to the above some aspects of the GUI may have minor differences with previous versions.\n-   Fixed multiple click sounds when clicking on some widgets in the config screens.\n",
+      "changelog_url": null,
+      "date_published": "2025-03-16T17:33:16.784810Z",
+      "downloads": 66210,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pTgCti8R",
+          "hashes": {
+            "sha1": "fc1dbe08f85245768919a7738f69bfed807a2dc2",
+            "sha512": "7a5ba9e7ec38840f5892f1ae9a06c6bc6b21cf53e33d77fe82622087031b83bf70ddb454c2237917f9e2f962ef372acc59ffdf3533ca37607827fd10bf019a44"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/GnltIwjx/libIPN-fabric-1.21-6.4.0.jar",
+          "filename": "libIPN-fabric-1.21-6.4.0.jar",
+          "primary": true,
+          "size": 630786,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "seepTS1B",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.4.0 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.4.0",
+      "changelog": "## What's new\n\n### 6.4.0\n\n-   Due to changes how rendering works in 1.21.5 the libIPN API has incompatible changes.\n-   Due to the above some aspects of the GUI may have minor differences with previous versions.\n-   Fixed multiple click sounds when clicking on some widgets in the config screens.\n",
+      "changelog_url": null,
+      "date_published": "2025-03-16T17:31:27.611970Z",
+      "downloads": 40632,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kXAH7I7n",
+          "hashes": {
+            "sha512": "1b55ba4638c58db30ab981d2ed804200ed95ab0747f128327e782c9b41953476a0d3e75f459492b3a0408fa9f67fe62c50a0f3e79495109fae0fceb08e6e6cd8",
+            "sha1": "d50510ccc9c67f7518a57ab931b1289ca5c64b2c"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/seepTS1B/libIPN-neoforge-1.21-6.4.0.jar",
+          "filename": "libIPN-neoforge-1.21-6.4.0.jar",
+          "primary": true,
+          "size": 620670,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "pSFEMSOO",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.4.0 for forge 1.21",
+      "version_number": "forge-1.21-6.4.0",
+      "changelog": "## What's new\n\n### 6.4.0\n\n-   Due to changes how rendering works in 1.21.5 the libIPN API has incompatible changes.\n-   Due to the above some aspects of the GUI may have minor differences with previous versions.\n-   Fixed multiple click sounds when clicking on some widgets in the config screens.\n",
+      "changelog_url": null,
+      "date_published": "2025-03-16T17:31:24.640842Z",
+      "downloads": 3028,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DlYyxSvs",
+          "hashes": {
+            "sha1": "2abf12b71c5320d6a5e0826d93b3369a05453827",
+            "sha512": "64a3948ae812eea9c9584771fa5e99c5eee3fcc833f7c9b59e802e5c775d2f06ca774bb01e58443d0d38cef9a3e56dee554eb5aaa57337469b42df6cb1481cce"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pSFEMSOO/libIPN-forge-1.21-6.4.0.jar",
+          "filename": "libIPN-forge-1.21-6.4.0.jar",
+          "primary": true,
+          "size": 620105,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "KOBnnT1S",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.3.1 for fabric 1.21",
+      "version_number": "fabric-1.21-6.3.1",
+      "changelog": "## What's new\n\n### 6.3.0/1\n\n-   support for 1.21.5\n-   lots of technical improvements that make the client mods configs simpler\n-   1.21.3 is no longer supported\n",
+      "changelog_url": null,
+      "date_published": "2025-02-08T10:47:25.432363Z",
+      "downloads": 776504,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Yw1lT0IR",
+          "hashes": {
+            "sha512": "15c681064e59f9890e68c39f4d95e93ca3313a97c9ec3da3b458290abb29db7c2eeaf3bb75d177334fe9e311b699c7695dce00838cf689c106e6907517089a86",
+            "sha1": "67883e5c5807528c63926b01e49e7161b0c75dff"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/KOBnnT1S/libIPN-fabric-1.21-6.3.1.jar",
+          "filename": "libIPN-fabric-1.21-6.3.1.jar",
+          "primary": true,
+          "size": 628218,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "2Udx6CE2",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.3.1 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.3.1",
+      "changelog": "## What's new\n\n### 6.3.0/1\n\n-   support for 1.21.5\n-   lots of technical improvements that make the client mods configs simpler\n-   1.21.3 is no longer supported\n",
+      "changelog_url": null,
+      "date_published": "2025-02-08T10:44:54.255241Z",
+      "downloads": 28876,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "f3GGRE9P",
+          "hashes": {
+            "sha512": "d3ac4a656a3a530d9aa88c06776d63e561198fd632e33d0bad407651ff5dd5665a9e980cfada628a96506623596b055c7f0eab42430dad8057ccb0f5ef597131",
+            "sha1": "7a048459e478d429b4945c72e5606fdadfdad5be"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/2Udx6CE2/libIPN-neoforge-1.21-6.3.1.jar",
+          "filename": "libIPN-neoforge-1.21-6.3.1.jar",
+          "primary": true,
+          "size": 618546,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "5yaAzJQS",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.3.1 for forge 1.21",
+      "version_number": "forge-1.21-6.3.1",
+      "changelog": "## What's new\n\n### 6.3.0/1\n\n-   support for 1.21.5\n-   lots of technical improvements that make the client mods configs simpler\n-   1.21.3 is no longer supported\n",
+      "changelog_url": null,
+      "date_published": "2025-02-08T10:44:52.024164Z",
+      "downloads": 13023,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PnMgzC8q",
+          "hashes": {
+            "sha1": "99b4eb93b11daa03943c05f835db23497b88b55a",
+            "sha512": "eef354dd5fde26597eddf1f54f7b758ef61cb0d69b52ad04926c0f84de3355ec0987d9739faee69981149737835d2a683a124ae67616db3757e5140d0e831241"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/5yaAzJQS/libIPN-forge-1.21-6.3.1.jar",
+          "filename": "libIPN-forge-1.21-6.3.1.jar",
+          "primary": true,
+          "size": 617978,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "dCjCMdfM",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.2.1 for neoforge 1.21.1",
+      "version_number": "neoforge-1.21.1-6.2.1",
+      "changelog": "## What's new\n\n### 6.2.1\n\n-   Adds support for multiple key combinations per keybind. Accessible through the button icon of the keybind option.\n",
+      "changelog_url": null,
+      "date_published": "2025-01-05T10:35:10.083036Z",
+      "downloads": 9764,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "h8xY1n5p",
+          "hashes": {
+            "sha1": "60709f69be5b2680001a2aea3196d79b44a8c848",
+            "sha512": "f94a581b9384ac5c9d0af560a9f9384d4e33020ac34a0aa2f6050f57d1eae32b63d6c5bf946da5717ca77a5c05f02aaef977cadea7c3cb6fc94b784d44f7a20e"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/dCjCMdfM/libIPN-neoforge-1.21-6.2.1.jar",
+          "filename": "libIPN-neoforge-1.21-6.2.1.jar",
+          "primary": true,
+          "size": 621275,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "HaegpLNg",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.2.1 for forge 1.21",
+      "version_number": "forge-1.21-6.2.1",
+      "changelog": "## What's new\n\n### 6.2.1\n\n-   Adds support for multiple key combinations per keybind. Accessible through the button icon of the keybind option.\n",
+      "changelog_url": null,
+      "date_published": "2025-01-05T10:34:58.482219Z",
+      "downloads": 4994,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wV7zDLAo",
+          "hashes": {
+            "sha1": "ccf752223027c14e4b82ae26f7620aa5729a39e4",
+            "sha512": "3502d8375f33eeb6e9dcfd1c6dc21ccec44c136baaab854e02f097c9fdd9df6e97100d85d20f8773f350c2df3cb0af8913527b3e8b77dd76b612e604ad15cf00"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/HaegpLNg/libIPN-forge-1.21-6.2.1.jar",
+          "filename": "libIPN-forge-1.21-6.2.1.jar",
+          "primary": true,
+          "size": 620904,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "acVocwK7",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.2.1 for fabric 1.21",
+      "version_number": "fabric-1.21-6.2.1",
+      "changelog": "## What's new\n\n### 6.2.1\n\n-   Adds support for multiple key combinations per keybind. Accessible through the button icon of the keybind option.\n",
+      "changelog_url": null,
+      "date_published": "2025-01-05T10:34:41.230044Z",
+      "downloads": 102183,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7E91nFSC",
+          "hashes": {
+            "sha1": "244b78c6b2dbf54a5ff3cd9363459d2bfe498f3b",
+            "sha512": "3ee973e8fee07514de51b6e1cfafb04c085d296be6663b8be5d3695f7d88c341bf497fb5663570782426c79f8bcd5dcc6ca15ab51ec416397684ca94874880eb"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/acVocwK7/libIPN-fabric-1.21-6.2.1.jar",
+          "filename": "libIPN-fabric-1.21-6.2.1.jar",
+          "primary": true,
+          "size": 629626,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "pomcIFya",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.2.0 for fabric 1.21",
+      "version_number": "fabric-1.21-6.2.0",
+      "changelog": "## What's new\n\n### 6.2.0\n\n-   Support for fabric 1.21.4\n-   fixes keybinds of [InvTweaks Emulation for IPN](https://modrinth.com/mod/invtweaks-emu-for-ipn)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-25T19:02:54.812633Z",
+      "downloads": 151054,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jWN88f6t",
+          "hashes": {
+            "sha1": "c715a0ad02d280d29c2d48b394bb245ef28e73ab",
+            "sha512": "0c4ce4a72f62234bd9fdca7d4833b9af37b00a714a852fbd90cf5c2dc192ba3c022f7c65ef35d286d35e9ff531c43b25258db959792690a325bf881d6a0eb0ba"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pomcIFya/libIPN-fabric-1.21-6.2.0.jar",
+          "filename": "libIPN-fabric-1.21-6.2.0.jar",
+          "primary": true,
+          "size": 611462,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "DehZXTAZ",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.2.0 for neoforge 1.21",
+      "version_number": "neoforge-1.21-6.2.0",
+      "changelog": "## What's new\n\n### 6.2.0\n\n-   Support for fabric 1.21.4\n-   fixes keybinds of [InvTweaks Emulation for IPN](https://modrinth.com/mod/invtweaks-emu-for-ipn)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-25T19:00:25.996254Z",
+      "downloads": 7241,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CeiRUhvl",
+          "hashes": {
+            "sha512": "57823083dd1170fd882065dc3cf4096a4ae0a18b091edaa57a98295703fb8c86a163e67970f23fd087c1966ce66c1e8939d8a3d9702f4a80768a82f3917decf3",
+            "sha1": "6d644e4da2799eaf39423f7ff61cb0b37b53e38a"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/DehZXTAZ/libIPN-neoforge-1.21-6.2.0.jar",
+          "filename": "libIPN-neoforge-1.21-6.2.0.jar",
+          "primary": true,
+          "size": 605421,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "sVRTZwnO",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.2.0 for forge 1.21",
+      "version_number": "forge-1.21-6.2.0",
+      "changelog": "## What's new\n\n### 6.2.0\n\n-   Support for fabric 1.21.4\n-   fixes keybinds of [InvTweaks Emulation for IPN](https://modrinth.com/mod/invtweaks-emu-for-ipn)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-25T19:00:18.804238Z",
+      "downloads": 4744,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LKkCSKuU",
+          "hashes": {
+            "sha512": "6af167f022f285ffa939db96c88b0bd46363177e30cd58d99fe87c5c1873e2f9bd1d1fe28a6a304e9684c27fcb45cc56e36908dc640382403e1fcd95b0adfe47",
+            "sha1": "3e4ddf1ed972ba156dbe9fac81618df61c8d7c72"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sVRTZwnO/libIPN-forge-1.21-6.2.0.jar",
+          "filename": "libIPN-forge-1.21-6.2.0.jar",
+          "primary": true,
+          "size": 605685,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "Gq4t7guf",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.1.1 for fabric 1.21",
+      "version_number": "fabric-1.21-6.1.1",
+      "changelog": "## What's new\n\n### 6.1.1\n\n-   fixed swipe shift click to detect mouse button release.\n",
+      "changelog_url": null,
+      "date_published": "2024-11-01T09:09:48.325572Z",
+      "downloads": 103944,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JfaYWvWv",
+          "hashes": {
+            "sha1": "6f3f8c5d2a6da09ae158788dae0801ae469b5cab",
+            "sha512": "ce20cb36202a597c2f4180619a1d9517cc03e2597b4c9a11439b5efd0620ed10742b90fad4816dee8308f15efc3e43e344cc35580b762bfc6136c9d1d924b2eb"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Gq4t7guf/libIPN-fabric-1.21-6.1.1.jar",
+          "filename": "libIPN-fabric-1.21-6.1.1.jar",
+          "primary": true,
+          "size": 605672,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "fXRpgTYg",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.1.1 for neoforge 1.21",
+      "version_number": "neoforge-1.21-6.1.1",
+      "changelog": "## What's new\n\n### 6.1.1\n\n-   fixed swipe shift click to detect mouse button release.\n",
+      "changelog_url": null,
+      "date_published": "2024-11-01T09:08:13.106158Z",
+      "downloads": 3971,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D3za8Qpe",
+          "hashes": {
+            "sha1": "330c0609e43888133a6200209f1bef1507a65dee",
+            "sha512": "be638254bc545737c8b18fc7cb6cffc9cf2da7596e3090b502611ddfadcf6501fc20b1953eae69ca45230df19637a72f724834f8009fc050f38dfb9202654366"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/fXRpgTYg/libIPN-neoforge-1.21-6.1.1.jar",
+          "filename": "libIPN-neoforge-1.21-6.1.1.jar",
+          "primary": true,
+          "size": 599665,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "nMLehNBm",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.1.1 for forge 1.21",
+      "version_number": "forge-1.21-6.1.1",
+      "changelog": "## What's new\n\n### 6.1.1\n\n-   fixed swipe shift click to detect mouse button release.\n",
+      "changelog_url": null,
+      "date_published": "2024-11-01T09:08:08.718764Z",
+      "downloads": 3578,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "t5oFbEMZ",
+          "hashes": {
+            "sha512": "4442b51b32fa5791f9e25c806d7a528b8c03945e05d9fcd04c3cebe217a78d891dd3a59993329955710a382e9b95ac3926dde32662a1f24f8c4831f5a8727501",
+            "sha1": "8d040515810e9c668e410ca58f0c2b23b8349cba"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/nMLehNBm/libIPN-forge-1.21-6.1.1.jar",
+          "filename": "libIPN-forge-1.21-6.1.1.jar",
+          "primary": true,
+          "size": 599930,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "JoEbBET0",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.1.0 for fabric 1.21",
+      "version_number": "fabric-1.21-6.1.0",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-10-31T14:12:56.284855Z",
+      "downloads": 4307,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cySLlaMt",
+          "hashes": {
+            "sha1": "6895bf58aa160af82a8473717b475da09776911d",
+            "sha512": "27462bdeeb35f03f248234b0b2023c6140a43a50ee0d9046c3690fa4c32cdc444d79f186e5132a6a96916a4edc42d4b2d86956331baa91c77b70e203d7d34a81"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/JoEbBET0/libIPN-fabric-1.21-6.1.0.jar",
+          "filename": "libIPN-fabric-1.21-6.1.0.jar",
+          "primary": true,
+          "size": 605670,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "4dBma8Ef",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.1.0 for neoforge 1.21",
+      "version_number": "neoforge-1.21-6.1.0",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-10-31T14:12:10.668239Z",
+      "downloads": 483,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gkztfI3r",
+          "hashes": {
+            "sha1": "043023ed6675fb5cde4b0b5581fc95ad8e7bea36",
+            "sha512": "f0af9f289d19eb8b81785a25a031ecc0d18c8299522a6863b2f0ee556fe4d760bd1ac7ba1380537b2d8c9b3a91cdc0bdb61e29efb0c0f3974af146a7b779ed40"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/4dBma8Ef/libIPN-neoforge-1.21-6.1.0.jar",
+          "filename": "libIPN-neoforge-1.21-6.1.0.jar",
+          "primary": true,
+          "size": 599670,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "7YTatPIQ",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.1.0 for forge 1.21",
+      "version_number": "forge-1.21-6.1.0",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-10-31T14:12:07.378189Z",
+      "downloads": 1014,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "z0cXGa7Y",
+          "hashes": {
+            "sha512": "68d0dd0302092f3b550e10c97183d1f8bb1e57d1c7f7f8497f7118931d4848172126d7f6d0fc9d14d9cd8ba273f0295053f738bb2a2aa7d661786f6e713a722d",
+            "sha1": "acc4652a461938f05f06179a49e2c56e2f580f9f"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/7YTatPIQ/libIPN-forge-1.21-6.1.0.jar",
+          "filename": "libIPN-forge-1.21-6.1.0.jar",
+          "primary": true,
+          "size": 599934,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "CVJ80D3k",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.0.3 for fabric 1.21",
+      "version_number": "fabric-1.21-6.0.3",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-10-11T20:03:15.010370Z",
+      "downloads": 52297,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Qktkaljw",
+          "hashes": {
+            "sha512": "bfe1b77ec44f4e21515716bbba00f8746ac97053aee11f78ebed5e2a99d795fdb71e7b66a517b45a3b6c734bb9e934bdcc84615167ec1abf9a8f807e280647af",
+            "sha1": "497659096bf0fff6053d8edc635d98bc4a3acd42"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/CVJ80D3k/libIPN-fabric-1.21-6.0.3.jar",
+          "filename": "libIPN-fabric-1.21-6.0.3.jar",
+          "primary": true,
+          "size": 605802,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "wW2vqpkP",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.0.3 for neoforge 1.21",
+      "version_number": "neoforge-1.21-6.0.3",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-10-11T20:02:25.302005Z",
+      "downloads": 5864,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M2aZSDyv",
+          "hashes": {
+            "sha512": "cdb2cd92f541e30ba0b700efa16ac7efa06a670f6188773ca72e58978e3346d4d8bd4a816ca20a96cae61cb1f5e1069b0ed26c7fa5a4b3bd4f496c82245b27f5",
+            "sha1": "004a5f0c683e8d27c87e8597b3eb175d2bc8ccb0"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/wW2vqpkP/libIPN-neoforge-1.21-6.0.3.jar",
+          "filename": "libIPN-neoforge-1.21-6.0.3.jar",
+          "primary": true,
+          "size": 599826,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "bAx9HIOY",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.0.3 for forge 1.21",
+      "version_number": "forge-1.21-6.0.3",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-10-11T20:02:22.816978Z",
+      "downloads": 4847,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EpwGTPmG",
+          "hashes": {
+            "sha512": "7fdc9a1c8870d44542ae271c24038cb9d6f34e28e0c0f3d3a4d8207e7dc4d4706a0b3507c6b76c57698617067645ea7087ab1e61a3a94c208254a3b9f3a02fc6",
+            "sha1": "4559755f199e7bdd3bec3823dcdef7e724804eca"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/bAx9HIOY/libIPN-forge-1.21-6.0.3.jar",
+          "filename": "libIPN-forge-1.21-6.0.3.jar",
+          "primary": true,
+          "size": 600150,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "Gw5ZLCvi",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.0.2 for fabric 1.21",
+      "version_number": "fabric-1.21-rc1-6.0.2",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-08-02T18:42:52.152564Z",
+      "downloads": 244765,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dizSUSfb",
+          "hashes": {
+            "sha1": "0f85e062e868b5c7cda68d5cab465fad1cb3eacf",
+            "sha512": "902dc4cbbe0bc8330d0776394ad2e59dbf3eddf631c7cad8e220809c6d4fe944cbe0caa8a0714a66b7965487b24aeb7394658497c54cc96b792059d45b64e800"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Gw5ZLCvi/libIPN-fabric-1.21-6.0.2.jar",
+          "filename": "libIPN-fabric-1.21-6.0.2.jar",
+          "primary": true,
+          "size": 604981,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ha28R6CL",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "P2E4l86S",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.0.2 for forge 1.21",
+      "version_number": "forge-1.21-6.0.2",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-08-02T18:42:02.136155Z",
+      "downloads": 13912,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kkryh9ne",
+          "hashes": {
+            "sha512": "a1bf708a6632ac007991b95659e26768baf5d60eed9f9d78beff1cb0e537737302522436c42a3839caafae3891b4e87adf95c303dfde56dd74a27fdaee80c1c0",
+            "sha1": "b2946ce7e173b8035b4604f66eb5b5c32c480424"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/P2E4l86S/libIPN-forge-1.21-6.0.2.jar",
+          "filename": "libIPN-forge-1.21-6.0.2.jar",
+          "primary": true,
+          "size": 599332,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "mwHaCe5H",
+      "project_id": "onSQdWhM",
+      "author_id": "4AVTjs5A",
+      "featured": false,
+      "name": "libIPN 6.0.2 for neoforge 1.21",
+      "version_number": "neoforge-1.21-6.0.2",
+      "changelog": "## What's new\n\n### 6.0.2\n\n-   minor changes needed by IPN 2.0.4\n",
+      "changelog_url": null,
+      "date_published": "2024-08-02T18:42:02.135290Z",
+      "downloads": 27479,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VfWDQgSs",
+          "hashes": {
+            "sha512": "b0819bd857d77a8f310e0887c2ec85af81c4b1ea907abab028f52f06b2a570256da6f82d2d8dadad0412fadf3198d2fc267e30ea5b09265758b9736a8fd57c7b",
+            "sha1": "50e52d8879aeeb811da00b79e31e4e4855a9bb54"
+          },
+          "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mwHaCe5H/libIPN-neoforge-1.21-6.0.2.jar",
+          "filename": "libIPN-neoforge-1.21-6.0.2.jar",
+          "primary": true,
+          "size": 599009,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ordsPcFz",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

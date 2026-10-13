@@ -1,0 +1,198 @@
+{
+  "url": "https://api.modrinth.com/v2/project/o1C1Dkj5",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:51.838054+00:00",
+  "response": {
+    "client_side": "unsupported",
+    "server_side": "required",
+    "game_versions": [
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.4",
+      "1.21",
+      "1.21.1",
+      "1.21.4",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "environment": [
+      "server_only"
+    ],
+    "id": "o1C1Dkj5",
+    "slug": "yungs-better-dungeons",
+    "project_type": "mod",
+    "team": "dxsKu4w1",
+    "organization": "nuVP8uUG",
+    "title": "YUNG's Better Dungeons",
+    "description": "A complete redesign of Minecraft's dungeons!",
+    "body": "<p>\n<img src=\"https://i.imgur.com/0Ka2hKB.png\" alt=\"YUNG's Better Dungeons\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"76\" height=\"27\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/gf4exw0.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: <b>Catacombs, Fortresses of the Undead, and Spider Caves!</b>\n</p>\n<p>\n<b>1.19.2 introduces the Nether Update! </b>Now you can find small Nether dungeons scattered throughout the Nether.<b> Note that this is an extra opt-in feature</b>, meaning you will need to manually enable it in the mod's config.\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1gBQ8gCs4tU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/JR6R3uf.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Dungeons is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of the small dungeons from Better Dungeons! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-dungeons-datapack\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><a title=\"Play with friends with the Essential mod!\" href=\"https://essential.gg/x/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/2mVOWMC.jpeg\" alt=\"Play with friends with the Essential mod!\" /></a></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+    "body_url": null,
+    "published": "2022-11-28T18:36:45.255845Z",
+    "updated": "2026-09-10T13:28:16.584070Z",
+    "approved": "2022-11-28T21:13:53.947575Z",
+    "queued": null,
+    "status": "approved",
+    "requested_status": null,
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "downloads": 22600036,
+    "followers": 3065,
+    "categories": [
+      "adventure",
+      "decoration",
+      "worldgen"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "vhbhPrpZ",
+      "XOk0yK9M",
+      "xgwwD4nQ",
+      "So0mVHEW",
+      "ndfXFrkZ",
+      "JylvzoB0",
+      "sZO4lGuf",
+      "xraHSR9S",
+      "cJ2CwZT6",
+      "iOEKpSFY",
+      "yyEN8Zb4",
+      "bSSS84Op",
+      "sOx1vdMN",
+      "4RpKnxDR",
+      "xMqv6c8w",
+      "8zaPNLL8",
+      "9jmgNEyb",
+      "y2Ahguul",
+      "nidyvq2m",
+      "kPiQ6v4q",
+      "sSqM7waC",
+      "sR9iSOHj",
+      "60GnmH9u",
+      "5e0sLvAW",
+      "emTrSGfp",
+      "ISvARzqL",
+      "s6BiLxo6",
+      "fN6Wv16s",
+      "ZWDbFefV",
+      "SlahCF5y",
+      "zic1ndGE",
+      "bBWVr9v2",
+      "LoQmT3Ih",
+      "65IL2kKI",
+      "E9LsQ4k7",
+      "eBEFvytl",
+      "RqX5d3pv",
+      "uaoqiHOb",
+      "pzPJomj9",
+      "D6aZn0Em",
+      "fQ7EjDPE",
+      "XH5CZtOR",
+      "JJRT74Yl",
+      "uDVYrK8a",
+      "nYyCiHOI",
+      "ZAy29qXU",
+      "e1qEvr8D"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/o1C1Dkj5/9b54b2d932a5a5b6565c93814935c04902f3179b_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/o1C1Dkj5/1f4ac6d7203008cedc2dc998ff1ad6df48732e38.png",
+    "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Dungeons/issues",
+    "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Dungeons",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/rns3beq",
+    "donation_urls": [
+      {
+        "id": "patreon",
+        "platform": "Patreon",
+        "url": "https://www.patreon.com/yungnickyoung"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/1a3ee86e7269bd3703d8ece03cf897b70d2188df_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/430a7b3df92615ef65e3e4d948f47d30c08a301d.png",
+        "featured": true,
+        "title": "Fortress of the Undead",
+        "description": null,
+        "created": "2022-11-28T18:50:31.432404Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/30252f3a39f459bcbf98926baad798590d35c17c_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/c41f4ad0f6909dd705036dfafdbb5bb895444f20.png",
+        "featured": false,
+        "title": "The Catacombs (Floor 0)",
+        "description": null,
+        "created": "2022-11-28T18:50:33.264140Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/45d0d4d902aac0cdda4db45f92a9470429f1fd8a_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/d3791d1eed6818c029ec6e2550c8a9e7c05ec564.png",
+        "featured": false,
+        "title": "Improved vanilla dungeons",
+        "description": " ",
+        "created": "2022-11-28T18:48:34.076498Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/4efef54c35e02be3df44598dfe3e6babf145ab25_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/8dbfa5f91237d71785a78da80a7a2e35f9e0a936.png",
+        "featured": false,
+        "title": "Improved vanilla dungeon in an open cavern",
+        "description": " ",
+        "created": "2022-11-28T18:48:54.873666Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/65f79a1729253cedb80001ce93087a9506c5440d_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/ce1b9c1e55d4570ba1e90e8852d0c14d5559bf6b.png",
+        "featured": false,
+        "title": "The Catacombs (Floor B1)",
+        "description": null,
+        "created": "2022-11-28T18:50:34.771287Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/8cba3f3e13b07cb4071556ab5967c7a74c7406c1_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/16cf9b2e65c75afe44ed8f13d67ab539ac9fdf00.png",
+        "featured": false,
+        "title": "A Small Nether Dungeon, added in 1.19!",
+        "description": "Note that Small Nether Dungeons are an opt-in feature. They must be manually enabled in the mod's config.",
+        "created": "2022-11-28T18:50:40.770360Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/d6e8f1b9065596612f744fcf7508780dff98ca41_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/e6466de1c65c2fab8324a732a9555d39074c586c.png",
+        "featured": false,
+        "title": "Catacombs surface entrance",
+        "description": null,
+        "created": "2022-11-28T18:50:36.580171Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/f0c00500469c9fa094f2366180b3681d9bc2605b_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/cf57af53d46cbfdcd4bab45cad6f0d0facb0b2de.png",
+        "featured": false,
+        "title": "Spider Caves nesting room",
+        "description": null,
+        "created": "2022-11-28T18:50:38.170374Z",
+        "ordering": 0
+      }
+    ],
+    "color": 3214106,
+    "thread_id": "o1C1Dkj5",
+    "monetization_status": "monetized"
+  }
+}

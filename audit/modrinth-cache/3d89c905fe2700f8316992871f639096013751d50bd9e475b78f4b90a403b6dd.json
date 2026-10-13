@@ -1,0 +1,128 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Just+Enough+Resources&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:14.797130+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "uEfK2CXF",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "just-enough-resources-jer",
+        "author": "way2muchnoise",
+        "author_id": "cusaSPBz",
+        "organization": null,
+        "organization_id": null,
+        "title": "Just Enough Resources (JER)",
+        "description": "JEI integration that adds info on mobs, world gen, villagers and many more!",
+        "categories": [
+          "fabric",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.18.2",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20.1",
+          "1.20.2",
+          "1.20.4",
+          "1.20.6",
+          "1.21",
+          "1.21.1",
+          "1.21.4",
+          "1.21.5",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 6982695,
+        "follows": 1132,
+        "icon_url": "https://cdn.modrinth.com/data/uEfK2CXF/ca8130fd80167a798d6bfa489dd87fbb871dce94_96.webp",
+        "date_created": "2023-04-07T21:41:20.489487+00:00",
+        "date_modified": "2026-09-28T20:16:32.193941+00:00",
+        "latest_version": "y36zr5YF",
+        "license": "LicenseRef-Dont-Be-a-Jerk",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/uEfK2CXF/images/248a40ed643ef625d2265dc8dcb8ecf70b2e5bb2.png",
+          "https://cdn.modrinth.com/data/uEfK2CXF/images/01d427102c4f67de2b7bbbaba3d8c603dba20fba_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 8752266
+      },
+      {
+        "project_id": "wOVCyncE",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "just-enough-resources-profiler-jeargh",
+        "author": "ZigTheHedge",
+        "author_id": "YCiDfKPM",
+        "organization": null,
+        "organization_id": null,
+        "title": "Just Enough Resources Profiler (JEARGH)",
+        "description": "Adds a long gone profile command to JER",
+        "categories": [
+          "forge",
+          "game-mechanics",
+          "utility",
+          "worldgen"
+        ],
+        "display_categories": [
+          "forge",
+          "game-mechanics",
+          "utility",
+          "worldgen"
+        ],
+        "versions": [
+          "1.19.2",
+          "1.20.1"
+        ],
+        "downloads": 8328,
+        "follows": 13,
+        "icon_url": "https://cdn.modrinth.com/data/wOVCyncE/f473cda8f8ce901b401f574f72777f11cf557f4e_96.webp",
+        "date_created": "2023-10-06T15:00:58.503559+00:00",
+        "date_modified": "2024-05-05T10:04:22.783672+00:00",
+        "latest_version": "DkaFp61D",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/wOVCyncE/images/1330603c82d8e127655b689244df3d62d91b6111_350.webp",
+          "https://cdn.modrinth.com/data/wOVCyncE/images/7ad5e0d6d7440bbdd32afebe409fe8ab713e9cb3_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/wOVCyncE/images/3a20528e88053dd2f545795e32e0451f6d58ef9f_350.webp",
+        "color": 12237498
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 2
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://api.modrinth.com/v2/project/presence-footsteps-forge",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:54.621265+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "unsupported",
+    "game_versions": [
+      "1.20",
+      "1.20.1",
+      "1.21",
+      "1.21.1"
+    ],
+    "environment": [
+      "client_only"
+    ],
+    "id": "dLfueQtY",
+    "slug": "presence-footsteps-forge",
+    "project_type": "mod",
+    "team": "iW11l1aA",
+    "organization": null,
+    "title": "Presence Footsteps [FORGE]",
+    "description": "This mod is an unofficial port of the Presence Footsteps mod to the Forge modloader.",
+    "body": "This mod is an **unofficial** port of the Presence Footsteps mod to the Forge and NeoForge mod loaders.\n\nFor more information, you can visit the official mod page:\nhttps://modrinth.com/mod/presence-footsteps",
+    "body_url": null,
+    "published": "2025-12-31T08:47:27.460688Z",
+    "updated": "2026-01-13T06:56:53.581064Z",
+    "approved": "2026-01-11T03:26:15.859770Z",
+    "queued": "2025-12-31T13:25:16.815257Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "downloads": 711322,
+    "followers": 44,
+    "categories": [
+      "decoration"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "62Nnl9i1",
+      "Q24YOS0d",
+      "mru6MmJT",
+      "APwizIWh"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/dLfueQtY/d64357ee3e91f26c0e2fe836acf408a1aa9fdca6_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/dLfueQtY/d64357ee3e91f26c0e2fe836acf408a1aa9fdca6.png",
+    "issues_url": null,
+    "source_url": null,
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [],
+    "color": 4805686,
+    "thread_id": "JmO3JerA",
+    "monetization_status": "monetized"
+  }
+}

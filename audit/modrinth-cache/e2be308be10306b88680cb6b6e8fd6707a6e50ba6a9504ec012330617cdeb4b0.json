@@ -1,0 +1,802 @@
+{
+  "url": "https://api.modrinth.com/v2/project/atHH8NyV/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:46.717844+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "C68QaNvH",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "Forge 1.5.5 (1.21.1)",
+      "version_number": "1.5.5",
+      "changelog": "- Fixed an issue that could cause GUI elements to disappear when used in conjunction with Trash Slot mod.\n- Added slight shading to the background of 3D item previews to help distinguish dark items.\n- Fixed an issue that could cause 3D item previews to cut through tooltips.",
+      "changelog_url": null,
+      "date_published": "2025-04-08T21:01:25.865568Z",
+      "downloads": 12208,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "H35aSuls",
+          "hashes": {
+            "sha512": "88016db2ecf65bb60e661fcb35786f6559d8ddb7b1fdc3ac21bf23f1e86f2109b5e36e2ecb053e5611f94ae271096f43a8d49f59448cb91cb854962045149118",
+            "sha1": "7255d9d846d33ea372bdef14e395dea26bb4eccd"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/C68QaNvH/LegendaryTooltips-1.21.1-forge-1.5.5.jar",
+          "filename": "LegendaryTooltips-1.21.1-forge-1.5.5.jar",
+          "primary": true,
+          "size": 80307,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "BabRJO04",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": true,
+      "name": "NeoForge 1.5.5 (1.21.1)",
+      "version_number": "1.5.5",
+      "changelog": "- Fixed an issue that could cause GUI elements to disappear when used in conjunction with Trash Slot mod.\n- Added slight shading to the background of 3D item previews to help distinguish dark items.\n- Fixed an issue that could cause 3D item previews to cut through tooltips.",
+      "changelog_url": null,
+      "date_published": "2025-04-08T21:00:49.704012Z",
+      "downloads": 500662,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1R6ODY0n",
+          "hashes": {
+            "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
+            "sha512": "3c0de6b6597a57b0fc3a134dde03ea3aeed0a7d64db63def8eda182c8bb7717293d2e4753887dcecaa27e17051c308269039eec6e74186d5eede68f98e74feeb"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/BabRJO04/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+          "filename": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+          "primary": true,
+          "size": 81808,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "f4suO4vX",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": true,
+      "name": "Fabric 1.5.5 (1.21.1)",
+      "version_number": "1.5.5",
+      "changelog": "- Fixed an issue that could cause GUI elements to disappear when used in conjunction with Trash Slot mod.\n- Added slight shading to the background of 3D item previews to help distinguish dark items.\n- Fixed an issue that could cause 3D item previews to cut through tooltips.",
+      "changelog_url": null,
+      "date_published": "2025-04-08T20:59:45.209645Z",
+      "downloads": 694965,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "L8gbi6il",
+          "hashes": {
+            "sha512": "b99e468ac6be61fb0bea813e0845901edef70a7078d62cc0f69a544e892cb162849aa238da25c61e094aa30ea77a3341aebf47de549e7b9ac9eeabaa362dcc47",
+            "sha1": "d2a47d7bfdf8008bdb98aa03bc94087be4078a07"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/f4suO4vX/LegendaryTooltips-1.21.1-fabric-1.5.5.jar",
+          "filename": "LegendaryTooltips-1.21.1-fabric-1.5.5.jar",
+          "primary": true,
+          "size": 86697,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "wtXmIDhN",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "Forge 1.5.4 (1.21.1)",
+      "version_number": "1.5.4",
+      "changelog": "- Fixed a bug that could prevent some valid equipment items from showing 3D models when set to \"EQUIPMENT\" mode.\n- Fixed more instances of broken overlapping tooltips.",
+      "changelog_url": null,
+      "date_published": "2025-04-07T21:56:04.944955Z",
+      "downloads": 220,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LcGjeOx0",
+          "hashes": {
+            "sha512": "fce983e100e71e130802b478be3a4efa0b0601f5025f448424218f5bd877dc7bdf7887ef822bb17dab6a88ede15a98fca9885471395bb491b3302697d12ea078",
+            "sha1": "b5f012450e58229504d8277413072be1b705b70d"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/wtXmIDhN/LegendaryTooltips-1.21.1-forge-1.5.4.jar",
+          "filename": "LegendaryTooltips-1.21.1-forge-1.5.4.jar",
+          "primary": true,
+          "size": 80077,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "FJ3AM4a2",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "NeoForge 1.5.4 (1.21.1)",
+      "version_number": "1.5.4",
+      "changelog": "- Fixed a bug that could prevent some valid equipment items from showing 3D models when set to \"EQUIPMENT\" mode.\n- Fixed more instances of broken overlapping tooltips.",
+      "changelog_url": null,
+      "date_published": "2025-04-07T21:55:33.126839Z",
+      "downloads": 627,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XR96VrtV",
+          "hashes": {
+            "sha512": "495d7f8d3b3332cb303d1ffcc6306fab9f6e8de872ba291498b541d385ea9164c023397698897a39c12900a885241d2c789aa05da2e7dc0ce631ec19c2248070",
+            "sha1": "74387ef73d4954892f4b495797ea3149f606275a"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/FJ3AM4a2/LegendaryTooltips-1.21.1-neoforge-1.5.4.jar",
+          "filename": "LegendaryTooltips-1.21.1-neoforge-1.5.4.jar",
+          "primary": true,
+          "size": 81577,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "8mxTz3UT",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "Fabric 1.5.4 (1.21.1)",
+      "version_number": "1.5.4",
+      "changelog": "- Fixed a bug that could prevent some valid equipment items from showing 3D models when set to \"EQUIPMENT\" mode.\n- Fixed more instances of broken overlapping tooltips.",
+      "changelog_url": null,
+      "date_published": "2025-04-07T21:53:19.222447Z",
+      "downloads": 1078,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vlWS2Kpq",
+          "hashes": {
+            "sha512": "78aef395b42e21fe79f218f261ca1a51625a5f743bbf082423380be7cff7ee80a9122fa1264a860e97625db5b3ac885b5e51985282a14314382a656472d71423",
+            "sha1": "bf4e507fbaae7764dae0f706ca30120c2b8b9dde"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/8mxTz3UT/LegendaryTooltips-1.21.1-fabric-1.5.4.jar",
+          "filename": "LegendaryTooltips-1.21.1-fabric-1.5.4.jar",
+          "primary": true,
+          "size": 86466,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "OE5Cclb8",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "Forge 1.5.3 (1.21.1)",
+      "version_number": "1.5.3",
+      "changelog": "- Fixed incorrect attack damage displayed on tools when the \"fixMC271840\" option was enabled.\n- Fixed a crash when installed with Shulker Box Tooltips mod.\n- The \"equipment\" setting for displaying 3D item models now shows models for anything with the \"c:tools\" or \"c:armors\" tag, as well as anything with durability.",
+      "changelog_url": null,
+      "date_published": "2025-04-03T21:01:58.902065Z",
+      "downloads": 210,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DsLfgfHu",
+          "hashes": {
+            "sha512": "d6d1a9c6de7630397a6d32bec73c6e1f4086adff76bfc56d817718c36808326209ed8af2ddc9ef697afcf6639009dec9a6c64353c683b3ddd56e653c963d0bee",
+            "sha1": "2c80ec4daf5ce27054e506e316b8a71c0cbc4baa"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/OE5Cclb8/LegendaryTooltips-1.21.1-forge-1.5.3.jar",
+          "filename": "LegendaryTooltips-1.21.1-forge-1.5.3.jar",
+          "primary": true,
+          "size": 79850,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "ohm2eYj2",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "NeoForge 1.5.3 (1.21.1)",
+      "version_number": "1.5.3",
+      "changelog": "- Fixed incorrect attack damage displayed on tools when the \"fixMC271840\" option was enabled.\n- Fixed a crash when installed with Shulker Box Tooltips mod.\n- The \"equipment\" setting for displaying 3D item models now shows models for anything with the \"c:tools\" or \"c:armors\" tag, as well as anything with durability.",
+      "changelog_url": null,
+      "date_published": "2025-04-03T21:01:13.263337Z",
+      "downloads": 2333,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "f1U2Riu8",
+          "hashes": {
+            "sha1": "b9a9ef13614d9130a34204e0d771889b34915a6d",
+            "sha512": "1ee83613d0277ea772932227bd287f1d12557ce181d031b1683230ee6a775cd2e5ac92b16db3e4d16ce0bc76c41fdc522a7e2d244791d94741602e919196d0c0"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/ohm2eYj2/LegendaryTooltips-1.21.1-neoforge-1.5.3.jar",
+          "filename": "LegendaryTooltips-1.21.1-neoforge-1.5.3.jar",
+          "primary": true,
+          "size": 81348,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "7UStbU3R",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "Fabric 1.5.3 (1.21.1)",
+      "version_number": "1.5.3",
+      "changelog": "- Fixed incorrect attack damage displayed on tools when the \"fixMC271840\" option was enabled.\n- Fixed a crash when installed with Shulker Box Tooltips mod.\n- The \"equipment\" setting for displaying 3D item models now shows models for anything with the \"c:tools\" or \"c:armors\" tag, as well as anything with durability.",
+      "changelog_url": null,
+      "date_published": "2025-04-03T21:00:42.503047Z",
+      "downloads": 7461,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XRuh9qNA",
+          "hashes": {
+            "sha1": "94be1dbe95dbcdbe956e9d5c5683264a3b44b827",
+            "sha512": "7e356a25a72aa811545e52e5fc6316ddb43101eb95f5c1b8eef344cff7bd579840bc2f70c14d6ad8b51440413bed0887758087f89a5c43aa05226385d986e9f9"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/7UStbU3R/LegendaryTooltips-1.21.1-fabric-1.5.3.jar",
+          "filename": "LegendaryTooltips-1.21.1-fabric-1.5.3.jar",
+          "primary": true,
+          "size": 86248,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "9cfOemts",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "Forge 1.5.2 (1.21.1)",
+      "version_number": "1.5.2",
+      "changelog": "- Added Ars Nouveau school tooltip compatibility.\n- Fixed overlapping tooltips rendering improperly.\n- Tooltip borders are now automatically disabled for modded items that mimic Legendary Tooltips functionality.\n- Fixed tooltip spacing on tooltips with a 3D item preview.\n- Compact tooltips option now compacts tooltips more reliably.\n- Fixed title centering being off for tooltips with multiple title lines and a 3D item preview.\n- Fixed incorrect vertical alignment on tooltips with multiple title lines.\n- Fixed tooltips sometimes rendering incorrectly on modded screens provided by Titanium library.\n- Improved compatibility with other mods that alter tooltip colors.\n- Added a new configuration option to display name separators on all tooltips, instead of just item tooltips (enabled by default).\n- Experimental: Added tooltip scrolling and tooltip max size options. (disabled by default)",
+      "changelog_url": null,
+      "date_published": "2025-04-01T22:38:22.965148Z",
+      "downloads": 230,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "o9objSLL",
+          "hashes": {
+            "sha512": "0e3e835946aa01934ce3f9ac2e6235b417d80d06a99222b7aebdbbc68d62b949581dc0135e54419957f5f5a7e3bc84aa471e9cf448a6d07edd096340d187983b",
+            "sha1": "d60deab71bb4f19d154e4d50d56967bafb1f172c"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/9cfOemts/LegendaryTooltips-1.21.1-forge-1.5.2.jar",
+          "filename": "LegendaryTooltips-1.21.1-forge-1.5.2.jar",
+          "primary": true,
+          "size": 79321,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Nay1mU9d",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "NeoForge 1.5.2",
+      "version_number": "1.5.2",
+      "changelog": "- Added Ars Nouveau school tooltip compatibility.\n- Fixed overlapping tooltips rendering improperly.\n- Tooltip borders are now automatically disabled for modded items that mimic Legendary Tooltips functionality.\n- Fixed tooltip spacing on tooltips with a 3D item preview.\n- Compact tooltips option now compacts tooltips more reliably.\n- Fixed title centering being off for tooltips with multiple title lines and a 3D item preview.\n- Fixed incorrect vertical alignment on tooltips with multiple title lines.\n- Fixed tooltips sometimes rendering incorrectly on modded screens provided by Titanium library.\n- Improved compatibility with other mods that alter tooltip colors.\n- Added a new configuration option to display name separators on all tooltips, instead of just item tooltips (enabled by default).\n- Experimental: Added tooltip scrolling and tooltip max size options. (disabled by default)",
+      "changelog_url": null,
+      "date_published": "2025-04-01T22:37:58.597499Z",
+      "downloads": 1815,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WpW9c9Ql",
+          "hashes": {
+            "sha512": "f22550484bfaee76bc45b8d6eeb77ab5567aba826aab9040e517b3438277085d266589cfbca7592da18f191b54cba8214c71800c1adbb9372d8fbfa29af12fa3",
+            "sha1": "c619e53e4bcb6696631f7cfb9c9327a4acedf1f6"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/Nay1mU9d/LegendaryTooltips-1.21.1-neoforge-1.5.2.jar",
+          "filename": "LegendaryTooltips-1.21.1-neoforge-1.5.2.jar",
+          "primary": true,
+          "size": 80842,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "Kq3925ib",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": false,
+      "name": "Fabric 1.5.2 (1.21.1)",
+      "version_number": "1.5.2",
+      "changelog": "- Added Ars Nouveau school tooltip compatibility.\n- Fixed overlapping tooltips rendering improperly.\n- Tooltip borders are now automatically disabled for modded items that mimic Legendary Tooltips functionality.\n- Fixed tooltip spacing on tooltips with a 3D item preview.\n- Compact tooltips option now compacts tooltips more reliably.\n- Fixed title centering being off for tooltips with multiple title lines and a 3D item preview.\n- Fixed incorrect vertical alignment on tooltips with multiple title lines.\n- Fixed tooltips sometimes rendering incorrectly on modded screens provided by Titanium library.\n- Improved compatibility with other mods that alter tooltip colors.\n- Added a new configuration option to display name separators on all tooltips, instead of just item tooltips (enabled by default).\n- Experimental: Added tooltip scrolling and tooltip max size options. (disabled by default)",
+      "changelog_url": null,
+      "date_published": "2025-04-01T22:37:31.793414Z",
+      "downloads": 1455,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wP4woj1Q",
+          "hashes": {
+            "sha1": "76ba8bff20b9e49ffd425dfb2fba11931b13f623",
+            "sha512": "9a6e07d26a4e097211641911fea5533cb7a760dfe61cdde1f24c533452622a4a3466dacde0079be9609b9ebadd82f872a112b8c4df720b4dd68a7dea7593be8c"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/Kq3925ib/LegendaryTooltips-1.21.1-fabric-1.5.2.jar",
+          "filename": "LegendaryTooltips-1.21.1-fabric-1.5.2.jar",
+          "primary": true,
+          "size": 85739,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "mETd5tfg",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": true,
+      "name": "1.4.11 NeoForge (1.21, 1.21.1)",
+      "version_number": "1.4.11",
+      "changelog": "- Prevented mod from loading when installed on dedicated servers.",
+      "changelog_url": null,
+      "date_published": "2024-08-02T22:47:22.218727Z",
+      "downloads": 56458,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QEFCBa9a",
+          "hashes": {
+            "sha512": "93ba7d5c548affecbdcc2edba1735aa5192df0f13dca4a7c429734a534f0db2bd4c54e772dc5917abafc1e6543e4c79dcde327b5b224de50166b9f027daef033",
+            "sha1": "7d76f5a05e34069e5649c410d900b46a1342d386"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/mETd5tfg/LegendaryTooltips-1.21-neoforge-1.4.11.jar",
+          "filename": "LegendaryTooltips-1.21-neoforge-1.4.11.jar",
+          "primary": true,
+          "size": 53238,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "CYSUVOdj",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "JLVpPTBZ",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": true,
+      "name": "1.4.11 Forge (1.21, 1.21.1)",
+      "version_number": "1.4.11",
+      "changelog": "- Prevented mod from loading when installed on dedicated servers.",
+      "changelog_url": null,
+      "date_published": "2024-08-02T22:46:43.350439Z",
+      "downloads": 6713,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sh4Qmop1",
+          "hashes": {
+            "sha512": "e166efdfe85f750b33c3309bc3c0416c35586e42bf9cdcdd90db0bc294dee9fd0215b50ddc4a492c76fc98c73032d0b491833c233be9bacb1b659e2ff3e7487c",
+            "sha1": "5da1bae4e1b90b95239b342f6046f4cfadfedfa7"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/JLVpPTBZ/LegendaryTooltips-1.21-forge-1.4.11.jar",
+          "filename": "LegendaryTooltips-1.21-forge-1.4.11.jar",
+          "primary": true,
+          "size": 54751,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "CYSUVOdj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "UTTS7kWE",
+      "project_id": "atHH8NyV",
+      "author_id": "3Q6HVcLg",
+      "featured": true,
+      "name": "1.4.11 Fabric (1.21, 1.21.1)",
+      "version_number": "1.4.11",
+      "changelog": "- Prevented mod from loading when installed on dedicated servers.",
+      "changelog_url": null,
+      "date_published": "2024-08-02T22:45:42.382611Z",
+      "downloads": 466401,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6YHoURG6",
+          "hashes": {
+            "sha512": "239b6db6949e74ae60f4a593260b9af440b5e15dcb7e811580ef65f839fbce4e1538d6cadbeab00cb663286f5e722c3e73a358bd7ac05950b226ca28b8668ed3",
+            "sha1": "b692e08cd22db158ad06ea84ccc394aa46765c72"
+          },
+          "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/UTTS7kWE/LegendaryTooltips-1.21-fabric-1.4.11.jar",
+          "filename": "LegendaryTooltips-1.21-fabric-1.4.11.jar",
+          "primary": true,
+          "size": 61157,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "CYSUVOdj",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "5faXoLqX",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1OE8wbN0",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

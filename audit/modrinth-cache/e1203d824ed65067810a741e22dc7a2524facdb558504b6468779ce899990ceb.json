@@ -1,0 +1,673 @@
+{
+  "url": "https://api.modrinth.com/v2/project/uEfK2CXF/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:54.297313+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "TgNFki8j",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.17 for NeoForge 1.21.1",
+      "version_number": "1.6.0.17",
+      "changelog": "\\[[c8341e5](https://github.com/way2muchnoise/JustEnoughResources/commit/c8341e5fa89c3fb32b2b50fd9da3164bd92c657c)\\] Added portuguese translation (#518) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-07T19:06:44.215846Z",
+      "downloads": 673627,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "duCewd7n",
+          "hashes": {
+            "sha512": "9a4f8c32e65d5f9451edcf1a584b22b9f590dab2cfb3efb68ef2b4c042d8ff39dcfdaddba0a9d615c7af4ecfa1cefda417c8972d7dcb54e574837ec81d6939b0",
+            "sha1": "e739d69b2de31ca8c0cb4691ab08e823f153bc44"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/TgNFki8j/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "primary": true,
+          "size": 292088,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "a9biQ4Kt",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.17 for Fabric 1.21.1",
+      "version_number": "1.6.0.17",
+      "changelog": "\\[[c8341e5](https://github.com/way2muchnoise/JustEnoughResources/commit/c8341e5fa89c3fb32b2b50fd9da3164bd92c657c)\\] Added portuguese translation (#518) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-07T19:06:41.468647Z",
+      "downloads": 396023,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TjQYuEwk",
+          "hashes": {
+            "sha512": "520a0b772c55a1617422c78a978dc37037a3cfe61abe2949f33f95360d0f9dc59c34e3c68d442d0a0f1b4bc310fefae6a65448d6344ec1fe0bebc94d9b3b2ca8",
+            "sha1": "3ec90637c4eba5664649e3e2c514e8b43ba107d1"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/a9biQ4Kt/JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
+          "filename": "JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
+          "primary": true,
+          "size": 245461,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "I4ePRH85",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.17 for Forge 1.21.1",
+      "version_number": "1.6.0.17",
+      "changelog": "\\[[c8341e5](https://github.com/way2muchnoise/JustEnoughResources/commit/c8341e5fa89c3fb32b2b50fd9da3164bd92c657c)\\] Added portuguese translation (#518) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-07T19:06:37.261541Z",
+      "downloads": 11567,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lvr3tjbI",
+          "hashes": {
+            "sha1": "09f36f78de7d30b549b071ebe6ff6270d42afb82",
+            "sha512": "5296a3aa076448c4d69b4e4f36cdffb6087c907a4cc84aee7c67d2e571a709eb57e544ca5fc7f4e97dab6b31f946d1f3ba28e13f5b419021d6cf554551b43310"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/I4ePRH85/JustEnoughResources-Forge-1.21.1-1.6.0.17.jar",
+          "filename": "JustEnoughResources-Forge-1.21.1-1.6.0.17.jar",
+          "primary": true,
+          "size": 292909,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "APHqJNeA",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.16 for Fabric 1.21.1",
+      "version_number": "1.6.0.16",
+      "changelog": "\\[[c38e5ef](https://github.com/way2muchnoise/JustEnoughResources/commit/c38e5ef0f9a3e72f6a1d1de13afe28d8cf0976c7)\\] Update es_ar.json (#543) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-07T19:06:25.502678Z",
+      "downloads": 254,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BkEDfTIB",
+          "hashes": {
+            "sha1": "92987497070edb33944580b212e6d7232f9f7673",
+            "sha512": "75aa095e472ecb6e4f3d5c918e0212dcb984675f02c31e86585cf8d9a7a84dc44e6576594bad54e26f96a187cda204289609b9e164aae4bdef762561fb4a22bd"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/APHqJNeA/JustEnoughResources-Fabric-1.21.1-1.6.0.16.jar",
+          "filename": "JustEnoughResources-Fabric-1.21.1-1.6.0.16.jar",
+          "primary": true,
+          "size": 243152,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "jGmk2IFw",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.16 for NeoForge 1.21.1",
+      "version_number": "1.6.0.16",
+      "changelog": "\\[[c38e5ef](https://github.com/way2muchnoise/JustEnoughResources/commit/c38e5ef0f9a3e72f6a1d1de13afe28d8cf0976c7)\\] Update es_ar.json (#543) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-07T19:06:22.258264Z",
+      "downloads": 290,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JXAxmS21",
+          "hashes": {
+            "sha512": "944d980ddfe916837d68c39d95d128b99128b96b3bdd0f9540e7888bd4b3c3e90973822308c3d2c6fb3be7a6f90c211dc4bcc5a32f92cadef1c8dd75191062f0",
+            "sha1": "b997f3ce86696f56cb056a91bb55c09ebe2c6836"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/jGmk2IFw/JustEnoughResources-NeoForge-1.21.1-1.6.0.16.jar",
+          "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.16.jar",
+          "primary": true,
+          "size": 289778,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "xQetN0uu",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.16 for Forge 1.21.1",
+      "version_number": "1.6.0.16",
+      "changelog": "\\[[c38e5ef](https://github.com/way2muchnoise/JustEnoughResources/commit/c38e5ef0f9a3e72f6a1d1de13afe28d8cf0976c7)\\] Update es_ar.json (#543) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-07T19:06:17.656969Z",
+      "downloads": 91,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5lCPGzDo",
+          "hashes": {
+            "sha512": "bee83416a3ad5bcc975116715da57a12e3daae7b22d6da64e2b1ba3f2ffabf0958414d9a089a9c0dc265e6e44378b19867df351229e0c52b565fcd642e68c004",
+            "sha1": "ddc91ac77e648912e0fb945e816e147bc7e8581d"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/xQetN0uu/JustEnoughResources-Forge-1.21.1-1.6.0.16.jar",
+          "filename": "JustEnoughResources-Forge-1.21.1-1.6.0.16.jar",
+          "primary": true,
+          "size": 290599,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "ebBjhcd3",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.15 for NeoForge 1.21.1",
+      "version_number": "1.6.0.15",
+      "changelog": "\\[[5fac699](https://github.com/way2muchnoise/JustEnoughResources/commit/5fac699bae893851e73bd5aa0f343f0e19de8b6c)\\] Translation into Argentine Spanish (es_ar) for JustEnoughResources (#542) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-03T18:11:10.532925Z",
+      "downloads": 2458,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RjDmIMU2",
+          "hashes": {
+            "sha1": "178b9f3eb714ade700163bd2b30c7592a1735de5",
+            "sha512": "64bbb0c4d9045a74c6381c9ec7971cd9299afc03f0c0301b6dc3f0f614b31f95c93fbaafab191e71574ca7e5b56f197bd65b9feeee8b95661d2cd2bd01629022"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/ebBjhcd3/JustEnoughResources-NeoForge-1.21.1-1.6.0.15.jar",
+          "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.15.jar",
+          "primary": true,
+          "size": 289804,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "kM7fdh2O",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.15 for Fabric 1.21.1",
+      "version_number": "1.6.0.15",
+      "changelog": "\\[[5fac699](https://github.com/way2muchnoise/JustEnoughResources/commit/5fac699bae893851e73bd5aa0f343f0e19de8b6c)\\] Translation into Argentine Spanish (es_ar) for JustEnoughResources (#542) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-03T18:11:07.533282Z",
+      "downloads": 1991,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NJbWYSdL",
+          "hashes": {
+            "sha1": "bc5e73786165bb8387cc9abe43ed9459ba6722e2",
+            "sha512": "42fdc2386a3e60396b0cb43a72de73825ae1a983e9ce455a2cdc88af74bf6ea80276aaf73142d525843d73ea4f3edd1c82908257256208370b50612263558fba"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/kM7fdh2O/JustEnoughResources-Fabric-1.21.1-1.6.0.15.jar",
+          "filename": "JustEnoughResources-Fabric-1.21.1-1.6.0.15.jar",
+          "primary": true,
+          "size": 243178,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "gfCNWo5l",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.15 for Forge 1.21.1",
+      "version_number": "1.6.0.15",
+      "changelog": "\\[[5fac699](https://github.com/way2muchnoise/JustEnoughResources/commit/5fac699bae893851e73bd5aa0f343f0e19de8b6c)\\] Translation into Argentine Spanish (es_ar) for JustEnoughResources (#542) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-05-03T18:11:03.245695Z",
+      "downloads": 181,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QQ1CAq1D",
+          "hashes": {
+            "sha512": "bf7d43e35c0f4f4de66678ed1f93c9ef055a55c374b37180ddd863b6d3919c8d9a7fe7aad53df1904e69fee694a6dfeb95b1a6bea8395dc746f7fba2a80950c3",
+            "sha1": "0008adfa939f14c01175b0d590c74d215ad957d4"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/gfCNWo5l/JustEnoughResources-Forge-1.21.1-1.6.0.15.jar",
+          "filename": "JustEnoughResources-Forge-1.21.1-1.6.0.15.jar",
+          "primary": true,
+          "size": 290625,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "PJo4kPKe",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.14 for Fabric 1.21.1",
+      "version_number": "1.6.0.14",
+      "changelog": "\\[[a46144a](https://github.com/way2muchnoise/JustEnoughResources/commit/a46144abbf8a81dca6a9bf6c19691e6009ade889)\\] Fixed `world-gen.json` loading by using `ResourceLocation.parse` instead of `ResourceLocation.withDefaultNamespace`. The `dim` parameter already includes the namespace (e.g., `minecraft:iron_ore`), whereas `withDefaultNamespace` assumes a path-only input (e.g., `iron_ore`). This mismatch was causing a `ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:minecraft:overworld`. (#537) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-04-21T21:02:09.289945Z",
+      "downloads": 3945,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "U03nT6LM",
+          "hashes": {
+            "sha1": "f4f0658f0b867a5281d39f9ff191fe5d099e2aba",
+            "sha512": "4fb85ecc47f9fbd8b97cfdf2b2c21e6499ce6a365e18dbaca22f221aba2480eee0847adeb854b841abe6df13f1a0d47dc42c497f169459695f75186436da9723"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/PJo4kPKe/JustEnoughResources-Fabric-1.21.1-1.6.0.14.jar",
+          "filename": "JustEnoughResources-Fabric-1.21.1-1.6.0.14.jar",
+          "primary": true,
+          "size": 240364,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "fwKyIB5f",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.14 for NeoForge 1.21.1",
+      "version_number": "1.6.0.14",
+      "changelog": "\\[[a46144a](https://github.com/way2muchnoise/JustEnoughResources/commit/a46144abbf8a81dca6a9bf6c19691e6009ade889)\\] Fixed `world-gen.json` loading by using `ResourceLocation.parse` instead of `ResourceLocation.withDefaultNamespace`. The `dim` parameter already includes the namespace (e.g., `minecraft:iron_ore`), whereas `withDefaultNamespace` assumes a path-only input (e.g., `iron_ore`). This mismatch was causing a `ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:minecraft:overworld`. (#537) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-04-21T21:02:06.379423Z",
+      "downloads": 8404,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aNGgRc3c",
+          "hashes": {
+            "sha512": "1fd580bcd9109dc2cba7fd748b95851c8464947225228d61beac7518840166cef6acaf44373d3608139a7a0443b32e0b374d57e56b70787edb1fcbf431be0eea",
+            "sha1": "db56b9a866a55c10e5142e5accf0f5b6ba2a522b"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/fwKyIB5f/JustEnoughResources-NeoForge-1.21.1-1.6.0.14.jar",
+          "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.14.jar",
+          "primary": true,
+          "size": 286993,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "u7ShIzoA",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.14 for Forge 1.21.1",
+      "version_number": "1.6.0.14",
+      "changelog": "\\[[a46144a](https://github.com/way2muchnoise/JustEnoughResources/commit/a46144abbf8a81dca6a9bf6c19691e6009ade889)\\] Fixed `world-gen.json` loading by using `ResourceLocation.parse` instead of `ResourceLocation.withDefaultNamespace`. The `dim` parameter already includes the namespace (e.g., `minecraft:iron_ore`), whereas `withDefaultNamespace` assumes a path-only input (e.g., `iron_ore`). This mismatch was causing a `ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:minecraft:overworld`. (#537) (GitHub)  ",
+      "changelog_url": null,
+      "date_published": "2025-04-21T21:02:02.061405Z",
+      "downloads": 345,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5CQ008xn",
+          "hashes": {
+            "sha512": "e19fd64964f0ac190709e7630e1c216bcd3c58b3b6b874d1c5d468445444fb1f45e7ddee52b6efd183bf2333b45c953a2c0a544948d40bee6437d80474fa9876",
+            "sha1": "dda0378454e1220797631621451bc4b80ab94a15"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/u7ShIzoA/JustEnoughResources-Forge-1.21.1-1.6.0.14.jar",
+          "filename": "JustEnoughResources-Forge-1.21.1-1.6.0.14.jar",
+          "primary": true,
+          "size": 287814,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "yhPJo7Qa",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.13 for NeoForge 1.21.1",
+      "version_number": "1.6.0.13",
+      "changelog": "\\[[6284ac7](https://github.com/way2muchnoise/JustEnoughResources/commit/6284ac75af4e9a985ce34c7034b1b24def466ec8)\\] add cleanup on level unload/reload to avoid mem leaks (way2muchnoise)  \n\\[[2c045ae](https://github.com/way2muchnoise/JustEnoughResources/commit/2c045aea459978af7a9268811f6154a8d7de0933)\\] Merge branch 'pietro-lopes-master' (way2muchnoise)  \n\\[[4cfc90c](https://github.com/way2muchnoise/JustEnoughResources/commit/4cfc90c45a3934cddca002a44e087371b021ee02)\\] fix: adds cleanup logic when unloading level to avoid memory leak (Pietro Lopes)  ",
+      "changelog_url": null,
+      "date_published": "2025-02-13T19:11:17.921242Z",
+      "downloads": 26905,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Y7VUJ7eM",
+          "hashes": {
+            "sha1": "9a68a39cfcf08bc7f2f5afa17b43d7f741fb627c",
+            "sha512": "71753f4d79115b0f1541664f49226e59d1874bfe2da402836167efe80dd35b259af9003f125a4e26d310e54f6e6502c8475440b144a18e3da90bff376e6e3a14"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/yhPJo7Qa/JustEnoughResources-NeoForge-1.21.1-1.6.0.13.jar",
+          "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.13.jar",
+          "primary": true,
+          "size": 287000,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "xmfGfgR9",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.13 for Fabric 1.21.1",
+      "version_number": "1.6.0.13",
+      "changelog": "\\[[6284ac7](https://github.com/way2muchnoise/JustEnoughResources/commit/6284ac75af4e9a985ce34c7034b1b24def466ec8)\\] add cleanup on level unload/reload to avoid mem leaks (way2muchnoise)  \n\\[[2c045ae](https://github.com/way2muchnoise/JustEnoughResources/commit/2c045aea459978af7a9268811f6154a8d7de0933)\\] Merge branch 'pietro-lopes-master' (way2muchnoise)  \n\\[[4cfc90c](https://github.com/way2muchnoise/JustEnoughResources/commit/4cfc90c45a3934cddca002a44e087371b021ee02)\\] fix: adds cleanup logic when unloading level to avoid memory leak (Pietro Lopes)  ",
+      "changelog_url": null,
+      "date_published": "2025-02-13T19:11:14.557310Z",
+      "downloads": 61787,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8eHPkT7l",
+          "hashes": {
+            "sha1": "6ffdb0b0d16b4ceab43dc1948b477690f8d18e51",
+            "sha512": "db45e68aa347d21116aefd36f0133e66c9210585dd2317d4b7e45b6a362a0c9a63f6c2b364863ecaf5ef8e8425e8940e849226202f93628796ebdc03cb96038c"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/xmfGfgR9/JustEnoughResources-Fabric-1.21.1-1.6.0.13.jar",
+          "filename": "JustEnoughResources-Fabric-1.21.1-1.6.0.13.jar",
+          "primary": true,
+          "size": 240367,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "fBPSp7ON",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.13 for Forge 1.21.1",
+      "version_number": "1.6.0.13",
+      "changelog": "\\[[6284ac7](https://github.com/way2muchnoise/JustEnoughResources/commit/6284ac75af4e9a985ce34c7034b1b24def466ec8)\\] add cleanup on level unload/reload to avoid mem leaks (way2muchnoise)  \n\\[[2c045ae](https://github.com/way2muchnoise/JustEnoughResources/commit/2c045aea459978af7a9268811f6154a8d7de0933)\\] Merge branch 'pietro-lopes-master' (way2muchnoise)  \n\\[[4cfc90c](https://github.com/way2muchnoise/JustEnoughResources/commit/4cfc90c45a3934cddca002a44e087371b021ee02)\\] fix: adds cleanup logic when unloading level to avoid memory leak (Pietro Lopes)  ",
+      "changelog_url": null,
+      "date_published": "2025-02-13T19:11:09.952877Z",
+      "downloads": 1587,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "B4gNWynS",
+          "hashes": {
+            "sha1": "7d6e1935cd62d2865ace61195038a66bf3cfd5e0",
+            "sha512": "f77c72f96a8a5ec65f91a3536996797786001ae01acaa7f3e63bef1c07598c1a7643f287d0c00abfe16a91be62bde118c17bf1b6de72a3eadd82ef76c0085217"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/fBPSp7ON/JustEnoughResources-Forge-1.21.1-1.6.0.13.jar",
+          "filename": "JustEnoughResources-Forge-1.21.1-1.6.0.13.jar",
+          "primary": true,
+          "size": 287821,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "p6b7O5Cp",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.12 for Fabric 1.21.1",
+      "version_number": "1.6.0.12",
+      "changelog": "\\[[768639a](https://github.com/way2muchnoise/JustEnoughResources/commit/768639a3fb08b5abca1fc0b236e4a1523efe0822)\\] simplify project structure to fix build on Forge and NeoForge (way2muchnoise)  \n\\[[d03ec9a](https://github.com/way2muchnoise/JustEnoughResources/commit/d03ec9ab1fab549d640848f5f127f12d3975e58e)\\] bump versions to 1.21.1 (way2muchnoise)  ",
+      "changelog_url": null,
+      "date_published": "2025-02-09T12:14:08.010679Z",
+      "downloads": 612200,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZUW7ma27",
+          "hashes": {
+            "sha512": "584897670e749656107cb818710f035b15dd48723ace05bbb63c48c91958ef20f64ddbf8c89a2dc52f73ed2048ba2834c16fca57666b5d8b731893b342f6a3c5",
+            "sha1": "e9f24ea785a2eee21cefbf28d8cc529281682e9f"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/p6b7O5Cp/JustEnoughResources-Fabric-1.21.1-1.6.0.12.jar",
+          "filename": "JustEnoughResources-Fabric-1.21.1-1.6.0.12.jar",
+          "primary": true,
+          "size": 239164,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "XOsqpm0l",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.12 for NeoForge 1.21.1",
+      "version_number": "1.6.0.12",
+      "changelog": "\\[[768639a](https://github.com/way2muchnoise/JustEnoughResources/commit/768639a3fb08b5abca1fc0b236e4a1523efe0822)\\] simplify project structure to fix build on Forge and NeoForge (way2muchnoise)  \n\\[[d03ec9a](https://github.com/way2muchnoise/JustEnoughResources/commit/d03ec9ab1fab549d640848f5f127f12d3975e58e)\\] bump versions to 1.21.1 (way2muchnoise)  ",
+      "changelog_url": null,
+      "date_published": "2025-02-09T12:14:05.078783Z",
+      "downloads": 20025,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lpzF8DpY",
+          "hashes": {
+            "sha512": "276a335c917ccc76a0e18b93faf25d26cbfb4ca1136ee012077f1ca0fd7f7abff5f6bbc73939efa5511a0c2d92983f619b0ea9dcf8e3df830c60a2edfd9b18dd",
+            "sha1": "36dadee431118e7b7912cf8981d4afa7992dc93d"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/XOsqpm0l/JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
+          "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
+          "primary": true,
+          "size": 286072,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "cxZRhuUN",
+      "project_id": "uEfK2CXF",
+      "author_id": "cusaSPBz",
+      "featured": false,
+      "name": "1.6.0.12 for Forge 1.21.1",
+      "version_number": "1.6.0.12",
+      "changelog": "\\[[768639a](https://github.com/way2muchnoise/JustEnoughResources/commit/768639a3fb08b5abca1fc0b236e4a1523efe0822)\\] simplify project structure to fix build on Forge and NeoForge (way2muchnoise)  \n\\[[d03ec9a](https://github.com/way2muchnoise/JustEnoughResources/commit/d03ec9ab1fab549d640848f5f127f12d3975e58e)\\] bump versions to 1.21.1 (way2muchnoise)  ",
+      "changelog_url": null,
+      "date_published": "2025-02-09T12:14:00.593559Z",
+      "downloads": 973,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qih7aGYX",
+          "hashes": {
+            "sha512": "26b572578b16f630da8d31d3fdc404431ad3ee4eba3ca8e00234826de16555b2e0b63ce946e7763d9d1953de189dce8fd71f1add31e1969c5000bde09049d863",
+            "sha1": "ea4a043f1c427874e81d70bb9bd64321444a8409"
+          },
+          "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/cxZRhuUN/JustEnoughResources-Forge-1.21.1-1.6.0.12.jar",
+          "filename": "JustEnoughResources-Forge-1.21.1-1.6.0.12.jar",
+          "primary": true,
+          "size": 286907,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

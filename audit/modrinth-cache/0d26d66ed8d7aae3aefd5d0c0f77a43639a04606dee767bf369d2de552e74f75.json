@@ -1,0 +1,194 @@
+{
+  "url": "https://api.modrinth.com/v2/project/aC3cM3Vq/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:45.803035+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "9I21YYxf",
+      "project_id": "aC3cM3Vq",
+      "author_id": "On32SQVu",
+      "featured": false,
+      "name": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+      "version_number": "1.21-2.26.1-neoforge",
+      "changelog": "Updated to the new NeoForge, fixing a config screen crash.\n\nFabric and Forge do not need any changes, so only NeoForge has 2.26.1.",
+      "changelog_url": null,
+      "date_published": "2024-08-17T15:54:27.801812Z",
+      "downloads": 4632381,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8p3lSnJ6",
+          "hashes": {
+            "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+            "sha512": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "primary": true,
+          "size": 73938,
+          "file_type": null
+        },
+        {
+          "id": "vkw2mNzs",
+          "hashes": {
+            "sha1": "2a0cf468086f488407482969a79e8136e782f80e",
+            "sha512": "14bd14977728812e15e6aca256fd77a4bb44959eef45168a379ab1c0fd6aa2207b9505aa47f33df253cb3114bf85c2f502811a68fc2fcbc6e4526ee837672f59"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1-api.jar",
+          "filename": "MouseTweaks-neoforge-mc1.21-2.26.1-api.jar",
+          "primary": false,
+          "size": 1995,
+          "file_type": null
+        },
+        {
+          "id": "zSVEN8J4",
+          "hashes": {
+            "sha512": "b39991a6350444e61c2ff29d37e206bdf96e8d3b4f09daa4cbe376a6a940d85069724fe167152e3bcb613ce8fc12a54aa97d7aa960723858c94ba2b1152ecf47",
+            "sha1": "40eb564254d7a7bd23e045bdd959f906207b661f"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1-src.jar",
+          "filename": "MouseTweaks-neoforge-mc1.21-2.26.1-src.jar",
+          "primary": false,
+          "size": 19675,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ylmBQ38A",
+      "project_id": "aC3cM3Vq",
+      "author_id": "On32SQVu",
+      "featured": false,
+      "name": "[1.21+ Fabric] Mouse Tweaks 2.26",
+      "version_number": "1.21-2.26-fabric",
+      "changelog": "- Updated to Minecraft 1.21.",
+      "changelog_url": null,
+      "date_published": "2024-06-17T08:24:47.086399Z",
+      "downloads": 11392494,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "K86DKpGl",
+          "hashes": {
+            "sha512": "1744a48a47aedcbf19a0a93f78473cf0221fc4782852dca7fc02685719174664b4f9d95d353fcfc16902ac3815594511ba6d9ab14391f9b7e25ec9b2e777927a",
+            "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar",
+          "filename": "MouseTweaks-fabric-mc1.21-2.26.jar",
+          "primary": true,
+          "size": 75984,
+          "file_type": null
+        },
+        {
+          "id": "dAfsMQQY",
+          "hashes": {
+            "sha1": "e4edaff414f34f397a25c18c7a578bc88249d494",
+            "sha512": "643d0e77709ccfd4c22a37f1ced073834cce3261af52bff09fd53832a9eb5dcbb276be18300e1a66fe22a0f517f7d3220e40fca88f6c3ce5afcbeb771a0c2e5d"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26-sources.jar",
+          "filename": "MouseTweaks-fabric-mc1.21-2.26-sources.jar",
+          "primary": false,
+          "size": 65179,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_only",
+      "id": "9IcJV4UJ",
+      "project_id": "aC3cM3Vq",
+      "author_id": "On32SQVu",
+      "featured": false,
+      "name": "[1.21+ Forge] Mouse Tweaks 2.26",
+      "version_number": "1.21-2.26-forge",
+      "changelog": "- Updated to Minecraft 1.21.",
+      "changelog_url": null,
+      "date_published": "2024-06-17T08:22:56.339355Z",
+      "downloads": 137724,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PrvIM2MZ",
+          "hashes": {
+            "sha1": "e1053f8c607714f5afc868d286e3155531763f3a",
+            "sha512": "c7566a234ed1bee1c4f03652325eb0faf174ff0669f0399cfabc0bc49509fa6d1187d55c03de397c135ae20fc5f9efedf659a50b3e65cd5a690fcd25af7d49c2"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9IcJV4UJ/MouseTweaks-forge-mc1.21-2.26.jar",
+          "filename": "MouseTweaks-forge-mc1.21-2.26.jar",
+          "primary": true,
+          "size": 73287,
+          "file_type": null
+        },
+        {
+          "id": "fCzJDFqO",
+          "hashes": {
+            "sha1": "740e502ba6483c68bafb2c4d9d82af939bd28b4f",
+            "sha512": "c4ca80dc259d017eddfe14e0c14d4aea6eee6289770daa2d6e98f2033e3f10bab3efe0e1d5630608f4ea6aa733a26edb9a1b4dbdfe48854d72b7a4d20999b0c5"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9IcJV4UJ/MouseTweaks-forge-mc1.21-2.26-api.jar",
+          "filename": "MouseTweaks-forge-mc1.21-2.26-api.jar",
+          "primary": false,
+          "size": 1995,
+          "file_type": null
+        },
+        {
+          "id": "9Q1KzIJJ",
+          "hashes": {
+            "sha1": "da8b389933c3d1940a7dfe25e96d6c163a1cc0cf",
+            "sha512": "baff006ae954878eba9c6746846c73fc8d529edd877092de3e68f702ee957257bc2b034fc8c40834bd084864a650691eddf25b036d6c6e21baa1f5541563bee8"
+          },
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9IcJV4UJ/MouseTweaks-forge-mc1.21-2.26-src.jar",
+          "filename": "MouseTweaks-forge-mc1.21-2.26-src.jar",
+          "primary": false,
+          "size": 19114,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

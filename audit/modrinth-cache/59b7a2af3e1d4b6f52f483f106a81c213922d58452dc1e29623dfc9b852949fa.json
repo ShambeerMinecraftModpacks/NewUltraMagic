@@ -1,0 +1,617 @@
+{
+  "url": "https://api.modrinth.com/v2/project/vvuO3ImH/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:58.105678+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yohfFbgD",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.5.1+1.21.1",
+      "version_number": "9.5.1+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.5.1+1.21.1] - 2025.05.14\n### Fixed\n- Fixed crash on world load after updating from `9.4.2+1.21.1` or below [#520](https://github.com/TheIllusiveC4/Curios/issues/520)\n",
+      "changelog_url": null,
+      "date_published": "2025-05-14T13:34:47.415840Z",
+      "downloads": 3927487,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "b2ffV495",
+          "hashes": {
+            "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
+            "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+          "primary": true,
+          "size": 410690,
+          "file_type": null
+        },
+        {
+          "id": "R6dgxr86",
+          "hashes": {
+            "sha1": "cb1f24ce0b444608e635057bf0821cc56d455ef0",
+            "sha512": "bcd38309de015d46ff84d23bcbe19dd87ee3d9dd9208c2d696cbc0366d2b6ad5c52c49b6651bf72df897c2bc175078a2427651ebab5849c19f5be12342bf1e20"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.5.1+1.21.1-api.jar",
+          "primary": false,
+          "size": 131888,
+          "file_type": null
+        },
+        {
+          "id": "Lvyc9Kw0",
+          "hashes": {
+            "sha1": "6182eb01cbfb2c235ff4b12024b9270d16866ddf",
+            "sha512": "590b29cd2db0beccc6b116c91128b861cd837d2f91dd6f0a7619541b3cc06e69ac9f15c920063b2645385f2e1d82ad05f8a978c2688e04cf3b0e5fbf15272e26"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.5.1+1.21.1-sources.jar",
+          "primary": false,
+          "size": 265975,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Z3EsTkg0",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.5.0+1.21.1",
+      "version_number": "9.5.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.5.0+1.21.1] - 2025.05.14\n### Added\n- [API] Added active states for slots to allow developers to enable or disable slots on entities during gameplay,\n  accessible through new methods `ICuriosItemHandler#isSlotActive` and `ICuriosItemHandler#setSlotActive`\n### Changed\n- Updated `ja_jp` localization [#513](https://github.com/TheIllusiveC4/Curios/pull/513)\n",
+      "changelog_url": null,
+      "date_published": "2025-05-14T12:05:59.569306Z",
+      "downloads": 5917,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tkdjySBI",
+          "hashes": {
+            "sha1": "d184897be5cba26aa5d172f45f514a675e486569",
+            "sha512": "f9d2d52fc0433edb771242a91078c638beb27f334a42c0afd054e5aea2d980f46492697a8452a26b8dfc7fa7652e923b845aa6cc174affe5b9e99e7b4b0db769"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/Z3EsTkg0/curios-neoforge-9.5.0%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.5.0+1.21.1.jar",
+          "primary": true,
+          "size": 410621,
+          "file_type": null
+        },
+        {
+          "id": "i7ispwsr",
+          "hashes": {
+            "sha1": "b06ec088534d530379f1487dfa0c946e90c09bd4",
+            "sha512": "5408b7be277dce4dc73f67be5c2ddd480f8638dde3b46a24f83e0e0f406a339ddc658b67b791c0f2761e1e116ec60764221018727c456e243d3a93b9d9d8c88b"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/Z3EsTkg0/curios-neoforge-9.5.0%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.5.0+1.21.1-api.jar",
+          "primary": false,
+          "size": 131888,
+          "file_type": null
+        },
+        {
+          "id": "ghDOh4tR",
+          "hashes": {
+            "sha512": "d11e6be57b77f6decd744fc151a8811a5acff53f09f241b002c25b742313b949f31ff80e11c70a0290713f4ed7b173981ef09270ab7182f171d790ca0a9421d5",
+            "sha1": "d8a640ce18a0758f7660b62824feeb9fcfa59603"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/Z3EsTkg0/curios-neoforge-9.5.0%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.5.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 265925,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6PllU1Iq",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.4.2+1.21.1",
+      "version_number": "9.4.2+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.4.2+1.21.1] - 2025.04.08\n### Changed\n- `Inventory#contains(Predicate<ItemStack>)` and `Inventory#hasAnyMatching(Predicate<ItemStack>)` now also check the curios inventory\n",
+      "changelog_url": null,
+      "date_published": "2025-04-09T05:52:17.400692Z",
+      "downloads": 144948,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lCVoG0a8",
+          "hashes": {
+            "sha512": "c86ea201196433f4c1cfae70b603e9e5660bd4a824dede37ddc99ff1bf8da64ee7cb05b195e0753d20d7f152beb9c76cd7dbe0383b4d819a26e0e7f62ba8fdd6",
+            "sha1": "0b31f58fd4606d7a3ab15d7e75f4ad61a9e7508b"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6PllU1Iq/curios-neoforge-9.4.2%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.4.2+1.21.1.jar",
+          "primary": true,
+          "size": 402149,
+          "file_type": null
+        },
+        {
+          "id": "cVUJhsFs",
+          "hashes": {
+            "sha512": "e8254f58d24d6abb1387ced6354fd478dad6ccbb5c5e6288b6604bf6a5a4179737f3b0e7a235902cb10bee140b8df2f5299dbd48ae955bff5169c0fba799037b",
+            "sha1": "6c966c7e6a13a269f7920a8cf5745948e90d8cfe"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6PllU1Iq/curios-neoforge-9.4.2%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.4.2+1.21.1-api.jar",
+          "primary": false,
+          "size": 129982,
+          "file_type": null
+        },
+        {
+          "id": "qU5wMhaL",
+          "hashes": {
+            "sha1": "b58a55bf1ab461db928460bdd7e0a211d5c75b27",
+            "sha512": "816dcb369db43381e47ad2086ad076541c5a571491094f684db8908529420583455d45c9cd143123373e9578cd8dc894c2028ccb7d8ddc6cbafe7a0e792c782b"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6PllU1Iq/curios-neoforge-9.4.2%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.4.2+1.21.1-sources.jar",
+          "primary": false,
+          "size": 262123,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2l5i8Qm7",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.4.1+1.21.1",
+      "version_number": "9.4.1+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.4.1+1.21.1] - 2025.04.04\n### Fixed\n- Fixed missing inventory when a player fails to join a server [#481](https://github.com/TheIllusiveC4/Curios/issues/481)\n- Fixed Curios panel rendering beneath EMI themed panels [#503](https://github.com/TheIllusiveC4/Curios/issues/503)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-04T12:58:13.252851Z",
+      "downloads": 22056,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ChZCSbBx",
+          "hashes": {
+            "sha512": "d4c7a6087cad4179fab10209f44115739a3d58e182d208914c7798908a60cb00193bb9c91c3b9c159678778e4cdbafc413cb37e4f435078a5458704f106730b1",
+            "sha1": "c369e9f8dc0dcc52057f57adce933de9387d008b"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/2l5i8Qm7/curios-neoforge-9.4.1%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.4.1+1.21.1.jar",
+          "primary": true,
+          "size": 401578,
+          "file_type": null
+        },
+        {
+          "id": "tUiIwXFS",
+          "hashes": {
+            "sha1": "64d4a61a5075839dfb637e09c5e4ca4dc94b3fdc",
+            "sha512": "b73e8bdd878602cc8d098f86019ee920175a3646127dc2baf3cd8e7e765d26dcbb10b5c541c6bbc6b3ac33fcb113727ed7066acd17434aa98c2327b5f42e88c3"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/2l5i8Qm7/curios-neoforge-9.4.1%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.4.1+1.21.1-api.jar",
+          "primary": false,
+          "size": 129982,
+          "file_type": null
+        },
+        {
+          "id": "MLWzCkA2",
+          "hashes": {
+            "sha1": "b3d771136af149f57faa1b26f3ff716c300bde27",
+            "sha512": "1031eca841e04c57e5221fe045f7d035884045ec3863c0deeb909ef58bf0d362b4da57f187618280f1578d1f9766c1979b371e9c338fc7df71cfb0faffa3253a"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/2l5i8Qm7/curios-neoforge-9.4.1%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.4.1+1.21.1-sources.jar",
+          "primary": false,
+          "size": 261855,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "aOzmr3vR",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.4.0+1.21.1",
+      "version_number": "9.4.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.4.0+1.21.1] - 2025.03.24\n### Changed\n- Updated tooltip logic to follow NeoForge conventions, including the use of `AddAttributeTooltipsEvent` and `GatherSkippedAttributeTooltipsEvent` [#496](https://github.com/TheIllusiveC4/Curios/issues/496)\n### Fixed\n- Fixed previous slot modifiers persisting after deserialization which caused inconsistent behavior when using extra slots\n- Fixed caching errors that caused certain functions to misidentify curio inventory contents\n- Fixed deprecated usage of `ICurio#getDropRule`\n- Fixed datagen output not being deterministic [#497](https://github.com/TheIllusiveC4/Curios/issues/497)\n- Fixed missing slot localization fallbacks on item tooltips\n- Fixed slot modifier tooltip localizations\n- Fixed `curios:set_curio_attributes` loot table function\n",
+      "changelog_url": null,
+      "date_published": "2025-03-25T06:59:51.687427Z",
+      "downloads": 24195,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xVHKY0xt",
+          "hashes": {
+            "sha1": "e54b8127bc80f4e6f7a59e05a8be9db284542c7a",
+            "sha512": "fc9e227d2ae9e3542035cd02824d84ee3840e9b5223fb70ab283848d0a29b5dd31d3422c85d9e8a63dd985105d60db2511fd31ff9e5cd86cecdf6b4c54373fe2"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/aOzmr3vR/curios-neoforge-9.4.0%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.4.0+1.21.1.jar",
+          "primary": true,
+          "size": 399005,
+          "file_type": null
+        },
+        {
+          "id": "SHHpdzQm",
+          "hashes": {
+            "sha512": "506faa0390bd2090edff7a98054ac2438fd79c5b779c79f8e6f404de03b61f85fb842d36925180fd632cc0b0936db305b7262723e83bb9d099f679726617230a",
+            "sha1": "e4d9d8de0582d77407842ef89f9c64e109d0b934"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/aOzmr3vR/curios-neoforge-9.4.0%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.4.0+1.21.1-api.jar",
+          "primary": false,
+          "size": 129982,
+          "file_type": null
+        },
+        {
+          "id": "yIBoQOO5",
+          "hashes": {
+            "sha1": "ae62c9c80ccf1565ac302c272f94f4487f2ac73c",
+            "sha512": "bfb3446b774ce3a7dc456a8c46fb1fd9640c7ea2f89a43d599c6011f62c8706b5de769f3f8ddeb2c6ef4e379ea1f2e5c56d249393f6d320fea4d8a055d2c39ea"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/aOzmr3vR/curios-neoforge-9.4.0%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.4.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 260477,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BOIl0oEz",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.3.1+1.21.1",
+      "version_number": "9.3.1+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.3.1+1.21.1] - 2025.03.12\n### Fixed\n- Fixed slot tooltip rendering\n",
+      "changelog_url": null,
+      "date_published": "2025-03-12T14:38:29.705928Z",
+      "downloads": 30542,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KiR0HBRh",
+          "hashes": {
+            "sha1": "78ac2a1f274d8149bd0a3e82d77147220b55e7ab",
+            "sha512": "343594f34da4e2102fbb3050e3cce323b14d247519818a0a4a3c222067d0cd2988465f46b9b876b9bb478eb8a7cd65bf7bb86ec488f6ffb214adced0ab3d47d4"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/BOIl0oEz/curios-neoforge-9.3.1%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.3.1+1.21.1.jar",
+          "primary": true,
+          "size": 396089,
+          "file_type": null
+        },
+        {
+          "id": "KO3XlrPb",
+          "hashes": {
+            "sha512": "9076f990606168f8aa03a88907e5ab4cdf58800932ace9968cc8615c857cf1e008bb1358742f7d57ada2bbb546bc12a94fbbc9d5acf79c40fe5d8c330a2f4298",
+            "sha1": "583de988b77b4e3451af0e11c880c39ff9581c1e"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/BOIl0oEz/curios-neoforge-9.3.1%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.3.1+1.21.1-api.jar",
+          "primary": false,
+          "size": 128860,
+          "file_type": null
+        },
+        {
+          "id": "bvCMCsCU",
+          "hashes": {
+            "sha1": "93d2ec8e85533460c380236e9a37d720d5282090",
+            "sha512": "87f8bf911d3ca17ae672a1013577f2bc3eacb022bbd03be1592451fbc0951cae5d10c570bfa8660d229c7f472ab73c2fab1c29da3dd282f446b23bf85626056c"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/BOIl0oEz/curios-neoforge-9.3.1%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.3.1+1.21.1-sources.jar",
+          "primary": false,
+          "size": 258901,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7zHR2MbT",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.3.0+1.21.1",
+      "version_number": "9.3.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.3.0+1.21.1] - 2025.03.10\n### Added\n- Added `ICurioSlotExtension` for defining additional slot behavior\n- Added `CuriosTags` for more convenient access to commonly used Curios tags [#495](https://github.com/TheIllusiveC4/Curios/pull/495)\n",
+      "changelog_url": null,
+      "date_published": "2025-03-10T14:17:21.401895Z",
+      "downloads": 19921,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Zz1doRrw",
+          "hashes": {
+            "sha1": "57a2ac8ee95220a7f97d1d5f20667112bc4d09d9",
+            "sha512": "c209497c55c8fc3b63b609d649b688188f77ab0d60f5e7e970368505b82ab68d9e9b525cb08c0c73e034f273a1d2de53f36410642c7ba210983f5315cc7c544b"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/7zHR2MbT/curios-neoforge-9.3.0%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 395994,
+          "file_type": null
+        },
+        {
+          "id": "Mgn0GYfN",
+          "hashes": {
+            "sha1": "457f0a44bc75e65d1b4dbe801a2542622a8346c7",
+            "sha512": "75c48558123614d00effa73f64c73d243424d21b09ab679a93c05c0b539b6bb380ed76b5f2be4ac5c1a8ff995369a3bdabf3eac2150b736921dd49248e71487a"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/7zHR2MbT/curios-neoforge-9.3.0%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.3.0+1.21.1-api.jar",
+          "primary": false,
+          "size": 128860,
+          "file_type": null
+        },
+        {
+          "id": "e4Hy2qRT",
+          "hashes": {
+            "sha512": "7a928ada240d63b780b20df26e1b8cc85ae4001048d9ce75ad0c74671421eeab518d4e489150739a17cb82e81d60ca1b2e20e4950c0b7b965399679a17561a0d",
+            "sha1": "5aa7880e9316547cfedb17ecb1d391a43444b0c8"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/7zHR2MbT/curios-neoforge-9.3.0%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.3.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 258827,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "c8YhNFSr",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.2.3+1.21.1",
+      "version_number": "9.2.3+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.2.3+1.21.1] - 2025.03.07\n### Added\n- Added `lzh` localization [#488](https://github.com/TheIllusiveC4/Curios/issues/488)\n### Changed\n- Added `tr_tr` localization [#482](https://github.com/TheIllusiveC4/Curios/pull/482)\n### Fixed\n- Fixed slot modifier collisions causing desyncs when using the Curios inventory [#479](https://github.com/TheIllusiveC4/Curios/issues/479)\n- Fixed `ISlotData#operation` to use the correct `String` argument instead of `AttributeModifier.Operation` [#484](https://github.com/TheIllusiveC4/Curios/issues/484)\n- Fixed tooltip ordering when using `CurioAttributeModifierEvent`\n",
+      "changelog_url": null,
+      "date_published": "2025-03-07T08:37:14.348457Z",
+      "downloads": 13414,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oSWbcm1o",
+          "hashes": {
+            "sha512": "1cc261c1599e603332fae1f51df58a858d20f9ad8885ece7dc055d616e518d82fada4f74c6272515984f07bf9dd038f0b734945af8864b64db8f60fdc0b26116",
+            "sha1": "0ccaa54160014ee5aa25487d435bc959d39b0574"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/c8YhNFSr/curios-neoforge-9.2.3%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.2.3+1.21.1.jar",
+          "primary": true,
+          "size": 389806,
+          "file_type": null
+        },
+        {
+          "id": "UuNU2GOm",
+          "hashes": {
+            "sha512": "3aec45c5ece38190e689320a15ca9df3559cc43b5e028037f0e9179511b8a1d4aeb962ada8017e1e5dad6be6404b7c29a3d79b494b03e26f85b2dca5838b388d",
+            "sha1": "f02930d4cc03586b101479b06f422cbb4702cca6"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/c8YhNFSr/curios-neoforge-9.2.3%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.2.3+1.21.1-api.jar",
+          "primary": false,
+          "size": 120338,
+          "file_type": null
+        },
+        {
+          "id": "j14cpqvt",
+          "hashes": {
+            "sha1": "793cbc635b5b94f36dc5982c7a5ade45c4e26c11",
+            "sha512": "c06665fda0d31035d476edbee7f72eecb5d00b0ec3b92992cb6016443f431b516e6fc24747d211a382554f4674e45db3b5337ad71b5faf98d57bf94943b63554"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/c8YhNFSr/curios-neoforge-9.2.3%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.2.3+1.21.1-sources.jar",
+          "primary": false,
+          "size": 253759,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yfxrEL4z",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.2.2+1.21.1",
+      "version_number": "9.2.2+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.2.2+1.21.1] - 2025.01.11\n### Added\n- Added exclusion areas on the Curios screen for EMI and REI recipe viewers\n",
+      "changelog_url": null,
+      "date_published": "2025-01-11T10:01:08.091780Z",
+      "downloads": 44305,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "L3GR7V5X",
+          "hashes": {
+            "sha1": "b9afdecfa72c6824a6e980712609ddc7e0362f37",
+            "sha512": "47d3ab06ae6bd9d102cc9b159b3095526c41e744da12496abb57aab80bd71649c86fd1e2016c5d2dacc2aa09bc0fe2af3b553b95ec3db83d99dd15626a09d4df"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yfxrEL4z/curios-neoforge-9.2.2%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.2.2+1.21.1.jar",
+          "primary": true,
+          "size": 387627,
+          "file_type": null
+        },
+        {
+          "id": "Ih8lHCEL",
+          "hashes": {
+            "sha512": "bbc3893f7216b48b0691e993174d6d394a18dd501e0d380d8b7ad5c390a4c88eb70f4676f5104d9a6a852145063f37bd07d82597b5073ea285cf0f435cd03986",
+            "sha1": "df0365b8dc6fb820d70999fae5f4720d7206ff86"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yfxrEL4z/curios-neoforge-9.2.2%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.2.2+1.21.1-api.jar",
+          "primary": false,
+          "size": 120032,
+          "file_type": null
+        },
+        {
+          "id": "4nlTDayh",
+          "hashes": {
+            "sha512": "717da7b11bb2d22d98f53006b6b99dc090a166b240a2e3fe1ebfb5dc6447e952dcb4415d288dcf33db276dc554a897936fb2f870e2ba5e8b048989365da50bea",
+            "sha1": "8022140ff7b0ccf9879df5fe7dece453de10ccad"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yfxrEL4z/curios-neoforge-9.2.2%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.2.2+1.21.1-sources.jar",
+          "primary": false,
+          "size": 251947,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "DWBpfpw1",
+      "project_id": "vvuO3ImH",
+      "author_id": "zbpHS3ry",
+      "featured": false,
+      "name": "curios-neoforge-9.2.0+1.21.1",
+      "version_number": "9.2.0+1.21.1",
+      "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.21.1/CHANGELOG.md).\n\n## [9.2.0+1.21.1] - 2025.01.10\n### Added\n- [API] Added the following methods:\n    - `ICurio#getAttributesTooltip(List<Component>, Item.TooltipContext)`\n    - `ICurio#getDropRule(SlotContext, DamageSource, boolean)`\n    - `ICurio#getAttributeModifiers(SlotContext, ResourceLocation)`\n    - `ICurio#getSlotsTooltip(List<Component>, Item.TooltipContext)`\n### Fixed\n- Addressed memory leaks due to unneeded capability invalidation\n### Changed\n- Updated to Minecraft 1.21.1\n- [API] Changed `ICurio#getLootingLevel(SlotContext, DamageSource, LivingEntity, int)` to `getLootingLevel(SlotContext, LootContext)`\n- [API] Replaced `UUID` for attribute modifiers with `ResourceLocation` in all instances of the API\n- Changed tooltip processing to use NeoForge's API\n- Added caching to Curios lookups for optimization\n### Deprecated\n- [API] Deprecated the following methods:\n    - `ICurio#getAttributesTooltip(List<Component>)`\n    - `ICurio#getDropRule(SlotContext, DamageSource, int, boolean)`\n    - `ICurio#getAttributeModifiers(SlotContext, UUID)`\n    - And their respective pairings in `ICurioItem`\n    - `CuriosApi#getSlotIcon(String)`\n    - `CurioCanEquipEvent#(ItemStack, SlotContext)`\n### Removed\n- [API] Removed previously deprecated methods from `ICurio`, `ICurioItem`, `SlotContext`\n",
+      "changelog_url": null,
+      "date_published": "2025-01-10T13:54:41.168097Z",
+      "downloads": 2487,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Dxwlqb1E",
+          "hashes": {
+            "sha1": "2b6b4265a21b94c3b228049a00e8a15afc0c59e7",
+            "sha512": "6eb55ea13a0b1ad03339f8a47606a18db4727e8f18d05631f3afccb80a3c7879b9528456055982a27b89232fed96fe31fce70b04bd85d71f8c98b215e7ef80b2"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/DWBpfpw1/curios-neoforge-9.2.0%2B1.21.1.jar",
+          "filename": "curios-neoforge-9.2.0+1.21.1.jar",
+          "primary": true,
+          "size": 383881,
+          "file_type": null
+        },
+        {
+          "id": "OIGdKO0Z",
+          "hashes": {
+            "sha512": "40ac4f471578e54ffc8ac13610b9ebcaa8c8c92ac7326da5b433335cfb1c383528c59c67c0789b8af9116490f6d62bbc11f748689e32006c7417ad5bab7087d2",
+            "sha1": "19fa01af2da14f57f5c69d1ba616736986f56533"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/DWBpfpw1/curios-neoforge-9.2.0%2B1.21.1-api.jar",
+          "filename": "curios-neoforge-9.2.0+1.21.1-api.jar",
+          "primary": false,
+          "size": 120032,
+          "file_type": null
+        },
+        {
+          "id": "lXoLz560",
+          "hashes": {
+            "sha512": "26d5cd76c2bded6ae1d4e9e8d5539ac924a3db5b308175217df6967fab0ec0e47273f0258e745764b309240ff6f3c1e14a9cafbfab9c5ed805dd37952635e0ec",
+            "sha1": "dc02756cb776b377e72dd7f6037caeb072d0e084"
+          },
+          "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/DWBpfpw1/curios-neoforge-9.2.0%2B1.21.1-sources.jar",
+          "filename": "curios-neoforge-9.2.0+1.21.1-sources.jar",
+          "primary": false,
+          "size": 249911,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

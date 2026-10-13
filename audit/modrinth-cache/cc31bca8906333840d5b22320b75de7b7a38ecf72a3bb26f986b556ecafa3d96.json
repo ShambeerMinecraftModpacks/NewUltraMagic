@@ -1,0 +1,120 @@
+{
+  "url": "https://api.modrinth.com/v2/project/HsdNFinx/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:38.497710+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "cttRekq9",
+      "project_id": "HsdNFinx",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Valhelsia Core 1.1.4",
+      "version_number": "1.1.4",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-26T12:13:07.393778Z",
+      "downloads": 94412,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "t4LZdRKW",
+          "hashes": {
+            "sha512": "787de5659b46ddb188e2960582cb236255e8e4c2dc6d3bfdd033ab1c00bbf61351a38a4f8a9d47035e03f662c982a952c676e6474e6ad9d3dc5815a3c0df2d95",
+            "sha1": "018cfbf150953b9f23923e6d6c760f102583b28f"
+          },
+          "url": "https://cdn.modrinth.com/data/HsdNFinx/versions/cttRekq9/valhelsia_core-neoforge-1.21.1-1.1.4.jar",
+          "filename": "valhelsia_core-neoforge-1.21.1-1.1.4.jar",
+          "primary": true,
+          "size": 181220,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "l6sRBcWH",
+      "project_id": "HsdNFinx",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Valhelsia Core 1.1.3",
+      "version_number": "1.1.3",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-10-11T07:32:19.772647Z",
+      "downloads": 1383,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Asw9qgfO",
+          "hashes": {
+            "sha1": "f9fcee6315e8e53e79376d435f92da8152c1380a",
+            "sha512": "f20791c59e556e74f77d52eee2401af578dfc9c80d9ccb97b188069a3c5556daaa903e5e5ac5ce43b1ced53323e2108f0094f559ad1cb1861f95069f0a77d523"
+          },
+          "url": "https://cdn.modrinth.com/data/HsdNFinx/versions/l6sRBcWH/valhelsia_core-neoforge-1.21-1.1.3.jar",
+          "filename": "valhelsia_core-neoforge-1.21-1.1.3.jar",
+          "primary": true,
+          "size": 179657,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "4slZwQn7",
+      "project_id": "HsdNFinx",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Valhelsia Core",
+      "version_number": "1.1.2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-07-09T14:10:44.014611Z",
+      "downloads": 1188,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YCFVKRDE",
+          "hashes": {
+            "sha1": "2512979c1b9e2c121fa10d7b165f100328596440",
+            "sha512": "84e38917e6bcd7f29b9d835e659b91a4433106bfa7c5be8ea40e1165145bfb321271879703397c578758c7cd83c8a5a9835ab6beaa3e13357a257c666590c7aa"
+          },
+          "url": "https://cdn.modrinth.com/data/HsdNFinx/versions/4slZwQn7/valhelsia_core-neoforge-1.21-1.1.2.jar",
+          "filename": "valhelsia_core-neoforge-1.21-1.1.2.jar",
+          "primary": true,
+          "size": 174610,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

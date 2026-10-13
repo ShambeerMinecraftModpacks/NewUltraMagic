@@ -1,0 +1,130 @@
+{
+  "url": "https://api.modrinth.com/v2/project/MVARlG2f/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:40.754057+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9GjNW2Gf",
+      "project_id": "MVARlG2f",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "1.1-40",
+      "version_number": "1.1-40",
+      "changelog": "https://github.com/VazkiiMods/Zeta/releases/tag/release-1.1-40%2B1.21.1",
+      "changelog_url": null,
+      "date_published": "2026-04-24T23:54:23.786067Z",
+      "downloads": 1063083,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RlnmhR0K",
+          "hashes": {
+            "sha1": "72f6efe421cfc0547c774ae8241d727b7d996754",
+            "sha512": "a81dcf44f2bfd0fc1a52f00d9ca47a84ad2baf067adedb35eec859f6b9cec7b61ca432e549a3342b10902f84e76d70224cd54400285c8b13a0926835a62c667c"
+          },
+          "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/9GjNW2Gf/Zeta-1.1-40.jar",
+          "filename": "Zeta-1.1-40.jar",
+          "primary": true,
+          "size": 763725,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "iyNxYFme",
+      "project_id": "MVARlG2f",
+      "author_id": "kRXgk5E1",
+      "featured": false,
+      "name": "1.1-39",
+      "version_number": "1.1-39",
+      "changelog": "https://github.com/VazkiiMods/Zeta/releases/tag/release-1.1-39%2B1.21.1",
+      "changelog_url": null,
+      "date_published": "2026-02-17T19:12:45.012087Z",
+      "downloads": 132867,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FFPoAVq5",
+          "hashes": {
+            "sha512": "ef4d2ad96a30fd275c2859308212845d18a086fce003d5c248934548a12a4a0fbc8fd242231c22d95a539254c635f41815f6db86065b639edc2b5efe993fce23",
+            "sha1": "ef6f2e1a625a9f8770a33576b682a228e441747a"
+          },
+          "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/iyNxYFme/Zeta-1.1-39.jar",
+          "filename": "Zeta-1.1-39.jar",
+          "primary": true,
+          "size": 765399,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "PjkPuWJo",
+      "project_id": "MVARlG2f",
+      "author_id": "W53r0fU4",
+      "featured": false,
+      "name": "Zeta 1.1-38",
+      "version_number": "1.21.1-1.1-38",
+      "changelog": "Check out the patchnotes here: https://github.com/VazkiiMods/Zeta/releases/tag/release-1.21.1-1.1-38",
+      "changelog_url": null,
+      "date_published": "2026-02-14T20:06:01.560234Z",
+      "downloads": 16191,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2Bf0mbYj",
+          "hashes": {
+            "sha512": "5f875beb216f57a1099a9da3ca4914928f654be8843d07b21f1b3a39844ba4d5d3db972e7994ae5f88a68d0cae67c918e6efa7c1de14c1918a78cd5a4678ff8f",
+            "sha1": "abc8d905f7037e4514547306b3d5b19535fa453d"
+          },
+          "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/PjkPuWJo/Zeta-1.1-38.jar",
+          "filename": "Zeta-1.1-38.jar",
+          "primary": true,
+          "size": 765400,
+          "file_type": null
+        },
+        {
+          "id": "kDIIPijt",
+          "hashes": {
+            "sha512": "b537cc5bebb0ca7337cf96159944b424adec7e6f72b9ee663e78fed52dc765691e2be612b8519409988616be5cd53f29b66514d211ac1e5fac5772ee9e8347ae",
+            "sha1": "f97ba6c9ef7d5781a3d62980289ec240c64407ab"
+          },
+          "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/PjkPuWJo/Zeta-1.1-38.jar.asc",
+          "filename": "Zeta-1.1-38.jar.asc",
+          "primary": false,
+          "size": 228,
+          "file_type": "signature"
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

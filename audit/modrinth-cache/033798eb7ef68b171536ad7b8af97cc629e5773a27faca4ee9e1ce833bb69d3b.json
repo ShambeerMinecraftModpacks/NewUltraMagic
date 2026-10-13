@@ -1,0 +1,224 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Pipez&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:16.527312+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "iRmWy6ga",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "pipez",
+        "author": "henkelmax",
+        "author_id": "mqxuCPbU",
+        "organization": null,
+        "organization_id": null,
+        "title": "Pipez",
+        "description": "Simple and efficient pipes",
+        "categories": [
+          "forge",
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "versions": [
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6",
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 551678,
+        "follows": 126,
+        "icon_url": "https://cdn.modrinth.com/data/iRmWy6ga/be55098fe4886146924fd873e88169c10bf47051.png",
+        "date_created": "2022-06-23T14:27:45.850194+00:00",
+        "date_modified": "2026-10-01T12:46:57.707247+00:00",
+        "latest_version": "KN2n3Uvm",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 9206796
+      },
+      {
+        "project_id": "TXcBL9V3",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "mekanism-pipez-fix",
+        "author": "yuuki1293",
+        "author_id": "wbGFps6U",
+        "organization": null,
+        "organization_id": null,
+        "title": "Mekanism Pipez Fix",
+        "description": "Fix a bug where Pipez disconnects from Mekanism multiblocks.",
+        "categories": [
+          "forge",
+          "neoforge",
+          "optimization"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge",
+          "optimization"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 16411,
+        "follows": 5,
+        "icon_url": "https://cdn.modrinth.com/data/TXcBL9V3/52fe597e5730803ee547bae1f1451c8e64b4af46_96.webp",
+        "date_created": "2025-04-07T08:16:36.899382+00:00",
+        "date_modified": "2026-02-22T07:05:26.246280+00:00",
+        "latest_version": "6FdiWhlc",
+        "license": "MIT",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 3092008
+      },
+      {
+        "project_id": "HVAFkCTk",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "pipez-optimizer",
+        "author": "Saku_rain",
+        "author_id": "UEnirHgp",
+        "organization": null,
+        "organization_id": null,
+        "title": "Pipez Optimizer",
+        "description": "An unofficial Pipez add-on that significantly reduces server lag, optimizes transfer logic, and adds custom extraction frequencies and high-tier upgrades.",
+        "categories": [
+          "forge",
+          "neoforge",
+          "optimization",
+          "technology",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge",
+          "optimization",
+          "technology",
+          "utility"
+        ],
+        "versions": [
+          "1.19.2",
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 5521,
+        "follows": 5,
+        "icon_url": "https://cdn.modrinth.com/data/HVAFkCTk/355fce3301de74b18286cb366ab0d798b9ad68a1.png",
+        "date_created": "2026-08-19T03:26:54.178550+00:00",
+        "date_modified": "2026-10-08T20:05:14.071723+00:00",
+        "latest_version": "QyoQHTzm",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 4899743
+      },
+      {
+        "project_id": "3qzhQ0uL",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "pipezretriever",
+        "author": "Lumengrid89",
+        "author_id": "56M4C2En",
+        "organization": null,
+        "organization_id": null,
+        "title": "PipezRetriever",
+        "description": "An addon mod for [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez) that adds **Retrieve Mode** to pipes, allowing you to pull items, fluids, and energy FROM connected inventories instead of pushing TO them.",
+        "categories": [
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "display_categories": [
+          "neoforge",
+          "technology",
+          "utility"
+        ],
+        "versions": [
+          "1.21.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 863,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/3qzhQ0uL/5d344e4482fa974e6d7d2da74ef8b969910976ad_96.webp",
+        "date_created": "2026-07-31T07:42:00.471435+00:00",
+        "date_modified": "2026-10-05T06:38:17.487727+00:00",
+        "latest_version": "yx1yfb5B",
+        "license": "CC-BY-4.0",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2434341
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 4
+  }
+}

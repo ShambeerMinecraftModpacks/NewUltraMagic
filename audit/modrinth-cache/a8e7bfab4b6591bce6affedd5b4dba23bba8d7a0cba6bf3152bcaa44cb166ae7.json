@@ -1,0 +1,2044 @@
+{
+  "url": "https://api.modrinth.com/v2/project/nmDcB62a/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:52.225361+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "7Jy58lnT",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.26+mc1.21.1.jar",
+      "version_number": "5.27.26+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-10-08T20:28:04.556303Z",
+      "downloads": 94944,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PbaesWW2",
+          "hashes": {
+            "sha512": "37c76fc5bc72cfc1035260f891ffeb45b4f32651d2e490c5eb8c60f3b5686deca3145b32d4fab9036f65f5277b0ac66f4ad3855e52cd973e791b09e9c4b896d8",
+            "sha1": "69d468b70e53f6a014c778a81116a41a38fbab33"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/7Jy58lnT/modernfix-neoforge-5.27.26%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.26+mc1.21.1.jar",
+          "primary": true,
+          "size": 611043,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Y0rvGOWm",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.25+mc1.21.1.jar",
+      "version_number": "5.27.25+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-10-08T20:02:43.047373Z",
+      "downloads": 756,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kCUhCCSd",
+          "hashes": {
+            "sha512": "0343d0367e84fb774f033662e6d3eb699516fe12c0ee5243847954e3a3b40bb7b1dd38672b0413298a69f017c51a2823fd01aded0685e15c91fe4262d487d6ac",
+            "sha1": "f07e00ee3b7118c7374e01b3e2450a5db1719892"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Y0rvGOWm/modernfix-neoforge-5.27.25%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.25+mc1.21.1.jar",
+          "primary": true,
+          "size": 610782,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "5HLHxQ2F",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "version_number": "5.27.24+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-08-31T02:33:40.455998Z",
+      "downloads": 424603,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vgeVfBQf",
+          "hashes": {
+            "sha1": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529",
+            "sha512": "da13fa15b2c96a74a7d5f8ea94ea404c96237b97d52c9a77e7e34ac918d28c40760a68cf3897691b317d5119ab9b85035142c3624108b13dda3516c340b96131"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+          "primary": true,
+          "size": 604333,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "N9cVTjFl",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.23+mc1.21.1.jar",
+      "version_number": "5.27.23+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-08-30T00:49:43.868233Z",
+      "downloads": 20015,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ixw9JJnS",
+          "hashes": {
+            "sha512": "e318271493cb761d3638603139d424891076d4ca1492f68656ebd503936d58b0843c07e3a05a0be48354abc3f005e40dbab7690adf0baa317efdcbadadb60fe5",
+            "sha1": "54cb4134aa7d39120307f88586fd73e6e830fc3b"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/N9cVTjFl/modernfix-neoforge-5.27.23%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.23+mc1.21.1.jar",
+          "primary": true,
+          "size": 603181,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "VsJnrw8k",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "version_number": "5.27.20+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-07-18T18:21:20.865421Z",
+      "downloads": 569187,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "h1gbPkPH",
+          "hashes": {
+            "sha512": "b1f0d3ac5ada811b8204bc82adc1cab8ff71752da8e97ae381f21be5f778c199ae59108850febc87d1c46757b27ccbb2669f3fc6340c837db450a205ca2d8c9c",
+            "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+          "primary": true,
+          "size": 599474,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ZkPOaQLQ",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.15+mc1.21.1.jar",
+      "version_number": "5.27.15+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-07-02T23:41:46.053445Z",
+      "downloads": 285738,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "93YBNXdI",
+          "hashes": {
+            "sha1": "d73f31081c2dc3e2e55c8f6f969466cb4639b132",
+            "sha512": "3fa670a90b59c35fdbd1b06f74783e6bb60aff29ebf222c06cd5355b31fac66a6192ec10a2004030306c1f33f7715ff126fe78874e016cb22d226481ab456870"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZkPOaQLQ/modernfix-neoforge-5.27.15%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.15+mc1.21.1.jar",
+          "primary": true,
+          "size": 597318,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "KcU1Mn0I",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.14+mc1.21.1.jar",
+      "version_number": "5.27.14+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-06-16T00:18:40.678523Z",
+      "downloads": 215437,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9iu6prgx",
+          "hashes": {
+            "sha1": "b8cebae6ea55ed472d5fa55e428a894e296523f1",
+            "sha512": "89181e5cfc66eae3e71b111b349c513e9d229b32e8295759b06e41d2ed9225cf5580fdf1c744f74545a8d695dfb9e32a79f49388dd2347a27e387c15b181189b"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/KcU1Mn0I/modernfix-neoforge-5.27.14%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.14+mc1.21.1.jar",
+          "primary": true,
+          "size": 589839,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "iFmzYK6q",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.12+mc1.21.1.jar",
+      "version_number": "5.27.12+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-06-09T23:54:45.806298Z",
+      "downloads": 485781,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FvVy0a46",
+          "hashes": {
+            "sha512": "864ce0d12f67444adb932a1ffb54c2f66e567aef39104661273d6e05a914bace6624d541bcf98a477df4f495f0841301ac46908cd15449352ef38ba42d3724d4",
+            "sha1": "eb7a14dd6024d694d56d38297be208cf3d91f1a9"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/iFmzYK6q/modernfix-neoforge-5.27.12%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.12+mc1.21.1.jar",
+          "primary": true,
+          "size": 589533,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "nWk1yGgV",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.11+mc1.21.1.jar",
+      "version_number": "5.27.11+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-05-25T03:11:54.221846Z",
+      "downloads": 225927,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "f6MbTkxF",
+          "hashes": {
+            "sha512": "427abecd8cc5836744c5b62eb44d31205c99f4a48b7aed65f6d725692387d362ae0d6a99605e08983fcca70a5aaa28c6587cf1efa175cf75d6eed3ee4b5fc6c4",
+            "sha1": "89414e19d8372c838ad945c8eab2b828e427d948"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/nWk1yGgV/modernfix-neoforge-5.27.11%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.11+mc1.21.1.jar",
+          "primary": true,
+          "size": 587995,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "slJIhbWX",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.10+mc1.21.1.jar",
+      "version_number": "5.27.10+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-05-25T00:59:46.331116Z",
+      "downloads": 1456,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qg2bnQiE",
+          "hashes": {
+            "sha512": "e4cae1445e92792a5608769abaa042ef8f283c83c83a5b6dd3348d18b725097582c42361fbe4cbd4669e1dfc95c540beac8bac4a1cceca6bd98f6772cec42cb1",
+            "sha1": "6dd7b24425eb009ee0f80d741e7ea2434586d5e0"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/slJIhbWX/modernfix-neoforge-5.27.10%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.10+mc1.21.1.jar",
+          "primary": true,
+          "size": 586708,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Icd2DkF6",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.9+mc1.21.1.jar",
+      "version_number": "5.27.9+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-05-23T18:49:15.156871Z",
+      "downloads": 19013,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XUFA2T8X",
+          "hashes": {
+            "sha512": "baea12df13b0b0b1674a08cc06639e29b38c6b215e859c12fd2e60c1dbf903b7f8d8f11fea65f1ead4e7f521cdbf78286728846f8620b8378969c36e9267e2c9",
+            "sha1": "9e54f2cc44d57b32bb4dc9e5a5ad976ff6cb44bb"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Icd2DkF6/modernfix-neoforge-5.27.9%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.9+mc1.21.1.jar",
+          "primary": true,
+          "size": 574149,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "VGmSpV69",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.8+mc1.21.1.jar",
+      "version_number": "5.27.8+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-05-16T18:07:07.305964Z",
+      "downloads": 201173,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uM3HwsW5",
+          "hashes": {
+            "sha512": "1433d2321321ff6c886cb5ef6e9570d40588febb115913cfc2ac4ba12039e41af8a62df1ad14db68d17fc745203e8bd4127a912b2f01cca653c2b2808631867e",
+            "sha1": "2fbce2437be5a2ac69aa093a388ca43f44245237"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VGmSpV69/modernfix-neoforge-5.27.8%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.8+mc1.21.1.jar",
+          "primary": true,
+          "size": 568759,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Ml6xWbje",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.7+mc1.21.1.jar",
+      "version_number": "5.27.7+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-05-08T01:53:22.648730Z",
+      "downloads": 181863,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NrrqyiVK",
+          "hashes": {
+            "sha1": "e6aa8b31150c9bae8eded03ba9137d66b7452252",
+            "sha512": "7647fc59b57455796086022d7103df7bff3746a2297da52ca97f5c188b5749c49a04fbe5ee84df22a13233d53812d0d6c3dc5e1d586ccb1562109dfa116f6678"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Ml6xWbje/modernfix-neoforge-5.27.7%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.7+mc1.21.1.jar",
+          "primary": true,
+          "size": 569178,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "lVkfC362",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.6+mc1.21.1.jar",
+      "version_number": "5.27.6+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-05-06T22:30:59.962124Z",
+      "downloads": 21082,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2RpIWik1",
+          "hashes": {
+            "sha1": "19a1b616ba58b8cca06e82799a152073f76fbeb1",
+            "sha512": "fcb5dab3b84399e9646b3de585372344b43ec8f477d66f4b3e3fed536c01fb25953437790d173689efc07361aacbc60c88576244b9c014a6aa56b1567febab3d"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/lVkfC362/modernfix-neoforge-5.27.6%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.6+mc1.21.1.jar",
+          "primary": true,
+          "size": 569173,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "NtFWZLui",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.5+mc1.21.1.jar",
+      "version_number": "5.27.5+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-05-06T00:57:58.125493Z",
+      "downloads": 48115,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "daSlu7S7",
+          "hashes": {
+            "sha512": "af1582722641786ba6399256415afbf6fae77d82257f44f8762213729c95f7abb4d7a8b9502b140acc68cd62bf46b5db9a42b1975f1e6a303f448e7d46384c87",
+            "sha1": "1731baeac095b487edaf29693e4a7ee18430281a"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NtFWZLui/modernfix-neoforge-5.27.5%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.5+mc1.21.1.jar",
+          "primary": true,
+          "size": 569062,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "6U8JVjdw",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
+      "version_number": "5.27.4+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-04-28T00:21:14.795662Z",
+      "downloads": 127329,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "u3JlGcl8",
+          "hashes": {
+            "sha512": "9aa61848d4fd38369ccf87df5d6411e18112445cb377d5ae726e55593b8cd1b88838d5908f51c2fe9af56abf5a291fe895d2ecea3b04c85a2023c0436c48685b",
+            "sha1": "2f39363f0d6d5a5ccc2a9e0f50ad3385611c3cb7"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/6U8JVjdw/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
+          "primary": true,
+          "size": 562051,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "QbebWhuK",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
+      "version_number": "5.27.3+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-04-22T23:11:36.356677Z",
+      "downloads": 147451,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8SosdEG6",
+          "hashes": {
+            "sha1": "e72aa9c2f9244327697e118043a3c5004ab2802a",
+            "sha512": "e8f0fef727757a5cb658c5e3a8352f3438cee9c60c9e6c5c1190f5787365a113348f24e075219fcd91264397afe8cf8ae318b5b5d402bedd03a74d0fba062999"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QbebWhuK/modernfix-neoforge-5.27.3%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
+          "primary": true,
+          "size": 562031,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "iYwIkyV5",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
+      "version_number": "5.27.2+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-04-12T20:40:30.549639Z",
+      "downloads": 155432,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eK6IGNQB",
+          "hashes": {
+            "sha1": "6a164013d692c209157d06e178bc43deb3e1d946",
+            "sha512": "5c3430cea1b7e0662b10eb2238c53212a32587f4181270d90e40ad81b5672a4c8d4922e664c19a55888c6779bad7804d7fa7ce35c692baffbd26396598a8c532"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/iYwIkyV5/modernfix-neoforge-5.27.2%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 562003,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ZW2GXRLo",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.1+mc1.21.1.jar",
+      "version_number": "5.27.1+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-04-11T18:08:01.006233Z",
+      "downloads": 8154,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9at63u8j",
+          "hashes": {
+            "sha1": "4f15c43c06bb32ac5cab8225d8cd647a875adcf7",
+            "sha512": "aed4aef2029391a44aaf1675e3a26e173128d47838a51b52ceee2809bb764350b0258fb8c01c38e59fc161f252f261ceb687437780248c2669eedfdc694438b5"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZW2GXRLo/modernfix-neoforge-5.27.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 561347,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "7bPu6FEi",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.27.0+mc1.21.1.jar",
+      "version_number": "5.27.0+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-04-11T01:13:48.578269Z",
+      "downloads": 5659,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M0Vg4qwC",
+          "hashes": {
+            "sha1": "6866fb01bd88ff44124245775751d9be1f79c6bd",
+            "sha512": "5c50309f7f4c44900d8bd4cbf2c6da1ba6008cc6653c025608c3d4bf5e9c5546a382abaac241fdbc02b9c01c936d2f5dc961b7136bb21fcf838d3cda67fc8c89"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/7bPu6FEi/modernfix-neoforge-5.27.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.27.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 561268,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "c759JLsq",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
+      "version_number": "5.26.1+mc1.21.1",
+      "changelog": "Please check the [GitHub wiki](https://github.com/embeddedt/ModernFix/wiki/Changelog) for major changes.",
+      "changelog_url": null,
+      "date_published": "2026-01-23T00:50:31.426622Z",
+      "downloads": 466359,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3RdcWWiq",
+          "hashes": {
+            "sha512": "d6df16e21c454b86b07991408dd0eb0f611942ee01d9598375a6b0907167aaf29e2906c8ad11c5f0971979e68ea8267d9a8deb82ba638bd85ccd4265d2448a1d",
+            "sha1": "50abc7ff4ef2fcbc3baf4c6b96e2a7141cbd1b8a"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/c759JLsq/modernfix-neoforge-5.26.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 498852,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "8Be8uJW6",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.25.1+mc1.21.1",
+      "version_number": "5.25.1+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.25.0+1.21.1\n\n  * [Remove dynamic_sounds](https://github.com/embeddedt/ModernFix/commit/8959c2ff9122a24638a2188eff0b5369725d6961) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-11-08T20:05:02.536501Z",
+      "downloads": 521758,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HaI6XvBt",
+          "hashes": {
+            "sha512": "e82ba385f2f4737bc5817db449c9e0082ec86e710265f6e991df562da8dbf2f27b1472c62f7f74ff9c38d51b49a5cc4acd8680d3aa00a266c10826a54624ca84",
+            "sha1": "5407ee2d311f6f16773292fe22942a023a19677d"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/8Be8uJW6/modernfix-neoforge-5.25.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.25.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 569818,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "NnNX8LBn",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.25.1+mc1.21.1",
+      "version_number": "5.25.1+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.25.0+1.21.1\n\n  * [Remove dynamic_sounds](https://github.com/embeddedt/ModernFix/commit/8959c2ff9122a24638a2188eff0b5369725d6961) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-11-08T20:04:53.013703Z",
+      "downloads": 6780843,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xHetueMc",
+          "hashes": {
+            "sha512": "dc67d6e023e1fcdeaf7837917c477cba212c611dfc2463c6ea021319c644087c79b477e0ea8194e113ddd7332fd5c6d82baa47c291eaac7f4a86252507b4e19f",
+            "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 471258,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "N9LUsEeT",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.25.0+mc1.21.1",
+      "version_number": "5.25.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.3+1.21.1\n\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/a39fb0a08240ed82aae3b907391f1e1bb3c7496f) - embeddedt\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/a6eb99d23c8635d4eff4fa6a25543ba0c5e2ac05) - embeddedt\n  * [Backport model compat fix from 1.21](https://github.com/embeddedt/ModernFix/commit/fd46baae21e3104d5b730fcc394f27c712d02a5c) - embeddedt\n  * [Rewrite dynamic_sounds to consider sound duration when caching](https://github.com/embeddedt/ModernFix/commit/273bab7856adb0b2dedfe9ce8f97f3c760669dd8) - embeddedt\n  * [Remove obsolete invalidation logic](https://github.com/embeddedt/ModernFix/commit/a2873755222bf61fe422de29dc71e34cccc7fad7) - embeddedt\n  * [Enable worldgen_allocation by default](https://github.com/embeddedt/ModernFix/commit/8133198cc2a82664928ad062ed18e61f09b0e68f) - embeddedt\n  * [Disable LazyYCondition logic in situations where it has no effect](https://github.com/embeddedt/ModernFix/commit/25976f3b870313502afe20913478090b9faf2f89) - embeddedt\n  * [Fix idle tick time counting as scheduled tasks in F3 graph](https://github.com/embeddedt/ModernFix/commit/07592fb7089b9ac6dfa1602c65616806513c474d) - embeddedt\n  * [Memoize `VanillaRegistres.createLookup`](https://github.com/embeddedt/ModernFix/commit/f71277eb6406ca74453875573fd68e9b1df15e7c) - embeddedt\n  * [Deduplicate ResourcefulLib Highlight objects](https://github.com/embeddedt/ModernFix/commit/b30b319214c633d6caf84fa8f19d1138cd8878cc) - embeddedt\n  * [Implement Forge ingredient invalidation correctly](https://github.com/embeddedt/ModernFix/commit/e411f11c0cc69f7bdb1c9ecf854c706ccb2f3fae) - embeddedt\n  * [Add global properties file](https://github.com/embeddedt/ModernFix/commit/e30a7fccf2dfdaf9c6850863bfc6b702360e3a8d) - embeddedt\n  * [Do not override user-specified `max.bg.threads`](https://github.com/embeddedt/ModernFix/commit/12a0414f61f19826adff7ca6a02c2b9a185bb96b) - embeddedt\n  * [Tweak narrator mixin](https://github.com/embeddedt/ModernFix/commit/44322a7d07fa77da1c6e18b51b8c1bc60c67bac8) - embeddedt\n  * [Mark Spark worker as daemon thread](https://github.com/embeddedt/ModernFix/commit/8d4a7c337469f3b48d8745947700cf5acd7f5a6d) - embeddedt\n  * [Add mixin.feature.suppress_narrator_stacktrace to prevent some log spam on Linux (#590)](https://github.com/embeddedt/ModernFix/commit/29c1a479a45e28129f9b27511377379fcf31b2f2) - DerCommander323\n  * [Make mixin.perf.thread_priorities limit background thread count as well](https://github.com/embeddedt/ModernFix/commit/ee6489fb699a059a802a6ac6aaba560eaa821727) - embeddedt\n  * [Patch concurrency issue in ForgeRegistryTagManager](https://github.com/embeddedt/ModernFix/commit/87c977a3e6e3bfbda45a805642d94ebffb29ce14) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-11-06T00:03:41.351792Z",
+      "downloads": 11299,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "V5aSwpk3",
+          "hashes": {
+            "sha1": "7bf356cc557b8c01fc59105ea73140586bf4afe1",
+            "sha512": "77793f676e4fd096a91a1148b61ce9f46913e015d9c77d3ed5a4850c5e76f13b8e0e1553550389f939967960d9da80dbbad62f8a721a32eca906f96348d4e306"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/N9LUsEeT/modernfix-neoforge-5.25.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.25.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 572361,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ARc7GQfp",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.25.0+mc1.21.1",
+      "version_number": "5.25.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.3+1.21.1\n\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/a39fb0a08240ed82aae3b907391f1e1bb3c7496f) - embeddedt\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/a6eb99d23c8635d4eff4fa6a25543ba0c5e2ac05) - embeddedt\n  * [Backport model compat fix from 1.21](https://github.com/embeddedt/ModernFix/commit/fd46baae21e3104d5b730fcc394f27c712d02a5c) - embeddedt\n  * [Rewrite dynamic_sounds to consider sound duration when caching](https://github.com/embeddedt/ModernFix/commit/273bab7856adb0b2dedfe9ce8f97f3c760669dd8) - embeddedt\n  * [Remove obsolete invalidation logic](https://github.com/embeddedt/ModernFix/commit/a2873755222bf61fe422de29dc71e34cccc7fad7) - embeddedt\n  * [Enable worldgen_allocation by default](https://github.com/embeddedt/ModernFix/commit/8133198cc2a82664928ad062ed18e61f09b0e68f) - embeddedt\n  * [Disable LazyYCondition logic in situations where it has no effect](https://github.com/embeddedt/ModernFix/commit/25976f3b870313502afe20913478090b9faf2f89) - embeddedt\n  * [Fix idle tick time counting as scheduled tasks in F3 graph](https://github.com/embeddedt/ModernFix/commit/07592fb7089b9ac6dfa1602c65616806513c474d) - embeddedt\n  * [Memoize `VanillaRegistres.createLookup`](https://github.com/embeddedt/ModernFix/commit/f71277eb6406ca74453875573fd68e9b1df15e7c) - embeddedt\n  * [Deduplicate ResourcefulLib Highlight objects](https://github.com/embeddedt/ModernFix/commit/b30b319214c633d6caf84fa8f19d1138cd8878cc) - embeddedt\n  * [Implement Forge ingredient invalidation correctly](https://github.com/embeddedt/ModernFix/commit/e411f11c0cc69f7bdb1c9ecf854c706ccb2f3fae) - embeddedt\n  * [Add global properties file](https://github.com/embeddedt/ModernFix/commit/e30a7fccf2dfdaf9c6850863bfc6b702360e3a8d) - embeddedt\n  * [Do not override user-specified `max.bg.threads`](https://github.com/embeddedt/ModernFix/commit/12a0414f61f19826adff7ca6a02c2b9a185bb96b) - embeddedt\n  * [Tweak narrator mixin](https://github.com/embeddedt/ModernFix/commit/44322a7d07fa77da1c6e18b51b8c1bc60c67bac8) - embeddedt\n  * [Mark Spark worker as daemon thread](https://github.com/embeddedt/ModernFix/commit/8d4a7c337469f3b48d8745947700cf5acd7f5a6d) - embeddedt\n  * [Add mixin.feature.suppress_narrator_stacktrace to prevent some log spam on Linux (#590)](https://github.com/embeddedt/ModernFix/commit/29c1a479a45e28129f9b27511377379fcf31b2f2) - DerCommander323\n  * [Make mixin.perf.thread_priorities limit background thread count as well](https://github.com/embeddedt/ModernFix/commit/ee6489fb699a059a802a6ac6aaba560eaa821727) - embeddedt\n  * [Patch concurrency issue in ForgeRegistryTagManager](https://github.com/embeddedt/ModernFix/commit/87c977a3e6e3bfbda45a805642d94ebffb29ce14) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-11-06T00:03:32.963941Z",
+      "downloads": 18242,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "b11LNjzu",
+          "hashes": {
+            "sha512": "ab858c8bce9444225d1e63692cdd24ec1689edfb3e0cccd811fe040ce968af2060d27a009ab8d281ea539a2737cb5a5fe6a8d7954ceb5bbdbecec6ad2398dc1d",
+            "sha1": "268a0016030b38bfd0a1e8126e6209c732fd3160"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ARc7GQfp/modernfix-fabric-5.25.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.25.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 473794,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "4SPHwiDB",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.3+mc1.21.1",
+      "version_number": "5.24.3+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.2+1.21.1\n\n  * [Don't specify ordering for JEI dependency](https://github.com/embeddedt/ModernFix/commit/54e55e7534521f8a503087c7052d196517d92544) - embeddedt\n  * [Compare prototype maps using value equality](https://github.com/embeddedt/ModernFix/commit/6a7b18cc6ba91f657c847107e73c1645f9a57100) - embeddedt\n  * [Make deduplicator's hash function also use identity for hashing](https://github.com/embeddedt/ModernFix/commit/3fd3fce26214c4662f7e89f91b6ee63a1e7c0318) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-13T23:27:07.655092Z",
+      "downloads": 671441,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tV5mFHqT",
+          "hashes": {
+            "sha512": "3105b37c9ddf8652433067ea29567c21f36e179d3a904c0800c90585f94c51560bd45222d82e397939e1be7f57c5144e0994edf6764edccfeb64ac4cec53dded",
+            "sha1": "f64b9458eea9c637a973f8319d5456e4961ea481"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/4SPHwiDB/modernfix-neoforge-5.24.3%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.24.3+mc1.21.1.jar",
+          "primary": true,
+          "size": 558771,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "xDJFoW9U",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.3+mc1.21.1",
+      "version_number": "5.24.3+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.2+1.21.1\n\n  * [Don't specify ordering for JEI dependency](https://github.com/embeddedt/ModernFix/commit/54e55e7534521f8a503087c7052d196517d92544) - embeddedt\n  * [Compare prototype maps using value equality](https://github.com/embeddedt/ModernFix/commit/6a7b18cc6ba91f657c847107e73c1645f9a57100) - embeddedt\n  * [Make deduplicator's hash function also use identity for hashing](https://github.com/embeddedt/ModernFix/commit/3fd3fce26214c4662f7e89f91b6ee63a1e7c0318) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-13T23:27:00.471325Z",
+      "downloads": 1157452,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "560momyN",
+          "hashes": {
+            "sha1": "fd5bd05c9380243b3fa86e42b3649d8cdb235a60",
+            "sha512": "43a81e63638387701edc49aabbde9e293890165e6e3b2df378aeabf56ea41fd666c1841cfac488e8d723ee99a673e09de4cc37a3e2141e04216f4aad5254dae1"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/xDJFoW9U/modernfix-fabric-5.24.3%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.24.3+mc1.21.1.jar",
+          "primary": true,
+          "size": 460259,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "i0BcjLmQ",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.2+mc1.21.1",
+      "version_number": "5.24.2+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.1+1.21.1\n\n  * [Fix reobfuscation issue](https://github.com/embeddedt/ModernFix/commit/65ab37b819de85a7ee7021782c5951a3f6966d4a) - embeddedt\n  * [Fix race condition when mods create tags on different threads](https://github.com/embeddedt/ModernFix/commit/873e3bd67654c0efe8a24237eeb90dea94a3de77) - embeddedt\n  * [Fix faster_ingredients bypassing defensive copy of ItemValue](https://github.com/embeddedt/ModernFix/commit/6b37051980f8d5cb148a975c3f57183fb4e0d38e) - embeddedt\n  * [Deduplicate ingredient values in other constructor](https://github.com/embeddedt/ModernFix/commit/39a43398bac1111fb65d5f3dc4c0323be224404d) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-13T18:55:16.292642Z",
+      "downloads": 1141,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PXLxmmwd",
+          "hashes": {
+            "sha1": "e54a517d0ecf9c66bc79d82b27ee3989f2d94a8a",
+            "sha512": "3a39fe241276c669578cdde0f26edc389123651f69bc1a440f97e57d1dca56f9a6ad7e71fe97477bca82a4f3e6d4b32bb95551557bd93fa9489487cb811af084"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/i0BcjLmQ/modernfix-neoforge-5.24.2%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.24.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 558472,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "VEsmlnhN",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.2+mc1.21.1",
+      "version_number": "5.24.2+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.1+1.21.1\n\n  * [Fix reobfuscation issue](https://github.com/embeddedt/ModernFix/commit/65ab37b819de85a7ee7021782c5951a3f6966d4a) - embeddedt\n  * [Fix race condition when mods create tags on different threads](https://github.com/embeddedt/ModernFix/commit/873e3bd67654c0efe8a24237eeb90dea94a3de77) - embeddedt\n  * [Fix faster_ingredients bypassing defensive copy of ItemValue](https://github.com/embeddedt/ModernFix/commit/6b37051980f8d5cb148a975c3f57183fb4e0d38e) - embeddedt\n  * [Deduplicate ingredient values in other constructor](https://github.com/embeddedt/ModernFix/commit/39a43398bac1111fb65d5f3dc4c0323be224404d) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-13T18:55:09.295440Z",
+      "downloads": 4555,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "J7Q3DZbo",
+          "hashes": {
+            "sha512": "6960ee48342047e1a86cb2c5d6a042919d2d19e4c756a0c46381d4e840a2c8d533f00649974c79f6480687ebba6c3f942011cd85ffc51c724212f6105586e90e",
+            "sha1": "ffdd51cb06eb01732382509a2cabb28a57851a39"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VEsmlnhN/modernfix-fabric-5.24.2%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.24.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 460260,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "nXuORlyQ",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.1+mc1.21.1",
+      "version_number": "5.24.1+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.0+1.21.1\n\n  * [Hotfix: disable ingredient_item_deduplication by default](https://github.com/embeddedt/ModernFix/commit/cf5c81f7e2ea7d341d112581bbe00d8bce0520a6) - embeddedt\n  * [Deduplicate ingredient item values using reference equality of components](https://github.com/embeddedt/ModernFix/commit/1501fe29e6ff2734016b235ee9ec96b5df429683) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-03T12:23:59.323753Z",
+      "downloads": 34613,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dQMDoz8l",
+          "hashes": {
+            "sha1": "5247908e131ebe744156761d2a1b3def4d00018b",
+            "sha512": "359f7591ae4872078724fb7eb4adc5f0a7625fc7353ef781d702af9e37aca5a6301439ad7834802590797db347ab8caa64e5e530c4638c00857def05b2a8ad76"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/nXuORlyQ/modernfix-neoforge-5.24.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.24.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 558310,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "sbmelYOO",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.1+mc1.21.1",
+      "version_number": "5.24.1+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.24.0+1.21.1\n\n  * [Hotfix: disable ingredient_item_deduplication by default](https://github.com/embeddedt/ModernFix/commit/cf5c81f7e2ea7d341d112581bbe00d8bce0520a6) - embeddedt\n  * [Deduplicate ingredient item values using reference equality of components](https://github.com/embeddedt/ModernFix/commit/1501fe29e6ff2734016b235ee9ec96b5df429683) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-03T12:23:49.806868Z",
+      "downloads": 120263,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "g12IPpKQ",
+          "hashes": {
+            "sha512": "7bdfac061e1bf77ab697c3ac50edec3883a90b08e4ab126912bbaacd1ec578083f8df2dc8c5a66f11f395b0769e4453b8febc0111a0ca2268ff863d63e93ae45",
+            "sha1": "e343b99c207b7818cb403b221137986a9f852227"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/sbmelYOO/modernfix-fabric-5.24.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.24.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 460253,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "GYwy7uIj",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.0+mc1.21.1",
+      "version_number": "5.24.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.23.1+1.21.1\n\n  * [Remove tterrag maven](https://github.com/embeddedt/ModernFix/commit/9d280f51dff53d3dceef32f2f19c31a5e9c26418) - embeddedt\n  * [Depend on CTM from CF rather than tterrag maven](https://github.com/embeddedt/ModernFix/commit/528d9c80c8eb720d0f840c1d1c2ec91b33d19c17) - embeddedt\n  * [Disable smart ingredient sync with CraftTweaker installed](https://github.com/embeddedt/ModernFix/commit/f26ed86973bcbc0f5d5b1cd11f58817471b96cd2) - embeddedt\n  * [Do not register smart ingredient sync channel if option is off](https://github.com/embeddedt/ModernFix/commit/38f1370d596b7b16365625ac30de897ad4e3fcc9) - embeddedt\n  * [Fix incorrect kick logic](https://github.com/embeddedt/ModernFix/commit/213e0ceb9a2c421b7d4ec4319bd12dad73e028e7) - embeddedt\n  * [Inject DFU blast setup hook](https://github.com/embeddedt/ModernFix/commit/2811af7112feab336bfa208b6e2ebc69ff8059cc) - embeddedt\n  * [Defer construction of recipe book search tree](https://github.com/embeddedt/ModernFix/commit/f59d4adf92a1055f3c92a5563952863d8d2fc952) - embeddedt\n  * [Implement Java 17-compatible DFU cache blaster](https://github.com/embeddedt/ModernFix/commit/7688fc2b16504c35928cf5758421325bcbd21f88) - embeddedt\n  * [Do not apply optimization to subclasses of ItemValue](https://github.com/embeddedt/ModernFix/commit/20b3d8bffafb0e630757a29e68036456f25ad49e) - embeddedt\n  * [Add ingredient item value ItemStack deduplication](https://github.com/embeddedt/ModernFix/commit/2e0ec6ae9ef2c92a5d469a34e38ae86a1b3a1424) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-02T01:00:11.871156Z",
+      "downloads": 9323,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "P8uW700n",
+          "hashes": {
+            "sha512": "96b45ac242216baef43828c4acd6c305e96c98d2b95ed401c194a860fab2d45ababdcea33402620e9fe5faa313ce55a5f7b1d34fb247ff4bdfec54e027420bf6",
+            "sha1": "001a5eead181f71a091ed0da894001bdc3dc4db8"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/GYwy7uIj/modernfix-neoforge-5.24.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.24.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 556449,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Lve3TyLU",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.24.0+mc1.21.1",
+      "version_number": "5.24.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.23.1+1.21.1\n\n  * [Remove tterrag maven](https://github.com/embeddedt/ModernFix/commit/9d280f51dff53d3dceef32f2f19c31a5e9c26418) - embeddedt\n  * [Depend on CTM from CF rather than tterrag maven](https://github.com/embeddedt/ModernFix/commit/528d9c80c8eb720d0f840c1d1c2ec91b33d19c17) - embeddedt\n  * [Disable smart ingredient sync with CraftTweaker installed](https://github.com/embeddedt/ModernFix/commit/f26ed86973bcbc0f5d5b1cd11f58817471b96cd2) - embeddedt\n  * [Do not register smart ingredient sync channel if option is off](https://github.com/embeddedt/ModernFix/commit/38f1370d596b7b16365625ac30de897ad4e3fcc9) - embeddedt\n  * [Fix incorrect kick logic](https://github.com/embeddedt/ModernFix/commit/213e0ceb9a2c421b7d4ec4319bd12dad73e028e7) - embeddedt\n  * [Inject DFU blast setup hook](https://github.com/embeddedt/ModernFix/commit/2811af7112feab336bfa208b6e2ebc69ff8059cc) - embeddedt\n  * [Defer construction of recipe book search tree](https://github.com/embeddedt/ModernFix/commit/f59d4adf92a1055f3c92a5563952863d8d2fc952) - embeddedt\n  * [Implement Java 17-compatible DFU cache blaster](https://github.com/embeddedt/ModernFix/commit/7688fc2b16504c35928cf5758421325bcbd21f88) - embeddedt\n  * [Do not apply optimization to subclasses of ItemValue](https://github.com/embeddedt/ModernFix/commit/20b3d8bffafb0e630757a29e68036456f25ad49e) - embeddedt\n  * [Add ingredient item value ItemStack deduplication](https://github.com/embeddedt/ModernFix/commit/2e0ec6ae9ef2c92a5d469a34e38ae86a1b3a1424) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-07-02T01:00:04.736987Z",
+      "downloads": 7852,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ucOGWp8V",
+          "hashes": {
+            "sha512": "fafd10421f3c36413ea9beaecbc15e4db0c7bd9daa2fb7a36f9503e1d332f082291ac712e6d615cba0a599274c35570376de53106b92f9c101bf79feaa5d7e10",
+            "sha1": "d6d3d5d428425f1a6fde7e57eb3e11cc675c06e9"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Lve3TyLU/modernfix-fabric-5.24.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.24.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 460234,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "gADERDwI",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.23.1+mc1.21.1",
+      "version_number": "5.23.1+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.23.0+1.21.1\n\n  * [Invalidate memoization for non-category creative tabs when categories are rebuilt](https://github.com/embeddedt/ModernFix/commit/a170f072ff50229dc1b40404e6e83061ce854f2e) - embeddedt\n  * [Disable mixin.perf.faster_ingredients with VMP installed](https://github.com/embeddedt/ModernFix/commit/e7542afd1c90b166793c6be83ffea01b31533225) - embeddedt\n  * [Remove nbt_memory_usage](https://github.com/embeddedt/ModernFix/commit/71b444288bcff33fa74bef0a182f30d1cc500f33) - embeddedt\n  * [Add world join profiling](https://github.com/embeddedt/ModernFix/commit/94271b866b50df7f212ec04ce2084b15df693be6) - embeddedt\n  * [Add more sysprops](https://github.com/embeddedt/ModernFix/commit/6e591f5ace9cd67672b1ffd0e6ba0c10d92ca860) - embeddedt\n  * [Add sysprop to allow using async profiler for launch profiling](https://github.com/embeddedt/ModernFix/commit/4802988bbb7f702b04c27a9f4fc16b120538063d) - embeddedt\n  * [Handle mods inserting null entries into LRUMap](https://github.com/embeddedt/ModernFix/commit/619e15e62d2553cd22d40f92c20bec08b7ddb9b3) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-06-03T01:41:41.849533Z",
+      "downloads": 348174,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zsl8EbjM",
+          "hashes": {
+            "sha1": "5c82c727850b26061e8872c550b07bb24e1436f8",
+            "sha512": "3eb77ebde267db0a1b3fe3c442d523ea1a72e743bae8588f6aeea26b7addac7d1fa3253d3d7bb6a7a1662e9a2dfa5a3c8a71480463f8b0d996766fd2617f8968"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/gADERDwI/modernfix-neoforge-5.23.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.23.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 546880,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "sqZMKZ8g",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.23.1+mc1.21.1",
+      "version_number": "5.23.1+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.23.0+1.21.1\n\n  * [Invalidate memoization for non-category creative tabs when categories are rebuilt](https://github.com/embeddedt/ModernFix/commit/a170f072ff50229dc1b40404e6e83061ce854f2e) - embeddedt\n  * [Disable mixin.perf.faster_ingredients with VMP installed](https://github.com/embeddedt/ModernFix/commit/e7542afd1c90b166793c6be83ffea01b31533225) - embeddedt\n  * [Remove nbt_memory_usage](https://github.com/embeddedt/ModernFix/commit/71b444288bcff33fa74bef0a182f30d1cc500f33) - embeddedt\n  * [Add world join profiling](https://github.com/embeddedt/ModernFix/commit/94271b866b50df7f212ec04ce2084b15df693be6) - embeddedt\n  * [Add more sysprops](https://github.com/embeddedt/ModernFix/commit/6e591f5ace9cd67672b1ffd0e6ba0c10d92ca860) - embeddedt\n  * [Add sysprop to allow using async profiler for launch profiling](https://github.com/embeddedt/ModernFix/commit/4802988bbb7f702b04c27a9f4fc16b120538063d) - embeddedt\n  * [Handle mods inserting null entries into LRUMap](https://github.com/embeddedt/ModernFix/commit/619e15e62d2553cd22d40f92c20bec08b7ddb9b3) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-06-03T01:41:32.291421Z",
+      "downloads": 232690,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JQsGicYi",
+          "hashes": {
+            "sha1": "8d124972851000246bd68ef5def541db68f4dcc8",
+            "sha512": "cd34d9adb57446ecf84ea9b5524cfc8443cdac70adb8a032e68f92ee2280cc7594ab6cb2b35b2c1c5918768121f3384a5bc4e5f767391632bfffa532e9a82cd2"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/sqZMKZ8g/modernfix-fabric-5.23.1%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.23.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 455295,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "JNjN5X7g",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.23.0+mc1.21.1",
+      "version_number": "5.23.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.22.0+1.21.1\n\n  * [Fix missing bitmask when compressing smaller datums into long](https://github.com/embeddedt/ModernFix/commit/292b80cf37cdebb4208171611bbac221d80e90d6) - embeddedt\n  * [Do not bypass Ingredient.TagValue#getItems during server resource reload](https://github.com/embeddedt/ModernFix/commit/5048e74c79724029a8ba2e3d7cdd37c83320ad4e) - embeddedt\n  * [Remove defensive copy of model location collection in replaceAll](https://github.com/embeddedt/ModernFix/commit/c3086e524988e32b6290b323fe92377c53247909) - embeddedt\n  * [Try to use a more optimal Set implementation for filtering](https://github.com/embeddedt/ModernFix/commit/bb658319cb15c57b503918cb44d3447372853c6f) - embeddedt\n  * [Use Guava immutable list to avoid extra internal copying](https://github.com/embeddedt/ModernFix/commit/14f1552ad7a017fc3d88e04b6f6f84b3591eda63) - embeddedt\n  * [Slight tweaks to ModelLocationBuilder](https://github.com/embeddedt/ModernFix/commit/61c8cfdca6a94341c466169668452df6ac1028d7) - embeddedt\n  * [Include ModernFix itself in time calculations for dynamic resources](https://github.com/embeddedt/ModernFix/commit/af526b9113efde17b9bead754f4b515305ac991c) - embeddedt\n  * [Fix copy-and-paste mistake in compact unihex logic](https://github.com/embeddedt/ModernFix/commit/6df33005a7d9aaf142582c8532aea4db8c36ee53) - embeddedt\n  * [Add some universe filters](https://github.com/embeddedt/ModernFix/commit/e9cb602ab7d7e2651da17837398d9f7d59bd129c) - embeddedt\n  * [Fix presizing of model location set & use more efficient string generation logic](https://github.com/embeddedt/ModernFix/commit/a13587e1397e5c714164ad798a3bacc1671d1dbf) - embeddedt\n  * [Attempt to reduce overhead of splitting same path string many times](https://github.com/embeddedt/ModernFix/commit/3a2edf7dddb44d75309aad10ad1efa6337e97428) - embeddedt\n  * [Implement more accurate fix for MC-183518](https://github.com/embeddedt/ModernFix/commit/a643170426cfe57cdfffddde87229b5506c49de5) - embeddedt\n  * [Ensure files in assets/ are not counted as namespaces](https://github.com/embeddedt/ModernFix/commit/4964cccff9026b4bf257e35d919ab29166c35322) - embeddedt\n  * [Replace mixin.feature.disable_unihex_font with mixin.perf.compress_unihex_font](https://github.com/embeddedt/ModernFix/commit/82535da8618a740d4173ed9040fbff8e1d9db65b) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T20:49:49.365161Z",
+      "downloads": 74425,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "khzG4j8P",
+          "hashes": {
+            "sha512": "4395165b36dd05826a986f0b84aeb7b2f0852c1abc6e04c8b9afee68cfa83d23182edce93c2c5255bc5fd721240192098a118cdd416a6fd918441182af11bdeb",
+            "sha1": "06312e2e28fa1b31f131855cdde74c7055f750d9"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/JNjN5X7g/modernfix-neoforge-5.23.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.23.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 546615,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "atkaiXFy",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.23.0+mc1.21.1",
+      "version_number": "5.23.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.22.0+1.21.1\n\n  * [Fix missing bitmask when compressing smaller datums into long](https://github.com/embeddedt/ModernFix/commit/292b80cf37cdebb4208171611bbac221d80e90d6) - embeddedt\n  * [Do not bypass Ingredient.TagValue#getItems during server resource reload](https://github.com/embeddedt/ModernFix/commit/5048e74c79724029a8ba2e3d7cdd37c83320ad4e) - embeddedt\n  * [Remove defensive copy of model location collection in replaceAll](https://github.com/embeddedt/ModernFix/commit/c3086e524988e32b6290b323fe92377c53247909) - embeddedt\n  * [Try to use a more optimal Set implementation for filtering](https://github.com/embeddedt/ModernFix/commit/bb658319cb15c57b503918cb44d3447372853c6f) - embeddedt\n  * [Use Guava immutable list to avoid extra internal copying](https://github.com/embeddedt/ModernFix/commit/14f1552ad7a017fc3d88e04b6f6f84b3591eda63) - embeddedt\n  * [Slight tweaks to ModelLocationBuilder](https://github.com/embeddedt/ModernFix/commit/61c8cfdca6a94341c466169668452df6ac1028d7) - embeddedt\n  * [Include ModernFix itself in time calculations for dynamic resources](https://github.com/embeddedt/ModernFix/commit/af526b9113efde17b9bead754f4b515305ac991c) - embeddedt\n  * [Fix copy-and-paste mistake in compact unihex logic](https://github.com/embeddedt/ModernFix/commit/6df33005a7d9aaf142582c8532aea4db8c36ee53) - embeddedt\n  * [Add some universe filters](https://github.com/embeddedt/ModernFix/commit/e9cb602ab7d7e2651da17837398d9f7d59bd129c) - embeddedt\n  * [Fix presizing of model location set & use more efficient string generation logic](https://github.com/embeddedt/ModernFix/commit/a13587e1397e5c714164ad798a3bacc1671d1dbf) - embeddedt\n  * [Attempt to reduce overhead of splitting same path string many times](https://github.com/embeddedt/ModernFix/commit/3a2edf7dddb44d75309aad10ad1efa6337e97428) - embeddedt\n  * [Implement more accurate fix for MC-183518](https://github.com/embeddedt/ModernFix/commit/a643170426cfe57cdfffddde87229b5506c49de5) - embeddedt\n  * [Ensure files in assets/ are not counted as namespaces](https://github.com/embeddedt/ModernFix/commit/4964cccff9026b4bf257e35d919ab29166c35322) - embeddedt\n  * [Replace mixin.feature.disable_unihex_font with mixin.perf.compress_unihex_font](https://github.com/embeddedt/ModernFix/commit/82535da8618a740d4173ed9040fbff8e1d9db65b) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T20:49:41.185046Z",
+      "downloads": 244205,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7cFX9Rcd",
+          "hashes": {
+            "sha1": "2845e1c4380bdd19e9da7d640e03c5301e33325e",
+            "sha512": "be63abbfe68ef0f95cdc29cd5f8e234fb10cdf26d6566ddc477d59a70d8ce1b41301921f282830a0ee88abeae126bf707f100c35687fa1135d315994a6c83cea"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/atkaiXFy/modernfix-fabric-5.23.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.23.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 455078,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "RU9sGOmD",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.22.0+mc1.21.1",
+      "version_number": "5.22.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.21.0+1.21.1\n\n  * [Update KubeJS maven to fix build failure](https://github.com/embeddedt/ModernFix/commit/f70fb212f78aa4701d0c2d4a0d104b59ed6b6b5c) - embeddedt\n  * [Support clearing model registry in dev for testing purposes](https://github.com/embeddedt/ModernFix/commit/588b56530e0863697a0290796b0948e61351f842) - embeddedt\n  * [Optimize MultiVariant.resolveParents](https://github.com/embeddedt/ModernFix/commit/3ad4e2478e6965e902d1a77e2483d770d0a363d3) - embeddedt\n  * [Fix concurrency issues in vanilla RegistryOps.memoizeLookup](https://github.com/embeddedt/ModernFix/commit/c11867536927ab0bbbd76dcd4b5bdae69a9cc57d) - embeddedt\n  * [Log when model universe is restricted](https://github.com/embeddedt/ModernFix/commit/8b0622ff5c00b4bb0e8fb6c8426bf0c851478f01) - embeddedt\n  * [Pre-size the top level model location set to reduce rehashing](https://github.com/embeddedt/ModernFix/commit/900e5786b6311285530abfa48713a9d8705fdaba) - embeddedt\n  * [Implement advanced caching of ingredient item stacks using soft references](https://github.com/embeddedt/ModernFix/commit/2535174e00b56d4b77426e64634be13de1e81d1f) - embeddedt\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/17a9f122b12c093cfa84db1bfc45d7d5fa1fafab) - embeddedt\n  * [Filter how much of the model registry Eternal Starlight sees](https://github.com/embeddedt/ModernFix/commit/048e7f7e071c51000a2d8cf35dfbe760901ac48c) - embeddedt\n  * [Fix incorrect sprite getter being used for CTM integration](https://github.com/embeddedt/ModernFix/commit/18dac0d949c500d31ae17c6ad4437da599c4598b) - embeddedt\n  * [Catch errors from dynamic resources integrations instead of propagating them](https://github.com/embeddedt/ModernFix/commit/508e62b1603f6375504d8f8cf1d99f99437f75ae) - embeddedt\n  * [Improve parity of dynamic resources enough to fix JAOPCA](https://github.com/embeddedt/ModernFix/commit/2dae8586521c7c2263d83f523b07dd28105f09ed) - embeddedt\n  * [Patch CoFH Core to not rely on Ingredient.itemStacks](https://github.com/embeddedt/ModernFix/commit/7398b48345b8c2258c0416d2a9f35033a0cacd27) - embeddedt\n  * [Fix several mistakes in porting mixin.perf.faster_ingredients](https://github.com/embeddedt/ModernFix/commit/75f65535f83b22cc7da572ef3a07ee42f92a739c) - embeddedt\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/757d8b67624fdaf95ed696e1c6756df1d84e2259) - embeddedt\n  * [Update Mod Menu](https://github.com/embeddedt/ModernFix/commit/8def366676bb908a590c481bde1cdb8f6bf411cf) - embeddedt\n  * [Optimize some methods in Ingredient and remove itemStacks caching](https://github.com/embeddedt/ModernFix/commit/eed320b05588bcf3df39646701221242c5b5d9bc) - embeddedt\n  * [Sync tag ingredients directly if ModernFix is installed on both sides](https://github.com/embeddedt/ModernFix/commit/01d2582c44c269dca24d168ea2b85895c1e18a8a) - embeddedt\n  * [Trigger classloading of Items when deferring blockstate cache rebuild](https://github.com/embeddedt/ModernFix/commit/536eb03b50ee23e88dc203e4e270c3decb6d15b1) - embeddedt\n  * [Remove obsolete OBJLoader patch](https://github.com/embeddedt/ModernFix/commit/1b37c9da6674d5ff962d2d06b2a4dcf6ac81ad1d) - embeddedt\n  * [Enable registry_event_progress by default on 1.21](https://github.com/embeddedt/ModernFix/commit/92e823424057b6e1f9cf54ab6cab7f8bb3abdb58) - embeddedt\n  * [Use CHM's built-in set instead of newSetFromMap](https://github.com/embeddedt/ModernFix/commit/e253833b685e0bb4ee5de62860ce81b7d886a311) - embeddedt\n  * [Enable use of FML's unused TracingPrintStream for tracking mod messages on System.out](https://github.com/embeddedt/ModernFix/commit/ae729bcd151585adcafaf422a436470d9ef50613) - embeddedt\n  * [Remove obsolete resource pack code](https://github.com/embeddedt/ModernFix/commit/9be61340736c00b652f225aaf45ba97a9a73b3d5) - embeddedt\n  * [Default to showing the whole model registry to mods](https://github.com/embeddedt/ModernFix/commit/59e3b83d7496e05de1a32db97b68ecb7215bae05) - embeddedt\n  * [Disable the resource pack cache on 1.21 for now, makes no difference](https://github.com/embeddedt/ModernFix/commit/653b901180a98397aa8f3034a8e7b14aa2c0b285) - embeddedt\n  * [Attempt to improve parity/reliability of dynamic_entity_renderers](https://github.com/embeddedt/ModernFix/commit/4bdddf1051f9d037b218ac8a540bc72a187640fd) - embeddedt\n  * [Implement a very primitive datapack function profiler](https://github.com/embeddedt/ModernFix/commit/211e404687e38f290ea0aaa4dfdc5cb33d086875) - embeddedt\n  * [Rewrite resource pack caching to use a tree](https://github.com/embeddedt/ModernFix/commit/4cde23f4fe2c3c8422ea21195a6f6f9125ef7dc8) - embeddedt\n  * [Improve usability of -Dmodernfix.debugReloaders](https://github.com/embeddedt/ModernFix/commit/dbb6e4713d3d08066eb7cecc7bca92e46eb64252) - embeddedt\n  * [Remove nonexistent AW entry](https://github.com/embeddedt/ModernFix/commit/c66987887c0a2d8add740313dbaa1c2c645511bd) - embeddedt\n  * [Build creative mode tab search tree on first use](https://github.com/embeddedt/ModernFix/commit/8c2c33093b3130c51e0891b8b5ca01ee5bcce95b) - embeddedt\n  * [Add back datapack reload time tracking during world creation](https://github.com/embeddedt/ModernFix/commit/63aeef1ba01ff9a09ecaf125cc72a70a7118935b) - embeddedt\n  * [Use smarter iteration order in model bake event registry](https://github.com/embeddedt/ModernFix/commit/51c4f3eae8beb0ccc2bfe20f44da9647cd3ffb9c) - embeddedt\n  * [Document many mixin options](https://github.com/embeddedt/ModernFix/commit/455b56749cdbb1f02321232a24778c04462fc0b7) - embeddedt\n  * [Update Spark integration](https://github.com/embeddedt/ModernFix/commit/c7c866fde5703b6c67c4dbefcb5afc1938c10575) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-05-16T01:53:11.884327Z",
+      "downloads": 11812,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GrYVbF4a",
+          "hashes": {
+            "sha1": "1787b6c858c4e708bbb1e5629e248f9348383641",
+            "sha512": "757c94af601f0d82f7a5665d0d7551d80893d19ce7b0a0b356b1e0c529dada99a4b9ca2e6a86b8e59a588d323c541bb36daf6c1d97ec6a345f8e042a21651498"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/RU9sGOmD/modernfix-neoforge-5.22.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.22.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 533023,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "eaRTV5Cw",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.22.0+mc1.21.1",
+      "version_number": "5.22.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.21.0+1.21.1\n\n  * [Update KubeJS maven to fix build failure](https://github.com/embeddedt/ModernFix/commit/f70fb212f78aa4701d0c2d4a0d104b59ed6b6b5c) - embeddedt\n  * [Support clearing model registry in dev for testing purposes](https://github.com/embeddedt/ModernFix/commit/588b56530e0863697a0290796b0948e61351f842) - embeddedt\n  * [Optimize MultiVariant.resolveParents](https://github.com/embeddedt/ModernFix/commit/3ad4e2478e6965e902d1a77e2483d770d0a363d3) - embeddedt\n  * [Fix concurrency issues in vanilla RegistryOps.memoizeLookup](https://github.com/embeddedt/ModernFix/commit/c11867536927ab0bbbd76dcd4b5bdae69a9cc57d) - embeddedt\n  * [Log when model universe is restricted](https://github.com/embeddedt/ModernFix/commit/8b0622ff5c00b4bb0e8fb6c8426bf0c851478f01) - embeddedt\n  * [Pre-size the top level model location set to reduce rehashing](https://github.com/embeddedt/ModernFix/commit/900e5786b6311285530abfa48713a9d8705fdaba) - embeddedt\n  * [Implement advanced caching of ingredient item stacks using soft references](https://github.com/embeddedt/ModernFix/commit/2535174e00b56d4b77426e64634be13de1e81d1f) - embeddedt\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/17a9f122b12c093cfa84db1bfc45d7d5fa1fafab) - embeddedt\n  * [Filter how much of the model registry Eternal Starlight sees](https://github.com/embeddedt/ModernFix/commit/048e7f7e071c51000a2d8cf35dfbe760901ac48c) - embeddedt\n  * [Fix incorrect sprite getter being used for CTM integration](https://github.com/embeddedt/ModernFix/commit/18dac0d949c500d31ae17c6ad4437da599c4598b) - embeddedt\n  * [Catch errors from dynamic resources integrations instead of propagating them](https://github.com/embeddedt/ModernFix/commit/508e62b1603f6375504d8f8cf1d99f99437f75ae) - embeddedt\n  * [Improve parity of dynamic resources enough to fix JAOPCA](https://github.com/embeddedt/ModernFix/commit/2dae8586521c7c2263d83f523b07dd28105f09ed) - embeddedt\n  * [Patch CoFH Core to not rely on Ingredient.itemStacks](https://github.com/embeddedt/ModernFix/commit/7398b48345b8c2258c0416d2a9f35033a0cacd27) - embeddedt\n  * [Fix several mistakes in porting mixin.perf.faster_ingredients](https://github.com/embeddedt/ModernFix/commit/75f65535f83b22cc7da572ef3a07ee42f92a739c) - embeddedt\n  * [Spotless](https://github.com/embeddedt/ModernFix/commit/757d8b67624fdaf95ed696e1c6756df1d84e2259) - embeddedt\n  * [Update Mod Menu](https://github.com/embeddedt/ModernFix/commit/8def366676bb908a590c481bde1cdb8f6bf411cf) - embeddedt\n  * [Optimize some methods in Ingredient and remove itemStacks caching](https://github.com/embeddedt/ModernFix/commit/eed320b05588bcf3df39646701221242c5b5d9bc) - embeddedt\n  * [Sync tag ingredients directly if ModernFix is installed on both sides](https://github.com/embeddedt/ModernFix/commit/01d2582c44c269dca24d168ea2b85895c1e18a8a) - embeddedt\n  * [Trigger classloading of Items when deferring blockstate cache rebuild](https://github.com/embeddedt/ModernFix/commit/536eb03b50ee23e88dc203e4e270c3decb6d15b1) - embeddedt\n  * [Remove obsolete OBJLoader patch](https://github.com/embeddedt/ModernFix/commit/1b37c9da6674d5ff962d2d06b2a4dcf6ac81ad1d) - embeddedt\n  * [Enable registry_event_progress by default on 1.21](https://github.com/embeddedt/ModernFix/commit/92e823424057b6e1f9cf54ab6cab7f8bb3abdb58) - embeddedt\n  * [Use CHM's built-in set instead of newSetFromMap](https://github.com/embeddedt/ModernFix/commit/e253833b685e0bb4ee5de62860ce81b7d886a311) - embeddedt\n  * [Enable use of FML's unused TracingPrintStream for tracking mod messages on System.out](https://github.com/embeddedt/ModernFix/commit/ae729bcd151585adcafaf422a436470d9ef50613) - embeddedt\n  * [Remove obsolete resource pack code](https://github.com/embeddedt/ModernFix/commit/9be61340736c00b652f225aaf45ba97a9a73b3d5) - embeddedt\n  * [Default to showing the whole model registry to mods](https://github.com/embeddedt/ModernFix/commit/59e3b83d7496e05de1a32db97b68ecb7215bae05) - embeddedt\n  * [Disable the resource pack cache on 1.21 for now, makes no difference](https://github.com/embeddedt/ModernFix/commit/653b901180a98397aa8f3034a8e7b14aa2c0b285) - embeddedt\n  * [Attempt to improve parity/reliability of dynamic_entity_renderers](https://github.com/embeddedt/ModernFix/commit/4bdddf1051f9d037b218ac8a540bc72a187640fd) - embeddedt\n  * [Implement a very primitive datapack function profiler](https://github.com/embeddedt/ModernFix/commit/211e404687e38f290ea0aaa4dfdc5cb33d086875) - embeddedt\n  * [Rewrite resource pack caching to use a tree](https://github.com/embeddedt/ModernFix/commit/4cde23f4fe2c3c8422ea21195a6f6f9125ef7dc8) - embeddedt\n  * [Improve usability of -Dmodernfix.debugReloaders](https://github.com/embeddedt/ModernFix/commit/dbb6e4713d3d08066eb7cecc7bca92e46eb64252) - embeddedt\n  * [Remove nonexistent AW entry](https://github.com/embeddedt/ModernFix/commit/c66987887c0a2d8add740313dbaa1c2c645511bd) - embeddedt\n  * [Build creative mode tab search tree on first use](https://github.com/embeddedt/ModernFix/commit/8c2c33093b3130c51e0891b8b5ca01ee5bcce95b) - embeddedt\n  * [Add back datapack reload time tracking during world creation](https://github.com/embeddedt/ModernFix/commit/63aeef1ba01ff9a09ecaf125cc72a70a7118935b) - embeddedt\n  * [Use smarter iteration order in model bake event registry](https://github.com/embeddedt/ModernFix/commit/51c4f3eae8beb0ccc2bfe20f44da9647cd3ffb9c) - embeddedt\n  * [Document many mixin options](https://github.com/embeddedt/ModernFix/commit/455b56749cdbb1f02321232a24778c04462fc0b7) - embeddedt\n  * [Update Spark integration](https://github.com/embeddedt/ModernFix/commit/c7c866fde5703b6c67c4dbefcb5afc1938c10575) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-05-16T01:53:04.177126Z",
+      "downloads": 38338,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mWtAkMWm",
+          "hashes": {
+            "sha512": "40bf62fd7dbfc2321607e0beb3ae6ae8eb8c239d977612d8c087e1294d150bc959621b04c7b12d623275e5ac4d14a082c14c34a830369a6e65eab5fa81dae629",
+            "sha1": "94f47b6eff2ebfa42801c2cb6c85f4d067ff3a96"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/eaRTV5Cw/modernfix-fabric-5.22.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.22.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 449787,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "4AeXSL8S",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.21.0+mc1.21.1",
+      "version_number": "5.21.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.20.2+1.21.1\n\n  * [Check before casting JEI runtime](https://github.com/embeddedt/ModernFix/commit/673851ffbdce7ad8c776f82fd6d1c707d51bd88d) - embeddedt\n  * [Tweak ModelManager mixin to improve compat with some mods](https://github.com/embeddedt/ModernFix/commit/ff6b687d5af897c9cc494cc24c4761dcfba3e84a) - embeddedt\n  * [Fix obfuscation error](https://github.com/embeddedt/ModernFix/commit/20be8d0da3ccbdf6b18297ceab17ca2dbfa2009d) - embeddedt\n  * [Prevent Forge's crash report analyser from complaining about ModernFix](https://github.com/embeddedt/ModernFix/commit/967b0c1982b30c60532861c5e75a8446bda4e38f) - embeddedt\n  * [Memoize creative tab content building per-tab](https://github.com/embeddedt/ModernFix/commit/fcea407708a4a784c4076e080540d9264778f15a) - embeddedt\n  * [Move capability deduplication hook to a later injection point](https://github.com/embeddedt/ModernFix/commit/aaaa8ad48a384deaa8f7487c283b3a8e2d7ab409) - embeddedt\n  * [Memoize creative tab content building per-tab](https://github.com/embeddedt/ModernFix/commit/e2ac3bb97a173323edd0eb15f12ec32719826039) - embeddedt\n  * [Fix BuildCraft pipes](https://github.com/embeddedt/ModernFix/commit/5168eb63aabc828c1330e2a0dbea6ce19ddd77fc) - embeddedt\n  * [Deduplicate capability provider lists](https://github.com/embeddedt/ModernFix/commit/6eb82e13251eb086af5ec789e83d64b5d641775b) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-04-06T19:29:10.197562Z",
+      "downloads": 185771,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FJoZmbOl",
+          "hashes": {
+            "sha512": "1369cb97cf8affc9ab7ec19d5472bdc10342f531ce33c3ee39b2c51b468f28fbce7b96fbf6ab9dbc56c30516fcfe623e9029afc448d34efa56e0f5f6e2776d68",
+            "sha1": "5cf690fa025879ffb2f956ac9c9a6152b54fc6a4"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/4AeXSL8S/modernfix-neoforge-5.21.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.21.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 505890,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "aN5Qohr4",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.21.0+mc1.21.1",
+      "version_number": "5.21.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.20.2+1.21.1\n\n  * [Check before casting JEI runtime](https://github.com/embeddedt/ModernFix/commit/673851ffbdce7ad8c776f82fd6d1c707d51bd88d) - embeddedt\n  * [Tweak ModelManager mixin to improve compat with some mods](https://github.com/embeddedt/ModernFix/commit/ff6b687d5af897c9cc494cc24c4761dcfba3e84a) - embeddedt\n  * [Fix obfuscation error](https://github.com/embeddedt/ModernFix/commit/20be8d0da3ccbdf6b18297ceab17ca2dbfa2009d) - embeddedt\n  * [Prevent Forge's crash report analyser from complaining about ModernFix](https://github.com/embeddedt/ModernFix/commit/967b0c1982b30c60532861c5e75a8446bda4e38f) - embeddedt\n  * [Memoize creative tab content building per-tab](https://github.com/embeddedt/ModernFix/commit/fcea407708a4a784c4076e080540d9264778f15a) - embeddedt\n  * [Move capability deduplication hook to a later injection point](https://github.com/embeddedt/ModernFix/commit/aaaa8ad48a384deaa8f7487c283b3a8e2d7ab409) - embeddedt\n  * [Memoize creative tab content building per-tab](https://github.com/embeddedt/ModernFix/commit/e2ac3bb97a173323edd0eb15f12ec32719826039) - embeddedt\n  * [Fix BuildCraft pipes](https://github.com/embeddedt/ModernFix/commit/5168eb63aabc828c1330e2a0dbea6ce19ddd77fc) - embeddedt\n  * [Deduplicate capability provider lists](https://github.com/embeddedt/ModernFix/commit/6eb82e13251eb086af5ec789e83d64b5d641775b) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-04-06T19:29:01.073177Z",
+      "downloads": 842145,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "y2BnL54o",
+          "hashes": {
+            "sha1": "70fc0bfc8781e482f1ecd0f9ab799f5bdb96c562",
+            "sha512": "0f870a6de64a1ebebc2f4806df2f47ee31bd78db4ffced941077cd5a04ad967c0dc62896e061291c9ed777f42f822f8c487f8c705fee05206b3b79cc6be4a1d5"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/aN5Qohr4/modernfix-fabric-5.21.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.21.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 437534,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ZKnJCu6a",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.20.2+mc1.21.1",
+      "version_number": "5.20.2+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.20.0+1.21.1\n\n  * [Improve bulk dynamic model loading performance](https://github.com/embeddedt/ModernFix/commit/ad6425f7e9fbdc1b94d5072e038ddff3da0388ef) - embeddedt\n  * [Fix remapping issue on Neo](https://github.com/embeddedt/ModernFix/commit/e8320a3d8f59bc64d1c59e2cdf358400b2deda88) - embeddedt\n  * [Add more locking in various vanilla model loading paths](https://github.com/embeddedt/ModernFix/commit/74a339bc2c8114e326998dd87d1b8fd0c864fa26) - embeddedt\n  * [Prevent crash when server sends invalid palette](https://github.com/embeddedt/ModernFix/commit/4a8e0487bc8a0fd602d2b5bd83613a8ce3c4e33e) - embeddedt\n  * [Modernize toolchain](https://github.com/embeddedt/ModernFix/commit/e7f86f8687a2f8a02f6d51f0e135e9825ba4f63a) - embeddedt\n  * [Prevent sculk events in addPassenger from deadlocking the game during worldgen](https://github.com/embeddedt/ModernFix/commit/f97766019adfc6f321ed068b43790e8b96d17035) - embeddedt\n  * [Add debug feature to catch illegal block entity map mutation](https://github.com/embeddedt/ModernFix/commit/6aae0f952c481c18c388871357828f81ec207151) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-01-26T00:48:36.113248Z",
+      "downloads": 158966,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FWa0v5D4",
+          "hashes": {
+            "sha512": "fa32a7922c9b48866ed233085376888d2dae0c37325e942778f0d51efcdcc8687348418ca394f1346d0e8c1d27674f56f54b5f1b9708b1a15d69a7af5cf0a3ba",
+            "sha1": "1ba69f600fb8c2f5bd5d73db0a530bcc2b576dec"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZKnJCu6a/modernfix-neoforge-5.20.2%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.20.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 497907,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "tn4FFqcg",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.20.2+mc1.21.1",
+      "version_number": "5.20.2+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.20.0+1.21.1\n\n  * [Improve bulk dynamic model loading performance](https://github.com/embeddedt/ModernFix/commit/ad6425f7e9fbdc1b94d5072e038ddff3da0388ef) - embeddedt\n  * [Fix remapping issue on Neo](https://github.com/embeddedt/ModernFix/commit/e8320a3d8f59bc64d1c59e2cdf358400b2deda88) - embeddedt\n  * [Add more locking in various vanilla model loading paths](https://github.com/embeddedt/ModernFix/commit/74a339bc2c8114e326998dd87d1b8fd0c864fa26) - embeddedt\n  * [Prevent crash when server sends invalid palette](https://github.com/embeddedt/ModernFix/commit/4a8e0487bc8a0fd602d2b5bd83613a8ce3c4e33e) - embeddedt\n  * [Modernize toolchain](https://github.com/embeddedt/ModernFix/commit/e7f86f8687a2f8a02f6d51f0e135e9825ba4f63a) - embeddedt\n  * [Prevent sculk events in addPassenger from deadlocking the game during worldgen](https://github.com/embeddedt/ModernFix/commit/f97766019adfc6f321ed068b43790e8b96d17035) - embeddedt\n  * [Add debug feature to catch illegal block entity map mutation](https://github.com/embeddedt/ModernFix/commit/6aae0f952c481c18c388871357828f81ec207151) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2025-01-26T00:48:26.140542Z",
+      "downloads": 1083680,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EBXUzFl7",
+          "hashes": {
+            "sha512": "1ed6f19b08198d07b6a45a3fe6aaee01f420e70bc73c8cafd1be46ccea97584f407005395eb787b0c4a90e5d9ed9581938d9b335369468d1b05e935d7792e15a",
+            "sha1": "34f1cec6b5be986dac19db957d64f977489cad82"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/tn4FFqcg/modernfix-fabric-5.20.2%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.20.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 435763,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "rOLLd6NG",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.20.0+mc1.21.1",
+      "version_number": "5.20.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.6+1.21.1\n\n  * [Block telemetry by default](https://github.com/embeddedt/ModernFix/commit/b72959f257480258cc869897d5ab32f2612a3c55) - embeddedt\n  * [Add LDLib connected textures integration](https://github.com/embeddedt/ModernFix/commit/64a427fa62a9d31c9d0851d4952778f2071e6c08) - embeddedt\n  * [Premultiply chunk offset for incredibly small performance gain](https://github.com/embeddedt/ModernFix/commit/32a8800344876ed289e1f4fd911b101d41f7b876) - embeddedt\n  * [\"Fix\" Hypixel's disappearing chests problem on modern clients](https://github.com/embeddedt/ModernFix/commit/1c789111e803340589150249d6ab482a65a4a7f2) - embeddedt\n  * [Replace RS integration with generic model registry emulation](https://github.com/embeddedt/ModernFix/commit/0b8eddbf25b6019de018d7bd8be77551734427fa) - embeddedt\n  * [Detect Redirector and show warnings](https://github.com/embeddedt/ModernFix/commit/631b3eddfbd7b4d2e2ac87889fc83473db0df587) - embeddedt\n  * [Protect DynamicBakedModelProvider against null keys](https://github.com/embeddedt/ModernFix/commit/98e6af87c11902f1d957967d47e04e09b48a9b4a) - embeddedt\n  * [Force-override updateY to be public](https://github.com/embeddedt/ModernFix/commit/639f0e2c1a763fff5531ee2016354d6c6bf88c1f) - embeddedt\n  * [Stop looking for legacy cache file names](https://github.com/embeddedt/ModernFix/commit/ba6d0d20fc68ce93b7e0e478d89dcf78a5377594) - embeddedt\n  * [Backport CTM mixin from 1.21](https://github.com/embeddedt/ModernFix/commit/14a89f94a63d68e855ec38da039363d0147c8147) - embeddedt\n  * [Fix model parents not always being resolved](https://github.com/embeddedt/ModernFix/commit/de5b79fe7cde35db376213b6296e7116cdc817ff) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-12-26T20:47:15.298336Z",
+      "downloads": 18466,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QPCQz2gj",
+          "hashes": {
+            "sha1": "ce365f12ece68046f2c77be0a00adf5f0f2a74cb",
+            "sha512": "ce3e300808e66ab2c206aacf3a9f777c2d0721e78ef87a8c071d4b982ccd29f00ef5b1faf1aa10051a2c9bae7324a3f7d7d9d60b56a933ce9b57151786a4c8ba"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/rOLLd6NG/modernfix-neoforge-5.20.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.20.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 489450,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "rOvdnqLx",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.20.0+mc1.21.1",
+      "version_number": "5.20.0+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.6+1.21.1\n\n  * [Block telemetry by default](https://github.com/embeddedt/ModernFix/commit/b72959f257480258cc869897d5ab32f2612a3c55) - embeddedt\n  * [Add LDLib connected textures integration](https://github.com/embeddedt/ModernFix/commit/64a427fa62a9d31c9d0851d4952778f2071e6c08) - embeddedt\n  * [Premultiply chunk offset for incredibly small performance gain](https://github.com/embeddedt/ModernFix/commit/32a8800344876ed289e1f4fd911b101d41f7b876) - embeddedt\n  * [\"Fix\" Hypixel's disappearing chests problem on modern clients](https://github.com/embeddedt/ModernFix/commit/1c789111e803340589150249d6ab482a65a4a7f2) - embeddedt\n  * [Replace RS integration with generic model registry emulation](https://github.com/embeddedt/ModernFix/commit/0b8eddbf25b6019de018d7bd8be77551734427fa) - embeddedt\n  * [Detect Redirector and show warnings](https://github.com/embeddedt/ModernFix/commit/631b3eddfbd7b4d2e2ac87889fc83473db0df587) - embeddedt\n  * [Protect DynamicBakedModelProvider against null keys](https://github.com/embeddedt/ModernFix/commit/98e6af87c11902f1d957967d47e04e09b48a9b4a) - embeddedt\n  * [Force-override updateY to be public](https://github.com/embeddedt/ModernFix/commit/639f0e2c1a763fff5531ee2016354d6c6bf88c1f) - embeddedt\n  * [Stop looking for legacy cache file names](https://github.com/embeddedt/ModernFix/commit/ba6d0d20fc68ce93b7e0e478d89dcf78a5377594) - embeddedt\n  * [Backport CTM mixin from 1.21](https://github.com/embeddedt/ModernFix/commit/14a89f94a63d68e855ec38da039363d0147c8147) - embeddedt\n  * [Fix model parents not always being resolved](https://github.com/embeddedt/ModernFix/commit/de5b79fe7cde35db376213b6296e7116cdc817ff) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-12-26T20:47:05.843891Z",
+      "downloads": 219723,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zaHwfYHY",
+          "hashes": {
+            "sha1": "a490306a95a32b9826a558a213093e4105f38339",
+            "sha512": "48dfe872d902e7768965f808dcf2189f420cc8fb3e5aeaceb6055b348f00deb4fdb12fd3a0c7007e8a37cb28166ae265fe5d6ae08970a1df0a89d1c99b48a3e3"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/rOvdnqLx/modernfix-fabric-5.20.0%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.20.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 429876,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "tjiGBYIY",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.6+mc1.21.1",
+      "version_number": "5.19.6+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.5+1.21.1\n\n  * [Use SSH for propagators](https://github.com/embeddedt/ModernFix/commit/8307564336acd73f1b9fea08eb9c1868aaaffd22) - embeddedt\n  * [Propagate via SSH](https://github.com/embeddedt/ModernFix/commit/fffb1031f754d6751b23646ed6efeb64e5326002) - embeddedt\n  * [Fix setup-gradle](https://github.com/embeddedt/ModernFix/commit/0bda3c9f43483bb8d809d1ff1044e1cb7d22c886) - embeddedt\n  * [updated spark (#484)](https://github.com/embeddedt/ModernFix/commit/520de2c12b510ee018fc6b2e2d74dac74a36b70b) - pietro-lopes\n  * [Fix standalone model variant not being loaded](https://github.com/embeddedt/ModernFix/commit/a29bdb2f826ac40e417d22c4553937942404a750) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-12-07T20:41:20.702473Z",
+      "downloads": 25362,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "u3TnsH8V",
+          "hashes": {
+            "sha1": "95923224c9165f9101fbd728acbb66c93d8e9659",
+            "sha512": "62f153a1201be4f0ed3029134d020bd15857f015c76fd79057cea6779e457cfd5770d33790af94d310a6a28da78bbb1b42c671ae5af6a0ec757fdce7a06088b4"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/tjiGBYIY/modernfix-neoforge-5.19.6%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.19.6+mc1.21.1.jar",
+          "primary": true,
+          "size": 478859,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Crhw8krB",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.6+mc1.21.1",
+      "version_number": "5.19.6+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.5+1.21.1\n\n  * [Use SSH for propagators](https://github.com/embeddedt/ModernFix/commit/8307564336acd73f1b9fea08eb9c1868aaaffd22) - embeddedt\n  * [Propagate via SSH](https://github.com/embeddedt/ModernFix/commit/fffb1031f754d6751b23646ed6efeb64e5326002) - embeddedt\n  * [Fix setup-gradle](https://github.com/embeddedt/ModernFix/commit/0bda3c9f43483bb8d809d1ff1044e1cb7d22c886) - embeddedt\n  * [updated spark (#484)](https://github.com/embeddedt/ModernFix/commit/520de2c12b510ee018fc6b2e2d74dac74a36b70b) - pietro-lopes\n  * [Fix standalone model variant not being loaded](https://github.com/embeddedt/ModernFix/commit/a29bdb2f826ac40e417d22c4553937942404a750) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-12-07T20:41:12.378925Z",
+      "downloads": 93021,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aZhfzqqc",
+          "hashes": {
+            "sha512": "c6b65159d4ea9c36d444c68a722b456a9866051223fe5774db9853c8e2e77c7ae847924b1c2984f3b6dacabebf31408f036147b4b9c7e36d61c455746b5e93b0",
+            "sha1": "3cd579fecc42eef73fe7dcd805f8692369dbb030"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Crhw8krB/modernfix-fabric-5.19.6%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.19.6+mc1.21.1.jar",
+          "primary": true,
+          "size": 422601,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "QVe1LGQD",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.5+mc1.21.1",
+      "version_number": "5.19.5+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.4+1.21.1\n\n  * [Fix Furniture Mod hedges rendering in fast mode with dynres on](https://github.com/embeddedt/ModernFix/commit/0f3bfd894eaf8a596b1a5e1f9df99c5c44277213) - embeddedt\n  * [WIP ingredient work](https://github.com/embeddedt/ModernFix/commit/054d36baa02cdeafde7ffd2fe185680de9420ef6) - embeddedt\n  * [Skip filtering blockstates if client is not in world](https://github.com/embeddedt/ModernFix/commit/8e1270dcdc895ce5924f6bdcf1a8c2501c4ffc2c) - embeddedt\n  * [Avoid error from mods that replace chunk system](https://github.com/embeddedt/ModernFix/commit/fec7eb66eac46c4a8b318d135b61c1641973aaf5) - embeddedt\n  * [Trim LRU maps after dropping entries](https://github.com/embeddedt/ModernFix/commit/dee2627df9afd43996854e67b507478ce115a118) - embeddedt\n  * [Always tick model manager even if not in world](https://github.com/embeddedt/ModernFix/commit/d8e937720f57ff3f614373d6222057af2efd8c04) - embeddedt\n  * [Skip filtering states when not in a world](https://github.com/embeddedt/ModernFix/commit/9df79d8c8cc23e7a8b98234864a443d21a95d10a) - embeddedt\n  * [Fix fluidlogged incompatibility](https://github.com/embeddedt/ModernFix/commit/7c550a1ce485f4a253f09447cddebf0e6839e554) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-11-05T03:42:14.606997Z",
+      "downloads": 17943,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NhoHt17V",
+          "hashes": {
+            "sha512": "985c4f5ad1b08219ce64d8ac8fe3681fe35a7b18f943483bb3d66b09f51629f62717b583c18d562c8dd8d510f42c4366d4cbb1735d2b5f177320f06f8441b06b",
+            "sha1": "57f128d7a54a92392b26c86a74f0abf37dccdcca"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QVe1LGQD/modernfix-neoforge-5.19.5%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.19.5+mc1.21.1.jar",
+          "primary": true,
+          "size": 478773,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "qO3cN8gB",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.5+mc1.21.1",
+      "version_number": "5.19.5+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.4+1.21.1\n\n  * [Fix Furniture Mod hedges rendering in fast mode with dynres on](https://github.com/embeddedt/ModernFix/commit/0f3bfd894eaf8a596b1a5e1f9df99c5c44277213) - embeddedt\n  * [WIP ingredient work](https://github.com/embeddedt/ModernFix/commit/054d36baa02cdeafde7ffd2fe185680de9420ef6) - embeddedt\n  * [Skip filtering blockstates if client is not in world](https://github.com/embeddedt/ModernFix/commit/8e1270dcdc895ce5924f6bdcf1a8c2501c4ffc2c) - embeddedt\n  * [Avoid error from mods that replace chunk system](https://github.com/embeddedt/ModernFix/commit/fec7eb66eac46c4a8b318d135b61c1641973aaf5) - embeddedt\n  * [Trim LRU maps after dropping entries](https://github.com/embeddedt/ModernFix/commit/dee2627df9afd43996854e67b507478ce115a118) - embeddedt\n  * [Always tick model manager even if not in world](https://github.com/embeddedt/ModernFix/commit/d8e937720f57ff3f614373d6222057af2efd8c04) - embeddedt\n  * [Skip filtering states when not in a world](https://github.com/embeddedt/ModernFix/commit/9df79d8c8cc23e7a8b98234864a443d21a95d10a) - embeddedt\n  * [Fix fluidlogged incompatibility](https://github.com/embeddedt/ModernFix/commit/7c550a1ce485f4a253f09447cddebf0e6839e554) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-11-05T03:42:07.105681Z",
+      "downloads": 426686,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YD64NXxd",
+          "hashes": {
+            "sha1": "0baaf6b7cf92d502c3d81205ef7f3eb2d4f30f32",
+            "sha512": "840c1f0bc2d4b0766c91841ed46d98ef768eb2a4792501660b8ebd8ec59d4b9e0dd96b0ec48558c58a3bf91035ec09d87b386484ff24a15c191372e4ec503579"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/qO3cN8gB/modernfix-fabric-5.19.5%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.19.5+mc1.21.1.jar",
+          "primary": true,
+          "size": 422522,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "18tAoFs1",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.3+mc1.21.1",
+      "version_number": "5.19.3+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.2+1.21.1\n\n  * [Silence mixin warning with Moonrise](https://github.com/embeddedt/ModernFix/commit/333147cfd5c58e84fbac0a805d052a6d9250503f) - embeddedt\n  * [Implement more methods on FakeStateMap](https://github.com/embeddedt/ModernFix/commit/d25781f36c302a487de71c185271bdd1656845b7) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-08-24T20:43:01.570428Z",
+      "downloads": 44619,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WiYHFkrX",
+          "hashes": {
+            "sha1": "17479d50370b139c781b65a1bdff4ab7931b6f62",
+            "sha512": "421a0c6af65c75dc1087e592b3eed40dd7e9b3661914f67e37ea63bbf91a913f7fbda12d2e6bd5d6121712e7735306594e47c8d7fc287e8c43c2d1661ebadd20"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/18tAoFs1/modernfix-neoforge-5.19.3%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.19.3+mc1.21.1.jar",
+          "primary": true,
+          "size": 478651,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "T1ftCUJv",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.3+mc1.21.1",
+      "version_number": "5.19.3+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.2+1.21.1\n\n  * [Silence mixin warning with Moonrise](https://github.com/embeddedt/ModernFix/commit/333147cfd5c58e84fbac0a805d052a6d9250503f) - embeddedt\n  * [Implement more methods on FakeStateMap](https://github.com/embeddedt/ModernFix/commit/d25781f36c302a487de71c185271bdd1656845b7) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-08-24T20:42:53.437289Z",
+      "downloads": 1226189,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VR8Px1p8",
+          "hashes": {
+            "sha512": "36b4fa178e73b7eef5f42df619e67fe71307fafce8b1582acb11c36ad6792fafe88870d74e178898824ede405bd0873a8b00460f6507bdf87be9cfb6353edc7d",
+            "sha1": "e2d8ee6f75d2b027ae73eafbf9f38c1eb4a35a93"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/T1ftCUJv/modernfix-fabric-5.19.3%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.19.3+mc1.21.1.jar",
+          "primary": true,
+          "size": 422437,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "s7ay7jMY",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.2+mc1.21.1",
+      "version_number": "5.19.2+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.1+1.21\n\n  * [Add type checking to dynamic maps to avoid ClassCastException from badly behaved mods](https://github.com/embeddedt/ModernFix/commit/2abc4fa56b0bbe7f631a9ec2c72463eeb7ee8e00) - embeddedt\n  * [Update to 1.21.1](https://github.com/embeddedt/ModernFix/commit/489136d048191081ca0290131708291c05a8e31a) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-08-19T22:42:02.975239Z",
+      "downloads": 4444,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CPn8BtvJ",
+          "hashes": {
+            "sha1": "d6c3632bbad63481cd84f5057caebacd1d77498b",
+            "sha512": "c0439395e10c0447285a0d9d814c220411a9145fec98b50c1c611c4dbec56fcb86796412d17dbf4c31510687b05e52e9cf582d299a3c45e1b92eaedf62ae56e9"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/s7ay7jMY/modernfix-neoforge-5.19.2%2Bmc1.21.1.jar",
+          "filename": "modernfix-neoforge-5.19.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 477972,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "wq4G8eI8",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.2+mc1.21.1",
+      "version_number": "5.19.2+mc1.21.1",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.19.1+1.21\n\n  * [Add type checking to dynamic maps to avoid ClassCastException from badly behaved mods](https://github.com/embeddedt/ModernFix/commit/2abc4fa56b0bbe7f631a9ec2c72463eeb7ee8e00) - embeddedt\n  * [Update to 1.21.1](https://github.com/embeddedt/ModernFix/commit/489136d048191081ca0290131708291c05a8e31a) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-08-19T22:41:55.422712Z",
+      "downloads": 91372,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "X2ROR2K4",
+          "hashes": {
+            "sha1": "6b0b3272cca6f324c6143640ad678e3f61e68df1",
+            "sha512": "16bbf7178d8245ebc0ec5fdde6d78ab9ca8e8a480a5bb624f4f88d12975546a3def6bca07bae5b6c7c690a1f33755b59b802c6a0e78d33611978648b6685eb45"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/wq4G8eI8/modernfix-fabric-5.19.2%2Bmc1.21.1.jar",
+          "filename": "modernfix-fabric-5.19.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 421774,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "vNbpPeOM",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.0+mc1.21",
+      "version_number": "5.19.0+mc1.21",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.18.8+1.21\n\n  * [Loom 1.7 + Gradle 8.8](https://github.com/embeddedt/ModernFix/commit/ece2897c3701236d204487b32b4921cc1e5660e3) - embeddedt\n  * [Allow debugReloader option to also work with datapack reloads](https://github.com/embeddedt/ModernFix/commit/4ee8c41abd945436f6a1b212de3cd254c346e8ff) - embeddedt\n  * [Bump Neo version to fix config screen crash](https://github.com/embeddedt/ModernFix/commit/b2eb14b766e1e9a8845981494675ebfb85da72db) - embeddedt\n  * [Improve dynamic model loading efficiency during model bake event](https://github.com/embeddedt/ModernFix/commit/70fba2e0afd7507cf0e8a38a01bef57ba262f4e8) - embeddedt\n  * [Collect JEI ingredients to list first to avoid concurrency issues](https://github.com/embeddedt/ModernFix/commit/66ef30449a84c29186dd4c857eedb9d5e378fafb) - embeddedt\n  * [Fix searching in latest JEI](https://github.com/embeddedt/ModernFix/commit/edddba6991e08a89c53ffcb87b5524bb8487b14d) - embeddedt\n  * [Do not spin the watchdog thread while server is booting](https://github.com/embeddedt/ModernFix/commit/bc7aa5539c351d65e1e5b2b87b7c767367f4be52) - embeddedt\n  * [Emulate entrySet on dynamic resources model registry](https://github.com/embeddedt/ModernFix/commit/73487378784ebe8e10492ceddaef66912a8a71e6) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-07-27T00:16:24.244151Z",
+      "downloads": 11765,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JtY4wd1y",
+          "hashes": {
+            "sha512": "0a217feb22fc658a1239fd5036ae3c8a17a508b70b685a252fc7339efde7637924c7d7141e8a4e23eb54f47894ff37a1ff5693c406c492c87e37a08c4e53ceb8",
+            "sha1": "16925c3620fb809a8ecac5fcc6810b3116434cfd"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/vNbpPeOM/modernfix-neoforge-5.19.0%2Bmc1.21.jar",
+          "filename": "modernfix-neoforge-5.19.0+mc1.21.jar",
+          "primary": true,
+          "size": 471945,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "KCOwQkKi",
+      "project_id": "nmDcB62a",
+      "author_id": "6bGskxLV",
+      "featured": false,
+      "name": "5.19.0+mc1.21",
+      "version_number": "5.19.0+mc1.21",
+      "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.18.8+1.21\n\n  * [Loom 1.7 + Gradle 8.8](https://github.com/embeddedt/ModernFix/commit/ece2897c3701236d204487b32b4921cc1e5660e3) - embeddedt\n  * [Allow debugReloader option to also work with datapack reloads](https://github.com/embeddedt/ModernFix/commit/4ee8c41abd945436f6a1b212de3cd254c346e8ff) - embeddedt\n  * [Bump Neo version to fix config screen crash](https://github.com/embeddedt/ModernFix/commit/b2eb14b766e1e9a8845981494675ebfb85da72db) - embeddedt\n  * [Improve dynamic model loading efficiency during model bake event](https://github.com/embeddedt/ModernFix/commit/70fba2e0afd7507cf0e8a38a01bef57ba262f4e8) - embeddedt\n  * [Collect JEI ingredients to list first to avoid concurrency issues](https://github.com/embeddedt/ModernFix/commit/66ef30449a84c29186dd4c857eedb9d5e378fafb) - embeddedt\n  * [Fix searching in latest JEI](https://github.com/embeddedt/ModernFix/commit/edddba6991e08a89c53ffcb87b5524bb8487b14d) - embeddedt\n  * [Do not spin the watchdog thread while server is booting](https://github.com/embeddedt/ModernFix/commit/bc7aa5539c351d65e1e5b2b87b7c767367f4be52) - embeddedt\n  * [Emulate entrySet on dynamic resources model registry](https://github.com/embeddedt/ModernFix/commit/73487378784ebe8e10492ceddaef66912a8a71e6) - embeddedt\n",
+      "changelog_url": null,
+      "date_published": "2024-07-27T00:16:15.888007Z",
+      "downloads": 1136490,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4LtWQDKI",
+          "hashes": {
+            "sha1": "d2d25377d2a675c0aedab73876eac3fc1f97403d",
+            "sha512": "086de13a22a4b8141e4b4421dca805c40dc04094d7a248244cc1d46c1d9283332797bccf5bf9b90cfb5e87fdcaeb922bcce0904b1c0110cc5cdecce28e8fe250"
+          },
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/KCOwQkKi/modernfix-fabric-5.19.0%2Bmc1.21.jar",
+          "filename": "modernfix-fabric-5.19.0+mc1.21.jar",
+          "primary": true,
+          "size": 417876,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

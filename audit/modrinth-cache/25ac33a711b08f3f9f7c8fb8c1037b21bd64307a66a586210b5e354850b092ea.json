@@ -1,0 +1,153 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=FTB+Library&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:11.187276+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "1KLyhGRz",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "item-filters",
+        "author": "Lat",
+        "author_id": "7tgPcl7v",
+        "organization": "latvian.dev",
+        "organization_id": "VNN4jn4Q",
+        "title": "Item Filters",
+        "description": "Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.",
+        "categories": [
+          "fabric",
+          "forge",
+          "library"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "library"
+        ],
+        "versions": [
+          "1.19.2",
+          "1.20.1"
+        ],
+        "downloads": 447656,
+        "follows": 25,
+        "icon_url": "https://cdn.modrinth.com/data/1KLyhGRz/243eb2a2c94586a3b19f73822f8c6305b0d70554_96.webp",
+        "date_created": "2023-08-28T19:06:20.564582+00:00",
+        "date_modified": "2023-08-22T14:17:04.894672+00:00",
+        "latest_version": "LoyNhXfF",
+        "license": "GPL-3.0-only",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 5522524
+      },
+      {
+        "project_id": "UNCI38gZ",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "tensura-compat-ftb",
+        "author": "MinhEragon",
+        "author_id": "zJq8KiYP",
+        "organization": "ManasMods",
+        "organization_id": "in7WDUl6",
+        "title": "Tensura Compat: FTB",
+        "description": "A compatibility brigde between Tensura: Reincarnated and FTB mods (including FTB Library, FTB Chunks, FTB Teams and FTB Quests).",
+        "categories": [
+          "adventure",
+          "fabric",
+          "game-mechanics",
+          "library",
+          "neoforge"
+        ],
+        "display_categories": [
+          "adventure",
+          "fabric",
+          "game-mechanics",
+          "library",
+          "neoforge"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 10526,
+        "follows": 2,
+        "icon_url": "https://cdn.modrinth.com/data/UNCI38gZ/95448435cb869e121d8f3db5bf42519f03dd7dcd_96.webp",
+        "date_created": "2026-04-10T22:09:09.314925+00:00",
+        "date_modified": "2026-07-05T15:04:01.293572+00:00",
+        "latest_version": "ydPx4R4m",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2888474
+      },
+      {
+        "project_id": "E25HIGa8",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "open-quests-api",
+        "author": "ArchonicCinnamon",
+        "author_id": "GLXO7DIV",
+        "organization": null,
+        "organization_id": null,
+        "title": "Open Quests API",
+        "description": "A library for version-agnostic creation of custom quests for FTB Quests",
+        "categories": [
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "library",
+          "management",
+          "neoforge"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "library",
+          "neoforge"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "26.1.2"
+        ],
+        "downloads": 825,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/E25HIGa8/afa239593df2a2c52401a6f92a970fa3382728d3_96.webp",
+        "date_created": "2026-09-14T19:27:19.837002+00:00",
+        "date_modified": "2026-09-19T19:11:48.579169+00:00",
+        "latest_version": "j7fAlLQH",
+        "license": "LGPL-3.0-or-later",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "server_only_client_optional"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 4470814
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 3
+  }
+}

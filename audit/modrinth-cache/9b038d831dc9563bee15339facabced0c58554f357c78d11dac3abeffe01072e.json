@@ -1,0 +1,112 @@
+{
+  "url": "https://api.modrinth.com/v2/project/yPlaLxD1",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:58.675979+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1",
+      "26.1.2"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "yPlaLxD1",
+    "slug": "iron-furnaces",
+    "project_type": "mod",
+    "team": "hgfqVssw",
+    "organization": null,
+    "title": "Iron Furnaces",
+    "description": "Inspired by cpw's Iron Chests mod, adds a few different tiers of furnace.",
+    "body": "Maximize smelting efficiency with unparalleled speed, reconfigurable sides, augments for smoking and blasting, and much more.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/aTsri2PvSis\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n\nCan you craft the Rainbow Furnace and unlock its POWER? \n\n![Rainbow Furnace](https://cdn.modrinth.com/data/cached_images/d6ff288fb90998a54369a29deaddea220a562352.png)\n\nGot any questions? Read the Wiki!\n\n \n\nVersion Status\n\n1.21.x: Active Development\n\n \n\nIron Furnaces should be compatible with most mods. \n\nIt has explicit compatibility with JEI and Project MMO.\n\n \n\nThe textures used from the Thermal Series are used with CoFH permission.\n\n \n\nChange log: [https://github.com/Qelifern/IronFurnacesNeoForge/blob/4.3.2/ifchangelog.txt](https://github.com/Qelifern/IronFurnacesNeoForge/blob/4.3.2/ifchangelog.txt)\n\n \n\nThis mod is open source and licensed under the Apache License, Version 2.0. It may be modified and used in any project, subject to the terms of the license.",
+    "body_url": null,
+    "published": "2024-02-27T03:07:39.567125Z",
+    "updated": "2026-06-25T23:48:47.265616Z",
+    "approved": "2024-02-28T09:28:11.024999Z",
+    "queued": "2024-03-04T15:36:31.181472Z",
+    "status": "approved",
+    "requested_status": "unlisted",
+    "moderator_message": null,
+    "license": {
+      "id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": null
+    },
+    "downloads": 9940512,
+    "followers": 275,
+    "categories": [
+      "storage",
+      "technology"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "ZcpwCwXC",
+      "yl3xmztN",
+      "fGEswUMR",
+      "kMzbsKeN",
+      "6jCrW5fX",
+      "JXiy5rDh",
+      "l6USRdvK",
+      "U2oiDK7a",
+      "MfRtaT6s",
+      "JlMfdPxK",
+      "BX6fcXBb",
+      "WZ25JeYB",
+      "KHAcRQwi",
+      "1Qo18RWL",
+      "kUNp0q7z"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/yPlaLxD1/8788274b9d09dba7bfc99b29d9d0a708ba5e4e74.png",
+    "raw_icon_url": "https://cdn.modrinth.com/data/yPlaLxD1/8788274b9d09dba7bfc99b29d9d0a708ba5e4e74.png",
+    "issues_url": "https://github.com/Qelifern/IronFurnaces/issues",
+    "source_url": "https://github.com/Qelifern/IronFurnaces",
+    "wiki_url": "https://github.com/Qelifern/IronFurnaces/wiki",
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/yPlaLxD1/images/02fdb5c4ea9c731707467fa87873983cf066f552_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/yPlaLxD1/images/02fdb5c4ea9c731707467fa87873983cf066f552.png",
+        "featured": false,
+        "title": null,
+        "description": null,
+        "created": "2024-02-27T03:18:45.602288Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/yPlaLxD1/images/7ec6d7a03e7683e3b11f43f2a56dbdbcef4dbb7b.png",
+        "raw_url": "https://cdn.modrinth.com/data/yPlaLxD1/images/7ec6d7a03e7683e3b11f43f2a56dbdbcef4dbb7b.png",
+        "featured": false,
+        "title": null,
+        "description": null,
+        "created": "2024-03-04T15:39:01.954820Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/yPlaLxD1/images/d9b32babfc2cdd96080590be0352fbadfa49130a.png",
+        "raw_url": "https://cdn.modrinth.com/data/yPlaLxD1/images/d9b32babfc2cdd96080590be0352fbadfa49130a.png",
+        "featured": false,
+        "title": null,
+        "description": null,
+        "created": "2024-03-04T15:38:43.236497Z",
+        "ordering": 1
+      }
+    ],
+    "color": 3552822,
+    "thread_id": "aAa8qksb",
+    "monetization_status": "monetized"
+  }
+}

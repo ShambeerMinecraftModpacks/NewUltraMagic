@@ -1,0 +1,711 @@
+{
+  "url": "https://api.modrinth.com/v2/project/MdlnLS7Q/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:53.784771+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "fNjxgZPH",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.6.1",
+      "version_number": "2.6.1",
+      "changelog": "- Fixed crash if Ponder is not installed\n- Fixed Draco Arcanus & Tyr Armor missing armor tags\n- Fixed Draco Arcanus & Tyr Armor having infinite durability\n\n\n**Experimental Content (behind the Preview Feature Flag)**\n- Added Aureal Wardstone",
+      "changelog_url": null,
+      "date_published": "2025-08-11T18:54:38.052203Z",
+      "downloads": 93897,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UZeQyrLr",
+          "hashes": {
+            "sha512": "012a1d5c779a0173a5c76ea79f429486753f040dfe59739bc45fd0817182d705a80110032f024757f0ac51a9bd10c546a11a730899aa9adbf7251a5040472724",
+            "sha1": "1de105be68b88de87a5e6749f320c790d550c120"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/fNjxgZPH/forbidden_arcanus-2.6.1.jar",
+          "filename": "forbidden_arcanus-2.6.1.jar",
+          "primary": true,
+          "size": 3402083,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tYMWHdzV",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.6.0",
+      "version_number": "2.6.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2025-08-08T19:14:03.233849Z",
+      "downloads": 483,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "T92utxSU",
+          "hashes": {
+            "sha512": "0b981832dee5d3a2dda77ae5f8b8b9ccae1b479a914ec22f544c625b9d465b66913ba1fc4c28de8b1f53c76bdfea0837b4b9bc1e3d6fbf7f6006035ef6f7bcea",
+            "sha1": "00bd5b6a34857b089f8f39c66ac753502cd9ce3d"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/tYMWHdzV/forbidden_arcanus-1.21.1-2.6.0.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.6.0.jar",
+          "primary": true,
+          "size": 3398471,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "UNFuOlOR",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.17",
+      "version_number": "2.5.17",
+      "changelog": "- Added spectral\\_vision\\_unaffected entity tag for entities not highlighted by the Spectral Eye Amulet  \n-   Fixed a duplication bug related to doors  \n- Fixed Deorum Trapdoor not mineable with pickaxe  \n- Added missing translations related to the Hephaestus Forge JEI integration  \n- Added missing dust item tags (arcane\\_crystal, mundabitur, corrupti)\n\n \n\n### **Experimental Content (behind the Update 2.6 Experiment Feature Flag)**\n\n  \n- Magic Wand can now be used to shoot an Aureal projectile  \n- Added a new use animation for the Magic Wand  \n- Added a wand charge indicator to the crosshair when charging a spell   \n- The player aureal bar now shows when holding a Magic Wand  \n- Added Mortar block, it has no use for now",
+      "changelog_url": null,
+      "date_published": "2025-06-14T16:34:06.220550Z",
+      "downloads": 12217,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BuvXr6gp",
+          "hashes": {
+            "sha1": "4bd2cb526c24940005962e5224839942110eba63",
+            "sha512": "6e2b7670341f779bd270f7c0d10e0da019df831a8b773e05bcd326005ff421fa180aa0d1ec16ea0e3c674ffb539ce87af2665d7b66c3b916f3a62a56ca40bb3d"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/UNFuOlOR/forbidden_arcanus-1.21.1-2.5.17.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.17.jar",
+          "primary": true,
+          "size": 3302845,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "y6P1R9lv",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.16",
+      "version_number": "2.5.16",
+      "changelog": "- Fixed Draco Arcanus Tools and Blacksmith Gavels using wrong item model\n- Fixed Edelwood Ladder missing model and not working\n- Fixed Edelwood Branch missing a texture and not rotating correctly\n- Fixed Edelwood Branch missing axe mineable tag\n- Eternal Stella can no longer be applied to Elytra\n\nExperimental Content (behind the Update 2.6 Experiment Feature Flag)\n- Added a Magic Wand item, it doesn't do much yet",
+      "changelog_url": null,
+      "date_published": "2025-05-29T15:13:30.510281Z",
+      "downloads": 3075,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nMu1aqix",
+          "hashes": {
+            "sha512": "de26e83d1a6df5f8f5e6259cdb7f2d7a216c7791baa85a2bc24a20e33ab671f726bd2a7e051be6fc4eaa8bc48e954e2677856836bfeaca223b837a2e3336fb43",
+            "sha1": "9b9e9dffae804a25beba73c568f6a40feb42d84c"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/y6P1R9lv/forbidden_arcanus-1.21.1-2.5.16.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.16.jar",
+          "primary": true,
+          "size": 3214570,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GWRHF5VL",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.15",
+      "version_number": "2.5.15",
+      "changelog": "- Removed broken Golden Orchid\n- Fixed Edelwood Lava Bucket item client desync issue\n- Added missing stored_entity component translations\n- The xp granted by using a Xpetrified Orb is now controlled by the essence_value item component\n- Added ritual_completed advancement criteria",
+      "changelog_url": null,
+      "date_published": "2025-03-22T13:49:31.664341Z",
+      "downloads": 11006,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ww0DiBkW",
+          "hashes": {
+            "sha512": "21bdd093f2e83ddd78508714ef9489a77f475eb30c9fcd0c08e87b1eb01ddfab87835616ede562fd9c64b3fc030b9ad4ce788a49d4992547e9fd00a282294a15",
+            "sha1": "da7aceeb96461e33b34516d452bcabfbf830ee1f"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/GWRHF5VL/forbidden_arcanus-1.21.1-2.5.15.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.15.jar",
+          "primary": true,
+          "size": 3200013,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "er8jgHaa",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.14",
+      "version_number": "2.5.14",
+      "changelog": "- Fixed a client crash when trying to start a ritual on a server",
+      "changelog_url": null,
+      "date_published": "2025-03-03T18:07:29.405142Z",
+      "downloads": 2319,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hzToQ8cc",
+          "hashes": {
+            "sha1": "a63850cb2fae53554066f975e9d4b11d91fa8843",
+            "sha512": "f80f12cd05c560586ea80cd27f497f2f5ed690ec5bdb37a9416f39c5f6d51d6bdb7b71e2fbc2cff1639bbf1263e19f2fe8e32a26d0d957d0e0ae9a47d1ec457c"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/er8jgHaa/forbidden_arcanus-1.21.1-2.5.14.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.14.jar",
+          "primary": true,
+          "size": 3201679,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "jhKG197X",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.13",
+      "version_number": "2.5.13",
+      "changelog": "- Removed Blacksmith Gavel ritual uses mechanic; they now use 50 durability instead when starting a ritual\n- Pedestals no longer block the Smithing Table to Hephaestus Forge conversion\n- Edelwood Bucket capacity is now controlled by a new bucket_capacity data component\n- The amount of aureal granted by drinking an Aureal Bottle is now based on the essence_data item component",
+      "changelog_url": null,
+      "date_published": "2025-02-22T10:42:30.540981Z",
+      "downloads": 572,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Ss2Bg1i9",
+          "hashes": {
+            "sha512": "f30cefe799ea89ece15bd975a51f8f355b0dbc2c3f938c17793605e3960894ee8cd41258b17b1b8360ac81dbca75f896a32316fd9ac8d6dc355859d1878e3791",
+            "sha1": "49967ead3f097572c3b3779b85378a3ddddb5a0a"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/jhKG197X/forbidden_arcanus-1.21.1-2.5.13.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.13.jar",
+          "primary": true,
+          "size": 3195284,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ouDzX2ri",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.12",
+      "version_number": "2.5.12",
+      "changelog": "- Fixed Hephaestus Forge not dropping inventory contents when broken\n- Fixed Hephaestus Forge cache issues preventing multiple forges in a world",
+      "changelog_url": null,
+      "date_published": "2025-02-11T21:03:02.394386Z",
+      "downloads": 898,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RDWEX1zv",
+          "hashes": {
+            "sha512": "fd60d6ea7e0c2833a50eba8325ccbc115524799866937dd3d659c367c30d2588672f0cac4b9b786e5329edbe6cf1b17e1c448dbebc32e686d379e5a81a2ec732",
+            "sha1": "196694f797e714e218e6b71ac2e3a912bc55fbd0"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/ouDzX2ri/forbidden_arcanus-1.21.1-2.5.12.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.12.jar",
+          "primary": true,
+          "size": 3196802,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "FG8VPcRN",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.11",
+      "version_number": "2.5.11",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-12-05T23:08:05.418240Z",
+      "downloads": 2287,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vI5qA1Yd",
+          "hashes": {
+            "sha1": "e321532498fa92d66f0aeb1f1b65fce15ee6df37",
+            "sha512": "53a052971d81b0ab64b60f2763aea339b41efece25d52dfe556f0bdd207207d4678e4edbfcd86e7c0984a30e16f5da5b8f16297d99e5aa505c7011c816bee9de"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/FG8VPcRN/forbidden_arcanus-1.21.1-2.5.11.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.11.jar",
+          "primary": true,
+          "size": 3198600,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MA0PE0Y7",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.10",
+      "version_number": "2.5.10",
+      "changelog": "- Removed unused config options\n- Fixed Polished Darkstone Wall missing pickaxe mineable tag\n- Increased chance to find Artisan Relic in village loot chests (18% -> 28%)\n- Changes to Hephaestus Forge data cache (this might fix the Hephaestus Forge server issues)",
+      "changelog_url": null,
+      "date_published": "2024-12-04T11:46:40.600878Z",
+      "downloads": 258,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "awesybH0",
+          "hashes": {
+            "sha512": "ea0f951e29e61d24d4513c3ec5f1295f8a90a539529047e8c92b2bc0165982fabba9fd98670e68201b9f640dca8bf3c0d270ccf53f95ed0efa195443fdea308c",
+            "sha1": "fdb17088e8390573f5e7bd4695f0b8fddd5fe643"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/MA0PE0Y7/forbidden_arcanus-1.21.1-2.5.10.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.10.jar",
+          "primary": true,
+          "size": 3196455,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bCvurLnl",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.9",
+      "version_number": "2.5.9",
+      "changelog": "- The Aureal Meter overlay now gets shown when holding an Aureal Bottle or a Quantum Catcher\n- Fixed Spectral Eye Amulet not working\n- Removed Lens of Veritatis item\n- Removed Sanity Meter item\n- Removed Nipa block and Nipa structure\n- Changed Tags to use \"c\" namespace\n- Fixed Aurum Leaves missing preferred tool\n- Added many missing block and item tags \n- Many code improvements ",
+      "changelog_url": null,
+      "date_published": "2024-10-30T12:54:23.036762Z",
+      "downloads": 1052,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "448UQm7e",
+          "hashes": {
+            "sha1": "a4368fc5b3bf9164969c766a8b62f8f6da072d71",
+            "sha512": "3b4833b073a442ac7f3395fa3b02e9b1ec2a31fe808096199401fd3d6d8920a04df0b5ec6ee47ea044e3e3b88f78ea66f25f81bb20a61fcd65135cd0292b2ac3"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/bCvurLnl/forbidden_arcanus-1.21.1-2.5.9.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.9.jar",
+          "primary": true,
+          "size": 3198463,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Q4QOLNEh",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.8-beta",
+      "version_number": "2.5.8-beta",
+      "changelog": "- The three Lost Soul variants have been split into different entities\n  - normal -> forbidden_arcanus:lost_soul\n  - corrupt -> forbidden_arcanus:corrupt_lost_soul\n  - enchanted -> forbidden_arcanus:enchanted_lost_soul\n- Lost Souls now always drop a Soul item, no matter how they got killed\n- Fixed Blacksmith Gavel tooltip\n- Fixed possible race condition during client loading\n- The Soulbound item modifier is now limited to armor and tool items\n- Fixed Edelwood Oil -> Black Dye recipe overwriting vanilla Ink Sac -> Black Dye recipe\n- Fixed a crash when using a Corrupt Arcane Crystal Obelisk in a Hephaestus Forge setup\n- Reinforced Deorum Blacksmith Gavel is now hidden from the creative tab\n- Fixed higher forge tiers missing the pickaxe mineable tag \n- The forbidden_arcanus:upgrade_tier ritual result type now requires a result_tier field ",
+      "changelog_url": null,
+      "date_published": "2024-10-26T13:57:48.473924Z",
+      "downloads": 200,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nCBZmeXd",
+          "hashes": {
+            "sha1": "31e724bd60b0f6369c3fabc1de36ac52e058e259",
+            "sha512": "0b40f96e94cdd797f78286e124695ebb9cfebfc80b49dfa2d201d4d6f90d09029bed79215a669c09beb497e1977e5fc658b52d34e28c95dbd404be57d10a7e40"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/Q4QOLNEh/forbidden_arcanus-1.21.1-2.5.8-beta.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.8-beta.jar",
+          "primary": true,
+          "size": 3232231,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vdycLbTW",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.6-beta",
+      "version_number": "2.5.6-beta",
+      "changelog": "- Added test_tube_blacklisted.json entity tag\n- Fixed loot modifiers not working\n- Changed Clibano Recipes to accept an item stack as result",
+      "changelog_url": null,
+      "date_published": "2024-10-08T17:31:37.256490Z",
+      "downloads": 316,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "genlJD4i",
+          "hashes": {
+            "sha1": "fde25b675ce4f9029bdb2452aa531f78eb566fc0",
+            "sha512": "f0a7c0b47db1a72d39082009bff7ba654fb9ee417564eb657a8d8e46b20ba72849975b7f608e2d9525c6b0e1b8fc5d0fa26c518b66aadd5601baef227510b807"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/vdycLbTW/forbidden_arcanus-1.21.1-2.5.6-beta.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.6-beta.jar",
+          "primary": true,
+          "size": 3234540,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qMQwlbF4",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.5-beta",
+      "version_number": "2.5.5-beta",
+      "changelog": "- Removed the chance that a Lost Soul spawns when killing an entity\n- Added new Soul Looting enchantment <br>\n-> Grants a 5% per level to spawn a Lost Soul when killing an entity\n- Lost Souls can now be damaged by normal swords\n- Fixed Edelwood Log smelting recipe being inverted\n- Fixed Enhancer Relics sometimes missing data\n- Added missing Netherite Blacksmith Gavel recipe\n- The Hephaestus Forge main slot now has a stack size limit of 1\n- Removed Dark Nether Star Block",
+      "changelog_url": null,
+      "date_published": "2024-09-29T13:28:37.315506Z",
+      "downloads": 324,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lRsoW7CV",
+          "hashes": {
+            "sha1": "efb21002731d1bb122e5d578c1d28707d99d8b35",
+            "sha512": "aeee04fe960ccb29defca81e59670e8ea3deb76dac3d6261a1649ce60e486dd9cf78995ec3edee5aad6c38dd901a24450842f2c7b35db12a60f6c98d6b598d25"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/qMQwlbF4/forbidden_arcanus-1.21.1-2.5.5-beta.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.5-beta.jar",
+          "primary": true,
+          "size": 3232842,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2DVcxlKS",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.4-beta",
+      "version_number": "2.5.4-beta",
+      "changelog": "- Added back some missing recipes\n- Fixed Hephaestus Forge tier tooltip being untranslated",
+      "changelog_url": null,
+      "date_published": "2024-09-21T19:42:22.260571Z",
+      "downloads": 287,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DId06gSC",
+          "hashes": {
+            "sha512": "5f1ac3f29f7eff90c6dc1f4726c34f9c20ae3f30882de016d902185b412b83e13385083b46d090ea7ac6f2a5ff11124a1888fbeb7746f8d86bc401c3ecab00e9",
+            "sha1": "d6f06edf1883c5c2112d23379ce5dee5ec2ce8fa"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/2DVcxlKS/forbidden_arcanus-1.21.1-2.5.4-beta.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.4-beta.jar",
+          "primary": true,
+          "size": 3237658,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Rh7AbMEY",
+      "project_id": "MdlnLS7Q",
+      "author_id": "fngavKwB",
+      "featured": false,
+      "name": "Forbidden and Arcanus  2.5.3-beta",
+      "version_number": "2.5.3-beta",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2024-09-03T17:20:42.540749Z",
+      "downloads": 257,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vljYf3C1",
+          "hashes": {
+            "sha512": "4a927e78853fb752cdbf229f64d8d128c53fa3e9e193e714cfea4aece28428c095121a0160c43019ea2d746a84cb7cd912aa8eb03daecd3ce3a2d1d4e9703ec9",
+            "sha1": "7192e909c860579867a59767db3346688ed4c9b0"
+          },
+          "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/Rh7AbMEY/forbidden_arcanus-1.21.1-2.5.3-beta.jar",
+          "filename": "forbidden_arcanus-1.21.1-2.5.3-beta.jar",
+          "primary": true,
+          "size": 3247250,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "HsdNFinx",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

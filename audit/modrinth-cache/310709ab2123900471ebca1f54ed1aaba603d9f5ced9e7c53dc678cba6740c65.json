@@ -1,0 +1,287 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Controlling&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:05.387215+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "xv94TkTM",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "controlling",
+        "author": "jaredlll08",
+        "author_id": "l45nT5ov",
+        "organization": null,
+        "organization_id": null,
+        "title": "Controlling",
+        "description": "Adds a search bar to the Key-Bindings menu",
+        "categories": [
+          "fabric",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.7.10",
+          "1.8.9",
+          "1.10.2",
+          "1.11.2",
+          "1.12",
+          "1.12.1",
+          "1.12.2",
+          "1.13",
+          "1.13.2",
+          "18w50a",
+          "1.14",
+          "1.14.1",
+          "1.14.2",
+          "1.14.3",
+          "1.14.4",
+          "19w41a",
+          "1.15",
+          "1.15.1",
+          "1.15.2",
+          "1.16-rc1",
+          "1.16",
+          "1.16.1",
+          "20w28a",
+          "20w30a",
+          "1.16.2",
+          "1.16.3",
+          "1.16.4",
+          "1.16.5",
+          "1.17-pre2",
+          "1.17",
+          "1.17.1",
+          "1.18",
+          "1.18.1",
+          "1.18.2",
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6",
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 40972097,
+        "follows": 2515,
+        "icon_url": "https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp",
+        "date_created": "2023-06-09T23:49:05.550472+00:00",
+        "date_modified": "2026-10-09T18:53:03.881436+00:00",
+        "latest_version": "k8C4cEvR",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 14935011
+      },
+      {
+        "project_id": "ZGa5w3jN",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "modern-controlling",
+        "author": "fdym",
+        "author_id": "VM47a9Fw",
+        "organization": null,
+        "organization_id": null,
+        "title": "Modern Controlling",
+        "description": "Modern Controlling is a mod to improve the control of vanilla.",
+        "categories": [
+          "forge",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "utility"
+        ],
+        "versions": [
+          "1.12.2"
+        ],
+        "downloads": 336,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/ZGa5w3jN/8878190c3727d3cba7a987613dec99fa2cfd1244.png",
+        "date_created": "2025-08-01T00:40:20.732226+00:00",
+        "date_modified": "2025-08-01T13:30:02.694171+00:00",
+        "latest_version": "CXnahKuK",
+        "license": "GPL-2.0-or-later",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/ZGa5w3jN/images/c267825c10e8c74d5376028e734569255affbe76_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/ZGa5w3jN/images/2042a0c37b535beaed36ce65eebf4a6fd6abcacc_350.webp",
+        "color": 263415
+      },
+      {
+        "project_id": "cedIkOOH",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "modern-controlling-core",
+        "author": "fdym",
+        "author_id": "VM47a9Fw",
+        "organization": null,
+        "organization_id": null,
+        "title": "Modern Controlling Core",
+        "description": "This mod ONLY includes the Core module of Modern Controlling.",
+        "categories": [
+          "forge",
+          "library",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "library",
+          "utility"
+        ],
+        "versions": [
+          "1.12.2"
+        ],
+        "downloads": 223,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/cedIkOOH/8878190c3727d3cba7a987613dec99fa2cfd1244.png",
+        "date_created": "2025-08-01T00:37:48.619293+00:00",
+        "date_modified": "2025-08-01T03:06:52.057873+00:00",
+        "latest_version": "ydZRCMQW",
+        "license": "GPL-2.0-or-later",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 263415
+      },
+      {
+        "project_id": "QykXWcAu",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "modern-controlling-keybind",
+        "author": "fdym",
+        "author_id": "VM47a9Fw",
+        "organization": null,
+        "organization_id": null,
+        "title": "Modern Controlling Keybind",
+        "description": "This mod ONLY includes the Keybind module of Modern Controlling.",
+        "categories": [
+          "forge",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "utility"
+        ],
+        "versions": [
+          "1.12.2"
+        ],
+        "downloads": 213,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/QykXWcAu/8878190c3727d3cba7a987613dec99fa2cfd1244.png",
+        "date_created": "2025-08-01T00:38:33.263030+00:00",
+        "date_modified": "2025-08-01T13:32:38.088297+00:00",
+        "latest_version": "dCWIkcnb",
+        "license": "GPL-2.0-or-later",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 263415
+      },
+      {
+        "project_id": "Oz13pPTq",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "modern-controlling-toolkit",
+        "author": "fdym",
+        "author_id": "VM47a9Fw",
+        "organization": null,
+        "organization_id": null,
+        "title": "Modern Controlling Toolkit",
+        "description": "This mod ONLY includes the Toolkit module of Modern Controlling.",
+        "categories": [
+          "forge",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "utility"
+        ],
+        "versions": [
+          "1.12.2"
+        ],
+        "downloads": 151,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/Oz13pPTq/8878190c3727d3cba7a987613dec99fa2cfd1244.png",
+        "date_created": "2025-08-01T00:43:38.132671+00:00",
+        "date_modified": "2025-08-01T03:16:18.468570+00:00",
+        "latest_version": "TeBd1e4B",
+        "license": "GPL-2.0-or-later",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 263415
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 21
+  }
+}

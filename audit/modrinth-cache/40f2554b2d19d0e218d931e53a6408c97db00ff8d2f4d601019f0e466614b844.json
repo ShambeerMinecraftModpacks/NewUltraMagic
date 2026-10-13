@@ -1,0 +1,2202 @@
+{
+  "url": "https://api.modrinth.com/v2/project/46KJle7n/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:29.864001+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "PsPYpoCC",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.33",
+      "version_number": "3.33",
+      "changelog": "Fixed an issue where the license did not match the versions on CurseForge, Modrinth, and 1.20.1\nupdate uk_ua",
+      "changelog_url": null,
+      "date_published": "2026-09-20T13:46:34.684045Z",
+      "downloads": 70280,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yeZBERjD",
+          "hashes": {
+            "sha512": "289f6e8364a6e432f34803a47cff8381899a1df0fdc675170323b43fd1c09579b1320d8b4e0de5df65c609b738d450c13c89e240d6d79f607888da26b7724947",
+            "sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/PsPYpoCC/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.33.jar",
+          "primary": true,
+          "size": 73375667,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "695vQRhD",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.32",
+      "version_number": "3.32",
+      "changelog": "Fixed Flow And bolt Trims",
+      "changelog_url": null,
+      "date_published": "2026-07-03T15:53:39.608855Z",
+      "downloads": 248653,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qq7RBA4a",
+          "hashes": {
+            "sha1": "f16c6bf69232ebdf85cc861450a8dd5def310e5b",
+            "sha512": "0b34f16b499362e7bb00def8bcbb58eeab89f4d5aabbd124b18edf6e9734071a48ac041aca5ddf2eda53af11f6700fd3690f07af218bd16ce1312f5d13f64543"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/695vQRhD/L_Ender%27s%20Cataclysm%201.21.1-3.32.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.32.jar",
+          "primary": true,
+          "size": 73362730,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bC6QOYxp",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.31-optimaztion2",
+      "version_number": "3.31-optimaztion2",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-06-30T10:19:39.117364Z",
+      "downloads": 24264,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "W11eXxdO",
+          "hashes": {
+            "sha1": "83db2c85b8b7eca901e164cd229c455ae2dc778b",
+            "sha512": "0799267cc42dae45abfee3713abb76c275de63fdb266aee41e375755b3d4345bf09fffa7df20eedaf89bdcc526e9472928c26492d78c4895d201d220b455de80"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/bC6QOYxp/L_Ender%27s%20Cataclysm%201.21.1-3.31-optimaztion2.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.31-optimaztion2.jar",
+          "primary": true,
+          "size": 73362723,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "axOt8N57",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.31-optimaztion",
+      "version_number": "3.31-optimaztion",
+      "changelog": "Scylla,clawdian,cindaria,hippocamtus,urchinkin,draugr,maledictus,royal draugr,elite draugr,aprtgangr's Model Optimaztion",
+      "changelog_url": null,
+      "date_published": "2026-06-28T15:11:30.474529Z",
+      "downloads": 35444,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3AxykjgY",
+          "hashes": {
+            "sha1": "5ef8be43aef62907277aaec01f96587cc382b279",
+            "sha512": "1f3e89794372f81ccc7c6f3b62354b79813ae412cf8bc9f2084760f60758d84f19d7da702d4f5a9707ca457a16be1e0f358e9204fe6241ec036e0239507893ae"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/axOt8N57/L_Ender%27s%20Cataclysm%201.21.1-3.31-optimaztion.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.31-optimaztion.jar",
+          "primary": true,
+          "size": 73355331,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uvjXrHuz",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.31",
+      "version_number": "3.31",
+      "changelog": "Fixed an issue where the tombstone's direction was fixed when Maledictus died.\nFixed Wadjet Aggro\nFixed Urchinkin navigator\nRetextured Lacrima",
+      "changelog_url": null,
+      "date_published": "2026-06-14T07:44:46.686234Z",
+      "downloads": 70796,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OryHAMnp",
+          "hashes": {
+            "sha1": "0bbc8a16e061c8d186186f387f0f159f4c13bf63",
+            "sha512": "609cc017f4c2050c263f2bc0574902a233997e60e84a5a1376e7299a169bb86102011351ef79536762711abe9eecde69ce764c9d0eb9c9a84845e3da09919397"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/uvjXrHuz/L_Ender%27s%20Cataclysm%201.21.1-3.31.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.31.jar",
+          "primary": true,
+          "size": 73346531,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ulbHcO9y",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.30",
+      "version_number": "3.30",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-06-10T14:21:52.827568Z",
+      "downloads": 18565,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GI5GVxwg",
+          "hashes": {
+            "sha512": "2eea8e52e4012b94b36897e99af1c8f3ab2f4812f1775f6a76345ea67fb00825c8752f0bad75b0a895e83b20a94faf99b99d80b44317776133de9e0970e3bc66",
+            "sha1": "89f53ac8b3286fb14dd5747cf4fb834267490bf8"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/ulbHcO9y/L_Ender%27s%20Cataclysm%201.21.1-3.30.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.30.jar",
+          "primary": true,
+          "size": 73346293,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RM2acghH",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.27",
+      "version_number": "3.27",
+      "changelog": "Fixed Deepling brute spawn weight\nFixed Monstros helm was not unbreakable\nFixed N.M's lava bomb Magazine Base Config setting\nFixed Ignis Abyss Fire ball",
+      "changelog_url": null,
+      "date_published": "2026-04-11T04:44:45.740705Z",
+      "downloads": 239356,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7SSWY0wm",
+          "hashes": {
+            "sha512": "dfc01042f30e3960e1a7db5d45b75971861b7c9a59a21f180ef6f7adc977004811b0c2e4c0ec2b492812ecaec00f7cb2ed3779ae9acf98c40d02e6f844bf1008",
+            "sha1": "f34a5e3994fff1953c631b87b3dfa89ed62c26dc"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/RM2acghH/L_Ender%27s%20Cataclysm%201.21.1-3.27.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.27.jar",
+          "primary": true,
+          "size": 73346519,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yMCpCCrA",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.26",
+      "version_number": "3.26",
+      "changelog": "fixed Ignis and leviatahn's death cause crash",
+      "changelog_url": null,
+      "date_published": "2026-03-31T06:17:40.191703Z",
+      "downloads": 35963,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hqvY7a3j",
+          "hashes": {
+            "sha512": "3435c14aa121aafe869aa0830a8f1f63f6d027ed3aede8e196aecb5cf58c72d8d4cb8b5a5cfef63a7e894e0f62761bf9b6d04754dfdb871391951b590bedc306",
+            "sha1": "5fff47ae29af42aa2a7e0d91e0d70dbb1c722061"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/yMCpCCrA/L_Ender%27s%20Cataclysm%201.21.1-3.26.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.26.jar",
+          "primary": true,
+          "size": 73346508,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "VSTFI2yO",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.25",
+      "version_number": "3.25",
+      "changelog": "Updated Lang\nFixed Dps Cap",
+      "changelog_url": null,
+      "date_published": "2026-03-27T08:58:36.127450Z",
+      "downloads": 12136,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6W7NLV7X",
+          "hashes": {
+            "sha1": "39dc0c76e77131fe62844e70ec9bf563581a7f74",
+            "sha512": "d424e5f17189777dff9f9fad188075d132ccaa0f514b63b66a637f334a37984b79fa034876e0c50b11e1053fb7b7406b9e2db13613258b89f54147181187aaad"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/VSTFI2yO/L_Ender%27s%20Cataclysm%201.21.1-3.25.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.25.jar",
+          "primary": true,
+          "size": 73346444,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "d63cScc1",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.24",
+      "version_number": "3.24",
+      "changelog": "Fixed Tidal claw\nRoll back the curse of desert",
+      "changelog_url": null,
+      "date_published": "2026-02-28T17:29:13.253585Z",
+      "downloads": 82540,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TNcj3qIK",
+          "hashes": {
+            "sha512": "c9a1a40de9845f881cbb746b81edd0ffdfc97335d7525a0b2cb4e6c9702d9decf17ee983d30d26c12e54b327ef40ba97a5812a4e1334bae10acc02a916ce0ada",
+            "sha1": "2327d83dc75854ae1637277c74449f5d294a8c89"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/d63cScc1/L_Ender%27s%20Cataclysm%201.21.1-3.24.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.24.jar",
+          "primary": true,
+          "size": 73344832,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1",
+        "1.21.5"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZvFa0rJG",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.23",
+      "version_number": "3.23",
+      "changelog": "Fixed Sunken City",
+      "changelog_url": null,
+      "date_published": "2026-02-05T09:49:55.749186Z",
+      "downloads": 171858,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1zBFqwDg",
+          "hashes": {
+            "sha512": "96adcffb5a73e3aa4b5ab211e29f8ddc126ea026ea6da17d34a8f96806e8a5eaf70db30b81f0855dc985500b07f6963e328b8f053bd49348efd0ceca71de2db9",
+            "sha1": "0e466f358fd5e3fecd03c7976422040f0982d071"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/ZvFa0rJG/L_Ender%27s%20Cataclysm%201.21.1-3.23.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.23.jar",
+          "primary": true,
+          "size": 73344852,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZOA4oOW9",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.22",
+      "version_number": "3.22",
+      "changelog": "Fixed Config and Attributes\nNow wadjet and kobolediator will fully recover health when they wake up.",
+      "changelog_url": null,
+      "date_published": "2026-02-01T13:24:59.582731Z",
+      "downloads": 11656,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZHjxaWyx",
+          "hashes": {
+            "sha512": "888d2d999cc323f52ebac417d7e89461a0c0d7b3023de158e11ef2b443fdfc19f1e000d05519659d4ba9c2f5c0234b5c55946b263ac9555869e6390d8de8faa1",
+            "sha1": "89d87fe77c3ce18d773740fe6ba106a287a008db"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/ZOA4oOW9/L_Ender%27s%20Cataclysm%201.21.1-3.22.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.22.jar",
+          "primary": true,
+          "size": 73345885,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2sYwGFQJ",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.21",
+      "version_number": "3.21",
+      "changelog": "Added Brontes and Ancient Spear's config option\nUpdated Lang File\nFixed Clawdian's Charge\nNow Brontes and Ceraunus can be blocked by shields.\nChanged Ceraunus,immorator,Annhilator Critical sound",
+      "changelog_url": null,
+      "date_published": "2026-01-31T17:36:25.665031Z",
+      "downloads": 8615,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kjXk8U85",
+          "hashes": {
+            "sha1": "28618ca139a4d06fc9ddfddce8e1daced9008ed6",
+            "sha512": "e22190d729c9add88d83f2277eb0949ee5b2552317afb4b49333b7a6b399620fe7056901005ff6cb636dcbfeacb219d2db37edea0f96b6c2b1df6a97f75ffcae"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/2sYwGFQJ/L_Ender%27s%20Cataclysm%201.21.1-3.21.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.21.jar",
+          "primary": true,
+          "size": 73343585,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "toLYjYPC",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.20",
+      "version_number": "3.20",
+      "changelog": "Fixed Scylla's Lightning Damage\nUpdated Lang",
+      "changelog_url": null,
+      "date_published": "2026-01-31T09:13:13.374186Z",
+      "downloads": 2545,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bTg1gLiX",
+          "hashes": {
+            "sha512": "8a9a6aec7a5ebbfd9d65bfbc98a0724f940b84b19dc54014a7422a5027a5a8b071dc6d99cfdd00b7d54bed2a26b29ab082f5c19261e947d7164bcb4d1340be9d",
+            "sha1": "114b9ef9a3f4c58255e144826b43a99fb890752d"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/toLYjYPC/L_Ender%27s%20Cataclysm%201.21.1-3.20.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.20.jar",
+          "primary": true,
+          "size": 73337961,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "faFsTDt4",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.19",
+      "version_number": "3.19",
+      "changelog": "Fixed Damage Tag",
+      "changelog_url": null,
+      "date_published": "2026-01-30T14:19:54.399934Z",
+      "downloads": 3346,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MzpKS6Qv",
+          "hashes": {
+            "sha1": "6bdb4b51f240a99d06e6fb755a884dd51b405a0b",
+            "sha512": "0abc66c0a34149cedb58c6042b26b76b770b2a24f91f9b938dcd151807e41e1f9f3deaa4b66458a6321a42245b9af7175eb4383b38c9c88a215e0d6683f737fe"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/faFsTDt4/L_Ender%27s%20Cataclysm%201.21.1-3.19.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.19.jar",
+          "primary": true,
+          "size": 73336592,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BawJI0Li",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.18",
+      "version_number": "3.18",
+      "changelog": "Fixed Talisman slot\nUpdated Lang",
+      "changelog_url": null,
+      "date_published": "2026-01-30T14:03:03.507903Z",
+      "downloads": 517,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rl9b87nO",
+          "hashes": {
+            "sha512": "4cb3ce7615d8a47814b094597713035501868cc1c2bafb822224a1c70bda675b2b08d950e83fdf2300685e7c5303c1825395b7586c70716130ff65bd0e5e0528",
+            "sha1": "7ade00b518b724b3c03b5ed2bd4d79352f5048dc"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/BawJI0Li/L_Ender%27s%20Cataclysm%201.21.1-3.18.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.18.jar",
+          "primary": true,
+          "size": 73336774,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "gC2ndQyl",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.17",
+      "version_number": "3.17",
+      "changelog": "Added New Items and Structures\n\nImproved Config \n\n",
+      "changelog_url": null,
+      "date_published": "2026-01-30T10:24:17.630815Z",
+      "downloads": 1603,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6FHIoQTs",
+          "hashes": {
+            "sha512": "e4d2828cce4f4a0db18babe99608b49a2cbcc5ca8617662f5f42afc53bd4813e47480b39304beaee029b0e95d22882f5557fcbf8729cd052d5f8d0934faa5546",
+            "sha1": "2519f9fe2aac26139532e04870f5cf448258c9eb"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/gC2ndQyl/L_Ender%27s%20Cataclysm%201.21.1-3.17.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.17.jar",
+          "primary": true,
+          "size": 73325296,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "FSm3cpWc",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.16",
+      "version_number": "3.16",
+      "changelog": "Changed Tidal Claw's Chain Code\n\nFixed Water spear not despawning",
+      "changelog_url": null,
+      "date_published": "2025-08-20T10:32:04.547087Z",
+      "downloads": 428797,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "n9ejg480",
+          "hashes": {
+            "sha512": "0289605e6e1c6e276eb58e160994b63155e049ec57dc672779d4630858f4d35c80254f11ef16ccf9cc7d18f70db19a2214e87c702933958fa275bc023c02bf4d",
+            "sha1": "33dabb2e3ee9dd2490559e53893d1f1451194160"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/FSm3cpWc/L_Ender%27s%20Cataclysm%201.21.1-3.16.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.16.jar",
+          "primary": true,
+          "size": 138071302,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wdUO0pSd",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.15",
+      "version_number": "3.15",
+      "changelog": "Fixed harbinger jet\nFixed Boss Respawner",
+      "changelog_url": null,
+      "date_published": "2025-08-05T00:24:24.792007Z",
+      "downloads": 23303,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "r0NnZCIh",
+          "hashes": {
+            "sha1": "1e3aa3013d161372fa29e2d18998a36f1431bb67",
+            "sha512": "a868231411cd01b4ade57dfa75ed069dd18c6affeb5c4e49ee9d3d2367e7b9d9867e35334462b3cf627e45e229f415667f52bc19f37eb360eccba9b82a9996df"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/wdUO0pSd/L_Ender%27s%20Cataclysm%201.21.1-3.15.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.15.jar",
+          "primary": true,
+          "size": 138070031,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6UGOayKg",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.14",
+      "version_number": "3.14",
+      "changelog": "Fixed Altar of Void\n\nFixed Ring Particle",
+      "changelog_url": null,
+      "date_published": "2025-08-04T12:32:49.544352Z",
+      "downloads": 1151,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kEKevgel",
+          "hashes": {
+            "sha1": "f6ba0796b40d77251bd007003762118e9ee45e74",
+            "sha512": "c483834ead2b1f538d12b538dc79f24c3c44be054203954329a5b63ee11f5c9f26b85adf45eea25bf5aadca59eb4a4089e96e4defc02210f4ccb1cc04053064a"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/6UGOayKg/L_Ender%27s%20Cataclysm%201.21.1-3.14.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.14.jar",
+          "primary": true,
+          "size": 138069831,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "pHd10MSn",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.14",
+      "version_number": "3.14",
+      "changelog": "Fixed Altar of Void\n\nFixed Ring Particle",
+      "changelog_url": null,
+      "date_published": "2025-08-04T12:31:51.898320Z",
+      "downloads": 176,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "26PIGwKj",
+          "hashes": {
+            "sha512": "c483834ead2b1f538d12b538dc79f24c3c44be054203954329a5b63ee11f5c9f26b85adf45eea25bf5aadca59eb4a4089e96e4defc02210f4ccb1cc04053064a",
+            "sha1": "f6ba0796b40d77251bd007003762118e9ee45e74"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/pHd10MSn/L_Ender%27s%20Cataclysm%201.21.1-3.14.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.14.jar",
+          "primary": true,
+          "size": 138069831,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SCztAWEg",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.12",
+      "version_number": "3.12",
+      "changelog": "Changed Cataclyms Skull Block Code\nNow wave extinguish the entity's fire.\nBosses now remember the dimension they were spawn in, and when they move between dimensions, they teleport back to their original dimension(Test Setting)\nNow ceraunus makes sounds when hitting entities\nPerhaps the Ender Guardians will now only destroy blocks in phase 2 if they are summoned from the altar.",
+      "changelog_url": null,
+      "date_published": "2025-08-04T08:01:15.736244Z",
+      "downloads": 556,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Dex22iN2",
+          "hashes": {
+            "sha512": "9691c2db61a263eab7103a887faf297e17e43029a7a7e6ff2a70af43c668e2acb43b9e1066d8bcac5b84619c89fbec53436ce3dcfebdd005be6c2376d1983209",
+            "sha1": "c121a37004fdf9ab6256e91b96761c099ed70bfc"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/SCztAWEg/L_Ender%27s%20Cataclysm%201.21.1-3.12.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.12.jar",
+          "primary": true,
+          "size": 138069814,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "q4S0G33N",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.11",
+      "version_number": "3.11",
+      "changelog": "Changed Music\n\n\ncredit:https://www.youtube.com/@KatIsDumbbb",
+      "changelog_url": null,
+      "date_published": "2025-07-31T14:54:51.521228Z",
+      "downloads": 6624,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "w893SX7z",
+          "hashes": {
+            "sha1": "8bbdcb45e3136bc598933f64bd9487db09a2ae08",
+            "sha512": "8c3d201d457e2914458fdef3812bd994b5de8ff018b03533b2d85e2c2175306ab817baa7eb48deaabf933a31bad2034bdade69338cf20a41550c26046defeff6"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/q4S0G33N/L_Ender%27s%20Cataclysm%201.21.1-3.11.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.11.jar",
+          "primary": true,
+          "size": 138074116,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8tZK6jS2",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.10",
+      "version_number": "3.10",
+      "changelog": "Changed Harbinger's Jetpack Flame\nChanged Astrape Model\nUpdated Mod Head \nFixed Door of Seal \nRemoved Door of Seal part block",
+      "changelog_url": null,
+      "date_published": "2025-07-27T21:59:24.446900Z",
+      "downloads": 28643,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VwDTRixh",
+          "hashes": {
+            "sha512": "b7a1c0ec9cf3bf5f6f5fba60fb348100256af1995b3137d883ad474c4d0b4f3f75cfebd35deba8e2cb45a0edf76413bf6cf67cb59e05ad6c10ec94f70ae183ae",
+            "sha1": "fc746ced04185b4c67fa2fad51f7455e5928f43c"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/8tZK6jS2/L_Ender%27s%20Cataclysm%201.21.1-3.10.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.10.jar",
+          "primary": true,
+          "size": 103360079,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "NVhE2AGf",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.09",
+      "version_number": "3.09",
+      "changelog": "Rollback Maledictus,cindaria Renderer\nNow Scylla can change the weather when she changes phase.\nAdded Boss Respawner Config\nAdded EarthQuake Particle",
+      "changelog_url": null,
+      "date_published": "2025-07-20T11:30:47.392919Z",
+      "downloads": 30207,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pKvoMtr2",
+          "hashes": {
+            "sha1": "d4065624020d039b88a7a73e087aa554bbf347a7",
+            "sha512": "606d54845e487b8555171a86b38cb6ffa77acdc1b90d8333e4e5b2ae646ae0f795b1c1d3254943c24f40c2e1301b4bce27939ae5caaea95928c8ecb020844349"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/NVhE2AGf/L_Ender%27s%20Cataclysm%201.21.1-3.09.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.09.jar",
+          "primary": true,
+          "size": 103352225,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1KJmGnTp",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.08",
+      "version_number": "3.08",
+      "changelog": "Changed Cindaria,Maledictus renderer(For shader compat)\nRemoved Tidal tentacle's doPostAttackEffects code\nFixed Goddess Statue rendering\nFixed Altars can spawn many bosses\nFixed Ceraunus's Death message",
+      "changelog_url": null,
+      "date_published": "2025-07-14T19:43:41.188970Z",
+      "downloads": 8351,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bwj7T52u",
+          "hashes": {
+            "sha512": "5b85c7b31191f68ba0ad5225cf45f3baf08edbb17a90127aad9be39d14ba68be56db887c39b8deeb2c11ccb3ec8778bb4a5097486389f2518e7c4dd2671475a9",
+            "sha1": "090bcc3ddca0f7ae38ad107fb8251e0fbc3234c5"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/1KJmGnTp/L_Ender%27s%20Cataclysm%201.21.1-3.08.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.08.jar",
+          "primary": true,
+          "size": 103345317,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SMYzptWz",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.07",
+      "version_number": "3.07",
+      "changelog": "Fixed dragon immune tag\nChanged Stereo sound to mono sound",
+      "changelog_url": null,
+      "date_published": "2025-07-04T14:26:14.069839Z",
+      "downloads": 23515,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IUTIVswz",
+          "hashes": {
+            "sha1": "00ad1700e2e62ce263bd8c515c59a827278db66f",
+            "sha512": "b0c1632f89ae5c543a20efb84226466d6accb9381c1a894c754d334095536acd66cab7005fa3613e8b07a81cb6f0dc2cc4ff77592c6cc8d21e66d30b293fa81f"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/SMYzptWz/L_Ender%27s%20Cataclysm%201.21.1-3.07.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.07.jar",
+          "primary": true,
+          "size": 103331330,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GK9xmAMF",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.06",
+      "version_number": "3.06",
+      "changelog": "Fixed a bug where certain entities (e.g., Void Runes) would attack tamed pets.\n\nFixed a bug where the Ender Guardian's eye was incorrectly detecting the Burning Arena.\n\nUpdated textures for several blocks.\n\nFixed an issue where Astrafe's config settings were not being applied.\n\nImplemented Better Combat compatibility for Astrafe and Ceraunus.\n\nFixed a bug where newly added slabs would break when in the upper half placement.",
+      "changelog_url": null,
+      "date_published": "2025-07-02T13:10:35.345720Z",
+      "downloads": 2851,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9LSbpw06",
+          "hashes": {
+            "sha512": "b088e1fdec6740e97b1b1c2055258a29f2a298a6a9ff93401d56839f3af8e7a7915ccfa7f6298f4a5328898e20520692721c6943ecc54274d3d86973fff819cb",
+            "sha1": "09f6d2ccc2d2efe4a3e6939655ac5a86a4f35184"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/GK9xmAMF/L_Ender%27s%20Cataclysm%201.21.1-3.06.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.06.jar",
+          "primary": true,
+          "size": 104790102,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tKooaz1a",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.05",
+      "version_number": "3.05",
+      "changelog": "Added New Blocks\nUpdated Ancient desert steel,FlameStrike and Ignis's Fireball visual\nNerfed Scylla's chain anchor smash cooldown\nFixed Acropolis\nDecreased Urchinkins spawning\nIncreased Hippocamtus and cindaria spawning\nAdded Many block recipe\nChanged Astrape using model\nNow wave knockback increases or decreases based on the target's hitbox size, using the player's size as the baseline. (Player knockback remains unchanged)",
+      "changelog_url": null,
+      "date_published": "2025-06-29T19:39:26.968593Z",
+      "downloads": 7381,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "u6Lfru6G",
+          "hashes": {
+            "sha512": "fff66fe55645b2e82aafe10304fd355375a3611a7154402332f8254cff88a1815cf9f4429b87f095c3a8afcf7596bab113f3abb6ad84468e8e3e0de5c4262f4b",
+            "sha1": "d34c35a8b452236ff772263e52a862cfe7558081"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/tKooaz1a/L_Ender%27s%20Cataclysm%201.21.1-3.05.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.05.jar",
+          "primary": true,
+          "size": 104789296,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "TAsjHFu7",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.04",
+      "version_number": "3.04",
+      "changelog": "Added Blocks\nUpdated pt_br",
+      "changelog_url": null,
+      "date_published": "2025-06-23T14:59:57.471976Z",
+      "downloads": 16843,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UABm3oq6",
+          "hashes": {
+            "sha512": "f5bde2eaecf1d9489650ab4bbce89c2afb03602ce927b46cf7c35b27b396b57c6e59d0e393b564dc474d659512fa2d80dd7203904a160a83b7e84eb212e82363",
+            "sha1": "29230de1bfd76fbfdd5600fee839bac8df1e8632"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/TAsjHFu7/L_Ender%27s%20Cataclysm%201.21.1-3.04.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.04.jar",
+          "primary": true,
+          "size": 104723508,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wJ5tQ2CK",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.03",
+      "version_number": "3.03",
+      "changelog": "Fixed Structures\nUpdated pt_br,zh_tw\nFixed Cindaria loot tables\nFixed tags\nFixed symbiocto riding postion",
+      "changelog_url": null,
+      "date_published": "2025-06-22T06:34:30.617798Z",
+      "downloads": 1980,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Dm0nsVPc",
+          "hashes": {
+            "sha512": "0572a04f15a136ee29897e548af5dec7372f4841829b348cb7c3a606f837b44f8eba4392967bde92e3b2d71107b7a58c6aa12e5b293c87325c4f7feb62824e2c",
+            "sha1": "61354aabd12640bbb1e2c028512ef1739be4596c"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/wJ5tQ2CK/L_Ender%27s%20Cataclysm%201.21.1-3.03.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.03.jar",
+          "primary": true,
+          "size": 104714482,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ub347xvo",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.02",
+      "version_number": "3.02",
+      "changelog": "Updated zh_cn,zh_tw,ja_jp,es_es\ndeincreased Scylla's long range limit 12 to 10\nIncreased Scylla's parry frequency\nNow can break the Goddess Statue\nAdded Clawdian destroy immune tag\nFixed forced viewpoint change applies to all players",
+      "changelog_url": null,
+      "date_published": "2025-06-21T12:25:53.155284Z",
+      "downloads": 1515,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9Lutr0pg",
+          "hashes": {
+            "sha1": "c1e400b16714fc5134eca4c54c2c52f87fae7ea1",
+            "sha512": "b6912c6f356442676e02db7df6ed03d3eab4432cb7cb71318196022c21973484b760894a73636519efac663781972fa99c2255fe12d2e1dc20850141ecd2e8c4"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/ub347xvo/L_Ender%27s%20Cataclysm%201.21.1-3.02.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.02.jar",
+          "primary": true,
+          "size": 104715760,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "OjBI9Ox1",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.01",
+      "version_number": "3.01",
+      "changelog": "Fixed Azure seastone mural recipe\nUpdated KR,RU,JP\nFixed Scylla not drop disc\nFixed Structure",
+      "changelog_url": null,
+      "date_published": "2025-06-20T13:00:42.706026Z",
+      "downloads": 1782,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JyBlUrH3",
+          "hashes": {
+            "sha1": "193e8d70fe313a132c8bed22764a01c4e0d03bcc",
+            "sha512": "5a93b76e7542f97abdde1e1dc9203949b5576034bbc5eb99b85ea14344b25b0364c1b5a08e6d524c20c1ea7bb321962fe58576551b2bc2860e3392d076331397"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/OjBI9Ox1/L_Ender%27s%20Cataclysm%201.21.1-3.01.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.01.jar",
+          "primary": true,
+          "size": 104708331,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qZr3iKik",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 3.00-1.21.1",
+      "version_number": "3.00",
+      "changelog": "Added Scylla Contents\nMANY Added And Fixed Things\n(data tag,N.M into lava,boss Respawner)\nRemoved Tidal claw's entity pulling\n",
+      "changelog_url": null,
+      "date_published": "2025-06-20T01:33:27.880660Z",
+      "downloads": 1429,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FY4YzMzN",
+          "hashes": {
+            "sha1": "7042602e98cc32753899ccc39a2194449205ef9a",
+            "sha512": "aa6f15ff35131794863d1ed2e345ce637710970672923d14bed37145dabf41ff16e6fedbf971187037cf63af6ea51f498d6c62eba585f00c6d99acbca0475b03"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/qZr3iKik/L_Ender%27s%20Cataclysm%201.21.1-3.00.jar",
+          "filename": "L_Ender's Cataclysm 1.21.1-3.00.jar",
+          "primary": true,
+          "size": 104703057,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5Jdv2V6q",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.66-1.21.1",
+      "version_number": "2.66-1.21.1",
+      "changelog": "Changed custom renderer to be based on vanilla code.",
+      "changelog_url": null,
+      "date_published": "2025-05-06T08:04:07.702331Z",
+      "downloads": 309210,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "quy7GgnN",
+          "hashes": {
+            "sha512": "f456f00cae10ac122ea5a3ed12df91573dbe9b127c409ec69b398162e3b4fba696e7234a66328c7cbf521350470129d168ea2a5eaa5fc2f9a848d1aa38d7b4cf",
+            "sha1": "16f54b40c18eafaf1d2f371df577ae55dd0f4898"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/5Jdv2V6q/L_Ender%27s%20Cataclysm-2.66-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.66-1.21.1.jar",
+          "primary": true,
+          "size": 72189421,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "F7PnB5dO",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.65-1.21.1",
+      "version_number": "2.65-1.21.1",
+      "changelog": "Fixed Poison Dart and Tidal claw's getPickupItem",
+      "changelog_url": null,
+      "date_published": "2025-04-16T15:27:59.619358Z",
+      "downloads": 55540,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rPTtRKIR",
+          "hashes": {
+            "sha512": "f0fa32c90fc8b61872565a1516ef9a921c6a0ed33a2eb87c99d8aef25af256aad7cef3b22353e755df21b0cd25cb12eefec6fe748703f0c27bdc7ca124e40389",
+            "sha1": "249397d1b54394c47456775009f656279bad67b6"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/F7PnB5dO/L_Ender%27s%20Cataclysm-2.65-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.65-1.21.1.jar",
+          "primary": true,
+          "size": 72189791,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Rjm5si1z",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.64-1.21.1",
+      "version_number": "2.64-1.21.1",
+      "changelog": "Changed Aggro Goal\nFixed Coral Bardiche\nFixed Boss music player",
+      "changelog_url": null,
+      "date_published": "2025-04-13T14:55:50.161739Z",
+      "downloads": 4663,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lGcxHmrw",
+          "hashes": {
+            "sha1": "fed9db5f0250e857879603bf6792d7814320e9ee",
+            "sha512": "8eba73c517beee892ebaa7c850f3c48ef276a3c6d3b88831ea0e0224bd2bfda34cbf556dd348467f939bb9e219bb5e77f99df6ce636e7c96db7f3963649256c9"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/Rjm5si1z/L_Ender%27s%20Cataclysm-2.64-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.64-1.21.1.jar",
+          "primary": true,
+          "size": 72189791,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uWtRXlbj",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.63-1.21.1",
+      "version_number": "2.63-1.21.1",
+      "changelog": "Fixed Amethyst Altar\nBuffed Bosses's Nature Healing",
+      "changelog_url": null,
+      "date_published": "2025-03-31T09:20:01.910668Z",
+      "downloads": 26488,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OMyfdTJc",
+          "hashes": {
+            "sha512": "6b47fa656f9ad639a118b4bcc8b08063660f14214f176cb49e865f9d7034342abb4015d2c63cde1468dc782a0fb8ea04b326d666d8bbe9c30a95c67b6a39f9ea",
+            "sha1": "299a2968576b7fa335ec3f72a47eafc9410e349b"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/uWtRXlbj/L_Ender%27s%20Cataclysm-2.63-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.63-1.21.1.jar",
+          "primary": true,
+          "size": 72187699,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "fpJqEGqD",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.60-1.21.1",
+      "version_number": "2.60-1.21.1",
+      "changelog": "More Trail optimization",
+      "changelog_url": null,
+      "date_published": "2025-03-18T12:38:21.276244Z",
+      "downloads": 9060,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kzHPKmxi",
+          "hashes": {
+            "sha512": "b0f24812ac6bdacbff3cc4761ca6609a59c0056591df4f1d21b7b910e36dbdaf3c85b5722d85f2b39ce5526d709e2fdc8920a31ef0772ecce8edeaddcacc1a4a",
+            "sha1": "3f44442949b6dd804e90bdc894a5a079fe8a40d9"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/fpJqEGqD/L_Ender%27s%20Cataclysm-2.60-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.60-1.21.1.jar",
+          "primary": true,
+          "size": 72188596,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "LljnD0U0",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.59-1.21.1",
+      "version_number": "2.59-1.21.1",
+      "changelog": "Trail Particle optimization\n\nNow Bosses Change Targets at regular intervals\n\nChanged Projectile's code for addon",
+      "changelog_url": null,
+      "date_published": "2025-03-18T12:18:15.783078Z",
+      "downloads": 128,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XSLDXb50",
+          "hashes": {
+            "sha1": "47ac332a7e360c71137e6d1360332791190da880",
+            "sha512": "c44e58fe73e05320b47e9e9da93edc113b0355a69fdb863f228da653ed40d0ab1b944c859441fbf3b04b0839aaae3d5d97186f1a8aeac0c203c5f35283c628f4"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/LljnD0U0/L_Ender%27s%20Cataclysm-2.59-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.59-1.21.1.jar",
+          "primary": true,
+          "size": 72189018,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "o84MERiP",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.58-1.21.1",
+      "version_number": "2.58-1.21.1",
+      "changelog": "N.M's Lava Bombs now have a limited duration (default: 350 to 500 ticks).\nWhen a Lava Bomb expires or disappears for any reason, it will now remove the lava it placed.\nLava Bombs will now place lava on top when exploding on slabs, existing lava, etc.\nN.M now enters Phase 2 when its health drops below 40%.\nMaledictus's grab and rush hitboxes have been made more accurate.",
+      "changelog_url": null,
+      "date_published": "2025-03-06T06:00:38.955435Z",
+      "downloads": 27468,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FmKASP4Z",
+          "hashes": {
+            "sha1": "84ceb3e4c833dd50d9bc01f476d5e5590a983948",
+            "sha512": "86c5114905972ec2768be30b0dafc4d8a33651c579e9aa954a75ffa13e5f0ac7adb1cc3fe95639c821b76cac551fb16e43ca76a5a29262e8912a233d06037f66"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/o84MERiP/L_Ender%27s%20Cataclysm-2.58-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.58-1.21.1.jar",
+          "primary": true,
+          "size": 72187598,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "IN8Rst7i",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.57-1.21.1",
+      "version_number": "2.57-1.21.1",
+      "changelog": "Fixed Ignis's grab attack\nFixed cursium chestplate effect(not particle) bug",
+      "changelog_url": null,
+      "date_published": "2025-03-03T23:14:05.348700Z",
+      "downloads": 783,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IKfFTigw",
+          "hashes": {
+            "sha512": "721f6398577c332c691df86806878164145ee4fe1ea81e89806e1805eaaf27d05a34b93357ed8523b01b1cf0efbb8e60f86bbf26c90e947d1551ae66e7a79e83",
+            "sha1": "1db3ecce876851550fcedc4ee402d9434babbdd6"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/IN8Rst7i/L_Ender%27s%20Cataclysm-2.57-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.57-1.21.1.jar",
+          "primary": true,
+          "size": 72186464,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "d485hVC9",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.56-1.21.1",
+      "version_number": "2.56-1.21.1",
+      "changelog": "Now when bosses are summoned or awakened, they move farther away based on the coordinates, and when there is no target, they teleport to those coordinates (spawn egg remains the same, and if you set config to 0, it will be the same as before.) \nLaser Gatling and Harbinger's Beam now penetrate enemies (but not shields) and have a constant shot speed. Fixed Coral weapon can't enchant durability enchant",
+      "changelog_url": null,
+      "date_published": "2025-02-19T04:28:22.552240Z",
+      "downloads": 16802,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9jDsC9CE",
+          "hashes": {
+            "sha512": "ab8b983f0454004bfc5127e4ba4dedd78a0fc6956838b07c3c6b73ffca482624bfa9a69e17bf502d1a6fb8a64b70e11be78d2aa1aeea5be143531a1691264930",
+            "sha1": "a6e19fa2d503e179bf0b459bdd84a74089a85f14"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/d485hVC9/L_Ender%27s%20Cataclysm-2.56-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.56-1.21.1.jar",
+          "primary": true,
+          "size": 72186384,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hyqxMkFa",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.55-1.21.1",
+      "version_number": "2.55-1.21.1",
+      "changelog": "Fixed Ignis's Fireball",
+      "changelog_url": null,
+      "date_published": "2025-02-15T15:45:21.053916Z",
+      "downloads": 2647,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xxpvA1pQ",
+          "hashes": {
+            "sha1": "badd5f08f562e25a60ecfd9204f22fe941eafcf3",
+            "sha512": "b31f94ff6656739faa691062e9ff89372c5cd445467c280e2da2cb22eb078c50f97f42954f680af7c4758e38ad29d323144ffadf71ded0006b28d100246f6225"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/hyqxMkFa/L_Ender%27s%20Cataclysm-2.55-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.55-1.21.1.jar",
+          "primary": true,
+          "size": 72179907,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1w4giRKU",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.54-1.21.1",
+      "version_number": "2.54-1.21.1",
+      "changelog": "Fixed Ender Guardian Void vortex \nFixed Ender Golem Layer",
+      "changelog_url": null,
+      "date_published": "2025-02-15T15:06:21.172939Z",
+      "downloads": 668,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WFKhzLy9",
+          "hashes": {
+            "sha1": "facb577011310939f66c2a14ad167077aae3bc53",
+            "sha512": "4c7fe36796ca643133b0340b6b1944b86df99742da90d3ee23c865a1480c68dcec2dca76149b650e06f8f30caed259eee4524824faac323d342a27ad35b3cef7"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/1w4giRKU/L_Ender%27s%20Cataclysm-2.54-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.54-1.21.1.jar",
+          "primary": true,
+          "size": 72179066,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7sRBSchc",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.53-1.21.1",
+      "version_number": "2.53-1.21.1",
+      "changelog": "Reduced Monstrosity's head shot damage(1.8 -> 1.5)\nReduced Cursed Tombstone recharge cooldown (1minutes)\nFixed Bosses after Death event bug(leviathan,ignis,maledictus)",
+      "changelog_url": null,
+      "date_published": "2025-02-09T11:40:48.398584Z",
+      "downloads": 4586,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DJyy3xaZ",
+          "hashes": {
+            "sha1": "e8572e667ef34ff9bacfe45c0048f9fb1ea91a21",
+            "sha512": "1f1ec9ef0f2637ec9d01517e9a91b507f7c840ea0c4db9067e33403812d24b364b9daa7ebb1d61dc4224d8d55d67d71485bf34ac6326a36b23224f37de4d7cc0"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/7sRBSchc/L_Ender%27s%20Cataclysm-2.53-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.53-1.21.1.jar",
+          "primary": true,
+          "size": 72179025,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yNBJjI0B",
+      "project_id": "46KJle7n",
+      "author_id": "euCx076k",
+      "featured": false,
+      "name": "L_Ender's Cataclysm 2.52-1.21.1",
+      "version_number": "2.52-1.21.1",
+      "changelog": "Now Bosses immune to poison effect\n",
+      "changelog_url": null,
+      "date_published": "2025-02-07T18:26:13.669872Z",
+      "downloads": 1037,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SAgmQhU9",
+          "hashes": {
+            "sha512": "1331969d5449a807a310cb4b6a3e2f080ccfd12b5cfa69d3781930c0211a79302bbec4d509fccb1ae714656c61f2efc4cd712a70d6d4e73d9fb8791d1e3816c8",
+            "sha1": "64ca72fe7835e76d556e98e9f4c8b8343ce6f619"
+          },
+          "url": "https://cdn.modrinth.com/data/46KJle7n/versions/yNBJjI0B/L_Ender%27s%20Cataclysm-2.52-1.21.1.jar",
+          "filename": "L_Ender's Cataclysm-2.52-1.21.1.jar",
+          "primary": true,
+          "size": 72178926,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FoVacERa",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

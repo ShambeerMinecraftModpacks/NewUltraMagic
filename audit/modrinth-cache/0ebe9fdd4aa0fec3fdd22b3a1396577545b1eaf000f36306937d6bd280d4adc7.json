@@ -1,0 +1,122 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=HT%27s+TreeChop&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:21.568581+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "gHoB7SHO",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "treechop",
+        "author": "hammertater",
+        "author_id": "aPiRcn1L",
+        "organization": null,
+        "organization_id": null,
+        "title": "HT's TreeChop",
+        "description": "Take down trees chop-by-chop instead of block-by-block.",
+        "categories": [
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "game-mechanics",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.12.2",
+          "1.15.2",
+          "1.16.1",
+          "1.16.3",
+          "1.16.4",
+          "1.16.5",
+          "1.17.1",
+          "1.18",
+          "1.18.1",
+          "1.18.2",
+          "1.19.2",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.21",
+          "1.21.1"
+        ],
+        "downloads": 5334420,
+        "follows": 1105,
+        "icon_url": "https://cdn.modrinth.com/data/gHoB7SHO/58692ff7dc6cc327291e8aac195cf44545b87f23_96.webp",
+        "date_created": "2023-04-24T01:11:33.817508+00:00",
+        "date_modified": "2025-03-03T04:50:09.508447+00:00",
+        "latest_version": "YK5sxWxT",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/gHoB7SHO/images/214b8dd4f7e68682013f71938a138b293254420d_350.webp",
+          "https://cdn.modrinth.com/data/gHoB7SHO/images/bb8e84afbf8bc5a75814c62bab411e6ea7e48969_350.webp",
+          "https://cdn.modrinth.com/data/gHoB7SHO/images/f010438987328dfd83b1802ac5d03c5c77e3959d.gif"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/gHoB7SHO/images/830c237780981bb64876c54c9be3e73fab1d3de4.gif",
+        "color": 11324668
+      },
+      {
+        "project_id": "fhoTEJzN",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "hts-treechop-continued",
+        "author": "boxy",
+        "author_id": "4NgJy96b",
+        "organization": null,
+        "organization_id": null,
+        "title": "HT’s TreeChop Continued",
+        "description": "An updated fork of HT's TreeChop, updated for Minecraft 1.21.11.",
+        "categories": [
+          "fabric"
+        ],
+        "display_categories": [
+          "fabric"
+        ],
+        "versions": [
+          "1.21.11"
+        ],
+        "downloads": 10799,
+        "follows": 11,
+        "icon_url": "https://cdn.modrinth.com/data/fhoTEJzN/a85c1ab0ca55b830952c8b1a0eda9d24671916bf_96.webp",
+        "date_created": "2026-05-10T18:07:50.975352+00:00",
+        "date_modified": "2026-05-10T21:34:19.969578+00:00",
+        "latest_version": "LDtoWym2",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/fhoTEJzN/images/830c237780981bb64876c54c9be3e73fab1d3de4.gif",
+          "https://cdn.modrinth.com/data/fhoTEJzN/images/18028d05b7ca4717ee536a984236593274989236.gif",
+          "https://cdn.modrinth.com/data/fhoTEJzN/images/bb8e84afbf8bc5a75814c62bab411e6ea7e48969_350.webp",
+          "https://cdn.modrinth.com/data/fhoTEJzN/images/0dea297c83808ce8552dfd2eb810834b3449d81f_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/fhoTEJzN/images/f66a9fa30a6841b22026635b0a10dc4d437be752.gif",
+        "color": 11324668
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 2
+  }
+}

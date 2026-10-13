@@ -1,0 +1,85 @@
+{
+  "url": "https://api.modrinth.com/v2/project/545hUrw9",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:30.358034+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.18.2",
+      "1.19.2",
+      "1.20.1",
+      "1.21.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "545hUrw9",
+    "slug": "applied-botanics",
+    "project_type": "mod",
+    "team": "W0WewOZ7",
+    "organization": null,
+    "title": "Applied Botanics",
+    "description": "mana through ae2, what could go wrong",
+    "body": "## Applied Botanics\n\nAn addon for Botania support for AE2. Please report issues on [the issue tracker](https://github.com/ramidzkh/Applied-Botanics/issues/). Join the [AE2 discord server](https://discord.gg/Zd6t9ka7ne) for discussion.\n\n## Mana P2P tunnels!\n\nMana P2P tunnels can be made by right clicking any Botania item on a P2P tunnel. Mana can then instantly travel through to any outputs, such as a Mana pool, Runic Altar, Terrasteel Agglomeration Plate or anything else!\n\n<iframe width=\"638\" height=\"358\" src=\"https://www.youtube.com/embed/XN_pH0x-rKk\" title=\"Instant terrasteel\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n## Wired sparks!\n\nA spark can also be placed on the input of a Mana P2P tunnel, allowing an insane amount of mana throughput with a dominant spark augment and multiple pools!\n\n## Corporea index support!\n\nA Corporea spark can be placed on a public system's ME interface, and then the Corporea Index will be able to extract items right out of your ME system!\n\n<iframe width=\"638\" height=\"358\" src=\"https://www.youtube.com/embed/VUxV3kNdY_c\" title=\"ME through Corporea\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "body_url": null,
+    "published": "2023-01-03T22:34:55.123229Z",
+    "updated": "2026-06-22T05:21:35.259237Z",
+    "approved": "2023-01-04T02:20:13.021298Z",
+    "queued": null,
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-or-later",
+      "name": "GNU Lesser General Public License v3.0 or later",
+      "url": null
+    },
+    "downloads": 1342516,
+    "followers": 65,
+    "categories": [
+      "cursed",
+      "magic",
+      "technology"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "4Icr2SOr",
+      "3zhQ3S1c",
+      "iPDg0N6q",
+      "vN5coy8D",
+      "JWV66iRc",
+      "lPTYQE5d",
+      "1mJwKp9p",
+      "LqAhPp6K",
+      "q4EyYyki",
+      "XoswqESG",
+      "pdx5dwFC",
+      "j9qN58Hl",
+      "ErMXkIs4",
+      "K0A8XbCg",
+      "7eH0ddTk",
+      "CBTiHbQs",
+      "tdMt4ZEM",
+      "ByiqRpj3",
+      "xyBemygB",
+      "leZwUP1X"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/545hUrw9/93fdac4001f0ff58d606a646d7a31394341cb9d9_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/545hUrw9/6831c16eb0420522ceefb9e75fe6f3f2d614b509.png",
+    "issues_url": "https://github.com/ramidzkh/Applied-Botanics/issues",
+    "source_url": "https://github.com/ramidzkh/Applied-Botanics",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/Zd6t9ka7ne",
+    "donation_urls": [],
+    "gallery": [],
+    "color": 2962233,
+    "thread_id": "545hUrw9",
+    "monetization_status": "monetized"
+  }
+}

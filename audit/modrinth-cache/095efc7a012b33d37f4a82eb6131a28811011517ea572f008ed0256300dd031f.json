@@ -1,0 +1,621 @@
+{
+  "url": "https://api.modrinth.com/v2/project/jVZ0F1wn/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:50.009834+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8KCSZKt6",
+      "project_id": "jVZ0F1wn",
+      "author_id": "7fqMBMno",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.13",
+      "version_number": "1.21-1.10.13",
+      "changelog": "- Fix ActionWheel and MinionTask configuration not being saved\n- Fix excessive village totems when Lithostitched is installed\n- Improve teleportation methods for teleport arrow and teleport action\n- Inform neutral players about method to become a hunter",
+      "changelog_url": null,
+      "date_published": "2026-09-05T13:10:12.745791Z",
+      "downloads": 16470,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YVsQeYwn",
+          "hashes": {
+            "sha512": "99351576512c366934281fdccbf33f6b54d6f6afd23bab0a026940709087b00b120c50999da791d0047544dcee6d41caf6fe73c0f4ec99699a65318fe9ec9a20",
+            "sha1": "97cf2aca57ace7eff257aa217f5b9ac2fcd4ca84"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/8KCSZKt6/Vampirism-1.21-1.10.13.jar",
+          "filename": "Vampirism-1.21-1.10.13.jar",
+          "primary": true,
+          "size": 12478474,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "w5L2PHJU",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "XaDC71GB",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "QDNS5oAT",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "kkmrDlKT",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "rAtxPNwi",
+      "project_id": "jVZ0F1wn",
+      "author_id": "7fqMBMno",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.12",
+      "version_number": "1.21-1.10.12",
+      "changelog": "- Fix server crash upong zombie healing on dark stone\n- Fix impure blood name\n- Fix spitfire quarrel crafting \n- Fix incorrectly rotated Vampirism wodden buttons",
+      "changelog_url": null,
+      "date_published": "2026-07-04T11:18:12.776182Z",
+      "downloads": 35447,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZHzXq8pY",
+          "hashes": {
+            "sha1": "757d63a771a59f30367a9d4b7f8efd9ef0e190dd",
+            "sha512": "b19aec3fb8abb2c83047b64d2497fa440e9295044919b546cfaedd417e604e2176e48c289745ed0a03ec57d032e7051e16de993ef3107d42f5b077187662c070"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/rAtxPNwi/Vampirism-1.21-1.10.12.jar",
+          "filename": "Vampirism-1.21-1.10.12.jar",
+          "primary": true,
+          "size": 12483628,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "162pT82Y",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.11",
+      "version_number": "1.21-1.10.11",
+      "changelog": "- reduce bat bounding box to fix cliipping when toggling bat mode\n- reduce resistance effect when deativating batmode for mod compatibility\n- fix minion inventory command\n- fix duplication glitch with Create: Aeronautics\n- update guidebook content\n- workaround for FancyMenu menu rendering\n- fix faction color not showing\n- allow barons to spawn on any blocks\n- fix potion insertion in potion table\n- fix audio files\n- add workaround for Primal mod \n- add workaround for when skill tree is no loaded\n- balancing changes for hunter armor, armor of swiftness, heart seeker, heart striker, hunter axe:\n  - change recipes\n  - change stats\n  - they are generally stronger, but have increased crafting costs",
+      "changelog_url": null,
+      "date_published": "2026-05-17T20:50:41.725433Z",
+      "downloads": 26448,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IQ2mgmv3",
+          "hashes": {
+            "sha512": "f2a369399816f845a9b18a3d4a3d5456ff7ee9ea81ceee43beb3b71480dcca22fefe88edb802beb17f763f683aa4a6d4055691b532946a5a82d35ff779ee6993",
+            "sha1": "2a0c4f8d3dd9a9504e169133c78bd93cde2ea45a"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/162pT82Y/Vampirism-1.21-1.10.11.jar",
+          "filename": "Vampirism-1.21-1.10.11.jar",
+          "primary": true,
+          "size": 12411371,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ugUZ9VU0",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.10",
+      "version_number": "1.21-1.10.10",
+      "changelog": "- fix hunter outpost template pool name error\n- add config option for teleport refinement cooldown modifier\n- adjust enchantments for vamprie sword, hunter axes and stakes\n- fix refinement attribute stacking",
+      "changelog_url": null,
+      "date_published": "2026-03-24T20:34:42.630689Z",
+      "downloads": 14729,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rdifYdb9",
+          "hashes": {
+            "sha512": "c9bf7383a4eb1d9defb8a00ed4b633eae3bb053662aa2d8cbdfbc03eb8a3ebc85e0689b19a8549cba0b96b99b6efbd5f53b5e8edae9d6ad2bd487fe5a63c51f2",
+            "sha1": "73528d8acef2e4b885b3222482a53d442cde87f6"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/ugUZ9VU0/Vampirism-1.21-1.10.10.jar",
+          "filename": "Vampirism-1.21-1.10.10.jar",
+          "primary": true,
+          "size": 12441490,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BMpl0c3k",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.9",
+      "version_number": "1.21-1.10.9",
+      "changelog": "- skill disable command no longer disables the root skills\n- fix crossbow enchantments\n- add config option to configure stake instakill and sword finisher on players\n- allow feeding on creatures from any direction\n- fix crash with refinements",
+      "changelog_url": null,
+      "date_published": "2026-03-07T23:45:50.094998Z",
+      "downloads": 9763,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "V7SWRJRb",
+          "hashes": {
+            "sha512": "72416972b509382d16f34f3d8a541bfceef6647d9668c2008a3efb5e5bd63d8546f13cb53808892b647e9a81456d4ac13d3061ea9fe5ea063e3d1fa1929aafef",
+            "sha1": "5059de80690465876c47a86b094af383ec027c4c"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/BMpl0c3k/Vampirism-1.21-1.10.9.jar",
+          "filename": "Vampirism-1.21-1.10.9.jar",
+          "primary": true,
+          "size": 12438500,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "kIXSjBpi",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.8",
+      "version_number": "1.21-1.10.8",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-01-08T22:04:37.098979Z",
+      "downloads": 36794,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "erADBneh",
+          "hashes": {
+            "sha512": "a22359fcdc7eff51370b2b5711620fa07d569995bfc92c3a5df59e4251d3b0bdba958c64392bc290cd8528125e0612488f44d11f4c5764ee1d5040d479c08ccf",
+            "sha1": "ca421f53deb2072864b00afbefccddb86e99031e"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/kIXSjBpi/Vampirism-1.21-1.10.8.jar",
+          "filename": "Vampirism-1.21-1.10.8.jar",
+          "primary": true,
+          "size": 12416932,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "4kzyBa4H",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.7",
+      "version_number": "1.21-1.10.7",
+      "changelog": "- fix generation issues with custom lakes\n- disable fog for spectators\n- players do not loose reputation when feeding on villagers",
+      "changelog_url": null,
+      "date_published": "2025-05-18T19:12:20.946005Z",
+      "downloads": 58615,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "187Ku6uj",
+          "hashes": {
+            "sha1": "93d8c1a45c70ec2aef1af42c0714587eeb604efc",
+            "sha512": "0430b293e08498a64fcf690d0b57b008424fb62c32184f0e8e08073fd8e415c73bc92af126f3f7cee114ed5dfd798aa46dd647813f6447acd195c9ab47b25aaf"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/4kzyBa4H/Vampirism-1.21-1.10.7.jar",
+          "filename": "Vampirism-1.21-1.10.7.jar",
+          "primary": true,
+          "size": 12291519,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Dve3PSoR",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.6",
+      "version_number": "1.21-1.10.6",
+      "changelog": "- fix an error when saving the world near a the mother\n- use reload handlöer correctly for blood vision shaders\n- improve village poi check when breaking blocks",
+      "changelog_url": null,
+      "date_published": "2025-04-22T18:55:52.955945Z",
+      "downloads": 5624,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4ns0r2Tr",
+          "hashes": {
+            "sha1": "16f0275bec5cf4989479447394329450ef7a12e6",
+            "sha512": "9ade985d44bf32d653c1bc9ae1bcca124d3b05c61309885b067b25014d6e4df542a22655e1cd49b17dfe7493a4d7020ad447f9715859478cc1bf2da28dac2641"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/Dve3PSoR/Vampirism-1.21-1.10.6.jar",
+          "filename": "Vampirism-1.21-1.10.6.jar",
+          "primary": true,
+          "size": 12327287,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "u6dRKJwZ",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "w5L2PHJU",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vKI0bJ6m",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.5",
+      "version_number": "1.21-1.10.5",
+      "changelog": "- fix hunter and vampire mob categories not properly used\n- increase hunter coat helmet and boot armor by 1\n- reduce finisher by 35%, 30%, 25% when wearing full hunter coat armor\n- reduce skill costs of advanced biter, blood vision and disguise by 1\n- add 10% total damage to vampire damage skill\n- add 1 damage on lvl 7 and 14 to vampires\n- make jump boost a toggleable action\n- 20% more speed for vampire on lvl 14 (level based)\n- increase passive damage reduction for vampires from 20% to 40% (level based)\n- 50% more natural healing on lvl 14 (level based)\n- add 2.5% chance to doge an attack per piece of armor of swiftness equipped as hunter, additional 10% for a full set\n- add 2.5% damage reduction for an attack per piece of hunter coat equipped as hunter, additional 10% for a full set\n- remove hunter resistance potions\n- reduce vampire natural resistance from 40% to 20%\n- add slow ticking regeneration for vampires regardless of blood level\n- increase garlic check tick to stop blindness flashing\n- add garlic effect class to apply attribute modify by itself iinstead of using other potion effects",
+      "changelog_url": null,
+      "date_published": "2025-04-05T14:20:03.309478Z",
+      "downloads": 2831,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9j7Radzv",
+          "hashes": {
+            "sha512": "5db5fbf7895e5ff96dfc8e9ffc0ee1025b1f562a6b0dffc5acb6eba4f85cc8a6fc22583fd96ea97b777ba092deff364153a63fb9f4c4afbd8c1e1e4db4420386",
+            "sha1": "c6badc49f4fddf1994f6105b9ac6a33df166cdbc"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/vKI0bJ6m/Vampirism-1.21-1.10.5.jar",
+          "filename": "Vampirism-1.21-1.10.5.jar",
+          "primary": true,
+          "size": 12325924,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "k5e26Qh4",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.3",
+      "version_number": "1.10.3",
+      "changelog": "- add armor and tool tags for correct enchanting\n- add bosses to vampire sword finisher blacklist\n- spawn vampires and hunters no longer as monsters\n- fix blood vision rendering with iris shaders\n- fix bat rendering with iris shaders\n- add new hunter texture",
+      "changelog_url": null,
+      "date_published": "2025-02-06T17:43:02.474267Z",
+      "downloads": 5305,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uQbbCnbn",
+          "hashes": {
+            "sha512": "c231c9a2c5049fa24ffd020de2f899ead0e19b87e7f3ed5890746032e89ed6d147f295ad599e3e1bdb5e869323ff32fd4145e67510b38dd938a71b7be1168a29",
+            "sha1": "e0c5d6df954f5d171aff38465b63347fc046838f"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/k5e26Qh4/Vampirism-1.21-1.10.3.jar",
+          "filename": "Vampirism-1.21-1.10.3.jar",
+          "primary": true,
+          "size": 12312576,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "m72ye2Lr",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.2",
+      "version_number": "1.21-1.10.2",
+      "changelog": "- fix issue with navigation path\n- fix supporter loaded advanced entities having default texture\n- fix infect action crash when looking at non living entities",
+      "changelog_url": null,
+      "date_published": "2024-12-14T10:41:45.150250Z",
+      "downloads": 2946,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "mEb65OA3",
+          "hashes": {
+            "sha1": "057b98d11266eead48c7c2355dbba9bf292ce4c3",
+            "sha512": "53a819635c3267084e8a77bfdd8387f1587fec0dafad397b7b5ee274561166d6c315f7c2f86936ae52d47ecd55b4db5bc4959e449a3737f1213018f6ddb7247f"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/m72ye2Lr/Vampirism-1.21-1.10.2.jar",
+          "filename": "Vampirism-1.21-1.10.2.jar",
+          "primary": true,
+          "size": 12293435,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Q9HcWELJ",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.1",
+      "version_number": "1.21-1.10.1",
+      "changelog": "- ignore berry bushes for converted foxes\n- fix converted entity crash\n- update fly attribute on client\n- update repurposed structures\n- fix issue with accessories loading\n- fix issue with taskmanager loading on client\n- fix sun damage position check",
+      "changelog_url": null,
+      "date_published": "2024-12-07T18:04:27.827486Z",
+      "downloads": 617,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pRi6QbA0",
+          "hashes": {
+            "sha512": "aaf1b3cebafa4040b129f2eeeb8a688f70eb01a6b56158c4a35583f5f57e2b529cd72d402c5b2305473c4f618705ba0ccb86a3984ec7d1994a0f4ee28e81846e",
+            "sha1": "9cec6f61a793cb16d2afc93aceb2326a0af4da01"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/Q9HcWELJ/Vampirism-1.21-1.10.1.jar",
+          "filename": "Vampirism-1.21-1.10.1.jar",
+          "primary": true,
+          "size": 12293167,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "cmkmKhKB",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.0",
+      "version_number": "1.21-1.10.0",
+      "changelog": "- fix spectator issue during village raids\n- adjust and fix vertical coffin wake up position\n- fix minion crossbow shooting\n- clarify \"from behind\" condition\n- minion action activation crash\n- allow all player to hold garlic bread\n- add default sanguinare effect cures\n- fix crash with minion eating\n- fix cursed hanging root texture\n- fix issue with network packages for sundamage settings\n- fix difficulty system when spawning vampire barons",
+      "changelog_url": null,
+      "date_published": "2024-10-13T09:27:22.639234Z",
+      "downloads": 3263,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tBVh7Ql6",
+          "hashes": {
+            "sha512": "3077ec358ed4d54d6a3c6d2443b103d6ff46e1e43fa471031a98e41226183f6d54a872b709e403d5076540ea876524644f3500cffa9dabe43252cbaeafdc01f1",
+            "sha1": "ffd3333d784d27920ea3040df87f0dcc5783e6b3"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/cmkmKhKB/Vampirism-1.21-1.10.0.jar",
+          "filename": "Vampirism-1.21-1.10.0.jar",
+          "primary": true,
+          "size": 12287043,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "c8u8EAc5",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.0-beta.2",
+      "version_number": "1.21-1.10.0-beta.2",
+      "changelog": "- re-add blood bottle stack limit\n- fix structure not generating\n- fix area effect crash\n- add more books\n- add new double eye texture\n- enable mod configuration screen\n- make vampire food return the correct food properties",
+      "changelog_url": null,
+      "date_published": "2024-08-22T20:03:10.881451Z",
+      "downloads": 4010,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "E3IGuD4s",
+          "hashes": {
+            "sha512": "d3561a2dc918ebd2623b37883725419edfbd5ca74254970718e5a6ba083bcbf3b969fa29bf639253f4c495c2fde8c7de12c395f31c3cc10f0d2f5c03f8cbab71",
+            "sha1": "d5bb49a72243d37a85d81c8c31718162dc8ae9ab"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/c8u8EAc5/Vampirism-1.21-1.10.0-beta.2.jar",
+          "filename": "Vampirism-1.21-1.10.0-beta.2.jar",
+          "primary": true,
+          "size": 12287281,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ohTWGW0o",
+      "project_id": "jVZ0F1wn",
+      "author_id": "54VXTJtr",
+      "featured": false,
+      "name": "Vampirism-1.21-1.10.0-beta.1",
+      "version_number": "1.21-1.10.0-beta.1",
+      "changelog": "- fix vampire sleeping during thunderstorms\n- fix minion inventory stack size \n- fix blessing sound\n- fix crash on action / skill activation\n- fix client extended action duration display wrong\n- fix crash when checking the config before the world is loaded\n- fix vampire book spelling\n- fix crash with newer neoforge versions\n- fix issue where arrows with the Frugality enchantment were collectable.\n- replace gradient border overlay with texture overlays for\n  - sun\n  - rage\n  - disguise\n  - vampire awareness\n  - bat mode\n- change oil naming scheme",
+      "changelog_url": null,
+      "date_published": "2024-08-03T09:57:19.010965Z",
+      "downloads": 1962,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M8cmI6wL",
+          "hashes": {
+            "sha512": "20f5174c040abb0395b0fc0e585a4130dc0c165b40b1885957aa09ea43e96e4b767f89206277d2a67961c6f7abf166ade627457a8cadb8f18960f3f422cbf38d",
+            "sha1": "814571fffe294196eed450db1b81eb1aaa9ff1b9"
+          },
+          "url": "https://cdn.modrinth.com/data/jVZ0F1wn/versions/ohTWGW0o/Vampirism-1.21-1.10.0-beta.1.jar",
+          "filename": "Vampirism-1.21-1.10.0-beta.1.jar",
+          "primary": true,
+          "size": 12269876,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

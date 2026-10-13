@@ -1,0 +1,4445 @@
+{
+  "url": "https://api.modrinth.com/v2/project/OsZiaDHq/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:42.249556+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "vRMtFt35",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.51",
+      "version_number": "2.13.51",
+      "changelog": "* Fixed not supporting rotation collision on sable origins\n",
+      "changelog_url": null,
+      "date_published": "2026-10-09T13:48:39.104547Z",
+      "downloads": 39767,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dFbnahyn",
+          "hashes": {
+            "sha1": "eb2242b3d4442ad4017ba0624a7f9588e778b157",
+            "sha512": "864301fa1229511203fc291e9b683db5af3cb4aa4faed0ef1eb54112491b3c97f9b5006b42d41fb2c169f7fc93ad13459f5079c6ffc73dc4b145ee61b7687997"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vRMtFt35/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+          "primary": true,
+          "size": 1236490,
+          "file_type": null
+        },
+        {
+          "id": "fp3u2O1x",
+          "hashes": {
+            "sha512": "92a1dc47b4790937b8b3777e18f4dd99d04770fccc7b29910aea1ec432ad7ccd274b9911212d06db0758ea376936174433204e0a2d90a48b59e0df0ea3ddf875",
+            "sha1": "8e88f42f2622839778bca4191371c5e4e881daa1"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vRMtFt35/CreativeCore_NEOFORGE_SOURCE_v2.13.51_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.51_mc1.21.1.jar",
+          "primary": false,
+          "size": 483036,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "v1GIKf4i",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.50",
+      "version_number": "2.13.50",
+      "changelog": "* Improved IVecOrigin change management\n",
+      "changelog_url": null,
+      "date_published": "2026-09-29T14:11:44.405310Z",
+      "downloads": 64103,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "c7zvziL0",
+          "hashes": {
+            "sha512": "2780c9f5ab406ef29ae274b4134a5f1922f2efb1d7f44d747d977a3a39948e6e6d893b89c92e1b072061199279526a5e92c9d6a623fcec98b6ffde92f457e35e",
+            "sha1": "2083a79b52c2cbd6dd171ff1ce4e85c9f4c9b86b"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v1GIKf4i/CreativeCore_NEOFORGE_v2.13.50_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.50_mc1.21.1.jar",
+          "primary": true,
+          "size": 1236441,
+          "file_type": null
+        },
+        {
+          "id": "oZMSVQL0",
+          "hashes": {
+            "sha512": "42c26d285de7f76c466bd043d1f00b47d07b66297c912058bef3536c524aab1fb0eb70586668e1d491329d48d0f1ea7e59c1ea8705336b7ae301e50de94ca205",
+            "sha1": "a3978ac46c4aeb0b42c18183c1022d4c707c5be6"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v1GIKf4i/CreativeCore_NEOFORGE_SOURCE_v2.13.50_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.50_mc1.21.1.jar",
+          "primary": false,
+          "size": 482994,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "vn4lrETC",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.49",
+      "version_number": "2.13.49",
+      "changelog": "* Fixed vanilla rotation not being translated correctly\n",
+      "changelog_url": null,
+      "date_published": "2026-09-25T21:16:28.142523Z",
+      "downloads": 22008,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MQzW6Ppm",
+          "hashes": {
+            "sha512": "344ebfc6ab4043620a66f127bacfe115f897e01ce130aa0b154d59672f5a7bde27e522201c1737c0062c03940ecd9ec44cfb2ebbe9da0abfbf0a09e84b31a765",
+            "sha1": "69be287d26967aad86f8090f709934746966c232"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vn4lrETC/CreativeCore_NEOFORGE_v2.13.49_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.49_mc1.21.1.jar",
+          "primary": true,
+          "size": 1236290,
+          "file_type": null
+        },
+        {
+          "id": "mr72qKgp",
+          "hashes": {
+            "sha512": "b64643297bf202f4d7026d759da4b2ac29a9d39a0f99b06bc19e38724ffa8397f0dc626844474c143be983c9865eb677b49682b7b34e3d2b5be1a125888ddf0d",
+            "sha1": "4e3823d6fa83a781e291a604902fcc600f0f9ac2"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vn4lrETC/CreativeCore_NEOFORGE_SOURCE_v2.13.49_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.49_mc1.21.1.jar",
+          "primary": false,
+          "size": 482911,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "v7fZmKvM",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.48",
+      "version_number": "2.13.48",
+      "changelog": "* Added onItemToos to creative loader\n",
+      "changelog_url": null,
+      "date_published": "2026-09-22T14:05:25.468151Z",
+      "downloads": 59692,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Pi6kJ8Lu",
+          "hashes": {
+            "sha1": "d134ccaf1030973e47f1b2eac7c834e438ae0ab6",
+            "sha512": "b7df5f09693b8a5227b9fed27929b5a2f392b867a6f7c8e725f433ee869ba379b59d0ec78c8283864bd5b84c2c146fe874ebdc59872d9a87595ed88373f95779"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v7fZmKvM/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+          "primary": true,
+          "size": 1257391,
+          "file_type": null
+        },
+        {
+          "id": "Lh1WDYHe",
+          "hashes": {
+            "sha1": "627ae06189bf46e82a75ef4a84a08ef18c5e093c",
+            "sha512": "997b6609528ae8f396bb73b430ad079ba5c839ddb10df1dd99923e2cc1df8062ee67cbaa919159cb8475a977c862d5584cf57425d756d9d7b2a8cf0786250670"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v7fZmKvM/CreativeCore_FABRIC_SOURCE_v2.13.48_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.48_mc1.21.1.jar",
+          "primary": false,
+          "size": 467168,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "j5RscnD0",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.48",
+      "version_number": "2.13.48",
+      "changelog": "* Added onItemToos to creative loader\n",
+      "changelog_url": null,
+      "date_published": "2026-09-22T14:01:29.384542Z",
+      "downloads": 22919,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kE8dr0V4",
+          "hashes": {
+            "sha512": "d29d1f0a37db417630601b89043c0b196c85c7119a087e91bffdf7ad98c8d2d83d3473f5d4f769f46ae3a76f72b24245c1bf7d65bef171bfcc758057a7b5cb83",
+            "sha1": "8b9e6bbaa0077b2000938285ac95c6fa6a81c41e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/j5RscnD0/CreativeCore_NEOFORGE_v2.13.48_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.48_mc1.21.1.jar",
+          "primary": true,
+          "size": 1236274,
+          "file_type": null
+        },
+        {
+          "id": "RgDIjbns",
+          "hashes": {
+            "sha512": "53ef45b341ced5eeafd7204cea1e66c28ed1f99187c5816f503b7200ffed2de57bc8d42c88632aa28f4604e1c74ca8d36dcffdf20d3c13c5bf087bd4aada52a8",
+            "sha1": "738c5e32d2d4d72c11fd1ad61a1e178756c019c5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/j5RscnD0/CreativeCore_NEOFORGE_SOURCE_v2.13.48_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.48_mc1.21.1.jar",
+          "primary": false,
+          "size": 482913,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "mEtm3WbP",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.47",
+      "version_number": "2.13.47",
+      "changelog": "* Added system to make sure child origin updates if parent changes\n* Fixed center not working with origins like sable (causing large boundingboxes)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-22T12:11:10.566726Z",
+      "downloads": 925,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NeNfzaXb",
+          "hashes": {
+            "sha1": "a27931a458ea1fa3e3a5dc9017c0330ebec918b7",
+            "sha512": "0d9e9657f5f64e61aeb099516febf063bba5df5fa41bfd7b2733e649ef40c5409ec14acc9386dad60f0ab03ce915d8151f0d7351371890b315b0760a38a845fd"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/mEtm3WbP/CreativeCore_NEOFORGE_v2.13.47_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.47_mc1.21.1.jar",
+          "primary": true,
+          "size": 1236173,
+          "file_type": null
+        },
+        {
+          "id": "mbcRxiUt",
+          "hashes": {
+            "sha1": "1c7186e2174beac45798a7994e74907699e403bf",
+            "sha512": "9fb84a4176dfe29ebf9d2465baea37b3057143dfc3a7af7e4b51c32d952c0a328a179ac777c7e53957c96b0a2006c61e24065ea1207175de48cf0389465eb63c"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/mEtm3WbP/CreativeCore_NEOFORGE_SOURCE_v2.13.47_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.47_mc1.21.1.jar",
+          "primary": false,
+          "size": 482824,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fdEYikBb",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.46",
+      "version_number": "2.13.46",
+      "changelog": "* Fixed iterating over empty list of boxes in item rendering\n* Fixed taking rotation values of animation as radians\n* Fixed item box rendering being offset when held in hand and on ground\n",
+      "changelog_url": null,
+      "date_published": "2026-09-11T13:42:08.209714Z",
+      "downloads": 68713,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IKvEEvxt",
+          "hashes": {
+            "sha1": "180613074e3f8df9b1e052a3abe19a1c4ac38b48",
+            "sha512": "cae19e90001272f3d9be35b279e1c5eed6f1079740380532b5055af19fb378f32a74754beb3c9ca7d2e49f75259f6e1b44c5d602db6362bd6017b3a95d3fee75"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fdEYikBb/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+          "primary": true,
+          "size": 1235813,
+          "file_type": null
+        },
+        {
+          "id": "gmBlQQLs",
+          "hashes": {
+            "sha1": "89e34765bdf0b5d70ac9c327bfdd78b968dd2adb",
+            "sha512": "6a2457f299231603f3edf72f78fbd524df889687d6b9e1057a5ae73ff22eef69fb2c5ca07931fff8561e0fc880545e2e8ccabe287d52dbf1d4a61d861fc25dfc"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fdEYikBb/CreativeCore_NEOFORGE_SOURCE_v2.13.46_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.46_mc1.21.1.jar",
+          "primary": false,
+          "size": 482685,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "DZcg0uSS",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.45",
+      "version_number": "2.13.45",
+      "changelog": "* Added index method to ChunkLayerMap\n* Reworked VecOrigin to have better support for partialTick time on client (also cleanup)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-10T16:30:56.527415Z",
+      "downloads": 6005,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "W3a8sWqk",
+          "hashes": {
+            "sha512": "f823e7994a643385f45aea8b981315d7b4411439ea9c6a9928ed76eb2836112fd7fefeaaaf27a09662522fafe7854390ae36b079baae096657b8bf9f75cfb66e",
+            "sha1": "703f2bcf89e19ca63bdfc47ee200bd8ac9464915"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/DZcg0uSS/CreativeCore_NEOFORGE_v2.13.45_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.45_mc1.21.1.jar",
+          "primary": true,
+          "size": 1235646,
+          "file_type": null
+        },
+        {
+          "id": "LSL2laSg",
+          "hashes": {
+            "sha512": "20c53f2420a420a89f9616ba45b17f9efa88598bf624776de255b6746e95bdc3bca67562052cfea8af9da7b4aa86eafb5839d224cb810269509c8c9d0d35dc3e",
+            "sha1": "3cb65977b7afbbeade7dfc2bcfe2292139d88ca9"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/DZcg0uSS/CreativeCore_NEOFORGE_SOURCE_v2.13.45_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.45_mc1.21.1.jar",
+          "primary": false,
+          "size": 482607,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "JX9o5pJD",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.44",
+      "version_number": "2.13.44",
+      "changelog": "* Reworked models for block and item (affects LittleTiles and LittleFrames)\n* Fixed multiple filters not getting loaded properly\n",
+      "changelog_url": null,
+      "date_published": "2026-08-21T14:39:59.396511Z",
+      "downloads": 258575,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VjNmfqZZ",
+          "hashes": {
+            "sha512": "bf09773b202158d6ceb81ccfad3a8dd5b2e422d5cd0a7b9affca821af163c381bf839117765e7ca10b32ace0f477141e57f0ae9ea5c4fee38f06e1af6accef2b",
+            "sha1": "ed55360f72cd6666a1b191506a6270e05ef1ef49"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/JX9o5pJD/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
+          "primary": true,
+          "size": 1232783,
+          "file_type": null
+        },
+        {
+          "id": "HQpOMwIl",
+          "hashes": {
+            "sha1": "4cb45f7d6e073415b9afc3e88b24909aadd0aac5",
+            "sha512": "64c5a5d7b0cfaa80c918135fb0a160edea06f867da20cf8893a04de218816a801a6c80a7c3709fb8333323f35eb301654a7dfe50db4087d86b751bb2333737f1"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/JX9o5pJD/CreativeCore_NEOFORGE_SOURCE_v2.13.44_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.44_mc1.21.1.jar",
+          "primary": false,
+          "size": 480834,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "L6ZUkH8I",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.43",
+      "version_number": "2.13.43",
+      "changelog": "* Removed BlockFilters and ItemFilters\n* Added BlockFilter\n* Add translation for 'play' in Spanish language file (Thanks to Texaliuz)\n",
+      "changelog_url": null,
+      "date_published": "2026-08-14T14:25:05.156844Z",
+      "downloads": 56718,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "38pLd1TU",
+          "hashes": {
+            "sha512": "d494e3fed0974124fc49544f95da582c67964bfb01c141db84c5bb3907846937b8cc6442da5d7526ab698401d4727a5c571d6cf81aad30c0829e23107f2c5ed2",
+            "sha1": "cf6864c94f36b24f5900b4ae0998b2bc44dc5c7b"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/L6ZUkH8I/CreativeCore_NEOFORGE_v2.13.43_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.43_mc1.21.1.jar",
+          "primary": true,
+          "size": 1222856,
+          "file_type": null
+        },
+        {
+          "id": "RsEJs8yg",
+          "hashes": {
+            "sha512": "36b8eb00cff26ef9b69e29bffad44115b0e67f21f391409cf514d04cd3b95e3ce21bb81516a0df01f09feb6ba710f209c683777f37757a71c5683f26cf0abee8",
+            "sha1": "a305227f22cb0d3003d95abef9a488a1e0d17040"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/L6ZUkH8I/CreativeCore_NEOFORGE_SOURCE_v2.13.43_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.43_mc1.21.1.jar",
+          "primary": false,
+          "size": 475326,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "cv1iRM3A",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.42",
+      "version_number": "2.13.42",
+      "changelog": "* Adjusted setupRendering calls of IVecOrigin to support transformed cam\n* Added origin support for matrix4fstack\n* Added support for sable (custom VoxelShape)\n",
+      "changelog_url": null,
+      "date_published": "2026-08-07T12:31:53.093908Z",
+      "downloads": 61811,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Uox5qM6q",
+          "hashes": {
+            "sha512": "dea1f0aecda39986a4d702843c80cfbb3b79a6d2dd1f036df819ef40b7f1886b603a31ab922e51b7e61673be1b3df034569bb8211175fb2275f0e18ead460af4",
+            "sha1": "7e68402af969eab2ce23edad85738db52807f761"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/cv1iRM3A/CreativeCore_NEOFORGE_v2.13.42_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.42_mc1.21.1.jar",
+          "primary": true,
+          "size": 1221603,
+          "file_type": null
+        },
+        {
+          "id": "H1a2y0iE",
+          "hashes": {
+            "sha512": "865f005d21a1a81b423b35fb0fbf510fdfed595b06e92f529c6bfa07fe67edfec06ea08b59bec5fbdea8778a6e74e61314f51a12ae93a45db9e0bd5dd8dfa939",
+            "sha1": "6d64533c1132255aae54a1927e6395726ffb2213"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/cv1iRM3A/CreativeCore_NEOFORGE_SOURCE_v2.13.42_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.42_mc1.21.1.jar",
+          "primary": false,
+          "size": 475300,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "nLLornod",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.41",
+      "version_number": "2.13.41",
+      "changelog": "* Added color config option\n",
+      "changelog_url": null,
+      "date_published": "2026-06-03T07:13:28.842006Z",
+      "downloads": 487530,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4niWy4HE",
+          "hashes": {
+            "sha1": "4b666b4668b77fdc1ac34a183aae58a432999970",
+            "sha512": "2713dbd456f56f26ef934e5feb4bfb4578a66d0af056eb02670155affceb574d1237203e443e05908d88f3af8de47b52d0216d156028b77b5337f6283b7f4398"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/nLLornod/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+          "primary": true,
+          "size": 1218640,
+          "file_type": null
+        },
+        {
+          "id": "klR4ktHj",
+          "hashes": {
+            "sha512": "ef01d651443cbe3dda0983f9b171802398fa4e8620b8966b109084569d40facaf99465005789e0c8adbda7fb1d38cadcd511f8ed904a7bf1805dea3a231ce11b",
+            "sha1": "a6d986105a434fe03e7c5291b3d4617e0386655d"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/nLLornod/CreativeCore_NEOFORGE_SOURCE_v2.13.41_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.41_mc1.21.1.jar",
+          "primary": false,
+          "size": 473574,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "SCrlV5vO",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.40",
+      "version_number": "2.13.40",
+      "changelog": "* Fixed random crash when joining world (single or multiplayer)\n",
+      "changelog_url": null,
+      "date_published": "2026-05-29T13:24:35.670843Z",
+      "downloads": 59961,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RxbOKuq4",
+          "hashes": {
+            "sha512": "d53cad230426553426d9a8a5ba91c730b7d4077cf297307fe2a0441415c42954806cdc4ca33943d2bc2469d9277031ae4bc7c3bca0f8b3c6c8bef13367621a89",
+            "sha1": "265c82bfd086afe96cf81fca0bee78256129adaa"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/SCrlV5vO/CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+          "primary": true,
+          "size": 1216479,
+          "file_type": null
+        },
+        {
+          "id": "vJXr9Wva",
+          "hashes": {
+            "sha1": "7ddc8e0e3b204bd822723fbcf0f34379dbb6c9ff",
+            "sha512": "0c3b680ca9e17a8d204ed6691e09958a49bde16743dd610bb77b3a1a07c8a6cc0640f5a1e71f84bede2b99b9eafff9594fbd74796c57eb2b56a20f3765741a9d"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/SCrlV5vO/CreativeCore_NEOFORGE_SOURCE_v2.13.40_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.40_mc1.21.1.jar",
+          "primary": false,
+          "size": 473286,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "wZEbqU3j",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.39",
+      "version_number": "2.13.39",
+      "changelog": "* Fixed crash when min max is configured wrong (min being larger than max)\n",
+      "changelog_url": null,
+      "date_published": "2026-05-22T11:44:07.064845Z",
+      "downloads": 439724,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7GNhbUQO",
+          "hashes": {
+            "sha512": "4360184be94772c098661b1338b38eb03af47a2f57eab490a5e64e9ffa7598c4fbd9e06aa1c45d80f13d538c8322587944d4a0c0b497b069c29d88291ff8ebf7",
+            "sha1": "bd27285e1d4c326dc60bd3ac97e70edf103b9bed"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wZEbqU3j/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
+          "primary": true,
+          "size": 1247692,
+          "file_type": null
+        },
+        {
+          "id": "9nVFY4YW",
+          "hashes": {
+            "sha512": "20aab73212635f525b5dcea4495b842822f5918a57b6750d2c938f1de9b289b7d4dc0200b3d8e65ab5a9dad19ef80d620808d2bf111cc64b7f5f20c8f45b8111",
+            "sha1": "b1ff3da7bfa593468a532705b4d1f20496a30244"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wZEbqU3j/CreativeCore_FABRIC_SOURCE_v2.13.39_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.39_mc1.21.1.jar",
+          "primary": false,
+          "size": 463149,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "vp5wWD4w",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.39",
+      "version_number": "2.13.39",
+      "changelog": "* Fixed crash when min max is configured wrong (min being larger than max)\n",
+      "changelog_url": null,
+      "date_published": "2026-05-22T11:42:33.336342Z",
+      "downloads": 67837,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ksYshD22",
+          "hashes": {
+            "sha1": "7508452be5a791568d0d9ee42fedc449ee0a946e",
+            "sha512": "84028ded75bb832dc70b0590e47e4785b9c0e95d7ee839825192954980caf8449bf9943665af9b5f007cec9ea454074c5dd632e3b4a20a7399740b1f1e4d3c44"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vp5wWD4w/CreativeCore_NEOFORGE_v2.13.39_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.39_mc1.21.1.jar",
+          "primary": true,
+          "size": 1216475,
+          "file_type": null
+        },
+        {
+          "id": "PsDJyOWw",
+          "hashes": {
+            "sha1": "c260169782d3b44498b725865df58f32703b855c",
+            "sha512": "09732b8b1945bb1ccdd387346c4c3699e8ed682c24bb39e31a13756f303f6e9d039e4c293a0b6c59d9726086aed2f048a4eec81a7d60ef1e6b5009204af1cb66"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vp5wWD4w/CreativeCore_NEOFORGE_SOURCE_v2.13.39_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.39_mc1.21.1.jar",
+          "primary": false,
+          "size": 473279,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ObUu8hxJ",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.38",
+      "version_number": "2.13.38",
+      "changelog": "* Fixed executing reloader manager off thread\n",
+      "changelog_url": null,
+      "date_published": "2026-04-28T11:32:19.850604Z",
+      "downloads": 353534,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hajfeNRr",
+          "hashes": {
+            "sha512": "33ecac767a2ff2bcec96a0a1d2126f2344a82b59b7b4981695e5e2347c465f5c2004e9386a33c84ec0143d36dde50efc0afe7aa262b9a6b927910cdea064c428",
+            "sha1": "c3f1aa493ce0d3d60ba76e2b2d6b1dd65f60bde6"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ObUu8hxJ/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+          "primary": true,
+          "size": 1216443,
+          "file_type": null
+        },
+        {
+          "id": "PRveNlvd",
+          "hashes": {
+            "sha1": "9521400570bd79b045f7b3cbcf00d3b8ef9234cf",
+            "sha512": "ffa77c4eddec6cebdea6be0a0e611a5cb2471ff7f7649cf309926a849fd55b9f60cf4c95ca4931da6e63ea8b4d1a542b8fb71c85f54d66af2141f98424170dfd"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ObUu8hxJ/CreativeCore_NEOFORGE_SOURCE_v2.13.38_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.38_mc1.21.1.jar",
+          "primary": false,
+          "size": 473264,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "6l8zEHtZ",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.37",
+      "version_number": "2.13.37",
+      "changelog": "* Added forge and fabric method to CreativeLoader\n* Added ICreativeRegistry interface for LocatedHandlerRegistry and NamedHandlerRegistry\n* Renamed ICreativeRegistry to IConfigRegistry\n* Fixed crash when playing sound config if the event does not exist\n* Fixed some blocks not being rendered when they are colored translucent (blocks from rechiseled for example)\n* Fix: Remove hasBounds() check in VectorFan.generate() to resolve compact CTM slope render issue (by nickeh913678)\n",
+      "changelog_url": null,
+      "date_published": "2026-04-24T08:15:15.145867Z",
+      "downloads": 93368,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6oK7c2xu",
+          "hashes": {
+            "sha512": "ef02df49b71958240229786c34a0d74c2071c11fd1ab39462a36ec1290ae0e1ba37020ae531f7908b9796c7bd3641b75d6f50e7545d1b8052b55dd6072483c35",
+            "sha1": "4b58b0e72a6df92cd02fc5188f1526a9949034b5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/6l8zEHtZ/CreativeCore_FABRIC_v2.13.37_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.37_mc1.21.1.jar",
+          "primary": true,
+          "size": 1247657,
+          "file_type": null
+        },
+        {
+          "id": "jU9RMjZR",
+          "hashes": {
+            "sha1": "2ead72120b81d020e9e37fc58ef77cebea07393f",
+            "sha512": "68be85a036c4b546515a491b4fe49c7782d3d6bc94e9060daf28c6fb05beb9d8b9e2deb3f17c2c37903c9a1e2cee32bddb2375a7f15174dc6407f7232f89e1d2"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/6l8zEHtZ/CreativeCore_FABRIC_SOURCE_v2.13.37_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.37_mc1.21.1.jar",
+          "primary": false,
+          "size": 463135,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "QYcPtlUi",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.37",
+      "version_number": "2.13.37",
+      "changelog": "* Added forge and fabric method to CreativeLoader\n* Added ICreativeRegistry interface for LocatedHandlerRegistry and NamedHandlerRegistry\n* Renamed ICreativeRegistry to IConfigRegistry\n* Fixed crash when playing sound config if the event does not exist\n* Fixed some blocks not being rendered when they are colored translucent (blocks from rechiseled for example)\n* Fix: Remove hasBounds() check in VectorFan.generate() to resolve compact CTM slope render issue (by nickeh913678)\n",
+      "changelog_url": null,
+      "date_published": "2026-04-24T08:03:32.941581Z",
+      "downloads": 50683,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9ltvBXJK",
+          "hashes": {
+            "sha1": "64a0ab347875041d8a0e1c18b97a7cbf3fd20cc6",
+            "sha512": "23eba649eb24a2d7ffc3e2d497f2a056f003ab4e4241499edc050b9c23e37fa58edeef65621817d5a496ebc013f7eee842e522efdfd37d462cf2be8c53aaac10"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/QYcPtlUi/CreativeCore_NEOFORGE_v2.13.37_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.37_mc1.21.1.jar",
+          "primary": true,
+          "size": 1215691,
+          "file_type": null
+        },
+        {
+          "id": "Eyo2xEBc",
+          "hashes": {
+            "sha1": "4636b9c773e198845ce86b80fb022ed656847481",
+            "sha512": "b6fef258b99edded3bbe3a604d15c5a015dd79901c9f7d9066baed3c80bc18ebc8e5c952d8b8fd38eb9b386d81d1184d1feedcac6d5ec3927eb5fadac78a6809"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/QYcPtlUi/CreativeCore_NEOFORGE_SOURCE_v2.13.37_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.37_mc1.21.1.jar",
+          "primary": false,
+          "size": 472552,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "tXZudQfR",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.36",
+      "version_number": "2.13.36",
+      "changelog": "* Added contains to GuiParent\n* Added register codec to NetworkFieldTypes\n* Made GuiTree remember state of checkbox when toggling them\n* Fixed crash when moving structures around in blueprint gui with child events\n* Fixed rendering lines for render box not rendering block when color is white\n",
+      "changelog_url": null,
+      "date_published": "2026-03-24T15:27:17.653547Z",
+      "downloads": 143018,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aT4Biv7d",
+          "hashes": {
+            "sha512": "654ba22a2bed66dfd95ca4ecd38db11649ca41495b9283554a795c433c9508f6f515a02594d7ab68c45ed1e3b99b124010c936227206bd67e85aa2247ce250bf",
+            "sha1": "83af278fd8da376480d7847204c3e124bda94add"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/tXZudQfR/CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+          "primary": true,
+          "size": 1213893,
+          "file_type": null
+        },
+        {
+          "id": "Mr4lt39g",
+          "hashes": {
+            "sha1": "954d1022f642154b2b691590bc688b70f18619eb",
+            "sha512": "85ca89c1cf4aabc24e79fd948014d5cd6b3dd546ee5fc83936cec88bc0fb4c6520f405f749de82a8907b375bd33b6712aa3fef0ee581e8c1024cdf57f126848b"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/tXZudQfR/CreativeCore_NEOFORGE_SOURCE_v2.13.36_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.36_mc1.21.1.jar",
+          "primary": false,
+          "size": 471768,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "s5OIqWEA",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.35",
+      "version_number": "2.13.35",
+      "changelog": "* Added better functionality to support key controlled menu scrolling\n* Added matche methods for KeyConfig which take keyCode\n",
+      "changelog_url": null,
+      "date_published": "2026-03-07T11:56:55.201270Z",
+      "downloads": 64393,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kdSZjtJK",
+          "hashes": {
+            "sha1": "3abdeae43ee5b743ffcf76a4f365dd4326452b90",
+            "sha512": "2f38d094d407756e71c66b19ebc339431e920b4f054d7a26ae6f1cd8d5cf7dc728b42d6c07f5fe829192220657108afc955679118e15ec47af413040ef27b0bf"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/s5OIqWEA/CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
+          "primary": true,
+          "size": 1212692,
+          "file_type": null
+        },
+        {
+          "id": "AP9e4Vtv",
+          "hashes": {
+            "sha1": "955b2f8e9475a53f716b47ee32feb5a9a77751dc",
+            "sha512": "35952619a4832afe19e0cfb6e6f8a1ebe338e0b5f3837b20736d3f77a13c6f869aa8ae4c1628241bb901bdfbe649d386dafd8b57374080f4a3c5fbd95b99dba5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/s5OIqWEA/CreativeCore_NEOFORGE_SOURCE_v2.13.35_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.35_mc1.21.1.jar",
+          "primary": false,
+          "size": 471117,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fEMKr02l",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.34",
+      "version_number": "2.13.34",
+      "changelog": "* Fixed checked items iteration for GuiTree\n* Added keepOrder to GuiTree\n",
+      "changelog_url": null,
+      "date_published": "2026-02-27T16:23:41.746278Z",
+      "downloads": 22066,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qni31y3A",
+          "hashes": {
+            "sha1": "60d7a74976b99dab4639c0c511fb4d132c812b2e",
+            "sha512": "9ae623dda0e0aacc4fb6beef78794e7312da1675fff464b8ea77fb84e4ed39f272c0a18150f7b4243cd80752214254d9b6c130b45c419a1e8a50621939f86a08"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fEMKr02l/CreativeCore_NEOFORGE_v2.13.34_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.34_mc1.21.1.jar",
+          "primary": true,
+          "size": 1210882,
+          "file_type": null
+        },
+        {
+          "id": "NZ6OF7pb",
+          "hashes": {
+            "sha512": "68d9771307ddbc899f797a8ebae01dd4357d42a0d800c9c36d42561339e08cae47d2a6de6135c865c90c1619717d8d069168b2723b6d5e16fef1ea9bfeaa9548",
+            "sha1": "4c17f6166edc024036a1c91098212d00c3c8521b"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fEMKr02l/CreativeCore_NEOFORGE_SOURCE_v2.13.34_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.34_mc1.21.1.jar",
+          "primary": false,
+          "size": 470460,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "R4zS2Jli",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.33",
+      "version_number": "2.13.33",
+      "changelog": "* Added matchesPress to KeyConfig\n",
+      "changelog_url": null,
+      "date_published": "2026-02-27T16:00:36.576850Z",
+      "downloads": 236,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "F3AKoJNm",
+          "hashes": {
+            "sha512": "01e3bfe66cd03c9675ffc9db3a7595ebfea08d1a6e54f01c82a66bdf0f8c892e6ab7e1a06f3df58ef4fed31afbcc5f0db33f368e7b0a86a956cda56e9b4675e9",
+            "sha1": "1da78fff763c35b613a2d224cc1091c1bccc79d0"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/R4zS2Jli/CreativeCore_NEOFORGE_v2.13.33_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.33_mc1.21.1.jar",
+          "primary": true,
+          "size": 1210755,
+          "file_type": null
+        },
+        {
+          "id": "6asVGp0Z",
+          "hashes": {
+            "sha1": "c0dbd312856475862d973cea721c1e4c3fa46ffe",
+            "sha512": "126a4dfeb1b48d1e24ff6fd0e1c63d5ed5218f317d95f1b65e19ce7c1387ec5b06375f2f3c26432f5bf39ad411092250d868d62523f3e1d0d800f83749fdb945"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/R4zS2Jli/CreativeCore_NEOFORGE_SOURCE_v2.13.33_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.33_mc1.21.1.jar",
+          "primary": false,
+          "size": 470399,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fO6xFzDF",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.32",
+      "version_number": "2.13.32",
+      "changelog": "* Added KeyConfig\n* Added option to use ConfigHolderDynamic as a field to allow for custom creation of configurations within an existing configuration\n* Added hasMinimumSpacing to GuiLayer\n",
+      "changelog_url": null,
+      "date_published": "2026-02-24T14:46:31.333987Z",
+      "downloads": 10265,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "U41D45wS",
+          "hashes": {
+            "sha512": "830ac8e9b099dc9e705cec973853add0ead05b470c9f6991ea9f522817a6465c535d4594d4f3addf3b3b8ecce81f21024b9d3f4bdda05f9a3a4e2d2a62c65ca9",
+            "sha1": "f984a9e749ae6d527d50b2c9999c285cc4f36e1e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fO6xFzDF/CreativeCore_NEOFORGE_v2.13.32_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.32_mc1.21.1.jar",
+          "primary": true,
+          "size": 1210728,
+          "file_type": null
+        },
+        {
+          "id": "aQfdZmKq",
+          "hashes": {
+            "sha512": "4d9d7495469efa8c78160b016401827a7175a8ddc07fc3b78973a9b9f3e8ed5aeba3acb975c7be2cdfb7f1bf6f8737cc04e1ac0618b84ff06d1cf22801f21de1",
+            "sha1": "f876ad92ecd2ac4ade4f136949c02e49f1bca35e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fO6xFzDF/CreativeCore_NEOFORGE_SOURCE_v2.13.32_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.32_mc1.21.1.jar",
+          "primary": false,
+          "size": 470389,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "1vGOcdnx",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.31",
+      "version_number": "2.13.31",
+      "changelog": "* Added Tests\n* Added vector fan cut min max test\n* Removed IntersectionHelper\n* Fixed issues with connected textures and collision\n",
+      "changelog_url": null,
+      "date_published": "2026-02-19T17:27:11.183275Z",
+      "downloads": 30463,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WSslnvVD",
+          "hashes": {
+            "sha1": "8a62f35b3eece60e58a600fbec9a928b2784fc7f",
+            "sha512": "44e20caa10e519f87ce60d960290a2801c1845b2e5b923ced846c7b02ac49834a7ba0fa799ed87c009f3693ee3938dfcce74c8c839ec8f5278066cf9ddac803f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/1vGOcdnx/CreativeCore_NEOFORGE_v2.13.31_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.31_mc1.21.1.jar",
+          "primary": true,
+          "size": 1203996,
+          "file_type": null
+        },
+        {
+          "id": "9s9Y8cB5",
+          "hashes": {
+            "sha512": "b949b2f094a73d5566a64fe9a484de11def088a7a59c5efb223b8c1510c95df0a916223eb01b7dc91a35f29cb91273829132eb2e74c393acd83c5bf5ecbeafed",
+            "sha1": "cf43c9c872e7e48001475a42a758087a855cee94"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/1vGOcdnx/CreativeCore_NEOFORGE_SOURCE_v2.13.31_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.31_mc1.21.1.jar",
+          "primary": false,
+          "size": 467742,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "owFMOoff",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.30",
+      "version_number": "2.13.30",
+      "changelog": "* Added combine method to VectorFan\n",
+      "changelog_url": null,
+      "date_published": "2026-02-13T15:05:44.585249Z",
+      "downloads": 31636,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8gFGsXWZ",
+          "hashes": {
+            "sha1": "04505889e8ab3ca3c13e418edc253e759e61eda7",
+            "sha512": "8b51d8bcd1e651aeab5b502e0f3319b1e8e69df03cf65e6631c246f3e86561eac92a5344a13ef6b7a806de908f48de30191bbfbca2574b62eb15aaa878a396df"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/owFMOoff/CreativeCore_NEOFORGE_v2.13.30_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.30_mc1.21.1.jar",
+          "primary": true,
+          "size": 1209993,
+          "file_type": null
+        },
+        {
+          "id": "maFtR7he",
+          "hashes": {
+            "sha512": "a8f4bf08158665880efc78545903c53c8ba8925faf2968e5f0b8a332586fb2d3db32fd62baf73fbafe59c23a99f599c55aed1ae11ed0b05049a4e0dfb074f0dd",
+            "sha1": "29d76daa12884944051cc5099638fbfa31ba0abf"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/owFMOoff/CreativeCore_NEOFORGE_SOURCE_v2.13.30_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.30_mc1.21.1.jar",
+          "primary": false,
+          "size": 466346,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "4EBcqGWq",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.29",
+      "version_number": "2.13.29",
+      "changelog": "* Added contact information to fabric.mod.json\n",
+      "changelog_url": null,
+      "date_published": "2026-02-11T19:33:48.506976Z",
+      "downloads": 199574,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UVP3T5F6",
+          "hashes": {
+            "sha512": "d34d3d6debb387c5a1576a8f8168eaa447bfc9a2a88da8339e22d45f95f4aad68a629e96e79eac089ed85dc1cbe053e88f089e8699d4717f8f002f6e3edeab99",
+            "sha1": "59337ac0983ca4f0b8ea76ed022eedd5280cbe3b"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/4EBcqGWq/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar",
+          "primary": true,
+          "size": 1247898,
+          "file_type": null
+        },
+        {
+          "id": "T3IgmPfh",
+          "hashes": {
+            "sha512": "0e7221815c24c4355b3851d23f1f90c53b822a1404631d8a72f57d5a72ec67065571b9ce5ddffbfbfe5451c5557f847b42755f779a6429c4a5eaa81d1d237f75",
+            "sha1": "1f25d08f22f7b960f5dce44fd420e92a5da30cdc"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/4EBcqGWq/CreativeCore_FABRIC_SOURCE_v2.13.29_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.29_mc1.21.1.jar",
+          "primary": false,
+          "size": 458662,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "NGq1IzwC",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.28",
+      "version_number": "2.13.28",
+      "changelog": "* Added grow to AlignedBox\n* Added BlockHitResult as network type\n* Made setLineNormal in VectorFan public\n",
+      "changelog_url": null,
+      "date_published": "2026-02-07T16:29:09.673392Z",
+      "downloads": 16141,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TXD8vjMC",
+          "hashes": {
+            "sha1": "ccf8fc68b292ee81914dfbdcbe0dade095e544ab",
+            "sha512": "c864c71ce65dd5cb503c99f2879623deec28734336584a401c815e7e31fe014e8c1914335e511f5211e500db4341c2d3e002eee5b06d67da709315050b4db7b8"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/NGq1IzwC/CreativeCore_NEOFORGE_v2.13.28_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.28_mc1.21.1.jar",
+          "primary": true,
+          "size": 1208985,
+          "file_type": null
+        },
+        {
+          "id": "gNPClt8X",
+          "hashes": {
+            "sha512": "aa7fcc8f99ea2914e89edf5567fcfc474bf7ea6dfc702681ede6251a5328a14dd1f3eb96af7eecc18487b21c05255215b64bc934b0df6ae62849e9b9940ea83c",
+            "sha1": "35f368ba811c60f4c803b3195ba2de31d2e5a150"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/NGq1IzwC/CreativeCore_NEOFORGE_SOURCE_v2.13.28_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.28_mc1.21.1.jar",
+          "primary": false,
+          "size": 465468,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "YFsp9arp",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.27",
+      "version_number": "2.13.27",
+      "changelog": "* Added textColor to TextBuilder and made it remember the style of the previous component\n* Added resolver to baked model\n",
+      "changelog_url": null,
+      "date_published": "2026-02-03T14:03:49.880147Z",
+      "downloads": 16689,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UORnnCLZ",
+          "hashes": {
+            "sha512": "08d4e73f60f6d19a7cc3a54c71e23a8284cd2cebf5502e8c1b6d7132e872ff5680fe68c6c26633db949902d97625e9a1982a6d35e5b172a9d11373a27d11c214",
+            "sha1": "807905dce335393c9eebf1518ee57dd54a5835d5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YFsp9arp/CreativeCore_NEOFORGE_v2.13.27_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.27_mc1.21.1.jar",
+          "primary": true,
+          "size": 1208011,
+          "file_type": null
+        },
+        {
+          "id": "639HqMMd",
+          "hashes": {
+            "sha1": "d84cf71aef602264d10169074772f21bb22a4097",
+            "sha512": "dce83c882d41858ee80212c1b8ba051e0872e7466f735037632815c2b1b20f2b8b1f4b9827a656aff6e4fde45207f7de74eedfb7409e93042521c53536bab444"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YFsp9arp/CreativeCore_NEOFORGE_SOURCE_v2.13.27_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.27_mc1.21.1.jar",
+          "primary": false,
+          "size": 465390,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "bsTflTIq",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.26",
+      "version_number": "2.13.26",
+      "changelog": "* Added getLeft and getRight to GuiLeftRightBox\n* Fixed not being able to save & load itemstack component content\n* Fixed small typo in GuiLayer inventoriesToExtract()\n* Fixed cyan color being incorrect\n* Fixed items using fusion mod not being rendered in gui at all\n* Fixed not correctly checking whether an item has translucent layer or not\n",
+      "changelog_url": null,
+      "date_published": "2026-01-27T13:47:11.305363Z",
+      "downloads": 24768,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qoi9J8yb",
+          "hashes": {
+            "sha512": "07e7274bd946bab103d98c4430d0e9cd6a9dffb888455f04516ba48ef8a7d5627275b2744f1dd9bcf3ec15225e4a9bb63b376366a716cba8610354d42d0ffb6f",
+            "sha1": "8e6199cd0d1fac76592e5614e13d0b3561868127"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/bsTflTIq/CreativeCore_NEOFORGE_v2.13.26_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.26_mc1.21.1.jar",
+          "primary": true,
+          "size": 1207043,
+          "file_type": null
+        },
+        {
+          "id": "qtLumGuj",
+          "hashes": {
+            "sha512": "f4cbb86ebede6c33925c75edaa18bf81139fd37c9ac53d02988df55c2bf4ee0d92e50a50aee0d762f7273d3df9eac3e95c7f583e131d421983cb4b88aa8843e1",
+            "sha1": "7de4897c9dff35a6ba7821cd1013eec1e96fe7a6"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/bsTflTIq/CreativeCore_NEOFORGE_SOURCE_v2.13.26_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.26_mc1.21.1.jar",
+          "primary": false,
+          "size": 464720,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ySdJAVOH",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.25",
+      "version_number": "2.13.25",
+      "changelog": "* Added play button to sound config\n",
+      "changelog_url": null,
+      "date_published": "2026-01-13T09:26:04.948522Z",
+      "downloads": 65630,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JApy3uYC",
+          "hashes": {
+            "sha512": "9fc90d7e973037956f6caf8bc99865b3c7462b02417dc2af13ec28499433f260603fc0f2c8d9c7313e267ca31698a0afdc46e90cc17bdb12ef311b2f4713c46f",
+            "sha1": "0b3bf72b3695bf3fae63535539b2863526b5d5fa"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ySdJAVOH/CreativeCore_NEOFORGE_v2.13.25_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.25_mc1.21.1.jar",
+          "primary": true,
+          "size": 1204475,
+          "file_type": null
+        },
+        {
+          "id": "9ljeAvwU",
+          "hashes": {
+            "sha1": "cba2a095d831d1b6f213ee3732063c72e6e86ed8",
+            "sha512": "9fdddfe05bd77d9f0bfe3d5ddf6a8a36e7b0bda6e974cccdd5ee851db30a54ccbcf1e7ea41c0d13ffc515a7cfa669ed75f6d35ea6ba34d281abd9d62e59bf08e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ySdJAVOH/CreativeCore_NEOFORGE_SOURCE_v2.13.25_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.25_mc1.21.1.jar",
+          "primary": false,
+          "size": 463481,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "3ZRFwsQm",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.24",
+      "version_number": "2.13.24",
+      "changelog": "* Fixed crash when dragging item in tree if there is just a single entry\n",
+      "changelog_url": null,
+      "date_published": "2026-01-09T09:14:09.977957Z",
+      "downloads": 120706,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TjeBqLbt",
+          "hashes": {
+            "sha1": "a54bde57488f2985ed2175910905588c73be07e3",
+            "sha512": "4d870175d5d52a04dbcb6ae9bb66196c323d3bb6a75af09c3b7f2709962dacb4471d4daafbe8fd2bfa95fee671f2fb8fec7ed36d8959a91cc219ebde154f0c84"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/3ZRFwsQm/CreativeCore_FABRIC_v2.13.24_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.24_mc1.21.1.jar",
+          "primary": true,
+          "size": 1243889,
+          "file_type": null
+        },
+        {
+          "id": "aTTDPWrw",
+          "hashes": {
+            "sha1": "4c3a16a9b440cbbb27428837efc8426abf66e1b9",
+            "sha512": "cbe042fd5df431278fcd6d24e1dc09def3a1d4ad080a336f76e7493f9160d4766a490a81cd417952b82a8fe9aa774a19582b8033375b1126c3ed9c4bd2324a83"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/3ZRFwsQm/CreativeCore_FABRIC_SOURCE_v2.13.24_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.24_mc1.21.1.jar",
+          "primary": false,
+          "size": 457293,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "y4IzVJ7J",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.24",
+      "version_number": "2.13.24",
+      "changelog": "* Fixed crash when dragging item in tree if there is just a single entry\n",
+      "changelog_url": null,
+      "date_published": "2026-01-02T15:14:18.272595Z",
+      "downloads": 62346,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zyraxj7f",
+          "hashes": {
+            "sha1": "d8e0118cfe40132efe2e4bc45a06d309b22f1c65",
+            "sha512": "a644cee9abf93a5cfcdf27e37124c7283841713a33eeea823abe749d8af2ab2aaff2015aff5d815eddf6723b96e8eebdbec203a2df01513ac794bec696aa62ba"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/y4IzVJ7J/CreativeCore_NEOFORGE_v2.13.24_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.24_mc1.21.1.jar",
+          "primary": true,
+          "size": 1204088,
+          "file_type": null
+        },
+        {
+          "id": "SC7vDZTf",
+          "hashes": {
+            "sha1": "21061ccc0f2929558a9fcb9ed96d8ec4340df021",
+            "sha512": "c67843900efa7e4ce3e014e77444d270b1769a9e3f85a6c8d7cb3d29b49f20c45ef7406a7974ed097574fc804e618bfa809e676c5580e00c4a49b91dadaad582"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/y4IzVJ7J/CreativeCore_NEOFORGE_SOURCE_v2.13.24_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.24_mc1.21.1.jar",
+          "primary": false,
+          "size": 463404,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "yuWwz7cV",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.23",
+      "version_number": "2.13.23",
+      "changelog": "* Added new method to InventoryUtils to allow custom containers\n",
+      "changelog_url": null,
+      "date_published": "2025-12-19T12:37:40.383231Z",
+      "downloads": 83277,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "n5NsGWgV",
+          "hashes": {
+            "sha1": "65426dc0465baf237769eb00aca515950c9340a5",
+            "sha512": "8a43292795617247447fa78192ced70a719d8689fe669c6a5c5e26a553a409076528524c9db86899023ce526cf28e66ac0174dbcad34c3f36d8ce4eee1923bcb"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/yuWwz7cV/CreativeCore_NEOFORGE_v2.13.23_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.23_mc1.21.1.jar",
+          "primary": true,
+          "size": 1204084,
+          "file_type": null
+        },
+        {
+          "id": "cIOtctuD",
+          "hashes": {
+            "sha1": "6faf583417e4d08095ea6d9f9ac10ba4932bfb71",
+            "sha512": "988f8c0c60dff4d70133bbf7c1b5dfe384099ebbed63327f0563f62d23cb59e272c098a09b6470d166f05e026ee44290db490769a11193ede5ed5353ecc3fd32"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/yuWwz7cV/CreativeCore_NEOFORGE_SOURCE_v2.13.23_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.23_mc1.21.1.jar",
+          "primary": false,
+          "size": 463395,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "I406TcLd",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.22",
+      "version_number": "2.13.22",
+      "changelog": "* Added delta movement to VecOrigin\n",
+      "changelog_url": null,
+      "date_published": "2025-12-18T15:27:53.051920Z",
+      "downloads": 2347,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3JOxTr9n",
+          "hashes": {
+            "sha512": "f6bcdc22c89a90e37e7b3ee10ba2b9020b0faaa2c13ae50a3c432c45240650d77a54db8e2eb8bdcde9cad59c174dabfd2d83baf31aae7adb133e877619acc008",
+            "sha1": "37f5261e1c27da028572e3c17cb2a60daabef36c"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/I406TcLd/CreativeCore_NEOFORGE_v2.13.22_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.22_mc1.21.1.jar",
+          "primary": true,
+          "size": 1204040,
+          "file_type": null
+        },
+        {
+          "id": "r1OaH7cT",
+          "hashes": {
+            "sha512": "2c0f2f1446baea0b645e4627185bb373b9df3a3d30755fc6b7c71ae3ca3b75c5c3c70f520f249229210a2dde2329e9d65fcf472dbd1d900655ad521a8cac8ddc",
+            "sha1": "1014b7eec82c05bd5daadb4f4dad1b1dcb5e79bb"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/I406TcLd/CreativeCore_NEOFORGE_SOURCE_v2.13.22_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.22_mc1.21.1.jar",
+          "primary": false,
+          "size": 463377,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "wgZymJZ1",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.21",
+      "version_number": "2.13.21",
+      "changelog": "* Fixed flow of controls not taking scale into account\n* Added parseLong to textfield\n",
+      "changelog_url": null,
+      "date_published": "2025-12-12T14:36:46.534573Z",
+      "downloads": 29549,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8M04Qxwv",
+          "hashes": {
+            "sha512": "2ffb24d487190c68d6a56c33a391ecf5a731423e084a43be1e2620ee5efeb26e7570b890d10983f9719ea4caa1574490bfec034932f6dc09ad57e02f51a91656",
+            "sha1": "411184d19d55e3ea1f43aecd7daf1376885899e2"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wgZymJZ1/CreativeCore_NEOFORGE_v2.13.21_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.21_mc1.21.1.jar",
+          "primary": true,
+          "size": 1203949,
+          "file_type": null
+        },
+        {
+          "id": "pANXFS3b",
+          "hashes": {
+            "sha1": "081cca242abd9ad0bfd17459e17d93368b94ac96",
+            "sha512": "2451f5cc2c135caa98a679e2ebb5af353fe67e989c1c82ef1a8e5f1dcd7861c20c11e2ad48418ed99d250d050114e48a734a6f6d9cad51f065b51b5cbf184ed5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wgZymJZ1/CreativeCore_NEOFORGE_SOURCE_v2.13.21_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.21_mc1.21.1.jar",
+          "primary": false,
+          "size": 463324,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "tPJ3UDWB",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.20",
+      "version_number": "2.13.20",
+      "changelog": "* Added centerX and centerY to GuiControlRect\n",
+      "changelog_url": null,
+      "date_published": "2025-12-09T15:38:01.434586Z",
+      "downloads": 9524,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Nt5jDoY1",
+          "hashes": {
+            "sha512": "701d7c8b0db0b788cb4eb5a4307cfe7d537ad69720c19e88f36bcce09b74c9cc73b802fbd3d6986a3c30563a28d1b283474e4c4c46f1ac146626a40137711f86",
+            "sha1": "33f3e39ebdda5655c1ff4d6081cb8bbef950fa19"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/tPJ3UDWB/CreativeCore_NEOFORGE_v2.13.20_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.20_mc1.21.1.jar",
+          "primary": true,
+          "size": 1203863,
+          "file_type": null
+        },
+        {
+          "id": "sUCW09dI",
+          "hashes": {
+            "sha1": "4a985978ff3fa796f32f6ec9dbe0bdecdb3371a2",
+            "sha512": "8e8ae0e8f36c8590ab186426c79854129b2c81bfda07617b84b22d0e2a5a6f28dd0e8ae03f01089d51b4257b137403b14ffbcc506df7a12d705b1fe870b7c41f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/tPJ3UDWB/CreativeCore_NEOFORGE_SOURCE_v2.13.20_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.20_mc1.21.1.jar",
+          "primary": false,
+          "size": 463294,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ZMr1ItMq",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.19",
+      "version_number": "2.13.19",
+      "changelog": "* Fixed not being able to send nested lists via network\n* Fixed not being able to send component via network\n",
+      "changelog_url": null,
+      "date_published": "2025-12-05T14:44:37.534980Z",
+      "downloads": 14193,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bjQY6VjA",
+          "hashes": {
+            "sha512": "206abd7d338721d925d548bd386ebf5533ec5e4da0075cebc621f240c23ef08b08d7d103ce51684f401ac2e23b5732a991ad0d3d95cc5364b161fabcf6ea9811",
+            "sha1": "81cff2f3c01ec5e04d9960d134feca674f0b61df"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ZMr1ItMq/CreativeCore_NEOFORGE_v2.13.19_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.19_mc1.21.1.jar",
+          "primary": true,
+          "size": 1203821,
+          "file_type": null
+        },
+        {
+          "id": "vrKfLCPI",
+          "hashes": {
+            "sha1": "8f32c4c75b85546a25656c40b5c701a1b15d9204",
+            "sha512": "c1e679a13d204941289b9e08fd21d431f409a0c9f50572128c86c6d64f58074a9db404e6f12f32ff2f58fb49dc92e2ac76f57091b0436c45f7241c54e64904e8"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ZMr1ItMq/CreativeCore_NEOFORGE_SOURCE_v2.13.19_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.19_mc1.21.1.jar",
+          "primary": false,
+          "size": 463260,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "hVPK0cWC",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.18",
+      "version_number": "2.13.18",
+      "changelog": "* Added hex configuration to color picker\n* Made permission group use a combobox instead of a textfield to specify usergroup\n* Fixed not being able to scroll inside permission gui everywhere\n* Fixed scrollbox not reseting to possible position when size changes\n* Fixed usergroup configuration not working\n* Fixed issue with nested configuration of missing parent information\n",
+      "changelog_url": null,
+      "date_published": "2025-12-03T18:48:49.774818Z",
+      "downloads": 8325,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eP8tFrar",
+          "hashes": {
+            "sha1": "ee896fb50f897090f04d313afa437a74ce994019",
+            "sha512": "062d79698fe557fce569e1cf30f003d8a457409c8a0b9f2d739821a8b34a3b90f5419ddf0f71bd223748368b43459fd63fd977cfd966a2f72aa5069c79d52bad"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/hVPK0cWC/CreativeCore_NEOFORGE_v2.13.18_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.18_mc1.21.1.jar",
+          "primary": true,
+          "size": 1203981,
+          "file_type": null
+        },
+        {
+          "id": "F9yaspVT",
+          "hashes": {
+            "sha1": "126e76758531a86f9515c778373ef7db0cd38eaa",
+            "sha512": "4835e65096e3d7097ace5546a0c164a6f3991b3e4dda092bb5824dabe1575ff37c21421f336de782ed894c1f88a129a22ea30a719c47d0ed8b1bc70f63512a59"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/hVPK0cWC/CreativeCore_NEOFORGE_SOURCE_v2.13.18_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.18_mc1.21.1.jar",
+          "primary": false,
+          "size": 463411,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "8MuQz89B",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.17",
+      "version_number": "2.13.17",
+      "changelog": "* Fixed CreativeIngredient sometimes not being ready for config (when used externally)\n",
+      "changelog_url": null,
+      "date_published": "2025-12-02T15:55:47.724671Z",
+      "downloads": 4234,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LlI2zQ9z",
+          "hashes": {
+            "sha512": "21f20cf81be596da28e01f2d45d651bf7c4dda6fb31bfdd83476d6cd46419c05a18ca77ff6d0fd988aefc79d53653c25f815919edb226b84e7a0e7f67c40aab4",
+            "sha1": "6c5b2e06a18d6af1d6e9db031f47e5244c66b88e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/8MuQz89B/CreativeCore_NEOFORGE_v2.13.17_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.17_mc1.21.1.jar",
+          "primary": true,
+          "size": 1199688,
+          "file_type": null
+        },
+        {
+          "id": "jzArYZAI",
+          "hashes": {
+            "sha1": "41004bda607efd19e28852660918934210d2981a",
+            "sha512": "ef7235aa347b2f7e8f7541519eb419fbb0a4cd97b47f35c296c43ccb7821c6418f69873f4cbaa48115fa78b36d74ef90c20f459080becd223f83ca93cb335453"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/8MuQz89B/CreativeCore_NEOFORGE_SOURCE_v2.13.17_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.17_mc1.21.1.jar",
+          "primary": false,
+          "size": 462035,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "9ZigtmFd",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.16",
+      "version_number": "2.13.16",
+      "changelog": "* Added inflate, deflate and renderLines method to ABB\n",
+      "changelog_url": null,
+      "date_published": "2025-12-01T13:19:11.717511Z",
+      "downloads": 4932,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HaccLAAr",
+          "hashes": {
+            "sha1": "6ec359b4d21193d63e7f9a38c58a7982abe512e3",
+            "sha512": "79e82cae172ca25d795d94ae89f62e6877b6c5228c41534e6132c069c454a52b0bc17ed3f34bc6327ec7e11fe775b96bdf2e2b96ece1634e221196622c665dd4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/9ZigtmFd/CreativeCore_NEOFORGE_v2.13.16_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.16_mc1.21.1.jar",
+          "primary": true,
+          "size": 1199752,
+          "file_type": null
+        },
+        {
+          "id": "QzFepsPX",
+          "hashes": {
+            "sha1": "456480b24ddd3dfb5554dd1c91b253ac22725c10",
+            "sha512": "e9054bceb1609d4a64f973dc5003e15ebad9dd807b6a8e4c080ca9d74aa9318811755a7a28406320404c046136dd64df245b2ba3895449b206c3833c719ee7d1"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/9ZigtmFd/CreativeCore_NEOFORGE_SOURCE_v2.13.16_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.16_mc1.21.1.jar",
+          "primary": false,
+          "size": 462330,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "TyV1CDvv",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.15",
+      "version_number": "2.13.15",
+      "changelog": "* Fixed edge case of shape intersecting when sharing one common face\n* Increased epsilon of shape calculation to fix several inaccuracies causing minimal intersection to be detected which occur due to rounding errors\n",
+      "changelog_url": null,
+      "date_published": "2025-11-14T15:19:49.203455Z",
+      "downloads": 49605,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZVYjgOg6",
+          "hashes": {
+            "sha512": "02e249852837fe7b7f2b480c17ca94fdff0c180fdc5e94bfc7e06f34e8da46db0ad2a24bcde9d20f4de2e905d448562e01fa0d703f14e3f338c09c64a2c3863c",
+            "sha1": "7a08497685e093d513aaed94b524d82fcd91cbe5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/TyV1CDvv/CreativeCore_NEOFORGE_v2.13.15_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.15_mc1.21.1.jar",
+          "primary": true,
+          "size": 1199314,
+          "file_type": null
+        },
+        {
+          "id": "xM96aa5U",
+          "hashes": {
+            "sha1": "1031245232b04a39feb6aabb0337ee6da9b3b079",
+            "sha512": "aa4f2d74f9d795ba701a7cc3984c12cc87482cbb775f7d5845a50b479ed2713c23aa7176a95755ac615b63996e2f47c4b33ced053799e3866da2b0681c376dd5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/TyV1CDvv/CreativeCore_NEOFORGE_SOURCE_v2.13.15_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.15_mc1.21.1.jar",
+          "primary": false,
+          "size": 462061,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "IAULUUTE",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.14",
+      "version_number": "2.13.14",
+      "changelog": "* Fixed client commands not working when connected to a server on fabric\n",
+      "changelog_url": null,
+      "date_published": "2025-09-30T12:36:33.665903Z",
+      "downloads": 612683,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6J1z43Vg",
+          "hashes": {
+            "sha1": "4be77c0f88b7bcb2a099a9540b2008296b648183",
+            "sha512": "426ebfbd485d209af62fbebb49119b3e807a0b45a0f9cfe7c815012c169a63ce6b8b0cec62b6c55981514e0f0f97b80a51cbd05d3cb84bf3f97e5fc87499025f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/IAULUUTE/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar",
+          "primary": true,
+          "size": 1239340,
+          "file_type": null
+        },
+        {
+          "id": "NndghNF3",
+          "hashes": {
+            "sha512": "8f65ad924a7dbf44975d9e7e6cc971a8d473d998625143a1b95380cf7c0a97d2d4c32d8d963ce954779238102819f65303e06ba2da5dd2a16f394a39c0749f58",
+            "sha1": "120fb81f24132af3a417b06d516a4ec6f269a97d"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/IAULUUTE/CreativeCore_FABRIC_SOURCE_v2.13.14_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.14_mc1.21.1.jar",
+          "primary": false,
+          "size": 455939,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "V1tOX3OK",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.13",
+      "version_number": "2.13.13",
+      "changelog": "* Fixed incorrect intersection check for vectors fans caused by angled line go over two edges exactly #2\n",
+      "changelog_url": null,
+      "date_published": "2025-09-16T12:15:21.457005Z",
+      "downloads": 266054,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DhET7hbA",
+          "hashes": {
+            "sha1": "8aa6b128a44e5a239e3878d55581e59fb7af6749",
+            "sha512": "7f7dc2cfd229c32761f9f62dda1274fc03ab5f8d631eedc0bafa7d70dd5cbf71c1d4fc0238b8c75ae94452d5bd160cf0f77e564364aff5bc2b23963c33cb6474"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/V1tOX3OK/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+          "primary": true,
+          "size": 1199290,
+          "file_type": null
+        },
+        {
+          "id": "zKjLZdXZ",
+          "hashes": {
+            "sha512": "4c38a15d9e77b7362cfc6994344422ac29102077af9e89b69f47e0f4c7bec42bfd10fdd6973cb40139fc932e8431e6f4a707fe2dc30bf9f7a527e7a91f5f50c9",
+            "sha1": "17ae92807599c0b69c5fba00754282b2a825d6fb"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/V1tOX3OK/CreativeCore_NEOFORGE_SOURCE_v2.13.13_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.13_mc1.21.1.jar",
+          "primary": false,
+          "size": 462031,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "M0hcwEit",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.12",
+      "version_number": "2.13.12",
+      "changelog": "* Fixed incorrect intersection check for vectors fans caused by angled line go over two edges exactly\n",
+      "changelog_url": null,
+      "date_published": "2025-09-12T14:44:06.954561Z",
+      "downloads": 11543,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BWESbBB9",
+          "hashes": {
+            "sha512": "079f3fbf57f9d28ce1601fe17db99cc8f10b6a9ec7dd2234d6c2b8f6e01f72c98ad9d1e43b8687f0ebe29f3e8000dc09e7f5fd7c2836e8c030e8b0a215586602",
+            "sha1": "88f05e6969ad6070bf0769b9fe6b6353168c9688"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/M0hcwEit/CreativeCore_NEOFORGE_v2.13.12_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.12_mc1.21.1.jar",
+          "primary": true,
+          "size": 1199123,
+          "file_type": null
+        },
+        {
+          "id": "qFIeSd9j",
+          "hashes": {
+            "sha1": "bdcd72cc3afa25b97782e3182e5a4d18a5acb795",
+            "sha512": "205b08a951a99a032b944b94e3b5453bddb6f1b7f2245b9075f894dc39228d819452c006f15d2284bff440fb31d59b0cef9090490258f63ca933c2593473d69a"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/M0hcwEit/CreativeCore_NEOFORGE_SOURCE_v2.13.12_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.12_mc1.21.1.jar",
+          "primary": false,
+          "size": 461879,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "yYzo25U6",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.11",
+      "version_number": "2.13.11",
+      "changelog": "* Reverted back to all packets being optional (might cause issues when connecting to server with creativecore installed, but enables connection to paper or spigot)\n",
+      "changelog_url": null,
+      "date_published": "2025-09-09T08:59:47.434151Z",
+      "downloads": 62332,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hWjeJb8F",
+          "hashes": {
+            "sha1": "aa0e02c90dd874d0c8c3933d42669b59414cba31",
+            "sha512": "f6b512db9583ee9e4454dded0fd11e052b8b93e294cb68376d97f07e332554cf80ea7635ea44243ddcc50c471f13a9ebe6d3d1c3dcb966bfece8593020dbfc56"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/yYzo25U6/CreativeCore_FABRIC_v2.13.11_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.11_mc1.21.1.jar",
+          "primary": true,
+          "size": 1238877,
+          "file_type": null
+        },
+        {
+          "id": "bxUFpRwS",
+          "hashes": {
+            "sha1": "21936b45d412b26399f5d38193d0dee295ccc42f",
+            "sha512": "03d5f4993e6f9cab8bffaf05521abed7a375b74735f928ff914164b121ad293552937dab91a3995838cd6676e8e6580efb1f757e5b37bd0615f207f4716f5e88"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/yYzo25U6/CreativeCore_FABRIC_SOURCE_v2.13.11_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.11_mc1.21.1.jar",
+          "primary": false,
+          "size": 455594,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "fqPlmIeP",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.11",
+      "version_number": "2.13.11",
+      "changelog": "* Reverted back to all packets being optional (might cause issues when connecting to server with creativecore installed, but enables connection to paper or spigot)\n",
+      "changelog_url": null,
+      "date_published": "2025-08-28T12:04:28.370793Z",
+      "downloads": 51145,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IVkcVZA8",
+          "hashes": {
+            "sha512": "4f6fbf5c2c39047fa6db51030d4c6d69403893d404dfb64e81a08c2d4b86f9b88f23c33d2bd1093573916748dc78d0e8175cf612cd48c12248a99776d00b9fa2",
+            "sha1": "ef1b7a6318e1073a847efadcc30ced8a7190cdd3"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fqPlmIeP/CreativeCore_NEOFORGE_v2.13.11_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.11_mc1.21.1.jar",
+          "primary": true,
+          "size": 1198832,
+          "file_type": null
+        },
+        {
+          "id": "Bw8rOw9P",
+          "hashes": {
+            "sha1": "b0c5c66f9fc2104b1776e606353b9838003ca8f4",
+            "sha512": "0585120bc6c72350a1e17f3709a95ba615bd7541d487b0e1baa2d184e551fc53678ca4103a305a7428a66863b01332e4ea3eb5a4f35aae455b342d8f8f0e6188"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fqPlmIeP/CreativeCore_NEOFORGE_SOURCE_v2.13.11_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.11_mc1.21.1.jar",
+          "primary": false,
+          "size": 461664,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "pP1judcE",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.10",
+      "version_number": "2.13.10",
+      "changelog": "* Fixed drop in gui not correctly interacting with every inventory\n* Fixed extraction in gui not correctly interacting with every inventory\n* Fixed slot drop with q not working correctly\n",
+      "changelog_url": null,
+      "date_published": "2025-08-27T08:36:25.001453Z",
+      "downloads": 2739,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ygC51brb",
+          "hashes": {
+            "sha1": "ae595a2101ff95f0e93c49a170cb4097e1cf5dca",
+            "sha512": "dd4c5f9f1bdc536dc831939dc7fff7584575d8023ada46213c34baf85eecc0a98ae7b8c11819e77a4db8a44f8c0205322c6444af0baf106d1226898f839b2e80"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/pP1judcE/CreativeCore_NEOFORGE_v2.13.10_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.10_mc1.21.1.jar",
+          "primary": true,
+          "size": 1198918,
+          "file_type": null
+        },
+        {
+          "id": "KqhaoPKU",
+          "hashes": {
+            "sha512": "83025ee771d19d8b420cd3c7d0c51aee60057d4c4431560e317f1859c349f51d2a24af6faea4c78a4a3fb9ca67ccad3d3d21dcba21132fe6f9dd68f5f95430c4",
+            "sha1": "e93cc682471fd0caf117b6d35dd881a40137a68f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/pP1judcE/CreativeCore_NEOFORGE_SOURCE_v2.13.10_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.10_mc1.21.1.jar",
+          "primary": false,
+          "size": 461693,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "VKAn3WBQ",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.9",
+      "version_number": "2.13.9",
+      "changelog": "* Added maxGuiScale config option\n* Fixed config of CreativeCore not being registered\n* Fixed mouse over effect of slots\n* Removed useStencil, color palette and useOptifineCompat config option\n",
+      "changelog_url": null,
+      "date_published": "2025-08-12T14:06:55.193389Z",
+      "downloads": 65894,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jPsn3mcB",
+          "hashes": {
+            "sha512": "cf27843120758c3066164c0a416f858216836a3ca3e36649629c67721e5f101f0b517db3a3d2d91556173cd77ca504bcdc14043c180210e598cb0de89b481b42",
+            "sha1": "307f4b4deba6450973ed836d624cbad7a5e0761f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/VKAn3WBQ/CreativeCore_NEOFORGE_v2.13.9_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.9_mc1.21.1.jar",
+          "primary": true,
+          "size": 1198856,
+          "file_type": null
+        },
+        {
+          "id": "vsow5rr6",
+          "hashes": {
+            "sha1": "1a0751b8b809591a2d702f31e77bb489384815e1",
+            "sha512": "17c9d6730d500697f7c47a4c4dc3aba2fa450e3a2e5d68d38b9daa926bc4adf22452149d29f06958895120f6642c6d1c675c4327356512e0240d078e4d18f1d4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/VKAn3WBQ/CreativeCore_NEOFORGE_SOURCE_v2.13.9_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.9_mc1.21.1.jar",
+          "primary": false,
+          "size": 461650,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "RtXghe89",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.8",
+      "version_number": "2.13.8",
+      "changelog": "* Fixed slider textfield not working correctly\n",
+      "changelog_url": null,
+      "date_published": "2025-08-12T13:45:35.963698Z",
+      "downloads": 207,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XlWb4a0n",
+          "hashes": {
+            "sha1": "e89dbb7bd97250c339fa2fc43bd5b35de802fc86",
+            "sha512": "9ec3f628acdc4f65a2152c6cac7845b11fa27932c55e8c7c52737060828efca4e9773a7c5a9c230ae4495dae7fde4cffec26922e732cd7fcf5d316bba46f741c"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/RtXghe89/CreativeCore_NEOFORGE_v2.13.8_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.8_mc1.21.1.jar",
+          "primary": true,
+          "size": 1206912,
+          "file_type": null
+        },
+        {
+          "id": "dT3bSk9N",
+          "hashes": {
+            "sha512": "58364691f076d05ade1284837d1b4f1a38033243f725d7fc1d8c84ff40357d389dbeff0f3b406e9ac4727c3576ca32007df2b963fb4f9a13038c52b0de38d520",
+            "sha1": "31e74e9b8c3bbede8e0fd509a3b5fcd2617035a4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/RtXghe89/CreativeCore_NEOFORGE_SOURCE_v2.13.8_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.8_mc1.21.1.jar",
+          "primary": false,
+          "size": 464725,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "jy6rEC2t",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.7",
+      "version_number": "2.13.7",
+      "changelog": "* Fixed rendering controls which have no visible rect on screen\n",
+      "changelog_url": null,
+      "date_published": "2025-06-24T13:24:32.400333Z",
+      "downloads": 144107,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9wIlyJpY",
+          "hashes": {
+            "sha1": "5b18e6fa33da21acb3de4441905b1946f1f372f7",
+            "sha512": "ab0f95c8127ea248592e26120a2aedc15ffb91ba27fce1da318d1cb3cfcea6accdacb334076363955f99d4d12816c3e4546298e0ec8b9bda223062f4e5c8b33b"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/jy6rEC2t/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
+          "primary": true,
+          "size": 1206816,
+          "file_type": null
+        },
+        {
+          "id": "csIfqey6",
+          "hashes": {
+            "sha512": "5edd658c2b470db3e6b014336ade4c7453a3e61d3a4dc7840e3e4fe79e5c292dde7ba51c3264736afab670824ad5ef5150068f79edbdd6957512b5644a9f7e66",
+            "sha1": "ea7a7c65e25a1c25da8556a181089c333dc72010"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/jy6rEC2t/CreativeCore_NEOFORGE_SOURCE_v2.13.7_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.7_mc1.21.1.jar",
+          "primary": false,
+          "size": 464691,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "vbyCSJW7",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.6",
+      "version_number": "2.13.6",
+      "changelog": "* Added GuiLabelHover\n* Added subtract to ColorUtils\n* Fixed selecting combobox flexible after forced value not setting value before raising changed event\n* Added better timeline channel unmodifiable key support\n",
+      "changelog_url": null,
+      "date_published": "2025-06-17T13:32:58.552727Z",
+      "downloads": 13635,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2n4MPdu1",
+          "hashes": {
+            "sha512": "37b426f75b20a206aa6e7b8154b2c0e82a789ff0a6dc18831ebf322ff78737e52c2e90a302af900647a20fdb971e2c5a9969ba3ea3cd417b4e2931644b987b1c",
+            "sha1": "0055f9849481075bd7624362f8d22e6517f9a0f5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vbyCSJW7/CreativeCore_NEOFORGE_v2.13.6_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.6_mc1.21.1.jar",
+          "primary": true,
+          "size": 1206787,
+          "file_type": null
+        },
+        {
+          "id": "AysZrCpP",
+          "hashes": {
+            "sha512": "b00c0ff62672c54b52909d20807c2dcac08365651c0c462b5d7729460cfcf6d6a2cae7c875b57daf0be377c659747bb94224a3f60452bcee3204d12501cf13b0",
+            "sha1": "22eac6409e05d3fc6cc18e17cef537b635fdd5db"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vbyCSJW7/CreativeCore_NEOFORGE_SOURCE_v2.13.6_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.6_mc1.21.1.jar",
+          "primary": false,
+          "size": 464683,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "wQecY0h2",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.5",
+      "version_number": "2.13.5",
+      "changelog": "* Fixed packets being required on server side\n",
+      "changelog_url": null,
+      "date_published": "2025-05-23T14:49:40.691577Z",
+      "downloads": 308669,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "x0ZlwbBt",
+          "hashes": {
+            "sha1": "b52479b564c85fd0563ebd48218283bdf9b591c1",
+            "sha512": "f21a21f0203cac1684c93905061561788ccf839b832e96479d34a9dc6560c9d9f9dd1da9c37d8861860539d457e7fb2c637bb3ee8a8c93631379ac258a6693aa"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wQecY0h2/CreativeCore_FABRIC_v2.13.5_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.5_mc1.21.1.jar",
+          "primary": true,
+          "size": 1238280,
+          "file_type": null
+        },
+        {
+          "id": "JY9ySpgx",
+          "hashes": {
+            "sha512": "01d725e5704cb74000a22aabf950972bf8e1f897e88eab4edeed8da0c37e0824928b8849d1fc25f1f5640f9fb6b10dc052ff3061b2f2a05259d9b84b8889fb9b",
+            "sha1": "cbcf2ed4c89af34128713b23f5593488b34ee608"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wQecY0h2/CreativeCore_FABRIC_SOURCE_v2.13.5_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.5_mc1.21.1.jar",
+          "primary": false,
+          "size": 454910,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "esnJjmBr",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.5",
+      "version_number": "2.13.5",
+      "changelog": "* Fixed packets being required on server side\n",
+      "changelog_url": null,
+      "date_published": "2025-05-20T13:42:18.274532Z",
+      "downloads": 45799,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dr8w7NHU",
+          "hashes": {
+            "sha1": "076c60c76e1108d34bab532b3db75146986342fb",
+            "sha512": "249082dbda6fc0b21353852d9909812d34a1b3de1caf42c34be9f3c9d320f1eafb340fc491fdde215b10ed3d91bf08a9e8a47fb57bb8d2534c33159ed273c0e6"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/esnJjmBr/CreativeCore_NEOFORGE_v2.13.5_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.5_mc1.21.1.jar",
+          "primary": true,
+          "size": 1198261,
+          "file_type": null
+        },
+        {
+          "id": "IhTCX8ry",
+          "hashes": {
+            "sha512": "9ad7db0a41da2b8f8ec92156a379d932e5b8f99635a161b676fdb91a3544810a4627ad03f0399674969aef50d97d2c64d1a144720db6d8cb26dcd492fb6b7c5f",
+            "sha1": "9d5cdc05b413235ef809bd2c46cfd630e4c377c2"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/esnJjmBr/CreativeCore_NEOFORGE_SOURCE_v2.13.5_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.5_mc1.21.1.jar",
+          "primary": false,
+          "size": 460981,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "q5edZBQ8",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.4",
+      "version_number": "2.13.4",
+      "changelog": "* Fixed BoxCorner.facingTo method causing troubles with slope shapes of littletiles\n* Fixed color picker not displaying color in sliders\n* Fixed incorrect equal check for classes that have implemented equals method\n",
+      "changelog_url": null,
+      "date_published": "2025-05-20T13:23:56.843905Z",
+      "downloads": 207,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "I9AW4NYf",
+          "hashes": {
+            "sha512": "3e4828b8425b76d4cd5aa9fc99d09c405b3f73effb185b3268f64068ca505b25d7b98996f4458f012f40ac813fe8a070065c6f1dc66281aba714d089c5aedc0e",
+            "sha1": "0900bb44da50899eedae507f9abbb913f96689b3"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/q5edZBQ8/CreativeCore_NEOFORGE_v2.13.4_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.4_mc1.21.1.jar",
+          "primary": true,
+          "size": 1198156,
+          "file_type": null
+        },
+        {
+          "id": "tUbUImrr",
+          "hashes": {
+            "sha512": "56e89a65e91fe8c69d04c583edb5582e789ee80262f958057de8d65e5f8831ad3e75bd8d7b5392f9f0f43229e39a8ab1bb80ff70f0c5a2a11b05b9b4b451f363",
+            "sha1": "a5964ca78c8cf075ce5a8fb7229c8706f7756c3d"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/q5edZBQ8/CreativeCore_NEOFORGE_SOURCE_v2.13.4_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.4_mc1.21.1.jar",
+          "primary": false,
+          "size": 460946,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "q8JTNCdn",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.3",
+      "version_number": "2.13.3",
+      "changelog": "* Fixed holding item rendering offset\n* Fixed rendering count of one when holding an item stack\n* Fixes mod not being required on client side when it is installed on server side\n* Refactor BoxCorner for constant-time lookup (Thanks to zmr-233)\n* Added Argentine Spanish localization (Thanks to Texaliuz)\n",
+      "changelog_url": null,
+      "date_published": "2025-05-13T12:28:03.458136Z",
+      "downloads": 37914,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ei0cQrz2",
+          "hashes": {
+            "sha512": "7cc5d132cf51506664edc91849e5d573bcbafc3347c09c08b4db4276184a893a0dde23f857a9ea8f91a792eb71062d7a81e5126d86a0526854d4cdb8c52820b8",
+            "sha1": "23b802a8e121290f554ff61824b3ca5d525479aa"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/q8JTNCdn/CreativeCore_NEOFORGE_v2.13.3_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.3_mc1.21.1.jar",
+          "primary": true,
+          "size": 1197834,
+          "file_type": null
+        },
+        {
+          "id": "JFtnWB4V",
+          "hashes": {
+            "sha1": "ca8c880b8f9fe62b38f1b4524d8d759a27b3fc91",
+            "sha512": "1245f6483638e1903f2000c7cf41f3dbc999cffcc7c8d898da60b41424531a6d3681cf08a4dab0fcae791c414ab5c1230182d750e7fb0ac8660a2cd69695643c"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/q8JTNCdn/CreativeCore_NEOFORGE_SOURCE_v2.13.3_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.3_mc1.21.1.jar",
+          "primary": false,
+          "size": 460769,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "augsZjJp",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.2",
+      "version_number": "2.13.2",
+      "changelog": "* Fixed control formatting has disabled effect not being used\n* Renamed MINIMUM_LAYER_SPACING to MINIMUM_OUTER_SPACING\n* Removed all unnecessary forge classes\n* Fixed tab content is not visible (Thanks to paring-chan)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-11T08:39:13.442602Z",
+      "downloads": 92852,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5pue2HdQ",
+          "hashes": {
+            "sha512": "a3b5fb89da9179ae378cb5e033d7ddf563a0a55be7bff315ecc2f9e6b2f635b30e2735026192270290ba725c91698b4f07aa1f09a03a5b28486066232ad0150c",
+            "sha1": "b8652e5edf1381f691b16d939c9d0225834e7632"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/augsZjJp/CreativeCore_NEOFORGE_v2.13.2_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.2_mc1.21.1.jar",
+          "primary": true,
+          "size": 1196806,
+          "file_type": null
+        },
+        {
+          "id": "KLwDLoun",
+          "hashes": {
+            "sha1": "bd77d2ba6d97b95e966ba0aa7f4f3399a5b1c04e",
+            "sha512": "69737fb53dff508718355dc30b3b019b61200dac6fd827d081c7053452f78b1771bc27965e26d3cf2add8424d24531f480e127c16ec3f7905c9d3b2b3b7e8c97"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/augsZjJp/CreativeCore_NEOFORGE_SOURCE_v2.13.2_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.2_mc1.21.1.jar",
+          "primary": false,
+          "size": 460525,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "7CVMkNmO",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.1",
+      "version_number": "2.13.1",
+      "changelog": "* Fixed not syncing configuration when open to lan in singleplayer (fabric)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-04T12:51:46.110827Z",
+      "downloads": 164906,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PY4c1hLj",
+          "hashes": {
+            "sha512": "673b18752d1ba1f7548393bdcd3de65dcc8406bdd7f382d6bfbc965b74d2f176ef292c729d05e209affef3ca87e39b256892cf6d67e29b8289876cfa70794749",
+            "sha1": "45d854160a673ac19d526d9bcdac901503fb08f1"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/7CVMkNmO/CreativeCore_FABRIC_v2.13.1_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.1_mc1.21.1.jar",
+          "primary": true,
+          "size": 1239369,
+          "file_type": null
+        },
+        {
+          "id": "VMYG715w",
+          "hashes": {
+            "sha1": "0e058d926089d1e18c3103ca7a77c3cdd7c84fa8",
+            "sha512": "329cadb6ae7640dbc5ca8654a5058db5c8d2a4824f3f0af8c0b34723fdc86349752050961a38efe3b6a74b8041f643fc441b1b89f34a0211dd2be44cb8c2773d"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/7CVMkNmO/CreativeCore_FABRIC_SOURCE_v2.13.1_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.1_mc1.21.1.jar",
+          "primary": false,
+          "size": 456702,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "YHfsJkH3",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.0",
+      "version_number": "2.13.0",
+      "changelog": "* Reworked GuiControl\n* - Made Rect part of GuiControl\n* - Removed GuiChildControl\n* - Removed rect as parameter\n* - Removed addControl and addHoverControl from GuiParent\n* - Moved min, preferred and max methods for width and height from control to rect\n* - Removed rect from standard renderContent function in GuiControl\n* - Renamed package controls to control\n* - Removed non generic variant of combobox, state button, tab\n* Reworked NamedTree\n* - Added first and valueEntries to NamedTree\n* - Fixed folder force not working properly for nested paths in NamedTree\n* Changed Config System\n* - Added ConfigTypeRegistry which allows for type saving & loading with an automatically generated gui configuration (based on the config system)\n* - Added ICreativeRegistry to allow for multiple config systems to have independent field predicates\n* - Added hideFromGUI to CreativeConfig annotation\n* - Added Int and Decimal Supplier annotation and classes to enable on the fly min and max configuration\n* - Enabled custom type equals checker by default (for config systems)\n* - Removed CreativeConfig annotation being available for classes\n* Update `ru_ru.json` (thanks to mpustovoi)\n* Added GuiExtensionCreator (reworked combobox, stack selector etc.)\n* Added missing translation for true and false\n* Added GuiComboBoxFlexible\n* Added DataComponentPatch network field type\n* Added float parameter variants to GuiRenderHelper\n* Added new constructor to DisplayColor\n* Added copy method sameDimensions to CompiledText\n* Added different extension directions for GuiExtensionCreator\n* Added CLICKABLE_NO_BORDER ControlFormatting\n* Added new constructor for TextBuilder and an easy way to display a boolean\n* Added set Vec3i to VectorUtils\n* Added way to convert NBT to JSON back and forth\n* Added gray and dark gray to ColorUtils\n* Added VertexConsumer parameter for RenderBox and VectorFan\n* Added IntMatrix3c and transform methods for Axis, Facing, BoxCorner, Rotation\n* Fixed not syncing configuration when open to lan in singleplayer\n* Fixed slider not loosing it's grabbed state when being disabled\n* Fixed VectorFan white preview\n* Renamed LevelAccesorFake to LevelAccessorFake\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T15:26:53.584105Z",
+      "downloads": 8566,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "g1bI0vhH",
+          "hashes": {
+            "sha1": "7a431d3e33f8a59c1e2c895658d2d5cbdd9e4eae",
+            "sha512": "613b23a6c3c21b825329e7370f6934803fb23d153bf48f0f27b1838d234fe009c222250d0d51531d808cd2fd9ed2c396550bada18ddbef11fe03db1440973faf"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YHfsJkH3/CreativeCore_FABRIC_v2.13.0_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.13.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 1239434,
+          "file_type": null
+        },
+        {
+          "id": "xc2gvivM",
+          "hashes": {
+            "sha1": "252907c49ce4569a15b980f162743fcc2f59425d",
+            "sha512": "3a30a7be88a6fc1c08549c92f766b5767b63e7e2fdbfa28fd6a2cb85be59b295dc45ae388a7522670c88451bb75f2ff1368bd8934148711919f3731e33e8ad79"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YHfsJkH3/CreativeCore_FABRIC_SOURCE_v2.13.0_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.13.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 456724,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "mFygeYKW",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.13.0",
+      "version_number": "2.13.0",
+      "changelog": "* Reworked GuiControl\n* - Made Rect part of GuiControl\n* - Removed GuiChildControl\n* - Removed rect as parameter\n* - Removed addControl and addHoverControl from GuiParent\n* - Moved min, preferred and max methods for width and height from control to rect\n* - Removed rect from standard renderContent function in GuiControl\n* - Renamed package controls to control\n* - Removed non generic variant of combobox, state button, tab\n* Reworked NamedTree\n* - Added first and valueEntries to NamedTree\n* - Fixed folder force not working properly for nested paths in NamedTree\n* Changed Config System\n* - Added ConfigTypeRegistry which allows for type saving & loading with an automatically generated gui configuration (based on the config system)\n* - Added ICreativeRegistry to allow for multiple config systems to have independent field predicates\n* - Added hideFromGUI to CreativeConfig annotation\n* - Added Int and Decimal Supplier annotation and classes to enable on the fly min and max configuration\n* - Enabled custom type equals checker by default (for config systems)\n* - Removed CreativeConfig annotation being available for classes\n* Update `ru_ru.json` (thanks to mpustovoi)\n* Added GuiExtensionCreator (reworked combobox, stack selector etc.)\n* Added missing translation for true and false\n* Added GuiComboBoxFlexible\n* Added DataComponentPatch network field type\n* Added float parameter variants to GuiRenderHelper\n* Added new constructor to DisplayColor\n* Added copy method sameDimensions to CompiledText\n* Added different extension directions for GuiExtensionCreator\n* Added CLICKABLE_NO_BORDER ControlFormatting\n* Added new constructor for TextBuilder and an easy way to display a boolean\n* Added set Vec3i to VectorUtils\n* Added way to convert NBT to JSON back and forth\n* Added gray and dark gray to ColorUtils\n* Added VertexConsumer parameter for RenderBox and VectorFan\n* Added IntMatrix3c and transform methods for Axis, Facing, BoxCorner, Rotation\n* Fixed not syncing configuration when open to lan in singleplayer\n* Fixed slider not loosing it's grabbed state when being disabled\n* Fixed VectorFan white preview\n* Renamed LevelAccesorFake to LevelAccessorFake\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T15:20:33.617739Z",
+      "downloads": 23423,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YGvjHYXT",
+          "hashes": {
+            "sha1": "c7e3611d9a7447df80df5dd2b86143a21cec4854",
+            "sha512": "18c848b792e65e2d11896f1a3060d9c996bbced53503d160b32a08c4fa0af5af02b06fa5c6c37c810e56186e7d4ce415a3bbe0ede7a6ea4e32a08046c910bc5a"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/mFygeYKW/CreativeCore_NEOFORGE_v2.13.0_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.13.0_mc1.21.1.jar",
+          "primary": true,
+          "size": 1196293,
+          "file_type": null
+        },
+        {
+          "id": "Sn3Ab40O",
+          "hashes": {
+            "sha512": "103817ffb9b402c1418dabe0efba16bd339d72f2c8c41bc03143506ca3f2e325eea222a994f5559ac0201d24bcdb7932edbbebbd3b9cb6ffff54660b97113ef1",
+            "sha1": "60587427d59a5801dd3417c994703588d05d99fa"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/mFygeYKW/CreativeCore_NEOFORGE_SOURCE_v2.13.0_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.13.0_mc1.21.1.jar",
+          "primary": false,
+          "size": 460431,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "41kLE0hQ",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.32",
+      "version_number": "2.12.32",
+      "changelog": "* Added Holder to network types\n",
+      "changelog_url": null,
+      "date_published": "2025-02-04T15:10:43.949278Z",
+      "downloads": 61139,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yln7gEgR",
+          "hashes": {
+            "sha1": "00d6c8c98b1e7d4b28ffe12778431438ce3d0c60",
+            "sha512": "f4082dd5e3142f0b8b11d05c5afef2eeeb1e33240c2ebeaa6661012dc2a11bf599bf7711146f3c3afbfb8ffa903dba78f7f6d049c660c71006904764efdc0d2e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/41kLE0hQ/CreativeCore_NEOFORGE_v2.12.32_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.32_mc1.21.1.jar",
+          "primary": true,
+          "size": 1157605,
+          "file_type": null
+        },
+        {
+          "id": "FFXccyWs",
+          "hashes": {
+            "sha512": "8d415a571f1cf906c2f98f6232c24c22e5028ec8d8a5e88059db1db2447bfc1074f37eea7b96e306f6e445fa7323298add5a9060b62cce8be8f5c49b50293923",
+            "sha1": "2facb738a93fde3b518039a4da694c82c706cf0a"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/41kLE0hQ/CreativeCore_NEOFORGE_SOURCE_v2.12.32_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.32_mc1.21.1.jar",
+          "primary": false,
+          "size": 448276,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "5N3UG5Wm",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.32",
+      "version_number": "2.12.32",
+      "changelog": "* Added Holder to network types\n",
+      "changelog_url": null,
+      "date_published": "2025-02-04T15:08:07.635265Z",
+      "downloads": 522330,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wttmKGUy",
+          "hashes": {
+            "sha512": "be3e517be08f8a053516ec0befb06c696b944766a369dd71d39a587b9ec3422d4a615f226d34c8f4edf8f670560c049713573d5d33aee4215bab88e7df340a1d",
+            "sha1": "f8eca2a1faab459a1536d91ba4ad165505f0b912"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/5N3UG5Wm/CreativeCore_FABRIC_v2.12.32_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.32_mc1.21.1.jar",
+          "primary": true,
+          "size": 1200222,
+          "file_type": null
+        },
+        {
+          "id": "Ohs9fM5E",
+          "hashes": {
+            "sha512": "60f6fa3b06aacca06834efc3d207d6868c078e35f509ddeeaa5ca11e7ec4667e742f37f3e57228b8c885f8fc89102fd7cec8b6758102b8a9fef5b04484340564",
+            "sha1": "2785eedaeae458982add6448bef25b00880720e4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/5N3UG5Wm/CreativeCore_FABRIC_SOURCE_v2.12.32_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.12.32_mc1.21.1.jar",
+          "primary": false,
+          "size": 444519,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "3BHI0QiW",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.31",
+      "version_number": "2.12.31",
+      "changelog": "* Fixed not properly displaying error in packet\n",
+      "changelog_url": null,
+      "date_published": "2025-01-21T14:09:48.401520Z",
+      "downloads": 5849,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nnyN0pmy",
+          "hashes": {
+            "sha512": "83cc34abddf0ba7e7b621d8a6167796a94680efaf4920f56404c4cbb3ad143e306a63be75aa936441bdd47807a589fcffa7bcdb7344ee3fbb7de59b962f34bba",
+            "sha1": "a8aa806530aa28ac887ff41efddc3c874eaf8bf4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/3BHI0QiW/CreativeCore_NEOFORGE_v2.12.31_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.31_mc1.21.1.jar",
+          "primary": true,
+          "size": 1155444,
+          "file_type": null
+        },
+        {
+          "id": "C28GTNDa",
+          "hashes": {
+            "sha1": "fb2092178940b710dd29acf656fc9d4f1f85dee0",
+            "sha512": "1dbb0b1a562b30383e870624e943356308e89f987685d20299903eee022a1d28bafe986f387e168ed381e680dc47583d7259e0e15cf689deaa40c501f97b0fd3"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/3BHI0QiW/CreativeCore_NEOFORGE_SOURCE_v2.12.31_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.31_mc1.21.1.jar",
+          "primary": false,
+          "size": 447579,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "arn3dCJO",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.30",
+      "version_number": "2.12.30",
+      "changelog": "* Fixed round precision causing troubles with LittleTiles placement\n",
+      "changelog_url": null,
+      "date_published": "2025-01-18T11:34:05.871220Z",
+      "downloads": 1643,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9KOur7up",
+          "hashes": {
+            "sha1": "42ed4d9c9e2545bb06e7f01153a74f86c9f36435",
+            "sha512": "013a71b0c6e9252ae794405ae50d8e8bf6d2c868654462533df401766477d9497089b2f586e214adf316a3f671780ae8c1664a4f503ad0a6aaba0b29dc9221a5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/arn3dCJO/CreativeCore_NEOFORGE_v2.12.30_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.30_mc1.21.1.jar",
+          "primary": true,
+          "size": 1155417,
+          "file_type": null
+        },
+        {
+          "id": "mXS3NOYq",
+          "hashes": {
+            "sha1": "5f6bc74d6fd138eba7f9cf2aa86e35a663b8b32e",
+            "sha512": "4b51d4b93f314927af1076b3b39e2fd941db2249661e3614137eda17fe0df0ff2b465e5633e65c5cc58840395ff7cb8142e4d1a75ee060f401156f31501c5b0c"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/arn3dCJO/CreativeCore_NEOFORGE_SOURCE_v2.12.30_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.30_mc1.21.1.jar",
+          "primary": false,
+          "size": 447572,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "gZa9Yg6Q",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.29",
+      "version_number": "2.12.29",
+      "changelog": "* Added ChunkLayerMapList\n* Removed unnecessary field from RenderBox\n* Added clear to IndexedCollector\n* Added requiresAdvancedEntityStep to BoxesVoxelShape\n",
+      "changelog_url": null,
+      "date_published": "2025-01-17T18:05:00.870768Z",
+      "downloads": 517,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TMfXaHFy",
+          "hashes": {
+            "sha1": "91e905acf6168ce5c72f6f79e20dd940b8495400",
+            "sha512": "997f916e49d529570519d915389253fa48337fa1c51e3306033cb27aa9ad7de1a238d401473350191d66a12ecd01c733f025fa1e488a4afefa93032613657d38"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/gZa9Yg6Q/CreativeCore_NEOFORGE_v2.12.29_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.29_mc1.21.1.jar",
+          "primary": true,
+          "size": 1155334,
+          "file_type": null
+        },
+        {
+          "id": "GNHyBAt1",
+          "hashes": {
+            "sha1": "7eef0c3e7bfcb60dd60c4b43a1015fe8558b08f8",
+            "sha512": "a87d5b2d64f93e11e77c848aeb521bce456b7e26a174e8b51f8aa3ab18bd2d2b7c9dbe65df179d53d6af3b82a6bb456e8580a5aaec732f3433bd85ebedcb98ec"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/gZa9Yg6Q/CreativeCore_NEOFORGE_SOURCE_v2.12.29_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.29_mc1.21.1.jar",
+          "primary": false,
+          "size": 447533,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "5l4jFnNh",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.28",
+      "version_number": "2.12.28",
+      "changelog": "* Added modelData as parameter for quad methods\n",
+      "changelog_url": null,
+      "date_published": "2025-01-03T12:39:22.592312Z",
+      "downloads": 5344,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rFTHWij5",
+          "hashes": {
+            "sha512": "b2b505fa2e97f548e74333185589d411ab5c8bb53b1b73b381fd836f487104ebca341789defd8cf7d60f8a18b0cb57cc7a6fc2637c26db08eaff64544e2cb51f",
+            "sha1": "435b4b5b0ec99e8b66daf89c4b7344b075ea8831"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/5l4jFnNh/CreativeCore_NEOFORGE_v2.12.28_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.28_mc1.21.1.jar",
+          "primary": true,
+          "size": 1150602,
+          "file_type": null
+        },
+        {
+          "id": "P4Sbuhnx",
+          "hashes": {
+            "sha512": "d56a47eda0e9e1e287802e6268f7e3b3f122db493fc5a88501abdb6c25fc72301ab7dc6f5b0cc08cb23b62affebab152672cfcc4a7a9fb07a403bbc43660302c",
+            "sha1": "4fcd35a270cd2947e865f1c0e8f3a17e8d0ebe58"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/5l4jFnNh/CreativeCore_NEOFORGE_SOURCE_v2.12.28_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.28_mc1.21.1.jar",
+          "primary": false,
+          "size": 446161,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "e1Jb5BpI",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.27",
+      "version_number": "2.12.27",
+      "changelog": "* Added FunctionNonNullIterator\n",
+      "changelog_url": null,
+      "date_published": "2024-12-17T19:39:19.692994Z",
+      "downloads": 5543,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "H0axqwE0",
+          "hashes": {
+            "sha512": "07e9ed6d5ab79b10a2e91e2936564f686df2ce0d005e785e24a17531656805d4915cd68e7fb473c7df0778969f463a8d15cd83f9b5a77a4cdf109245793bd8be",
+            "sha1": "1c08737c6757d9af4fd065eaeac74c21c8464bc3"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/e1Jb5BpI/CreativeCore_NEOFORGE_v2.12.27_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.27_mc1.21.1.jar",
+          "primary": true,
+          "size": 1150626,
+          "file_type": null
+        },
+        {
+          "id": "ABlmVU7C",
+          "hashes": {
+            "sha1": "adf2b6b11baf4f2f54fec31197f952bcb422b855",
+            "sha512": "9ff5131082ae360262bcc9756d1bac2c362a46f800c6f3cfa3a6cf513d3e2662644c66ed46fdcdd77c93be87c845369f45f69c8b307082cb5d50bddf049291dd"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/e1Jb5BpI/CreativeCore_NEOFORGE_SOURCE_v2.12.27_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.27_mc1.21.1.jar",
+          "primary": false,
+          "size": 446174,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "QkxPc4Rx",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.26",
+      "version_number": "2.12.26",
+      "changelog": "* Added better configuration for max string length for GuiTextfield\n",
+      "changelog_url": null,
+      "date_published": "2024-12-13T12:49:29.183336Z",
+      "downloads": 1897,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "duk31ZCY",
+          "hashes": {
+            "sha1": "4311ac1ca7d9de74720ee6f36dae6f50accee757",
+            "sha512": "00f8ff19076996d3bcd8c74e6bd1fe7cce99b49a0f644d848572a89a63850961148aa8647db7097b73e69628f7787e98f2b0916c0890d0b118d87423ccdd9d83"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/QkxPc4Rx/CreativeCore_NEOFORGE_v2.12.26_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.26_mc1.21.1.jar",
+          "primary": true,
+          "size": 1149583,
+          "file_type": null
+        },
+        {
+          "id": "Mwt7B0hU",
+          "hashes": {
+            "sha512": "19a926596d5b73f81ab0495ad3cf37d74ea3ff5d76c81f25a7c6bbe5cb284c560291e6f2a66d6c67fcc1fcd154a45173189c0b318910d2076ecd56704fef2edf",
+            "sha1": "a0693aca5e58dee50072e26cb4176b9061b5b4e8"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/QkxPc4Rx/CreativeCore_NEOFORGE_SOURCE_v2.12.26_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.26_mc1.21.1.jar",
+          "primary": false,
+          "size": 445603,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "1oQobesq",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.25",
+      "version_number": "2.12.25",
+      "changelog": "* Fixed not being able to send and receive bundle packets\n* Fixed crash when attempting to load unavailable item or block\n",
+      "changelog_url": null,
+      "date_published": "2024-12-12T23:12:01.362857Z",
+      "downloads": 247,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8slPwdBI",
+          "hashes": {
+            "sha1": "466f56b4709a01bd05535b9c747f410b0f40456c",
+            "sha512": "5f3e6ed12dac18ea233dbae5b225819405d58088cce8e964214b89f72d76b34281499c3632b0d95e85c2f7097f0846a00064465af5a8fcb4ddcf913b5f284dc9"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/1oQobesq/CreativeCore_NEOFORGE_v2.12.25_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.25_mc1.21.1.jar",
+          "primary": true,
+          "size": 1149529,
+          "file_type": null
+        },
+        {
+          "id": "TgkVKOhk",
+          "hashes": {
+            "sha1": "8fb2f5d44743ff08f8f1f9161f5555314f9226ed",
+            "sha512": "7f95fa223c9e99a9d490d6acb4c7b4408beff50bf75e5e91cbfbd6a41573a40ca479ba309b79386b247346322f255455bb598dd547969602fe82934291d7ca08"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/1oQobesq/CreativeCore_NEOFORGE_SOURCE_v2.12.25_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.25_mc1.21.1.jar",
+          "primary": false,
+          "size": 445590,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "inrtMtqF",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.24",
+      "version_number": "2.12.24",
+      "changelog": "* Added NormalPlaneF isFacing check\n* Added float variants of equals to Maths\n",
+      "changelog_url": null,
+      "date_published": "2024-12-05T22:37:38.072683Z",
+      "downloads": 1726,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FdA2f5A1",
+          "hashes": {
+            "sha512": "09361e48937a21c829c42934e06db69070671519ea9db230fe96f7d8f383d1f3a20a2b300cebe55d0dcecec150fb21e0f3728298f82fa8638feacfcdfc2c1c2c",
+            "sha1": "fed3a1627aab8d8b2588e607a9678601e1eaf356"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/inrtMtqF/CreativeCore_NEOFORGE_v2.12.24_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.24_mc1.21.1.jar",
+          "primary": true,
+          "size": 1147742,
+          "file_type": null
+        },
+        {
+          "id": "71SWgErz",
+          "hashes": {
+            "sha1": "b7f6be83b3e46bf19b3b9b00b8ce6dc44b0d1521",
+            "sha512": "d1e21d56cf94ceb886d5807c38ea4ce422c45ad462caeb95678d91f93a127f15335cf61cf161a6112ff1035b94d8f66a026c2a1f732e619f68359fb921c774f6"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/inrtMtqF/CreativeCore_NEOFORGE_SOURCE_v2.12.24_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.24_mc1.21.1.jar",
+          "primary": false,
+          "size": 444820,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "EhLyjbcU",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.23",
+      "version_number": "2.12.23",
+      "changelog": "* Reworked stack ingredient (allow to select data components to be checked for)\n* Added GuiCheckList\n* Added getInnerControl to GuiLabeledControl\n* Enhanced ingredient selection layout\n* Added equals to Maths with epsilon parameter\n",
+      "changelog_url": null,
+      "date_published": "2024-11-29T12:21:33.685560Z",
+      "downloads": 582635,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QmJmAVQv",
+          "hashes": {
+            "sha512": "74ff5a4300fd9dfd0ff9fb6d3bb577c736d1e9525641a115979fb12dfb621081fc90d17461e640194a8013802d2db6af35573c5c855df1a5f7f68c0b2f14c09e",
+            "sha1": "9e4347716b9a9b8eca89733e3e936bb03e300fd0"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/EhLyjbcU/CreativeCore_FABRIC_v2.12.23_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.23_mc1.21.1.jar",
+          "primary": true,
+          "size": 1189491,
+          "file_type": null
+        },
+        {
+          "id": "KNg8FZvF",
+          "hashes": {
+            "sha1": "f6ba41eabc6bf2264f4d0c0b5806574fd89b0630",
+            "sha512": "e6f1ef62ed57218c74db608e5e41d4a593e51d4e0564baa969354b398d07eaa9bc9bb06622df76857778834ec8b05875081d234f24c3ecdb0346e7033b5a80be"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/EhLyjbcU/CreativeCore_FABRIC_SOURCE_v2.12.23_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.12.23_mc1.21.1.jar",
+          "primary": false,
+          "size": 440912,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "86hOeD1L",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.23",
+      "version_number": "2.12.23",
+      "changelog": "* Reworked stack ingredient (allow to select data components to be checked for)\n* Added GuiCheckList\n* Added getInnerControl to GuiLabeledControl\n* Enhanced ingredient selection layout\n* Added equals to Maths with epsilon parameter\n",
+      "changelog_url": null,
+      "date_published": "2024-11-29T12:19:17.040644Z",
+      "downloads": 2027,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Mfg6WSRP",
+          "hashes": {
+            "sha1": "973beec8cfcaf9cc8d97ca1c834575ea41fb9e22",
+            "sha512": "f0fc86e07a235dd7facaf4265df08c0a771f731b625890f754a3085983e0e3e0867f97a03fdc1bc5469ef5dd701cc0f1d6efe908177c4df646434dcc090fcdd9"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/86hOeD1L/CreativeCore_NEOFORGE_v2.12.23_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.23_mc1.21.1.jar",
+          "primary": true,
+          "size": 1147535,
+          "file_type": null
+        },
+        {
+          "id": "h8MByLaS",
+          "hashes": {
+            "sha512": "157c46035418219ba1df42568528b6cc26cf9c23587a0cdbbde43ce32a666db36f5f23e2d58ec3bc6948bcfec9d427ba7d7442d5b6aa899ed8e9af7890337d2e",
+            "sha1": "328aac58e1121ff46df0e10dd043ecd48e6c7ae9"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/86hOeD1L/CreativeCore_NEOFORGE_SOURCE_v2.12.23_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.23_mc1.21.1.jar",
+          "primary": false,
+          "size": 444775,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "hJiJWX6o",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.22",
+      "version_number": "2.12.22",
+      "changelog": "* Added better way for automated config equals checking\n* Fixed permissions not saving\n* Added TriPredicate\n",
+      "changelog_url": null,
+      "date_published": "2024-11-06T17:02:38.606427Z",
+      "downloads": 91510,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nqytX3ui",
+          "hashes": {
+            "sha512": "5c271d18eb9e3cc3d98f6cacceec4eebf16958bf81f1f65d2e0c30f3867b7bbebc34e74feb018d51da745d108707f47f216222460bb05137a0029c79c3f85e9c",
+            "sha1": "785c618de91d2fe2b91f79433a1cbb88f5708ec2"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/hJiJWX6o/CreativeCore_FABRIC_v2.12.22_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.22_mc1.21.1.jar",
+          "primary": true,
+          "size": 1180376,
+          "file_type": null
+        },
+        {
+          "id": "L9LqvujU",
+          "hashes": {
+            "sha1": "32084345f8c9bbea94c1b93c98201637ebba5b1e",
+            "sha512": "a02111cf4d73676f62a7c412a5622e14b3c1c1248937662148dd8669399378796f4c6aeda488efc5c8dcb01f5a6c4990966a4fba6c11178a3270064dfd81c3d0"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/hJiJWX6o/CreativeCore_FABRIC_SOURCE_v2.12.22_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.12.22_mc1.21.1.jar",
+          "primary": false,
+          "size": 438374,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "YvlODebm",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.22",
+      "version_number": "2.12.22",
+      "changelog": "* Added better way for automated config equals checking\n* Fixed permissions not saving\n* Added TriPredicate\n",
+      "changelog_url": null,
+      "date_published": "2024-11-06T17:00:51.853608Z",
+      "downloads": 6510,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7Z4ijvVP",
+          "hashes": {
+            "sha1": "8061456b46dc93d14570ae2c220016084026e19a",
+            "sha512": "c8535ad0f095f5d0470272e796d5a19fa551b838c36cd0be019c2e758d0c0cd803079d07784f1e2c0ca8990874eae419b18cf21555ea2af9c1ff52e64e64c151"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YvlODebm/CreativeCore_NEOFORGE_v2.12.22_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.22_mc1.21.1.jar",
+          "primary": true,
+          "size": 1138419,
+          "file_type": null
+        },
+        {
+          "id": "ySbeFBmV",
+          "hashes": {
+            "sha1": "1a81ba42e2554925e5128c2fe8987711c640a921",
+            "sha512": "1f1cf198db07249f94d6c5dde7dffa201c85dbedc5f4957c2f436a32d25f21c58be0f93186b476566e5fbef869ab806fd46ad9956b27bc3befc7dd1813debf35"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YvlODebm/CreativeCore_NEOFORGE_SOURCE_v2.12.22_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.22_mc1.21.1.jar",
+          "primary": false,
+          "size": 442217,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "W1ont5FP",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.21",
+      "version_number": "2.12.21",
+      "changelog": "* Fixed crash when adding an item in the config to a list of CreativeIngredient\n",
+      "changelog_url": null,
+      "date_published": "2024-10-29T14:19:54.335018Z",
+      "downloads": 2153,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SSVlJjlI",
+          "hashes": {
+            "sha1": "5468541851aa2f4868712e33acd367b981900d7f",
+            "sha512": "cbc0d8ee8febda0d00c4dfdc3567529b5a1d4b244236b7b813ae46125619ff402f78cbb7e89868428c008de10e74836f3ff7bcac9f6f08d148fdea1ac5026952"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/W1ont5FP/CreativeCore_NEOFORGE_v2.12.21_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.21_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136568,
+          "file_type": null
+        },
+        {
+          "id": "FlXslJxZ",
+          "hashes": {
+            "sha1": "f2a7f3ae344b0313dd133fecd6122ebe32703ff5",
+            "sha512": "d1e78b2d527677c81c718af0ea3968b1a95ebb6b6f4f76f5a7f78baee007ab0653f68d94ad02fd6a891e99b79e0f32f0dc21dc2c97db0ad592f68a5275cbea1d"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/W1ont5FP/CreativeCore_NEOFORGE_SOURCE_v2.12.21_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.21_mc1.21.1.jar",
+          "primary": false,
+          "size": 441302,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "ln1ifZ8z",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.19",
+      "version_number": "2.12.19",
+      "changelog": "* Fixed fabric fireItemPickupPre hook not returning correct result\n",
+      "changelog_url": null,
+      "date_published": "2024-10-22T12:57:25.524472Z",
+      "downloads": 2081,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qPQ0Kuvx",
+          "hashes": {
+            "sha512": "ce77446eaeff7b369da96f250a567216b513004da06d410ffa1d73cade0928296726614ec19444318ed754e88440480b4bf264386df6eb8b6187c84494e9b9c1",
+            "sha1": "22f16545d0c34dbd41c5530a4f5b3f81b4e77809"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ln1ifZ8z/CreativeCore_NEOFORGE_v2.12.19_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.19_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136481,
+          "file_type": null
+        },
+        {
+          "id": "rq5OKaPK",
+          "hashes": {
+            "sha1": "39edea2ab47f84ac58da082aa2ae37ce71ed16fb",
+            "sha512": "00fa152b8233f0daf924c4b9172643a799821595093380aecbb4f20f6e2a4b03274ebcdbb2b4ea26a63450e72f0797c6632c5fd3ad93006c8479c3c5dd8dff5d"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ln1ifZ8z/CreativeCore_NEOFORGE_SOURCE_v2.12.19_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.19_mc1.21.1.jar",
+          "primary": false,
+          "size": 441280,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "MRxhOBXs",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.19",
+      "version_number": "2.12.19",
+      "changelog": "* Fixed fabric fireItemPickupPre hook not returning correct result\n",
+      "changelog_url": null,
+      "date_published": "2024-10-17T16:48:33.268122Z",
+      "downloads": 85188,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FAmds84S",
+          "hashes": {
+            "sha1": "0af9f73ba6fa0091a424e3d795f1867c046e2e42",
+            "sha512": "8c46c02616bbcceaf033fd3037e777b9a92391b37179c9325a4a1b97f44670db24cd2c403e88980aaa48dbec754d30b8a7965d79bd054b7d4a420b96d650e784"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/MRxhOBXs/CreativeCore_FABRIC_v2.12.19_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.19_mc1.21.1.jar",
+          "primary": true,
+          "size": 1178422,
+          "file_type": null
+        },
+        {
+          "id": "I3dcd5NW",
+          "hashes": {
+            "sha512": "5086493ba3c33957d59ff15c9ff5be65635768f37c22c391d7fc70f9ecd402c26f841ca7fbf76c93f20cb60b36bfffb98127e633a90084f18a35cbeccfa414cf",
+            "sha1": "ccd4ed8f3da6f4e51c9b5cb7200736cf55170736"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/MRxhOBXs/CreativeCore_FABRIC_SOURCE_v2.12.19_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.12.19_mc1.21.1.jar",
+          "primary": false,
+          "size": 437437,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "y841FR2z",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.18",
+      "version_number": "2.12.18",
+      "changelog": "* Fixed crash when using CreativeCore on a fabric server\n",
+      "changelog_url": null,
+      "date_published": "2024-10-16T13:30:05.227738Z",
+      "downloads": 3861,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ALIX1XvJ",
+          "hashes": {
+            "sha1": "789aec7940506eb4091577c462250752bc953d9a",
+            "sha512": "ca43b9fafff2a8dc89fea51ad60adc5d3f076bb03d08d946ae6c9fa3df5689086486aaf3b6610701cab73ea9f653f19a80ed4969308c72f103449f222af6ec47"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/y841FR2z/CreativeCore_FABRIC_v2.12.18_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.18_mc1.21.1.jar",
+          "primary": true,
+          "size": 1178422,
+          "file_type": null
+        },
+        {
+          "id": "tLpAREdf",
+          "hashes": {
+            "sha1": "32f04d7e0f1f23e9440c56e65e1e56b7165a2343",
+            "sha512": "32bfadf9a04418e305dd5f3f6e2248f2e8dc5f1cbb00210447288d38633ac9c906f703e38814d0e27b62c698a3da5d2bbe014ede3de5f669da6e603af478c660"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/y841FR2z/CreativeCore_FABRIC_SOURCE_v2.12.18_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.12.18_mc1.21.1.jar",
+          "primary": false,
+          "size": 437437,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "Xuk0t9Jg",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.17",
+      "version_number": "2.12.17",
+      "changelog": "* Fixed a few more collision edge cases causing a crash\n",
+      "changelog_url": null,
+      "date_published": "2024-10-01T15:09:03.992140Z",
+      "downloads": 24068,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MXNVl197",
+          "hashes": {
+            "sha512": "8c6c4ec3d52670055439de3d2d3687548c5ae58d26b98abe3286849d97a098a285df289b877e2a063a340d558b98e14bbf2b6f7c7b9ce55c1797ee8934c71d4b",
+            "sha1": "2c581dcbf071fa7d910f8c719e366a3df2d69de5"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Xuk0t9Jg/CreativeCore_NEOFORGE_v2.12.17_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.17_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136482,
+          "file_type": null
+        },
+        {
+          "id": "mgKFD43s",
+          "hashes": {
+            "sha1": "9424e903f7da9a765c8502631955adf4326b581b",
+            "sha512": "c05ff4ab2b09fb19b1b0f5254f541e178ee148d12abc7290cc9a1a5b01156dbc9123d97a36f337dce1736fd408903570da8ecffae29d0af86905dc2423ca33b4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Xuk0t9Jg/CreativeCore_NEOFORGE_SOURCE_v2.12.17_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.17_mc1.21.1.jar",
+          "primary": false,
+          "size": 441281,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "r5ykLPVP",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.16",
+      "version_number": "2.12.16",
+      "changelog": "* Added dist to @Mod annotation (shadowed from NeoForge)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-21T20:33:33.975921Z",
+      "downloads": 82945,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GcbmRrKb",
+          "hashes": {
+            "sha1": "a66f4beaec86b8e07524175dfd8c82326b1aaeb2",
+            "sha512": "8cc0f97e923e2a584f29b823f25c65d0058a97866aa18f40a4bbec93d670a84f5e50a9bfdf6e8d30c663d8213be29cd5358f2e73aab30cfa77de5de2ad334ae8"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/r5ykLPVP/CreativeCore_FABRIC_v2.12.16_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.16_mc1.21.1.jar",
+          "primary": true,
+          "size": 1178409,
+          "file_type": null
+        },
+        {
+          "id": "RlAZn55M",
+          "hashes": {
+            "sha1": "646f66b1f7dcd2e9965dbc36d6eaa03ec7690cf8",
+            "sha512": "95e9a69eaf7ec0d5e5623d8b80e1f2b38b63eadf0b4fc55f14546e200ca7b43eb8c35a99205527d26b76b448f4e2d9ff86b7ef6ba5fbc6ae86ede502f2b2456f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/r5ykLPVP/CreativeCore_FABRIC_SOURCE_v2.12.16_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.12.16_mc1.21.1.jar",
+          "primary": false,
+          "size": 437429,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "RbBevXKC",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.15",
+      "version_number": "2.12.15",
+      "changelog": "* Fixed LineBitSet results not being correct\n* Fixed reset button translation not working correctly when using LittleTiles\n* Fixed crash with certain types of generic configuration\n",
+      "changelog_url": null,
+      "date_published": "2024-09-21T16:42:35.091884Z",
+      "downloads": 3108,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jJjdkgsL",
+          "hashes": {
+            "sha1": "00ea8a647e959676bfd815c95843d07a9d223ede",
+            "sha512": "4be2d0a319e80ba488e80ad0ac7a0f348a4f9de6c7d43ba7326c6d13884a90ffc5500aab080e242d13c33217d9c85327ad29ad5f539e27cf8375912213ac455e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/RbBevXKC/CreativeCore_NEOFORGE_v2.12.15_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.15_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136463,
+          "file_type": null
+        },
+        {
+          "id": "1071LSev",
+          "hashes": {
+            "sha512": "1943df2a48e3a06877aa9d78a4694d89d1f82a1f0754b845ce8afb7cb72e417aaf54070a6ecec9f93913081c0fcd9097279c60ce03d81488b23221ae35e5b2fc",
+            "sha1": "ea6ded4b0ef67765c2999382918918d9832c1ded"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/RbBevXKC/CreativeCore_NEOFORGE_SOURCE_v2.12.15_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.15_mc1.21.1.jar",
+          "primary": false,
+          "size": 441274,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "zpPhPSIE",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.13",
+      "version_number": "2.12.13",
+      "changelog": "* Fixed values and keys iteration not working for TupleList\n",
+      "changelog_url": null,
+      "date_published": "2024-09-18T08:37:23.473395Z",
+      "downloads": 1263,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1eIzNi9u",
+          "hashes": {
+            "sha512": "ac7aceb7cdc88579420e80c7de8a82785e15c1460eb5a61a30d8f549815854c82202e689f91c14c6136cc14d4f082ddc780c540ddf3816ca98bb019ac771d6a9",
+            "sha1": "f613cccedf1dd651cf12271fa9b35b3e8e04e0e4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/zpPhPSIE/CreativeCore_NEOFORGE_v2.12.13_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.13_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136339,
+          "file_type": null
+        },
+        {
+          "id": "t1yHfWjV",
+          "hashes": {
+            "sha512": "160c36e1ba9a02a4c1204de50d4051c2e01dc210f213117f32c9904513f97b46f827f694d12cb3e59ce63923db7428ac7572e5ffe596c3693cc00e87a3c6a2c4",
+            "sha1": "e44a8b8ad8aa684c58f00da1c08137798b87ea23"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/zpPhPSIE/CreativeCore_NEOFORGE_SOURCE_v2.12.13_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.13_mc1.21.1.jar",
+          "primary": false,
+          "size": 441209,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "5vEaaHg8",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.12",
+      "version_number": "2.12.12",
+      "changelog": "* Fixed intersect2d of VectorFan not working in all cases\n",
+      "changelog_url": null,
+      "date_published": "2024-09-16T15:25:18.257434Z",
+      "downloads": 2899,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gR4wWwcu",
+          "hashes": {
+            "sha512": "197cd3be1ab399a0888958d328fe682de43bd0ed6cee1ad890140194682909ac3217bf613674f6179adc4b64a993493396227c0f3b13b4fa861bda297a183aae",
+            "sha1": "797b8acb536aacfedbbd799b4388381decb545dc"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/5vEaaHg8/CreativeCore_NEOFORGE_v2.12.12_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.12_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136399,
+          "file_type": null
+        },
+        {
+          "id": "lhPBAf0F",
+          "hashes": {
+            "sha1": "480a2710d8061bd9511bf2e5f28e16643b53184b",
+            "sha512": "eb10f52d1da6257eebf88bc269e67e21c75393fd0d3593d14db494a809a467bb2ec091ce1fa4f0cdd44ac868c6e5069541d235eb24bca911fa15a8ffdfc5c3f4"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/5vEaaHg8/CreativeCore_NEOFORGE_SOURCE_v2.12.12_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.12_mc1.21.1.jar",
+          "primary": false,
+          "size": 441223,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "b1e6cO20",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.11",
+      "version_number": "2.12.11",
+      "changelog": "* Fixed not being able to type in a minus when entering number into number textfield\n",
+      "changelog_url": null,
+      "date_published": "2024-09-04T15:34:16.171502Z",
+      "downloads": 52647,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "merBhupL",
+          "hashes": {
+            "sha512": "5cd613a397cf82cd538e05d5cf18786439f952583683e68f1c8891809fa06b4fb83442290bf5c89071140e0c1d0d0941f1b412f6dca87e9dcd635c644ac8b017",
+            "sha1": "6ab8e377010d298d9e8a259c81dec26ce61019a9"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/b1e6cO20/CreativeCore_FABRIC_v2.12.11_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.11_mc1.21.1.jar",
+          "primary": true,
+          "size": 1178188,
+          "file_type": null
+        },
+        {
+          "id": "uTk1xyGM",
+          "hashes": {
+            "sha512": "f0db0bd9d2a0329c4c4db09f4da03933e1b013309f835c386a5e4ec86faee6200a0549308fbd16b830211c91c49d60c71f807d38c29e6c09f641cdf0bbecbbfb",
+            "sha1": "e5ad0057510f982d0106ebc167f6547a04d9c156"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/b1e6cO20/CreativeCore_FABRIC_SOURCE_v2.12.11_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_SOURCE_v2.12.11_mc1.21.1.jar",
+          "primary": false,
+          "size": 437252,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "LtfjSbyf",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.11",
+      "version_number": "2.12.11",
+      "changelog": "* Fixed not being able to type in a minus when entering number into number textfield\n",
+      "changelog_url": null,
+      "date_published": "2024-09-04T15:31:51.170366Z",
+      "downloads": 1727,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "V0kvBH9V",
+          "hashes": {
+            "sha1": "942664c4ad3a3f3e225b30090b90950357a2651c",
+            "sha512": "a3f96f34de046aa7f54b2a6a9750847da9c91dd620037532ad276e94f5680d5d8d440351b8f3b156fe26726c7d7ebc1366882a03c21fbd12eefc5a3384f96035"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/LtfjSbyf/CreativeCore_NEOFORGE_v2.12.11_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.11_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136339,
+          "file_type": null
+        },
+        {
+          "id": "byOZ7T0J",
+          "hashes": {
+            "sha1": "b222ee403a6d9057ae36606e2cf9b4bdfb4724a0",
+            "sha512": "a781f007650fc94eaa6425272cf57243b824d9c348ac614f32dfa77e9c072131f7a1f97cb2c61d0963ab997a14c574a6c8e936ab080ea7ae757ccf69fd98503f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/LtfjSbyf/CreativeCore_NEOFORGE_SOURCE_v2.12.11_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.11_mc1.21.1.jar",
+          "primary": false,
+          "size": 441170,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "IrQio3CK",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.10",
+      "version_number": "2.12.10",
+      "changelog": "* Update es_es.json (Thanks to C4BR3R4)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-04T07:27:49.453757Z",
+      "downloads": 1042,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KvpJg417",
+          "hashes": {
+            "sha512": "531bdac71e33f8ccfcde1b440663c3c41211508975e74b7bd90e0cf147adc376f81d2005a94617b5c595a068e6db6c9190e7d0ee5a22a6fa471d49ccbad363a7",
+            "sha1": "685d3f16ce7b9196d11875f322949f95517a672e"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/IrQio3CK/CreativeCore_FABRIC_v2.12.10_mc1.21.1.jar",
+          "filename": "CreativeCore_FABRIC_v2.12.10_mc1.21.1.jar",
+          "primary": true,
+          "size": 1178142,
+          "file_type": null
+        },
+        {
+          "id": "RtFTn27F",
+          "hashes": {
+            "sha1": "b8b855774cd56f54b49b39287987c51e16fd7ef9",
+            "sha512": "a66a042ffe324bd94a47aa733c3ddf536c8d648a51a5db69426d6409519fa9bc9ecabbba77e7a04f3b7d813e5c4f25b6cafb5d5b25b4c122d32fe5c30efb4424"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/IrQio3CK/CreativeCore-sources.jar",
+          "filename": "CreativeCore-sources.jar",
+          "primary": false,
+          "size": 437228,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "zCxDrR7f",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.10",
+      "version_number": "2.12.10",
+      "changelog": "* Update es_es.json (Thanks to C4BR3R4)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-04T07:26:03.752627Z",
+      "downloads": 313,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "z9xmQven",
+          "hashes": {
+            "sha1": "176421fa474b5f7b4eb37ac336250115eba18dfd",
+            "sha512": "276adbda4607b3420a1af547951a6089d5b772d508f7c25781ded45d13564f0f2667b0de04abc43e0809eadf3ddc5408e40b28b9ff40229598b021c0b39408f0"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/zCxDrR7f/CreativeCore_NEOFORGE_v2.12.10_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.10_mc1.21.1.jar",
+          "primary": true,
+          "size": 1136304,
+          "file_type": null
+        },
+        {
+          "id": "qPmmgFVe",
+          "hashes": {
+            "sha1": "0a5571abc465bf789ec792a9e0097ddd022e83a8",
+            "sha512": "cd27a91ac0229fe58c849689494afaf2a91e19a00bbc85984f8cbc0b030f1b1fc450741a166e60b3705c9a201dd775a188e9abb50f7359bfe93047ef40e575bd"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/zCxDrR7f/CreativeCore_NEOFORGE_SOURCE_v2.12.10_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.10_mc1.21.1.jar",
+          "primary": false,
+          "size": 441147,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "CX0unjU0",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.8",
+      "version_number": "2.12.8",
+      "changelog": "* Fixed rendering of GuiScrollX scroll bar\n* Added insert control before and after methods to GuiParent\n* Added vanilla behavior of moving shift clicking stack inside players inventory\n* Fixed another intersection edge case\n* Fixed random crash when getting style\n",
+      "changelog_url": null,
+      "date_published": "2024-08-21T12:40:45.813281Z",
+      "downloads": 2392,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4LdRp2Rz",
+          "hashes": {
+            "sha1": "e3ebaf1a155907600bb6de9af58585d382ab144d",
+            "sha512": "feffc2a04bb3ef5ab392cf8d9139f8cb408730da159ae18c43b6df36adde864dfd22b486f6f2337a76436f375f6be5c1258e7cb390c99fcc4e49c473cf91884f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/CX0unjU0/CreativeCore_NEOFORGE_v2.12.8_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.8_mc1.21.1.jar",
+          "primary": true,
+          "size": 1135278,
+          "file_type": null
+        },
+        {
+          "id": "Ev5ZVqrH",
+          "hashes": {
+            "sha1": "4069480d112b190316e2b7e7fef9c51de30a0225",
+            "sha512": "1bb9d1edf7477d4116f838023d4156c6b041eac3822403d8c97f557410d4440ae4f54aab430e2a72f370ab072b3b3fd15e44d070bdef6048a318d5e68506ea8f"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/CX0unjU0/CreativeCore_NEOFORGE_SOURCE_v2.12.8_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.8_mc1.21.1.jar",
+          "primary": false,
+          "size": 452149,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only_server_optional",
+      "id": "YyqmVlCG",
+      "project_id": "OsZiaDHq",
+      "author_id": "YTAyzo4h",
+      "featured": false,
+      "name": "2.12.7",
+      "version_number": "2.12.7",
+      "changelog": "* Potentially fixed occasional crash when loading GuiStyle at the same time from two different threads\n* Fixed collision edge case where both boxes are exactly next to each other which cause the player to get stuck (Occured frequently to vanillas new and improved step up behavior)\n* Fixed crash when using inventories in gui\n* Fixed not displaying error when executing packet in log\n* Significantly enhanced performance related to boxes-voxel-shapes when combining shapes\n* Fixed not being able to send vanilla packets\n* Added untrimmedContent to CompiledText\n* Fixed VertexFormatUtils\n",
+      "changelog_url": null,
+      "date_published": "2024-08-15T17:38:33.609924Z",
+      "downloads": 745,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "P27THWK9",
+          "hashes": {
+            "sha512": "4f379121f5c00e179993f15aeb9a7c4f4c053a37097e6a65af70b4db7108dd621cdf161678ed7cb33478c407f6b25b703e5a2eae8f0ed3b21abed4da63b199f6",
+            "sha1": "28f04e931cc23f807bfb3c744ada40f321ea421b"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YyqmVlCG/CreativeCore_NEOFORGE_v2.12.7_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_v2.12.7_mc1.21.1.jar",
+          "primary": true,
+          "size": 1134253,
+          "file_type": null
+        },
+        {
+          "id": "Awd2wkXO",
+          "hashes": {
+            "sha1": "9a05fec19b1ee70b2cf0b914c0f28a31d26c7d8f",
+            "sha512": "8d6fd2eda9e4e87e2b439d99311a8b589488a4553ef4ad2ee7917255036bab5980bfe2cc985c0bdd0d1af7b1314df79d44ab65d53e440cc07086be085aa56442"
+          },
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/YyqmVlCG/CreativeCore_NEOFORGE_SOURCE_v2.12.7_mc1.21.1.jar",
+          "filename": "CreativeCore_NEOFORGE_SOURCE_v2.12.7_mc1.21.1.jar",
+          "primary": false,
+          "size": 451439,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

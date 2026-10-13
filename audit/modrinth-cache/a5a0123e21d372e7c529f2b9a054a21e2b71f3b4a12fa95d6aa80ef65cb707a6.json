@@ -1,0 +1,267 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Born+in+Chaos+&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:01.913263+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "1kcHy4de",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "borninchaos",
+        "author": "Mongoose_artist",
+        "author_id": "EQpIx3zw",
+        "organization": null,
+        "organization_id": null,
+        "title": "Born in Chaos",
+        "description": "Adds a lot of aggressive mobs, with their unique properties that can diversify and complicate your survival. Also adds new structures, equipment, blocks and achievements.",
+        "categories": [
+          "adventure",
+          "decoration",
+          "equipment",
+          "food",
+          "forge",
+          "magic",
+          "mobs",
+          "neoforge",
+          "worldgen"
+        ],
+        "display_categories": [
+          "equipment",
+          "forge",
+          "mobs",
+          "neoforge",
+          "worldgen"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 1854997,
+        "follows": 334,
+        "icon_url": "https://cdn.modrinth.com/data/1kcHy4de/2681453b4ba4b411834b0941149dd6abbe8cb3ea_96.webp",
+        "date_created": "2026-01-21T06:03:55.156764+00:00",
+        "date_modified": "2026-06-17T21:26:16.491064+00:00",
+        "latest_version": "ttcWWp3r",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/1kcHy4de/images/9d4a73129db110eeedc4293e335849aa35675832_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/c70e979d7678a9c1a66df41169298200f5b9b7d1_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/584bca53db3982c7e11600e5d89a7daf95aa44a7_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/93e7d66ad0881aa067516a8e60c805ac01c14b79_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/a546b7095d7a981b29d4deca841df7aaf22bcf45_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/8300ec86832299e5e1a77783323c38586b1e7578_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/5723f6a41cd23be08b13dceb8c8cb1f384a02997_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/e9b8207c0eeb6780dea89e97dbad2c41b2e5118f_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/dec362c7edfe162ecd5e5abc2ed15fffb6284f26_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/98d0243fe4795987ac129d076cc3a30dc0238362_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/fe2c49d537eab7c3756ea1e4b812cb1a7c7cb87e_350.webp",
+          "https://cdn.modrinth.com/data/1kcHy4de/images/bac0123192f3d3b35d49d570a3950e6be41895c2_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 9676474
+      },
+      {
+        "project_id": "8H5Npk5F",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "born-in-chaos-fc",
+        "author": "mewoDev",
+        "author_id": "wGcFTS1u",
+        "organization": null,
+        "organization_id": null,
+        "title": "Born in Chaos: Forgotten Content",
+        "description": "Re-implements removed content from Born in Chaos!",
+        "categories": [
+          "food",
+          "forge",
+          "mobs",
+          "neoforge"
+        ],
+        "display_categories": [
+          "food",
+          "forge",
+          "mobs",
+          "neoforge"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 15789,
+        "follows": 22,
+        "icon_url": "https://cdn.modrinth.com/data/8H5Npk5F/d8285f6fa2918ae23e14c41ccf1448f1f5f5c8a0_96.webp",
+        "date_created": "2024-11-04T03:10:59.238183+00:00",
+        "date_modified": "2026-04-17T04:49:32.164881+00:00",
+        "latest_version": "gbhFtEWp",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/8H5Npk5F/images/052b56628d5120ae391e0684010cec26a5f0590a_350.webp",
+          "https://cdn.modrinth.com/data/8H5Npk5F/images/a88c57a43c63a6bc14b1a6fc4921bbe17b764820_350.webp",
+          "https://cdn.modrinth.com/data/8H5Npk5F/images/d0f61d03603c13ec778598e9cbb4401e82da3693_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/8H5Npk5F/images/b96a6bf1177dd18548071cfb0c8a4afcfd31d969_350.webp",
+        "color": 10992325
+      },
+      {
+        "project_id": "hHoUi04V",
+        "project_type": "mod",
+        "all_project_types": [
+          "datapack",
+          "mod"
+        ],
+        "slug": "big-globe-born-in-chaos-compatibility",
+        "author": "Bareneil",
+        "author_id": "ZjT1BuBt",
+        "organization": null,
+        "organization_id": null,
+        "title": "Big Globe - Born In Chaos Compatibility",
+        "description": "Big Globe - Born In Chaos Compatibility",
+        "categories": [
+          "datapack",
+          "forge",
+          "utility",
+          "worldgen"
+        ],
+        "display_categories": [
+          "datapack",
+          "forge",
+          "utility",
+          "worldgen"
+        ],
+        "versions": [
+          "1.20.1"
+        ],
+        "downloads": 12995,
+        "follows": 2,
+        "icon_url": "https://cdn.modrinth.com/data/hHoUi04V/a99cf807f9969b098a4deb6d0c619c222c40ba99_96.webp",
+        "date_created": "2025-02-21T10:56:37.273470+00:00",
+        "date_modified": "2025-03-30T20:43:35.201994+00:00",
+        "latest_version": "dJqPTJvi",
+        "license": "CC0-1.0",
+        "client_side": "optional",
+        "server_side": "required",
+        "environment": [
+          "dedicated_server_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/hHoUi04V/images/d8b45e05e70585d50a1c37d7617aee54d6b7715d_350.webp",
+          "https://cdn.modrinth.com/data/hHoUi04V/images/199a5cf640f86c04046b9cddf37872eb955d09de_350.webp",
+          "https://cdn.modrinth.com/data/hHoUi04V/images/abe2a6bd7303be5ac197b13a33bbcfa71252411c_350.webp",
+          "https://cdn.modrinth.com/data/hHoUi04V/images/06841793174a92764a745ecf5ffebb4a562f0a59_350.webp",
+          "https://cdn.modrinth.com/data/hHoUi04V/images/431caa422428cfddbfe17ad9c5a374661c9f0037_350.webp",
+          "https://cdn.modrinth.com/data/hHoUi04V/images/b0796324ee418cb2ed0992739a5dbc66c4cb5efc_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/hHoUi04V/images/bb8dcc90d55d3d4d1185ba19fbe85e21ea316d63_350.webp",
+        "color": 9677497
+      },
+      {
+        "project_id": "Nm28WokL",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "eternal-hunts",
+        "author": "ringoway",
+        "author_id": "YYZcRSy2",
+        "organization": null,
+        "organization_id": null,
+        "title": "Eternal Hunts [Cataclysm & Mowzie's Mobs & Born in Chaos]",
+        "description": "An addon for Mowzie's Mobs, Cataclysm and Born in Chaos that creates integration and adds new content.",
+        "categories": [
+          "adventure",
+          "forge",
+          "neoforge"
+        ],
+        "display_categories": [
+          "adventure",
+          "forge",
+          "neoforge"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 4134,
+        "follows": 6,
+        "icon_url": "https://cdn.modrinth.com/data/Nm28WokL/c36b2625b4a0d3fd27f8c3675173285e424a0d45.png",
+        "date_created": "2026-05-27T01:02:01.999104+00:00",
+        "date_modified": "2026-10-09T21:39:18.148119+00:00",
+        "latest_version": "3LK3iioL",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 6042144
+      },
+      {
+        "project_id": "WuGMEOy4",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "born-in-chaos-jade-compat",
+        "author": "Sanseddy",
+        "author_id": "yUYSdpbN",
+        "organization": null,
+        "organization_id": null,
+        "title": "Born in Chaos Jade compat",
+        "description": "Hides infected diamond ore in Jade by displaying it as regular diamond ore",
+        "categories": [
+          "forge",
+          "game-mechanics",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "game-mechanics",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1"
+        ],
+        "downloads": 3180,
+        "follows": 3,
+        "icon_url": "https://cdn.modrinth.com/data/WuGMEOy4/dc6567fecac927a7cbd4b773e2880889dc5d734b_96.webp",
+        "date_created": "2026-04-22T21:29:14.936054+00:00",
+        "date_modified": "2026-04-11T13:49:30.481584+00:00",
+        "latest_version": "lFBZoqMi",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 11322548
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 11
+  }
+}

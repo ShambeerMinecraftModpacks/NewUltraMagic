@@ -1,0 +1,766 @@
+{
+  "url": "https://api.modrinth.com/v2/project/o1C1Dkj5/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:52.479882+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "fQ7EjDPE",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.4 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.4",
+      "changelog": "- Fix rare crashes when structures intersect due to processors applying mismatched nbt.  \n- Added Brazilian Portuguese translation, thanks to demorogabrtz.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-12-01T22:09:38.887847Z",
+      "downloads": 2133231,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j1zIfkfZ",
+          "hashes": {
+            "sha512": "4a11b1b1f845ddd1709e6a6cad6c6d5043704afbd4b97cb2afcd316f8fdcf6e398f8dd55480d02e32326ac5b49b6b273ec99cd2b1e311bed24f786e6d176612c",
+            "sha1": "1596a14713ed6c1d9deb5a3a328774e9bfa39de6"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/fQ7EjDPE/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+          "primary": true,
+          "size": 909660,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "D6aZn0Em",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.4 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.4",
+      "changelog": "- Fix rare crashes when structures intersect due to processors applying mismatched nbt.  \n- Added Brazilian Portuguese translation, thanks to demorogabrtz.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-12-01T22:09:34.329782Z",
+      "downloads": 2140365,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7vpminvE",
+          "hashes": {
+            "sha512": "40513bacd13fa9860abcab507b1fc09dc51649af4b615ce466e0ec361557f02d35e6e44bea1cc17cb4120805f862aad01394eb185f46611e7be63dfd97f272df",
+            "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/D6aZn0Em/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+          "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+          "primary": true,
+          "size": 782160,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "pzPJomj9",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.4 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.4",
+      "changelog": "- Fix rare crashes when structures intersect due to processors applying mismatched nbt.  \n- Added Brazilian Portuguese translation, thanks to demorogabrtz.  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-12-01T22:09:26.617996Z",
+      "downloads": 47531,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vkDfhuln",
+          "hashes": {
+            "sha1": "0416cc78fc1692c91fe873b88ae2e425dac333f9",
+            "sha512": "354ac1f4f0fc85692725f11161295e1bbf54184d6ee73ed52a3d526a1af9140edf78a25c67efc0bb6d01779678f0385f98b2269d577ebb0003539cd0dd20d616"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/pzPJomj9/YungsBetterDungeons-1.21.1-Forge-5.1.4.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Forge-5.1.4.jar",
+          "primary": true,
+          "size": 781946,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "uaoqiHOb",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.3 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.3",
+      "changelog": "- Fixed issue where feature mixins could cause worldgen deadlocks. Thanks to TelepathicGrunt!  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-11-21T04:33:16.239650Z",
+      "downloads": 12398,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ABmljRm8",
+          "hashes": {
+            "sha512": "2a608ce2e652d2ddf482955ea0d6acb7945108fbab1bc0a85362ec52d817f0d8122607c2218838c791b121de7fae805c07960103f66528838f27e58fd374f6c5",
+            "sha1": "dfa333414214b2d0a8911415785ef95047136b7b"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/uaoqiHOb/YungsBetterDungeons-1.21.1-Fabric-5.1.3.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Fabric-5.1.3.jar",
+          "primary": true,
+          "size": 908796,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "RqX5d3pv",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.3 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.3",
+      "changelog": "- Fixed issue where feature mixins could cause worldgen deadlocks. Thanks to TelepathicGrunt!  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-11-21T04:33:10.962910Z",
+      "downloads": 20385,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lwzJzj9a",
+          "hashes": {
+            "sha1": "429bbf6fe21d2fe816e5f6f98285d589a3002a1f",
+            "sha512": "d33a753d2e069f4c778550b9e23a91e9e936e138f8a09efbd11245ca5a4a45d5c78cb5d2c81c883eb95e57a0364ce61db54df465b54dbd2c7792b872846e4535"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/RqX5d3pv/YungsBetterDungeons-1.21.1-NeoForge-5.1.3.jar",
+          "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.3.jar",
+          "primary": true,
+          "size": 781363,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "eBEFvytl",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.3 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.3",
+      "changelog": "- Fixed issue where feature mixins could cause worldgen deadlocks. Thanks to TelepathicGrunt!  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-11-21T04:33:03.181474Z",
+      "downloads": 1114,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PK2uwVjx",
+          "hashes": {
+            "sha1": "346b592910b7d218a53b9b340a91227f0638d7de",
+            "sha512": "0c9c22f9308cd6a1bc899611771f71e8c635a8c5568845b73b2952d20473a32d0434665f94a85650e6c396029778355539a89c4e9e347891041606f41005fe2a"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/eBEFvytl/YungsBetterDungeons-1.21.1-Forge-5.1.3.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Forge-5.1.3.jar",
+          "primary": true,
+          "size": 781149,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "E9LsQ4k7",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.2 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.2",
+      "changelog": "- Lowered minimum version requirements so it works on both 1.21 and 1.21.1  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-14T18:53:08.825163Z",
+      "downloads": 50266,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "miXQiOA4",
+          "hashes": {
+            "sha1": "d18b0d3d05106abf63f8035f25b4b5b585d944d0",
+            "sha512": "df6ddb3fecb312426e43c6447d33af72ab4f4871cca33c4a9610e05262e5cfcad312fb6386586f1819a15ac8cbf656470cfdfd81ba1eba248ad2b3d126fe0ccc"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/E9LsQ4k7/YungsBetterDungeons-1.21.1-Fabric-5.1.2.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Fabric-5.1.2.jar",
+          "primary": true,
+          "size": 911177,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "65IL2kKI",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.2 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.2",
+      "changelog": "- Lowered minimum version requirements so it works on both 1.21 and 1.21.1  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-14T18:53:03.574664Z",
+      "downloads": 6004,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ltbPTyFt",
+          "hashes": {
+            "sha1": "9fd781144efda34bda70fddd463127fbc2c11f66",
+            "sha512": "55edfd2678b9e5331d4c0b3ad8b95bc731e0a573e40bf9cede6cf783d0978657e15dbb3e83d0c407fcd60ed79a038ccc999e52cdc3f2b4399c06f65037457afd"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/65IL2kKI/YungsBetterDungeons-1.21.1-NeoForge-5.1.2.jar",
+          "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.2.jar",
+          "primary": true,
+          "size": 783813,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "LoQmT3Ih",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.2 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.2",
+      "changelog": "- Lowered minimum version requirements so it works on both 1.21 and 1.21.1  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-14T18:52:56.355390Z",
+      "downloads": 2798,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EJ9uXvdC",
+          "hashes": {
+            "sha1": "e08fbf1df92fd80da5022881f100de6df905f489",
+            "sha512": "d0a425e11d91ff9c277a892d7113dcd9cc6f38ae8b9f0bb2c66f605e7f45ea4fc8281d2c4297a70ffd64f4a08be897696eb9849edb8bf0c883d9d0ee10bef8ad"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/LoQmT3Ih/YungsBetterDungeons-1.21.1-Forge-5.1.2.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Forge-5.1.2.jar",
+          "primary": true,
+          "size": 783601,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "bBWVr9v2",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.1 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.1",
+      "changelog": "- Fixed enchanted books erroneously being able to spawn with any enchantment instead of being limited  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-13T23:01:48.035463Z",
+      "downloads": 1219,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZaduC2KT",
+          "hashes": {
+            "sha512": "b9188168ca6b3549d80d9128fa59a95ed0f575ff9ce2eda7ff830ebbd7fb34791e8c56af0886aa8e31b32f7e78705c0832fa8d0d92bd4856d8d5beffcf0ba52c",
+            "sha1": "d3ecf73c1830b62c7503fb782106f8664c77575c"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/bBWVr9v2/YungsBetterDungeons-1.21.1-Fabric-5.1.1.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Fabric-5.1.1.jar",
+          "primary": true,
+          "size": 911179,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "zic1ndGE",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.1 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.1",
+      "changelog": "- Fixed enchanted books erroneously being able to spawn with any enchantment instead of being limited  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-13T23:01:42.514820Z",
+      "downloads": 428,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Yotyao1N",
+          "hashes": {
+            "sha1": "f680f93e76a682f3a2e461b23ee919d7727baf21",
+            "sha512": "897cff896790c4bfd549dfbfed8e034fc1f785ae8af899df31b4ef5be1f7f782d577dcc30fbf2e43063ba83a31933b7be038edbc6860e5a33fb8aa5a88c5674b"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/zic1ndGE/YungsBetterDungeons-1.21.1-NeoForge-5.1.1.jar",
+          "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.1.jar",
+          "primary": true,
+          "size": 783814,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "SlahCF5y",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.1 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.1",
+      "changelog": "- Fixed enchanted books erroneously being able to spawn with any enchantment instead of being limited  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-13T23:01:35.054191Z",
+      "downloads": 277,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M5pTviSV",
+          "hashes": {
+            "sha1": "72aaa85d173d2890cad0260e39e8c53966c2ff51",
+            "sha512": "345ffab2c2a88f21821171f2f851b52e78dfda37c037dfc6f62dd8405d8a7be4ab8db0c04eb42bcd6e7fbe85dea563530f9d77426780f12dc15b74d4ed8a8375"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/SlahCF5y/YungsBetterDungeons-1.21.1-Forge-5.1.1.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Forge-5.1.1.jar",
+          "primary": true,
+          "size": 783605,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "ZWDbFefV",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.0 (NeoForge)",
+      "version_number": "1.21.1-NeoForge-5.1.0",
+      "changelog": "Port to 1.21.1!  \n- Fixed Small Nether Dungeons ignoring config and always spawning  \n- Updated structure NBT files  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-12T23:35:04.155441Z",
+      "downloads": 588,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zqDOsBGl",
+          "hashes": {
+            "sha512": "a079839b661bd7b838bce2cbc619b90d802631dcbc8bfe16d5acd4d96b62f7a6dba3b122ef6d414eda0cd51b81c081a813e4bd7825c26581861014c6789a64d1",
+            "sha1": "48f13a91add07480b642804aeb05e02d382b0460"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/ZWDbFefV/YungsBetterDungeons-1.21.1-NeoForge-5.1.0.jar",
+          "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.0.jar",
+          "primary": true,
+          "size": 783745,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "fN6Wv16s",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.0 (Forge)",
+      "version_number": "1.21.1-Forge-5.1.0",
+      "changelog": "Port to 1.21.1!  \n- Fixed Small Nether Dungeons ignoring config and always spawning  \n- Updated structure NBT files  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-12T23:35:00.759198Z",
+      "downloads": 243,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "63MbQl3B",
+          "hashes": {
+            "sha512": "ab8ea6aea04b2fdec0882bd79886d1dbf93360ed848df3ff8ff068126151bb779d344206954c19c621abf6c4fbb19a453ff662826a6324d6ab4f0e4d65736105",
+            "sha1": "dcbb54aa195668dd3892319660bdab41dfbc5aee"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/fN6Wv16s/YungsBetterDungeons-1.21.1-Forge-5.1.0.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Forge-5.1.0.jar",
+          "primary": true,
+          "size": 783537,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "s6BiLxo6",
+      "project_id": "o1C1Dkj5",
+      "author_id": "HCGwycZf",
+      "featured": false,
+      "name": "[1.21.1] v5.1.0 (Fabric)",
+      "version_number": "1.21.1-Fabric-5.1.0",
+      "changelog": "Port to 1.21.1!  \n- Fixed Small Nether Dungeons ignoring config and always spawning  \n- Updated structure NBT files  \n  \nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+      "changelog_url": null,
+      "date_published": "2024-10-12T23:34:57.248244Z",
+      "downloads": 1539,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XJmBPnJJ",
+          "hashes": {
+            "sha1": "58ae606ac6367a5fd826b174f598396ef166d3c7",
+            "sha512": "2dec96642064992d23c88bc7c68862ee18ff5c03559c7ffdc9caf13cda416b37f19087ec3d595dfb6b7753260d0a6a0882189672b7d52ae42fe43cbe6796dc5f"
+          },
+          "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/s6BiLxo6/YungsBetterDungeons-1.21.1-Fabric-5.1.0.jar",
+          "filename": "YungsBetterDungeons-1.21.1-Fabric-5.1.0.jar",
+          "primary": true,
+          "size": 911110,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Ua7DFN59",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

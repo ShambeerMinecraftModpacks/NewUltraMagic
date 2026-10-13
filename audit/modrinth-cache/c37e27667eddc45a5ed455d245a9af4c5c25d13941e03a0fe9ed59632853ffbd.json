@@ -1,0 +1,596 @@
+{
+  "url": "https://api.modrinth.com/v2/project/yD9qW65f/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:59.157615+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "TVCIPnHn",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "chloride-1.8.1-FABRIC-1.21.1",
+      "version_number": "1.8.1-FABRIC-1.21.1",
+      "changelog": "# RELEASE 1.8.1\n- [🐛] Fixed chloride mixins for Leaves Block collides with sodiums mixins (only warns, but breaks our culling)\n- [🐛] Fixed Nametag of item entities never got renderer despite being enabled on settings\n",
+      "changelog_url": null,
+      "date_published": "2026-07-19T03:20:43.644808Z",
+      "downloads": 18479,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iyz1y9dk",
+          "hashes": {
+            "sha1": "ad2df6ddb099370e575b32644cb08c0044b71bd8",
+            "sha512": "7748ac36bac0b7ed6382c8bcf0aeda9ca974ebd65131d0d060478fd9d38e96707ecf931c21da59df82f56d0692045fc363714d65babb8f7a92419c3a16f762e8"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/TVCIPnHn/chloride-FABRIC-mc1.21.1-v1.8.1.jar",
+          "filename": "chloride-FABRIC-mc1.21.1-v1.8.1.jar",
+          "primary": true,
+          "size": 527475,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uvlgIwBD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "IgWRdE2d",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "chloride-1.8.1-NEOFORGE-1.21.1",
+      "version_number": "1.8.1-NEO-1.21.1",
+      "changelog": "# RELEASE 1.8.1\n- [🐛] Fixed chloride mixins for Leaves Block collides with sodiums mixins (only warns, but breaks our culling)\n- [🐛] Fixed Nametag of item entities never got renderer despite being enabled on settings\n",
+      "changelog_url": null,
+      "date_published": "2026-07-19T02:25:07.782913Z",
+      "downloads": 72573,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eZgn6buI",
+          "hashes": {
+            "sha512": "dbe315d2e86275b503c71673440f7da97676f6c68893673ac6a9df6bd6cc51567b775fb5cf1bf78adb7aaeb850617821b639256d8abbb1084ed6bf7be654e0ef",
+            "sha1": "50454011525e2862678b15d94484fd32a5a54dfb"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/IgWRdE2d/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+          "primary": true,
+          "size": 527889,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "uvlgIwBD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "JFeHgS8l",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "chloride-1.8.0-NEOFORGE-1.21.1",
+      "version_number": "1.8.0-NEO-1.21.1",
+      "changelog": "# RELEASE 1.8.0\n- [✨] Added a void horizon height slider (sets the Y level of the below-horizon void plane, 63 keeps vanilla behavior)\n- [✨] Added a toggle to enhance Skybox looking on low render distances\n- [🛠️] Moved per-particle toggles to a separated screen with an id/mod search box (fixes [#174](https://github.com/SrRapero720/chloride/issues/174))\n- [🛠️] Replaced the custom config with WaterConfig (config is now chloride-client.toml), recovers old settings from .json file and deletes the file once is done.\n- [🛠️] Declared Smooth Skies incompatible (its features are already in chloride) (fixes [#170](https://github.com/SrRapero720/chloride/issues/170))\n- [🛠️] Updated Sodium to 0.8.12\n- [🐛] Fixed bed faces were still culled with Fast Beds disabled (fixes [#126](https://github.com/SrRapero720/chloride/issues/126))\n- [🐛] Fixed JEI integration crash on latest JEI (fixes [#172](https://github.com/SrRapero720/chloride/issues/172))\n- [🐛] Fixed solid chests pack reused the solid beds pack id\n- [🐛] Fixed JEI/REI/EMI mixins applied even when those mods weren't installed\n",
+      "changelog_url": null,
+      "date_published": "2026-07-18T22:17:58.490338Z",
+      "downloads": 494,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xGz6n3SG",
+          "hashes": {
+            "sha1": "2e7791cce9a38790bd3653298afcab6416fbb3f0",
+            "sha512": "5b1d636c932d9b2b3e932adb248db12f334a00803549169247c9b720902d35a712409e32982c118ef661f5d202be98b1d83cc1d7f495a679a2c1e1e26596afbe"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/JFeHgS8l/chloride-NEOFORGE-mc1.21.1-v1.8.0.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.8.0.jar",
+          "primary": true,
+          "size": 527526,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "uvlgIwBD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "QsBt57ho",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.9",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.9",
+      "changelog": "# RELEASE 1.7.9\n- [✨] [1.21.1] Updated to sodium 0.8.12-beta.1 (brings back video setting screen)\n",
+      "changelog_url": null,
+      "date_published": "2026-06-17T03:42:21.889304Z",
+      "downloads": 29844,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "B8swAOoQ",
+          "hashes": {
+            "sha1": "e9015e0fc16d2757db0611a08c10107ca0da57ba",
+            "sha512": "2b4c5b03751511ea941240cb11094d42bde7e4d6e0fb079c4f7edc9417b119110725de4d55f9c463d2bdaaa518d4595bca17cf3849ef6bbf843240226c592f87"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/QsBt57ho/chloride-NEOFORGE-mc1.21.1-v1.7.9.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.9.jar",
+          "primary": true,
+          "size": 314333,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "wHVcHnEW",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.8",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.8",
+      "changelog": "# RELEASE 1.7.8\n- [✨] [1.21.1] Added Sable support for entity culling\n- [✨] Added setting to disable Borderless optimization applied by driver (fixes black window blinking, false by default)\n- [✨] Added setting to cap the entity rendering count on screen (entities are sorted by distance, unlimited by default)\n- [🛠️] Changed Maximum horizontal distance culling to 128 and minimum to 0\n- [🛠️] Changed Maximum vertical distance culling to 256 and minimum to 0\n- [🛠️] Disabled customFog by default\n- [🐛] [1.21.5] Fixed crash on neoforge loading unexisting resources\n- [🐛] Fixed chloride's basic zoom stays enabled when other zoom mods are present\n- [🐛] Fix borderless feature removes window borders when chloride settings desyncs with vanilla settings\n",
+      "changelog_url": null,
+      "date_published": "2026-06-01T06:57:26.091364Z",
+      "downloads": 45911,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pAdfjbsv",
+          "hashes": {
+            "sha512": "921832f0aefc5165afdfd3414fc7d8fcae484a672056b89607572af2ab6c9fa871b718106104e01cfe6ea7f54b7df3e3edf427725b7edf574525b8ab75a6a093",
+            "sha1": "e391fa16cc2f52dfc0981b05f9eed327467dbf00"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/wHVcHnEW/chloride-NEOFORGE-mc1.21.1-v1.7.8.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.8.jar",
+          "primary": true,
+          "size": 951609,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "2KyOjXqM",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.7",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.7",
+      "changelog": "# RELEASE 1.7.7\n- [🐛] Fixed F11 switching (on attached mode}) stucks you in fullscreen mode\n",
+      "changelog_url": null,
+      "date_published": "2026-05-09T19:52:24.772299Z",
+      "downloads": 34284,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QWc0kBeU",
+          "hashes": {
+            "sha512": "1463038d42a29e9a32aebe0bde4005ee26f52df4ea4aae510219ea057a98d8f8b190621b6a5c3aee6e475b374de00271252bb54abee8d6ccf04202bb975b0b1d",
+            "sha1": "8cf2a486486f57fc0f26562b77bfca540bcffedd"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/2KyOjXqM/chloride-NEOFORGE-mc1.21.1-v1.7.7.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.7.jar",
+          "primary": true,
+          "size": 947389,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "WosagIoG",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.6",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.6",
+      "changelog": "# RELEASE 1.7.6\n- [✨] Added toggles to disable fog per level (overworld, nether, end) separately (keeps global toggle\n- [🛠️] Modpack mode now hides custom fog toggles (disabling fog/custom fog)\n- [🛠️] Reverted fix of true darkness applied on full brightness biomes (like alex caves)\n  - Fixes bugs on true darkness support\n- [🐛] Fixed window border was still shown on borderless mode and fix bad performance\n- [🐛] [1.21.1] Fixed FPS overlay wasn't hidden pressing F1 or opening F3\n- [🐛] [1.21.1] Fixed missing MIN fps overlay\n- [🐛] [1.21.1] Fixed crashes enabling modpack mode\n",
+      "changelog_url": null,
+      "date_published": "2026-05-09T07:11:51.207390Z",
+      "downloads": 1244,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MkUaYFb2",
+          "hashes": {
+            "sha1": "f1874082db730730f620d5a0d1f260d6d7608c15",
+            "sha512": "7a1717a563092853d3b9af269b6b0ee76d9d87436838af1aeb449fe554494a1d3cd654012f7e74261dc9b6835010028d2da7791f7f7bead6ad49ede94708f53e"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/WosagIoG/chloride-NEOFORGE-mc1.21.1-v1.7.6.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.6.jar",
+          "primary": true,
+          "size": 947167,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "4FqE7c3A",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.5",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.5",
+      "changelog": "# RELEASE 1.7.5\n- [🐛] Fixed JEI integration crashes on latest versions of JEI\n",
+      "changelog_url": null,
+      "date_published": "2025-12-25T19:26:47.173148Z",
+      "downloads": 99295,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yZ4mUA9b",
+          "hashes": {
+            "sha512": "8d57f4782cf7d439fe3a6bd81c9930596461c7afe2f652e87ff2f446e022205ba0481fe2c16aa290ec08fb6c4e36c804be1a4fbd0ba7bab6680ac73334cd9e9d",
+            "sha1": "13be11a94f507b6300a1a0c0bd6f1594eb6c5e64"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/4FqE7c3A/chloride-NEOFORGE-mc1.21.1-v1.7.5.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.5.jar",
+          "primary": true,
+          "size": 946009,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "L8MyP8qI",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.4",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.4",
+      "changelog": "# RELEASE 1.7.4\n- [🐛] Fixed whitelist wasn't working for elements with wildcards (modid:all)\n",
+      "changelog_url": null,
+      "date_published": "2025-12-11T17:35:07.379782Z",
+      "downloads": 4895,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dbICICnq",
+          "hashes": {
+            "sha1": "347c77d46d9ddb9d0bf5da90326701f63388f62e",
+            "sha512": "9e0a4d031623accd6ee019eb790924aad36eb3d44d481fca1c2e42b836a7169a333f3d114496c831cd5f18dd087c8ce3903ee2ee169cb67b66cded2d3692d1cc"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/L8MyP8qI/chloride-NEOFORGE-mc1.21.1-v1.7.4.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.4.jar",
+          "primary": true,
+          "size": 946027,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "NBg7dz24",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.3",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.3",
+      "changelog": "# RELEASE 1.7.3\n- [✨] Added a config option to hide the \"Hide JREMI until searching\" message\n- [🐛] Fixed darkeness not working with Chloride's entity culling\n- [🐛] Fixed biomes with full brightness (like Alex's Caves) are affected by True Darkness\n- [🐛] Fixed chart was not rendering when BetterF3 is installed\n- [🐛] Fixed player effects (potions like blindness) are not working with custom fog\n- [🐛] Fixed dimensions with no skylight (like The Nether) shows broken coloring when blueband is disabled\n",
+      "changelog_url": null,
+      "date_published": "2025-12-02T09:07:02.876293Z",
+      "downloads": 2893,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7GXa0TBs",
+          "hashes": {
+            "sha1": "67014bceeac8688cfcd8413a2fe6a0f92b3d0a96",
+            "sha512": "b0b3a660aed8e5a1ff20b3d11e81421c3e549215b70556a466ff3800c31103dc2de37842c4b2669369cf5aa9c2da0690befe6b5de8b31cfa6c600510b94edf60"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/NBg7dz24/chloride-NEOFORGE-mc1.21.1-v1.7.3.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.3.jar",
+          "primary": true,
+          "size": 945899,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "nPvLHMwb",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.7.2",
+      "version_number": "NEOFORGE-mc1.21.1-v1.7.2",
+      "changelog": "# RELEASE 1.7.2\n- [✨] Fixed crashes clicking on Video Settings button after update Chloride\n",
+      "changelog_url": null,
+      "date_published": "2025-06-05T05:06:39.892644Z",
+      "downloads": 50067,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PpvnEKOz",
+          "hashes": {
+            "sha512": "f10b5e0b5349158ee29fe26a1fb0c7752d15c0d51c4e3a4943ddf416312c235173eb50e287d17bbd202063bba3d95ee93131ef76b27fc50cb59791cf3fa1c3c3",
+            "sha1": "afa096c314050912ab3af779315f47941f8136c1"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/nPvLHMwb/chloride-NEOFORGE-mc1.21.1-v1.7.2.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.2.jar",
+          "primary": true,
+          "size": 934081,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "V9ra5T8b",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.6.0a",
+      "version_number": "NEOFORGE-mc1.21.1-v1.6.0a",
+      "changelog": "# RELEASE 1.6.0a\n- [🐛] [1.21.1/NeoForge] Fixed F3 overlay not showing.\n",
+      "changelog_url": null,
+      "date_published": "2025-04-28T19:43:57.255165Z",
+      "downloads": 7821,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2NgSHztD",
+          "hashes": {
+            "sha512": "a66efd988528648e0a875eb77f0443fc1a7ce29792e63cd07e6a5486d5ecf9e032e63937b4d03b67282585d0f7cf5cbb0f953013156d76878e5f32d07004c1f9",
+            "sha1": "2d9f7d3763c520d3389b88048e0862b0a02c4f6a"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/V9ra5T8b/chloride-NEOFORGE-mc1.21.1-v1.6.0a.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.6.0a.jar",
+          "primary": true,
+          "size": 892263,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "D547zuUV",
+      "project_id": "yD9qW65f",
+      "author_id": "MIVwsmWD",
+      "featured": false,
+      "name": "Chloride-NEOFORGE/mc1.21.1/v1.6.0",
+      "version_number": "NEOFORGE-mc1.21.1-v1.6.0",
+      "changelog": "# RELEASE 1.6.0\n- [✨] [1.21.1] Ported to NeoForge (Embeddium)\n- [✨] Added blocklightOnly option to True Darkness\n  - 🛠️ This option will only darken the block light, not the sky light\n  - 🛠️ This option is disabled by default\n- [✨] Enhanced FPS Display alignment\n  - 🛠️ Now you can choose between TOP, CENTER and BOTTOM\n  - 🛠️ Margin is now split for horizontal and vertical\n  - 🛠️ Increased maximum margin\n- [✨] Added a helper text on JEI/REI/EMI when is nothing typed on search bar\n- [✨] Added custom fog configurations\n  - 🛠️ Now you can configure fog start, distance and shape\n- [🐛] Fixed fullscreen mode wasn't saving applying the options\n- [🐛] Fixed maps have a black square on corners\n- [🐛] Fixed certain configurations are not saving\n- [🐛] Fixed fog wasn't enabled under water or lava (acting as a cheat)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-21T07:21:50.282755Z",
+      "downloads": 1191,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qfMFlSSm",
+          "hashes": {
+            "sha1": "3d6fc7595e0474e9e8833acfd2be980c44906c2b",
+            "sha512": "3ad735a754d7030d9abd00a8328fe2a0b5531e208f8b705ee224b0aee3ebce5b766864db93cf56e73d64b4fd5e4f4e2bd71d7f0cfd20b507548808a13ffe10a6"
+          },
+          "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/D547zuUV/chloride-NEOFORGE-mc1.21.1-v1.6.0.jar",
+          "filename": "chloride-NEOFORGE-mc1.21.1-v1.6.0.jar",
+          "primary": true,
+          "size": 892380,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

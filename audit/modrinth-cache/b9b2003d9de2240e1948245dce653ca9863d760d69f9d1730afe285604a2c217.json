@@ -1,0 +1,1157 @@
+{
+  "url": "https://api.modrinth.com/v2/project/1jDdpgcc/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:28.545061+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Mce3ulUV",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21.1-2.0.2.1",
+      "version_number": "2.0.2.1",
+      "changelog": "Small compat fix for a set of mods.\n\nChangelog:    \nVersion 2.0.2.1:    \n- Added: Compat with IcebergConfigs",
+      "changelog_url": null,
+      "date_published": "2026-05-20T19:01:22.671037Z",
+      "downloads": 24061,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "99xUlaJT",
+          "hashes": {
+            "sha512": "06d4e5de53dfef36363e4e8cf7d3c5381894d26731757e42861a16c59885288fe543e9350fbe571cc689aa10799e6ad0675b2316bd090349a16546e2b86b5638",
+            "sha1": "c582eb81822d33f1ca49ab4df4c8696fb6564072"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Mce3ulUV/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
+          "filename": "CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
+          "primary": true,
+          "size": 1273384,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "cSUNKoAK",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-2.0.2.1",
+      "version_number": "2.0.2.1",
+      "changelog": "Small compat fix for a set of mods.\n\nChangelog:    \nVersion 2.0.2.1:    \n- Added: Compat with IcebergConfigs",
+      "changelog_url": null,
+      "date_published": "2026-05-20T19:01:10.158070Z",
+      "downloads": 244,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "K7i2cTbA",
+          "hashes": {
+            "sha512": "1695a6080a31fdb1aacb88880f1640ee847340c88e45cea6546ea3bad73123e5373e7d10358c7402ba6808465fe76f0a2507c135e9ee30d3750d08453b363da0",
+            "sha1": "238300e601bde22490aa7c45d22b5b304ed47ae3"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/cSUNKoAK/CarbonConfig-1.21-2.0.2.1.jar",
+          "filename": "CarbonConfig-1.21-2.0.2.1.jar",
+          "primary": true,
+          "size": 1371997,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "mIrUmlpI",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-2.0.2",
+      "version_number": "2.0.2",
+      "changelog": "Small Hotfix on a bug that was found.     \n\nChangelog:    \nVersion 2.0.2:   \n- Fixed: Crash when dedicated server config manually save during server load.",
+      "changelog_url": null,
+      "date_published": "2026-05-01T00:51:06.435506Z",
+      "downloads": 1714,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1J6YdSPV",
+          "hashes": {
+            "sha512": "55432f191e341a1f245f7c8d518eb198853499b5a2ed25f762717b8e1b490a940c3f58bb9637e03e1c150e3441eb9d3d14ecc790946b38cfa035267544cca083",
+            "sha1": "b24622e274256f6804d4b98eceb8f717f6941233"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/mIrUmlpI/CarbonConfig-Neoforge-1.21-2.0.2.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-2.0.2.jar",
+          "primary": true,
+          "size": 1267296,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "L3iqUeHp",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Fabric-1.21-2.0.2",
+      "version_number": "2.0.2",
+      "changelog": "Small Hotfix on a bug that was found.     \n\nChangelog:    \nVersion 2.0.2:   \n- Fixed: Crash when dedicated server config manually save during server load.",
+      "changelog_url": null,
+      "date_published": "2026-05-01T00:50:43.788425Z",
+      "downloads": 267,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bueqdypL",
+          "hashes": {
+            "sha1": "1127dc25551142d7f5f218029f752f91397b3b43",
+            "sha512": "1f3859191dd8209ccb16b731c52a7d717d8aeb45f1601f16a2260f706c0fb28b5b2d3d942f11b8a04fe15d611a4e886b8379bca28065cbf7049a0852e0d2e2a1"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/L3iqUeHp/CarbonConfig-Fabric-1.21-2.0.2.jar",
+          "filename": "CarbonConfig-Fabric-1.21-2.0.2.jar",
+          "primary": true,
+          "size": 1377387,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "3AY88Cmn",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-2.0.2",
+      "version_number": "2.0.2",
+      "changelog": "Small Hotfix on a bug that was found.     \n\nChangelog:    \nVersion 2.0.2:   \n- Fixed: Crash when dedicated server config manually save during server load.",
+      "changelog_url": null,
+      "date_published": "2026-05-01T00:50:18.843609Z",
+      "downloads": 52,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OY3GRFEF",
+          "hashes": {
+            "sha512": "5a1d99a4d9de7d2d585648083da56925fe48192300e51002e7bd418ad508c441570d049c9c03ba562d0de38f8d490c47dd7c7093b245d6004f9e8195fffe51a9",
+            "sha1": "66a7c434e1d9268c80c3e98961a8ebfa8611e050"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/3AY88Cmn/CarbonConfig-1.21-2.0.2.jar",
+          "filename": "CarbonConfig-1.21-2.0.2.jar",
+          "primary": true,
+          "size": 1365506,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wDtqAAIW",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-2.0.1.1",
+      "version_number": "2.0.1.1",
+      "changelog": "Small Fix of a bug that was found.\n\n\nChangelog:    \nVersion 2.0.1.1:   \n- Fixed: Crash with range not being defined in neoforge",
+      "changelog_url": null,
+      "date_published": "2026-04-29T13:04:21.089720Z",
+      "downloads": 217,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LpivemIi",
+          "hashes": {
+            "sha1": "feaffd0531249ece0c400d0e5bec99ab143b92b0",
+            "sha512": "b0163df5445144f5ef7af257ac8f0ce0a2a35ce549e2897f60c39dd58b9e0fb15dc60ba65750fb837c199bd7be25be6f68acb5feaed7590867b3fdd745ab689e"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/wDtqAAIW/CarbonConfig-Neoforge-1.21-2.0.1.1.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-2.0.1.1.jar",
+          "primary": true,
+          "size": 1267290,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "a4XVSBU8",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-2.0.1",
+      "version_number": "2.0.1",
+      "changelog": "Small Hotfix Patch for bugs that were reported and that i found.\n\nChangelog:    \nVersion 2.0.1:   \n- Added: Widget Aligner now keeps the offset if you swap from left to right and opposite and flips it.    \n         So if a dev sets up a Widget with a slight padding at a corner that users can just swap alignment without having to apply the offsets themselves.\n- Fixed: Crashes with Multiplayer Server Configs trying to load Local World Configs\n- Fixed: Sliders wouldn't update their display values if they were scrolled to fast with to large values.\n- Fixed: StackTrace Crash when the Config Traversal features were used.\n- Fixed: Widget Aligner UI would on the initial Load swap X & Y Alignment.\n- Fixed: Issue where arrays get sorted even so they weren't supposed to.\n- Fixed: JEI Selection Values now are actually working.",
+      "changelog_url": null,
+      "date_published": "2026-04-15T18:00:17.861928Z",
+      "downloads": 2067,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cPkFlWNm",
+          "hashes": {
+            "sha1": "b8d3eb6af506c3213be0c75edfc8973418df43d0",
+            "sha512": "54ca16bb521e4e7a7d52722824ea1de3b20796f900dcd9b83dbe9de8265281b5328ceeb78697e46f6c6ac561fc1e041875f6774f694846b3e29985c4e13e4a57"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/a4XVSBU8/CarbonConfig-Neoforge-1.21-2.0.1.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-2.0.1.jar",
+          "primary": true,
+          "size": 1267266,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "HUcrOF44",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Fabric-1.21-2.0.1",
+      "version_number": "2.0.1",
+      "changelog": "Small Hotfix Patch for bugs that were reported and that i found.\n\nChangelog:    \nVersion 2.0.1:   \n- Added: Widget Aligner now keeps the offset if you swap from left to right and opposite and flips it.    \n         So if a dev sets up a Widget with a slight padding at a corner that users can just swap alignment without having to apply the offsets themselves.\n- Fixed: Crashes with Multiplayer Server Configs trying to load Local World Configs\n- Fixed: Sliders wouldn't update their display values if they were scrolled to fast with to large values.\n- Fixed: StackTrace Crash when the Config Traversal features were used.\n- Fixed: Widget Aligner UI would on the initial Load swap X & Y Alignment.\n- Fixed: Issue where arrays get sorted even so they weren't supposed to.\n- Fixed: JEI Selection Values now are actually working.",
+      "changelog_url": null,
+      "date_published": "2026-04-15T17:59:35.513838Z",
+      "downloads": 54,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iLRlMbol",
+          "hashes": {
+            "sha512": "5284014055929744fea18545032cbb3c9d0f4e54256f5f4a1d6ffeb39e4f7b94aff7e6d44d26219b158cb8b986cdb77dd2e1f3a90acb58e3e234c6d6c338e49c",
+            "sha1": "ab242f396a6b2deae45280c5e2e0cad14262433a"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/HUcrOF44/CarbonConfig-Fabric-1.21-2.0.1.jar",
+          "filename": "CarbonConfig-Fabric-1.21-2.0.1.jar",
+          "primary": true,
+          "size": 1377379,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "c9qF9Oav",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-2.0.1",
+      "version_number": "2.0.1",
+      "changelog": "Small Hotfix Patch for bugs that were reported and that i found.\n\nChangelog:    \nVersion 2.0.1:   \n- Added: Widget Aligner now keeps the offset if you swap from left to right and opposite and flips it.    \n         So if a dev sets up a Widget with a slight padding at a corner that users can just swap alignment without having to apply the offsets themselves.\n- Fixed: Crashes with Multiplayer Server Configs trying to load Local World Configs\n- Fixed: Sliders wouldn't update their display values if they were scrolled to fast with to large values.\n- Fixed: StackTrace Crash when the Config Traversal features were used.\n- Fixed: Widget Aligner UI would on the initial Load swap X & Y Alignment.\n- Fixed: Issue where arrays get sorted even so they weren't supposed to.\n- Fixed: JEI Selection Values now are actually working.",
+      "changelog_url": null,
+      "date_published": "2026-04-15T17:58:47.836304Z",
+      "downloads": 30,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "q0ursj3N",
+          "hashes": {
+            "sha512": "48d97e37017d25712bb5b78844fdf24be0b06d900235050c0a75aba895e09dec20d3c66693bba1163c03726c942806cad6f047fbfa0fa649392461d33de08339",
+            "sha1": "220e1ce4ff2d1503231440e6a6c05c0106754f54"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/c9qF9Oav/CarbonConfig-1.21-2.0.1.jar",
+          "filename": "CarbonConfig-1.21-2.0.1.jar",
+          "primary": true,
+          "size": 1365498,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "WNuFBTR7",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-2.0.0",
+      "version_number": "2.0.0",
+      "changelog": "Version 2.0.0 is now out.    \nThis is a huge rewrite of the entire system.   \n\nThe old system was a Recursion based system where you would go deeper into each folder and then see the content.    \nWhile that Configured Mod inspiration was nice. It gets quite the hassle real quick.     \nSo a new approach was needed.    \n\nThankfully it was provided by Xaikii.    \nWho came up with a multi stack approach, my name not a term.    \nWhere you can see 2-3 layers below your current view target.    \nWhich allows you traverse a lot quicker.    \nIn combination with a standardized component system, which can allocate height as needed, thanks to Chunkpregen, it provided the ideal template.    \n\nWith that new component system comes also a layered screen system for selections.    \nInstead of Opening a new gui it instead pops out a dropdown menu for quick selection that also includes a search bar.     \nAlso arrays can be sorted using Drag and Drop.    \n\nBecause i like to add useful features last minute, Carbon Config now also comes with a Backup system that should handle everything that you can access with it.    \nYou can create backups of client/shared/server/world configs. Though for World/Server specific configs require to be in them to have backup support.    \nAs unique identifiers that are used to link with these configs are otherwise not accessible.    \n\n\nOne last major feature Proposed by Xaikii was a Mod Dependency viewer.    \nWhich is more functional than fancy because we simply ran out of time and wanted to at least have something with it.    \n\nIt has a dedicated keybinding to open it and shows you required & optional dependencies.    \nShow you metadata like license, description and version. If provided it will also give you a link to the mod pages.    \nOn Forge & Neoforge even on Mods that are not installed. This assumes mods have a \"referral link\".    \n\nAnyways this covers everything.    \n\nChangelog:    \nVersion 2.0.0:    \n- Added: UI version 2.0\n- Added: Sliders for Numbers, with an option to go back to text.\n- Added: Proper RGB and RGBA component which is slider based.\n- Added: DropDownMenu for Selection Values such as Enums\n- Added: New Checkbox for Boolean values.\n- Added: Drag and Drop Array Sorting\n- Added: A ton of override support using Datapack and Mod Support.\n- Added: Dependency Viewer\n- Added: Backup System.\n- Added: New Translations\n- Updated: to new CarbonConfigLib Version that contains new features",
+      "changelog_url": null,
+      "date_published": "2026-03-29T21:21:29.457643Z",
+      "downloads": 894,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "25lpuUxc",
+          "hashes": {
+            "sha1": "4b0a8945ff0a253b6f9de65d5f093f85236445e9",
+            "sha512": "196888d12a369ae09689a727f0cc94b8157035c703403d409b14e26fa04e1422c051538cde192a38f0324eb1eb1ca7bab5e337d695488db65c62ccbee66553ea"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/WNuFBTR7/CarbonConfig-Neoforge-1.21-2.0.0.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-2.0.0.jar",
+          "primary": true,
+          "size": 1264854,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "qBXg1FZm",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Fabric-1.21-2.0.0",
+      "version_number": "2.0.0",
+      "changelog": "Version 2.0.0 is now out.    \nThis is a huge rewrite of the entire system.   \n\nThe old system was a Recursion based system where you would go deeper into each folder and then see the content.    \nWhile that Configured Mod inspiration was nice. It gets quite the hassle real quick.     \nSo a new approach was needed.    \n\nThankfully it was provided by Xaikii.    \nWho came up with a multi stack approach, my name not a term.    \nWhere you can see 2-3 layers below your current view target.    \nWhich allows you traverse a lot quicker.    \nIn combination with a standardized component system, which can allocate height as needed, thanks to Chunkpregen, it provided the ideal template.    \n\nWith that new component system comes also a layered screen system for selections.    \nInstead of Opening a new gui it instead pops out a dropdown menu for quick selection that also includes a search bar.     \nAlso arrays can be sorted using Drag and Drop.    \n\nBecause i like to add useful features last minute, Carbon Config now also comes with a Backup system that should handle everything that you can access with it.    \nYou can create backups of client/shared/server/world configs. Though for World/Server specific configs require to be in them to have backup support.    \nAs unique identifiers that are used to link with these configs are otherwise not accessible.    \n\n\nOne last major feature Proposed by Xaikii was a Mod Dependency viewer.    \nWhich is more functional than fancy because we simply ran out of time and wanted to at least have something with it.    \n\nIt has a dedicated keybinding to open it and shows you required & optional dependencies.    \nShow you metadata like license, description and version. If provided it will also give you a link to the mod pages.    \nOn Forge & Neoforge even on Mods that are not installed. This assumes mods have a \"referral link\".    \n\nAnyways this covers everything.    \n\nChangelog:    \nVersion 2.0.0:    \n- Added: UI version 2.0\n- Added: Sliders for Numbers, with an option to go back to text.\n- Added: Proper RGB and RGBA component which is slider based.\n- Added: DropDownMenu for Selection Values such as Enums\n- Added: New Checkbox for Boolean values.\n- Added: Drag and Drop Array Sorting\n- Added: A ton of override support using Datapack and Mod Support.\n- Added: Dependency Viewer\n- Added: Backup System.\n- Added: New Translations\n- Updated: to new CarbonConfigLib Version that contains new features",
+      "changelog_url": null,
+      "date_published": "2026-03-29T20:51:35.751906Z",
+      "downloads": 53,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NtJBG9hF",
+          "hashes": {
+            "sha512": "37570984b6ae6f7043827b213f668e3663916dd0f7a34c7a7b6f302b17c4325e1114d10b4ddaa007853680b672e8eee94869bb00265e3b0feaeb798c49274436",
+            "sha1": "560d02397532fb179a0224f10eb9c4d712a47ee2"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/qBXg1FZm/CarbonConfig-Fabric-1.21-2.0.0.jar",
+          "filename": "CarbonConfig-Fabric-1.21-2.0.0.jar",
+          "primary": true,
+          "size": 1374952,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "Du3Ad4aA",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-2.0.0",
+      "version_number": "2.0.0",
+      "changelog": "Version 2.0.0 is now out.    \nThis is a huge rewrite of the entire system.   \n\nThe old system was a Recursion based system where you would go deeper into each folder and then see the content.    \nWhile that Configured Mod inspiration was nice. It gets quite the hassle real quick.     \nSo a new approach was needed.    \n\nThankfully it was provided by Xaikii.    \nWho came up with a multi stack approach, my name not a term.    \nWhere you can see 2-3 layers below your current view target.    \nWhich allows you traverse a lot quicker.    \nIn combination with a standardized component system, which can allocate height as needed, thanks to Chunkpregen, it provided the ideal template.    \n\nWith that new component system comes also a layered screen system for selections.    \nInstead of Opening a new gui it instead pops out a dropdown menu for quick selection that also includes a search bar.     \nAlso arrays can be sorted using Drag and Drop.    \n\nBecause i like to add useful features last minute, Carbon Config now also comes with a Backup system that should handle everything that you can access with it.    \nYou can create backups of client/shared/server/world configs. Though for World/Server specific configs require to be in them to have backup support.    \nAs unique identifiers that are used to link with these configs are otherwise not accessible.    \n\n\nOne last major feature Proposed by Xaikii was a Mod Dependency viewer.    \nWhich is more functional than fancy because we simply ran out of time and wanted to at least have something with it.    \n\nIt has a dedicated keybinding to open it and shows you required & optional dependencies.    \nShow you metadata like license, description and version. If provided it will also give you a link to the mod pages.    \nOn Forge & Neoforge even on Mods that are not installed. This assumes mods have a \"referral link\".    \n\nAnyways this covers everything.    \n\nChangelog:    \nVersion 2.0.0:    \n- Added: UI version 2.0\n- Added: Sliders for Numbers, with an option to go back to text.\n- Added: Proper RGB and RGBA component which is slider based.\n- Added: DropDownMenu for Selection Values such as Enums\n- Added: New Checkbox for Boolean values.\n- Added: Drag and Drop Array Sorting\n- Added: A ton of override support using Datapack and Mod Support.\n- Added: Dependency Viewer\n- Added: Backup System.\n- Added: New Translations\n- Updated: to new CarbonConfigLib Version that contains new features",
+      "changelog_url": null,
+      "date_published": "2026-03-29T20:51:13.757882Z",
+      "downloads": 42,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tNKlLlKL",
+          "hashes": {
+            "sha512": "d0652e002aca6dc873e7999a88b627ffe806045c3572c5853c2de157279aa0a7195509462b68490118a3268071e11bc35f0a57a877a548dcb027030071eebb5c",
+            "sha1": "08232db2420d6af6ef5187be7738661c4d38dbea"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Du3Ad4aA/CarbonConfig-1.21-2.0.0.jar",
+          "filename": "CarbonConfig-1.21-2.0.0.jar",
+          "primary": true,
+          "size": 1363039,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SD1PQa6W",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-1.2.9.6.2",
+      "version_number": "1.2.9.6.2",
+      "changelog": "Small Hotfix for windows 11 support.\n\n\nChangelog:    \nVersion 1.2.9.6.2:    \n- Fixed: Crash when overflow callbacks come from the FileSystemWatcher. Which are a lot more likely with windows 11.",
+      "changelog_url": null,
+      "date_published": "2026-02-05T06:01:27.210209Z",
+      "downloads": 2559,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DjovdpB1",
+          "hashes": {
+            "sha512": "b2b869feb9e1b4af170d2206ac150f2184336e1085a4178b1ff1575cda40f283e85cf5d79281142062477208eb803c1f5f00d54ad87d5899b1d71ccddc72be94",
+            "sha1": "fd8547f7e4b5bbb18307e653460137d133719334"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/SD1PQa6W/CarbonConfig-Neoforge-1.21-1.2.9.6.2.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-1.2.9.6.2.jar",
+          "primary": true,
+          "size": 1108327,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "dsh461UI",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Fabric-1.21-1.2.8.2",
+      "version_number": "1.2.8.2",
+      "changelog": "Small Hotfix for windows 11 support.\n\n\nChangelog:    \nVersion 1.2.8.2:    \n- Fixed: Crash when overflow callbacks come from the FileSystemWatcher. Which are a lot more likely with windows 11.",
+      "changelog_url": null,
+      "date_published": "2026-02-05T06:01:10.174306Z",
+      "downloads": 151,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zK6R2C36",
+          "hashes": {
+            "sha512": "c461adf20518bfb9d6bcf4e4f11e2ac5b877b1471d151e4f373cbd2bc692b1932c2f1f2c1c6f04f5bded95fbfadb96c93784195cd6a68ea4e284135f35f2a4fe",
+            "sha1": "67d87c5471303fb8e369f31e99d70d92b5508ef9"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/dsh461UI/CarbonConfig-Fabric-1.21-1.2.8.2.jar",
+          "filename": "CarbonConfig-Fabric-1.21-1.2.8.2.jar",
+          "primary": true,
+          "size": 1217234,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "19k5SN7e",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-1.2.8.4",
+      "version_number": "1.2.8.4",
+      "changelog": "Small Hotfix for windows 11 support.\n\n\nChangelog:    \nVersion 1.2.8.4:    \n- Fixed: Crash when overflow callbacks come from the FileSystemWatcher. Which are a lot more likely with windows 11.",
+      "changelog_url": null,
+      "date_published": "2026-02-05T06:00:49.493012Z",
+      "downloads": 64,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bSpPsoFS",
+          "hashes": {
+            "sha512": "0f57b0db028cd3e35a64d26acce9c6e8222522f993100a0935ded1ceef3959481e7d24da06cadd5beedf14be15d4a09f527eea2a705cade2e9f6ab9f29974b0c",
+            "sha1": "e8d80010d4d25a865f46a4c215b0cb24212b3594"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/19k5SN7e/CarbonConfig-1.21-1.2.8.4.jar",
+          "filename": "CarbonConfig-1.21-1.2.8.4.jar",
+          "primary": true,
+          "size": 1204486,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8cMtg5EZ",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-1.2.9.6",
+      "version_number": "1.2.9.6",
+      "changelog": "Small Hotfix in the JEI Integration\n\nChangelog:    \nVersion 1.2.9.6:\n- Fixed: JEI Value validator was not checking correctly. (Invalid values were viewed as valid)",
+      "changelog_url": null,
+      "date_published": "2025-09-26T22:20:09.898089Z",
+      "downloads": 10664,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CEYbMff9",
+          "hashes": {
+            "sha512": "03bd913bf9fdce286f1d691e5afc414e844fff4228d1ca5d9cd2255cfef27a8723d2d7a9168e056134e1eefa94e515d41e3b6190624c4c0d7c4d9b83047960fb",
+            "sha1": "228ac31b8407d71d381e0bbd10180b050eef124d"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/8cMtg5EZ/CarbonConfig-Neoforge-1.21-1.2.9.6.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-1.2.9.6.jar",
+          "primary": true,
+          "size": 1088585,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Cz8D6Gf4",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Fabric-1.21-1.2.8.1",
+      "version_number": "1.2.8.1",
+      "changelog": "Small Hotfix in the JEI Integration\n\nChangelog:    \nVersion 1.2.8.1:\n- Fixed: JEI Value validator was not checking correctly. (Invalid values were viewed as valid)",
+      "changelog_url": null,
+      "date_published": "2025-09-26T22:19:49.700773Z",
+      "downloads": 383,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ob6tlKXV",
+          "hashes": {
+            "sha512": "24e563244d0db1b70188b54d4623d903dd975da69449a69f135ec5c7e466046c31e025a65fca32b6f872f0d469963b2cf9956aefa2987f7a8a8c0041ee52e911",
+            "sha1": "3e617cb9d229be9efed0ba67ca4852ee05473865"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Cz8D6Gf4/CarbonConfig-Fabric-1.21-1.2.8.1.jar",
+          "filename": "CarbonConfig-Fabric-1.21-1.2.8.1.jar",
+          "primary": true,
+          "size": 1197109,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "cQv8WCNe",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-1.2.8.3",
+      "version_number": "1.2.8.3",
+      "changelog": "Small Hotfix in the JEI Integration\n\nChangelog:    \nVersion 1.2.8.3:\n- Fixed: JEI Value validator was not checking correctly. (Invalid values were viewed as valid)",
+      "changelog_url": null,
+      "date_published": "2025-09-26T22:19:30.145951Z",
+      "downloads": 139,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "i30hQxg9",
+          "hashes": {
+            "sha1": "a0f94ee6a1a1b742f289934a13ae58ecaf5ad37c",
+            "sha512": "6293b16795d3d6ee3aa64bf7f179d3f4781fc464eab5062b882290e3073eab023659e68140b8a44fe7e6db74f1f9ef98191345f7a7dc0d25817af92cf0c60891"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/cQv8WCNe/CarbonConfig-1.21-1.2.8.3.jar",
+          "filename": "CarbonConfig-1.21-1.2.8.3.jar",
+          "primary": true,
+          "size": 1184751,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "xAUlIfWt",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-1.2.9.5",
+      "version_number": "1.2.9.5",
+      "changelog": "Start of the rework on Carbon Config.    \nThis will be a multi update process but hopefully once done it makes this mod a lot better.\n\nVersion 1.2.9.5:    \nChangelog:     \n- Added: JEI Support\n- Added: Mod Blacklist so carbon config can be disabled for certain mods if they are not working properly.\n- Added: Translation support for Keys & Comments of a Config Entry\n- Added: Compound/Array Override where the \"Edit\" button can be overriden in the array. (Only for arrays, compounds get with the rewrite)    \n- Changed: Custom Data Types now expect a Datatype class to be present or we throw a crash instead. (Only affects Carbon config additions)\n- Updated: Carbon Config Lib to latest version and fixed bugs introduced.\n- Fixed: issues with string arrays.\n- Fixed: Crash with Forge Configs and Enums\n- Fixed: Blur background causing issues with warnings\n- Fixed: Background for certain configs weren't rendered properly.\n",
+      "changelog_url": null,
+      "date_published": "2025-09-20T18:19:35.223920Z",
+      "downloads": 4222,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "f7JsRqSF",
+          "hashes": {
+            "sha512": "5b487e88cadee06d038392fb2ce7463cc24f369f4e5a88cc103cdc303d221abc6844a225cc38aad997b4ec13a806e27c1f12e1457e49fdd3e4b149204a5aef67",
+            "sha1": "0208315a5843cdb0a335b9be40e2a1b352c85032"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/xAUlIfWt/CarbonConfig-Neoforge-1.21-1.2.9.5.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-1.2.9.5.jar",
+          "primary": true,
+          "size": 1088584,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "VCaAF0Th",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Fabric-1.21-1.2.8",
+      "version_number": "1.2.8",
+      "changelog": "Start of the rework on Carbon Config.    \nThis will be a multi update process but hopefully once done it makes this mod a lot better.\n\nVersion 1.2.8:    \nChangelog:     \n- Added: JEI Support\n- Added: Mod Blacklist so carbon config can be disabled for certain mods if they are not working properly.\n- Added: Translation support for Keys & Comments of a Config Entry\n- Added: Compound/Array Override where the \"Edit\" button can be overriden in the array. (Only for arrays, compounds get with the rewrite)    \n- Changed: Custom Data Types now expect a Datatype class to be present or we throw a crash instead. (Only affects Carbon config additions)\n- Updated: Carbon Config Lib to latest version and fixed bugs introduced.\n- Fixed: issues with string arrays.\n- Fixed: Crash with Forge Configs and Enums\n- Fixed: Blur background causing issues with warnings\n- Fixed: Background for certain configs weren't rendered properly.\n",
+      "changelog_url": null,
+      "date_published": "2025-09-20T18:19:04.659490Z",
+      "downloads": 50,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gk9eTlI1",
+          "hashes": {
+            "sha1": "819388b5c39d6bb0cd3a5cf573c890308b24bf88",
+            "sha512": "a104c58a99ee04e4a2a72bc3343ae215f85aa9ecfab157307b1a863b987ea78d0e69967eae6aefdf9b627f5d4b412f7ff2d1df1af00ff5fe107bbd5b449f9ef3"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/VCaAF0Th/CarbonConfig-Fabric-1.21-1.2.8.jar",
+          "filename": "CarbonConfig-Fabric-1.21-1.2.8.jar",
+          "primary": true,
+          "size": 1197108,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "Bc4B6UFW",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-1.2.8.2",
+      "version_number": "1.2.8.2",
+      "changelog": "Start of the rework on Carbon Config.    \nThis will be a multi update process but hopefully once done it makes this mod a lot better.\n\nVersion 1.2.8.2:    \nChangelog:     \n- Added: JEI Support\n- Added: Mod Blacklist so carbon config can be disabled for certain mods if they are not working properly.\n- Added: Translation support for Keys & Comments of a Config Entry\n- Added: Compound/Array Override where the \"Edit\" button can be overriden in the array. (Only for arrays, compounds get with the rewrite)    \n- Changed: Custom Data Types now expect a Datatype class to be present or we throw a crash instead. (Only affects Carbon config additions)\n- Updated: Carbon Config Lib to latest version and fixed bugs introduced.\n- Fixed: issues with string arrays.\n- Fixed: Crash with Forge Configs and Enums\n- Fixed: Blur background causing issues with warnings\n- Fixed: Background for certain configs weren't rendered properly.\n",
+      "changelog_url": null,
+      "date_published": "2025-09-20T18:18:44.848548Z",
+      "downloads": 52,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bEYHUBPh",
+          "hashes": {
+            "sha512": "45e4909f59e7b28e512409b884b9cfe00564dcb3ca9b0e383d682e190f41fb8fde436b2f2f4b007168ff2c3b4e7bb548fb9c00eeb25ceeb7a3cba6418a9b3bd3",
+            "sha1": "168ff90abff3e5c63c58ed314858d7733ad1848b"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Bc4B6UFW/CarbonConfig-1.21-1.2.8.2.jar",
+          "filename": "CarbonConfig-1.21-1.2.8.2.jar",
+          "primary": true,
+          "size": 1184749,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RbB7NE4J",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-1.2.9.4",
+      "version_number": "1.2.9.4",
+      "changelog": "Small Hotfix regarding neo/forge configs.    \n\nChangelogs:    \nVersion 1.2.9.4:    \n- Fixed: Validation Check for forge configs was accidentally discarding the error",
+      "changelog_url": null,
+      "date_published": "2025-05-17T18:14:05.477532Z",
+      "downloads": 25668,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zfjir2hW",
+          "hashes": {
+            "sha512": "58f0016bd589c9a7b65be4c1f46d7c83e523fecc1b64f8a536d396d9afab53a58e091bb16945b6c0fc518c655f302272326839108ceb2fd54a2cdbd75474cd86",
+            "sha1": "0046a553f1a6a1c1dd083de57d639a65eee28936"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/RbB7NE4J/CarbonConfig-Neoforge-1.21-1.2.9.4.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-1.2.9.4.jar",
+          "primary": true,
+          "size": 1045339,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "byHAkfIn",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-1.2.8.1",
+      "version_number": "1.2.8.1",
+      "changelog": "Small Hotfix regarding neo/forge configs.    \n\nChangelogs:    \nVersion 1.2.8.1:    \n- Fixed: Validation Check for forge configs was accidentally discarding the error",
+      "changelog_url": null,
+      "date_published": "2025-05-17T18:13:31.477364Z",
+      "downloads": 155,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EtA3nEqI",
+          "hashes": {
+            "sha512": "a330d6af9a5d5da89eb4622e04081f08f735e588183ad4da37a64ada0c2dc5253c63ccdbb06555ede0e8dd4800a1c89f367f818cea4092b64896971b4a6bbd53",
+            "sha1": "1bb20378a73c65e3dfaf23daf782f018c6dd9939"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/byHAkfIn/CarbonConfig-1.21-1.2.8.1.jar",
+          "filename": "CarbonConfig-1.21-1.2.8.1.jar",
+          "primary": true,
+          "size": 1141548,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zSHzVgcM",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-1.2.9.3",
+      "version_number": "1.2.9.3",
+      "changelog": "Small hotfix for Forge Config parsing/serializing to improve compat with forge/neoforge configs.    \n\nChangelog:    \nVersion 1.2.9.3:   \n- Fixed: Serializing of forge values now are more generic to reduce potential crashes.",
+      "changelog_url": null,
+      "date_published": "2025-03-07T19:07:32.215925Z",
+      "downloads": 4366,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4UPbaQHb",
+          "hashes": {
+            "sha1": "f8e34ddc112839d4a00b6c58845440ac30fabcb8",
+            "sha512": "f57c8a505a4eeab5d03e303b64d329657dabe323592efbab76b8a309a6c5f4f4b43e090ba3bf895b7d2545a2c481e15dbc45a2b4f0bbdc068c9e47a84d34636e"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/zSHzVgcM/CarbonConfig-Neoforge-1.21-1.2.9.3.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-1.2.9.3.jar",
+          "primary": true,
+          "size": 1045252,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "tJVAeLfo",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-1.2.8",
+      "version_number": "1.2.8",
+      "changelog": "Small hotfix for Forge Config parsing/serializing to improve compat with forge/neoforge configs.    \n\nChangelog:    \nVersion 1.2.8:   \n- Fixed: Serializing of forge values now are more generic to reduce potential crashes.",
+      "changelog_url": null,
+      "date_published": "2025-03-07T19:07:11.021540Z",
+      "downloads": 70,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nbjmjjjw",
+          "hashes": {
+            "sha512": "868b645983aebe5cdefe27de13716911ac9f84308457598e9879185b6a4305c7d0ad3f9a2e885c9a6a93fddd012207b371e575b0c14d88977a986c0450c696ec",
+            "sha1": "9af69926e00176aecf7556049f81e26ea03802c2"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/tJVAeLfo/CarbonConfig-1.21-1.2.8.jar",
+          "filename": "CarbonConfig-1.21-1.2.8.jar",
+          "primary": true,
+          "size": 1141461,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "E47BY5CQ",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-1.2.9.2",
+      "version_number": "1.2.9.2",
+      "changelog": "Small hotfix for neoforge.    \n\nChangelog:    \nVersion 1.2.9.2:    \n- Fixed: Incompat with Sodium due to how it tested configs. Implemneted a better approach on how to replace the base neoforge config gui.",
+      "changelog_url": null,
+      "date_published": "2024-08-25T14:22:14.007805Z",
+      "downloads": 1655,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jL1bFamU",
+          "hashes": {
+            "sha512": "c682297b9b3e0d54e3da1e08e3ca9ec995c1a8adcc4e8976d42c382f3c48116d6867469ee056e0df3ee0eaeeabc265649961502dd34aa69df942d48d1aa6b7e7",
+            "sha1": "b5ecd27bde687b7b79f627cbc0887fba8ff14730"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/E47BY5CQ/CarbonConfig-Neoforge-1.21-1.2.9.2.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-1.2.9.2.jar",
+          "primary": true,
+          "size": 1045722,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "MFStNniu",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Neoforge-1.21-1.2.9.1",
+      "version_number": "1.2.9.1",
+      "changelog": "Hotfix as it got reported.    \n\nChangelog:    \nVersion 1.2.9.1:    \n- Changed: Increased the required neoforge version from 110 to 143.\n- Fixed: Forge changed reload mode from 2 functions (well 1) to an enum that was causing a crash.",
+      "changelog_url": null,
+      "date_published": "2024-08-14T18:04:47.318815Z",
+      "downloads": 84,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ywr50zgf",
+          "hashes": {
+            "sha1": "69f58d5a961e78b1ff912a131d7b549d8bcf72c6",
+            "sha512": "9d77eb7dd3cc4023bd36751b9d851af5456dbe893dd906771da2e561e40c4389289fcd524396e2388967161f48e7138a419c290f2802021cd1142cbf3bf9a7a7"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/MFStNniu/CarbonConfig-Neoforge-1.21-1.2.9.1.jar",
+          "filename": "CarbonConfig-Neoforge-1.21-1.2.9.1.jar",
+          "primary": true,
+          "size": 1045627,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "r77SCiNH",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-Fabric-1.21-1.2.7",
+      "version_number": "1.2.7",
+      "changelog": "Fixed a Few bugs found.    \n\nChangelog:    \nVersion 1.2.6:   \n- Fixed: Editing Arrays could lead to crashes under certain circumstances.",
+      "changelog_url": null,
+      "date_published": "2024-07-05T14:13:26.911347Z",
+      "downloads": 413,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NW7Warzv",
+          "hashes": {
+            "sha1": "2486956b51095b0dd993210da0c7f9ee074170cc",
+            "sha512": "d2fc750d7bca258154d463675c01695b74fd7bffb91aba9c1f4171cf069539cec6f56ec5d68c1d72186f9664f2c4c786ae9789a75306638e21ece01d1470734a"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/r77SCiNH/CarbonConfig-Fabric-1.21-1.2.7.jar",
+          "filename": "CarbonConfig-Fabric-1.21-1.2.7.jar",
+          "primary": true,
+          "size": 1153507,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "kTjGTaeT",
+      "project_id": "1jDdpgcc",
+      "author_id": "5G4WmQYG",
+      "featured": false,
+      "name": "CarbonConfig-1.21-1.2.7",
+      "version_number": "1.2.7",
+      "changelog": "Fixed a Few bugs found.    \n\nChangelog:    \nVersion 1.2.7:   \n- Fixed: Crash with Forge Lists using anything else than Strings\n- Fixed: Neoforge implementation was still using forge implementation for getting range informations.\n- Fixed: Editing Arrays could lead to crashes under certain circumstances.",
+      "changelog_url": null,
+      "date_published": "2024-07-05T14:13:02.466016Z",
+      "downloads": 159,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rAek83Zg",
+          "hashes": {
+            "sha512": "6b0af55c27dce534a3118fd6a11efc617e3e7709a3a42e2935917aa69a8578d40c525c7dcd6981e2450b92b27d7371df44367805c446955632cdad2614a3193d",
+            "sha1": "8cda0508aa5076fa5775b353b5db94394c566c61"
+          },
+          "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/kTjGTaeT/CarbonConfig-1.21-1.2.7.jar",
+          "filename": "CarbonConfig-1.21-1.2.7.jar",
+          "primary": true,
+          "size": 1141936,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

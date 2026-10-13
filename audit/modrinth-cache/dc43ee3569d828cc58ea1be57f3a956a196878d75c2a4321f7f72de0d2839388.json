@@ -1,0 +1,1153 @@
+{
+  "url": "https://api.modrinth.com/v2/project/Es5v4eyq/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:37.246681+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "RR1lyQmh",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.10 for 1.21.1",
+      "version_number": "fabric-1.21.1-1.0.10",
+      "changelog": "Fixed compat with latest Reese's Options\r\nAdded blacklist for Flashback, Axiom, and Dynamic FPS showing up incorrectly in the Options menu",
+      "changelog_url": null,
+      "date_published": "2025-01-18T20:48:20.170825Z",
+      "downloads": 9112684,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KlVOzlTU",
+          "hashes": {
+            "sha512": "6f2d04c36090794790f64f18ec16e100465ceed9d3fb58c296303895bb891a2e03bbb6ad7747e911ba945f34a8bd38ab951dc3c9c04680798e8b348be3207e6f",
+            "sha1": "ca8c29ad2481ab5fe81095181541d183fa7faf19"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/RR1lyQmh/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+          "primary": true,
+          "size": 903592,
+          "file_type": null
+        },
+        {
+          "id": "gKCADEbO",
+          "hashes": {
+            "sha1": "c261afd946f9f17162b1c414467bfff8cf4adf59",
+            "sha512": "c94667c7d7148da39ec744088fe01f2b95889e9694bec969554af4cc6be87ece6f98df6e29b946cd6bf33becfaa610854013bf3fb06b6a63a30af5d35da8e710"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/RR1lyQmh/sodiumoptionsapi-fabric-1.0.10-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.10-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213982,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "lrsX3TMS",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+      "version_number": "neoforge-1.21.1-1.0.10",
+      "changelog": "Fixed compat with latest Reese's Options\r\nAdded blacklist for Flashback, Axiom, and Dynamic FPS showing up incorrectly in the Options menu",
+      "changelog_url": null,
+      "date_published": "2025-01-18T20:48:20.047599Z",
+      "downloads": 1919732,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iXD04kKA",
+          "hashes": {
+            "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
+            "sha512": "f2f022183f300961d7d0503461daa59e3e606c32f189f1cb3307edaf765986c541929205b7bf6f40c4c88319696e9d863c1bf711bd441dc9b7081c198ddb445b"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+          "primary": true,
+          "size": 309122,
+          "file_type": null
+        },
+        {
+          "id": "kFTsoQnB",
+          "hashes": {
+            "sha1": "d03bb281e360282b7f368762a1a3800e88450706",
+            "sha512": "17f9f090fb424042279b18e7a6aaa2af1ee79458ed88ec0c572f98928bafc0255107f3dac73d2c8a68a7644b8e203746199daa0b6c005709a3e505caafd4c172"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1-sources.jar",
+          "primary": false,
+          "size": 214206,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "BETRmHf5",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.9 for 1.21.1",
+      "version_number": "fabric-1.21.1-1.0.9",
+      "changelog": "Add some extension methods for manually overriding category IDs",
+      "changelog_url": null,
+      "date_published": "2025-01-01T03:52:38.357375Z",
+      "downloads": 42003,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9H1CqdFM",
+          "hashes": {
+            "sha512": "3c730dc09c96f87ac50520dfbf6a9fd82b82bb12e614eb7a3aef3a8bbf59be83054bcc4913753b0545131bedae5e8c2efe0a2a0555aa7cb4034c38438ea8fdaf",
+            "sha1": "95f9b8c44f46b4d2938b0d5981346a5966f1a0ce"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/BETRmHf5/sodiumoptionsapi-fabric-1.0.9-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.9-1.21.1.jar",
+          "primary": true,
+          "size": 904011,
+          "file_type": null
+        },
+        {
+          "id": "1gXfChGH",
+          "hashes": {
+            "sha1": "990ad74a53a4322572a74868a48fed5d6433177e",
+            "sha512": "9f357be5055fb8ed4437976d132e82989aadfb31940a89e2055409febcf87c8fc8d672dc762edd3d29b079ead94991de7b1df02395f641f24f76af7787875d7e"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/BETRmHf5/sodiumoptionsapi-fabric-1.0.9-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.9-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213904,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "TtBxzDsa",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.9 for 1.21.1",
+      "version_number": "neoforge-1.21.1-1.0.9",
+      "changelog": "Add some extension methods for manually overriding category IDs",
+      "changelog_url": null,
+      "date_published": "2025-01-01T03:52:38.226272Z",
+      "downloads": 10946,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Es4g6oq0",
+          "hashes": {
+            "sha512": "252a0a710f57fd41c746dbe488bb83f395b6e59ab87fad60b8f7caae62f3ba12fe5ea6e367e8739ff40418d9f4b6a1f4a3abc07b1b41dfd21178a77c3fc4f92f",
+            "sha1": "8f8bb73de859067a01775371807c3344f85ec378"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/TtBxzDsa/sodiumoptionsapi-neoforge-1.0.9-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.9-1.21.1.jar",
+          "primary": true,
+          "size": 308966,
+          "file_type": null
+        },
+        {
+          "id": "fhNqKXRm",
+          "hashes": {
+            "sha512": "3d7e4fac7c9822c292259844d731b960bee35f4de9d4feebd704ef94d013b6162ae3ead2b639a47512578bb601bb690f79fa76b6e45e4a16eab8719b253fa40f",
+            "sha1": "79ed329672e998a2fdc26c807e2b7d7b9f09988e"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/TtBxzDsa/sodiumoptionsapi-neoforge-1.0.9-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.9-1.21.1-sources.jar",
+          "primary": false,
+          "size": 214128,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "PurZvdnv",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.8 for 1.21.1",
+      "version_number": "1.0.8",
+      "changelog": "Add some extension methods for manually overriding category IDs",
+      "changelog_url": null,
+      "date_published": "2024-11-23T21:11:10.058373Z",
+      "downloads": 23994,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XRrBHnZP",
+          "hashes": {
+            "sha1": "26efdbebd4364d44e728f9263ff13258ee60cb3e",
+            "sha512": "01db93f3454c80037b9051d3a56af2ef834c53e70dac545dfb677c3fa905ff04b6bbcf6e19208d9f3a42694facd46d748570bd1b3a2d2c8fd96b843beb3a48e7"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/PurZvdnv/sodiumoptionsapi-neoforge-1.0.8-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.8-1.21.1.jar",
+          "primary": true,
+          "size": 309132,
+          "file_type": null
+        },
+        {
+          "id": "EteLZrpv",
+          "hashes": {
+            "sha512": "4b7a42b0db381c94ebd2facc23749de16d7e41f141798e3cf60484302c61c178cc65b37c81071f23ec6c93b004c55a83fd2e1dc4130984f238386310db1c9cff",
+            "sha1": "a28e2bc746f0cedd22448df63d8089925f1de0cb"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/PurZvdnv/sodiumoptionsapi-neoforge-1.0.8-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.8-1.21.1-sources.jar",
+          "primary": false,
+          "size": 214293,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "eCebYVhU",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.8 for 1.21.1",
+      "version_number": "1.0.8",
+      "changelog": "Add some extension methods for manually overriding category IDs",
+      "changelog_url": null,
+      "date_published": "2024-11-23T21:11:09.392521Z",
+      "downloads": 174904,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xHtd2w2M",
+          "hashes": {
+            "sha1": "021b08d2df19b92118513aa6fd52be418b520d19",
+            "sha512": "3718616d2727af2c0884ea636bf0de9c47cabe60afe0efb5d8f2913e5979693fd652cd9f509edcc03fa39370e6363a678743f18faac92640cd26e667743fe05e"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/eCebYVhU/sodiumoptionsapi-fabric-1.0.8-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.8-1.21.1.jar",
+          "primary": true,
+          "size": 306574,
+          "file_type": null
+        },
+        {
+          "id": "WSesugnL",
+          "hashes": {
+            "sha512": "ac8e49d4fc7604064f6f046095453ad3252d077aacca176b84998b495aaf4952fd98a922efac90790ea855163de233884fddd633745d82015a801b16bfcf2d7e",
+            "sha1": "e70f4fe6949dd53bb3078d0c5ef49ef7b9315183"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/eCebYVhU/sodiumoptionsapi-fabric-1.0.8-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.8-1.21.1-sources.jar",
+          "primary": false,
+          "size": 214113,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "JoAYiXki",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.6 for 1.21.1",
+      "version_number": "1.0.6",
+      "changelog": "Updated to Sodium 0.6 release",
+      "changelog_url": null,
+      "date_published": "2024-11-18T21:22:15.438599Z",
+      "downloads": 4944,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LYNJURe4",
+          "hashes": {
+            "sha512": "61b04d4ffa1d42d71201e98395b14cfcf8559ad59d23f0ca997fac4b0daf45f8d0324218ba533fd5f903f90008c7bd090f1079021c9ebb4b21bb17043f8058cd",
+            "sha1": "810986b6df45d56dcf18d4be1767420e503171c6"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/JoAYiXki/sodiumoptionsapi-fabric-1.0.6-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.6-1.21.1.jar",
+          "primary": true,
+          "size": 305478,
+          "file_type": null
+        },
+        {
+          "id": "fO3EPgkw",
+          "hashes": {
+            "sha512": "baaac2142fad8f024c6d23fb756a40338f281b7b38dc2781f08f98bb22f6ce91c9741252a6d6fb69d6f853bb2890003dd8921876d687acd026337a483f9a9f2d",
+            "sha1": "9cbb7f7728dda8ae1cdb369c8c78b3339a6059d2"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/JoAYiXki/sodiumoptionsapi-fabric-1.0.6-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.6-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213366,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "D72Dqsl3",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.6 for 1.21.1",
+      "version_number": "1.0.6",
+      "changelog": "Updated to Sodium 0.6 release",
+      "changelog_url": null,
+      "date_published": "2024-11-18T21:22:15.291733Z",
+      "downloads": 1358,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UgoaFhRT",
+          "hashes": {
+            "sha1": "2bb245edcc685526b3f105f93503db4f182db7ba",
+            "sha512": "1c07ee5ae58803958d5f8551865b51b7a2ea01c55e43db221669f175b9eb841ff2960c947d68da8dde6928b3559ec539d17e5002f3fd06a9feb2de45ee5ecd02"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/D72Dqsl3/sodiumoptionsapi-neoforge-1.0.6-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.6-1.21.1.jar",
+          "primary": true,
+          "size": 308541,
+          "file_type": null
+        },
+        {
+          "id": "s3WmT7Tk",
+          "hashes": {
+            "sha1": "5a1822283b4def74ab16727073a18921f3aac001",
+            "sha512": "9cd143e890e2ca8d1981ecec31c8e28cae16d0c0242d6fcf18425a5af20fcff117999e54429dd6b1dd49104d3fcc072ab760178b540b3e43e359d08facadd58d"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/D72Dqsl3/sodiumoptionsapi-neoforge-1.0.6-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.6-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213512,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "eryI8I4M",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.5 for 1.21.1",
+      "version_number": "1.0.5",
+      "changelog": "Fix Reese's options not being found on Fabric\r\nFix crash with MoreCulling on Neo\r\nUpdate dependency config to error when Reese's options doesn't get installed even though i specifically set it as a dependency (thank you Modrinth launcher)",
+      "changelog_url": null,
+      "date_published": "2024-10-29T18:35:19.287553Z",
+      "downloads": 3385,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2TTRFgYm",
+          "hashes": {
+            "sha512": "d1e625c610b0a6cb6e9e7da84a9bcfd51e45b41ac59b7621c70e2a9120f8e4e181dd263f6a9d26abcf4c417a14ad8c74bf93f9a9ca20eae2d4cba4b02bf292b6",
+            "sha1": "24a93a96fee0f03cb977004f8e0705d3007f21ed"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/eryI8I4M/sodiumoptionsapi-neoforge-1.0.5-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.5-1.21.1.jar",
+          "primary": true,
+          "size": 308657,
+          "file_type": null
+        },
+        {
+          "id": "6zRYjWEn",
+          "hashes": {
+            "sha512": "bf4ac33ababbb4464a6b2237fb963cbc465d86b1b2b8ae43130f7df867fdd2e5f6718ddbc24a7971158e164fce53269814c80b9b8ef7c7dbe974d9f7b6bb25fa",
+            "sha1": "709fb6e1a774cccc75077048c78d92e499e08af9"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/eryI8I4M/sodiumoptionsapi-neoforge-1.0.5-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.5-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213393,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "9mH6wdMJ",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.5 for 1.21.1",
+      "version_number": "1.0.5",
+      "changelog": "Fix Reese's options not being found on Fabric\r\nFix crash with MoreCulling on Neo\r\nUpdate dependency config to error when Reese's options doesn't get installed even though i specifically set it as a dependency (thank you Modrinth launcher)",
+      "changelog_url": null,
+      "date_published": "2024-10-29T18:35:19.168593Z",
+      "downloads": 23140,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2ih0qQEl",
+          "hashes": {
+            "sha1": "e8dd272570d7a57a5ba45d54c07e7511c2cc0ac8",
+            "sha512": "e35f47988e7a9bab14faae4b47d40e3b2146ce4ed5ea22bd25d488ae77d368206f77a96ec593a3395aed9c235b81e567100492b2dbad7f18b39606b3e0e0ab25"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/9mH6wdMJ/sodiumoptionsapi-fabric-1.0.5-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.5-1.21.1.jar",
+          "primary": true,
+          "size": 305586,
+          "file_type": null
+        },
+        {
+          "id": "XRRmBX7B",
+          "hashes": {
+            "sha1": "1e7ccafb1b8d4ed8ec686cf6eed54b782a63315c",
+            "sha512": "dba4900561e62ece10ead456ef205e409bcb545c609497e2e991d5dd20e57426e36c18dde9041e79129ea4e701d813b5658c946c1b615d1a27770246c8f94c1c"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/9mH6wdMJ/sodiumoptionsapi-fabric-1.0.5-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.5-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213230,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "OgSAYwMo",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.4 for 1.21.1",
+      "version_number": "1.0.4",
+      "changelog": "Fix crash with MoreCulling on Neo\r\nUpdate dependency config to error when Reese's options doesn't get installed even though i specifically set it as a dependency (thank you Modrinth launcher)",
+      "changelog_url": null,
+      "date_published": "2024-10-29T17:44:06.807473Z",
+      "downloads": 341,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AvlID17P",
+          "hashes": {
+            "sha1": "384d19404a8310b11633e506bcc4e215812efea0",
+            "sha512": "1afcafce55f45795262e08598913cb0057ac6b69748181354c9cf8268cfe55dd95bd01a20df47a73a799dddaad105fd1df642dbf51c6185de15370684fe0bd67"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/OgSAYwMo/sodiumoptionsapi-neoforge-1.0.4-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.4-1.21.1.jar",
+          "primary": true,
+          "size": 308646,
+          "file_type": null
+        },
+        {
+          "id": "t5BgW0pi",
+          "hashes": {
+            "sha1": "067ff9fc851b15609b1cc3e89e0aff994148f837",
+            "sha512": "d9f22b26eebe0ab04bbc3a267840321e4a9cacc2fc476b9fdfc66ff4d928054899238f341b0963821178363d77070d1f9d82c359ba95dc4bb748dde3799ecb3d"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/OgSAYwMo/sodiumoptionsapi-neoforge-1.0.4-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.4-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213393,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "5EV3zJs4",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.4 for 1.21.1",
+      "version_number": "1.0.4",
+      "changelog": "Fix crash with MoreCulling on Neo\r\nUpdate dependency config to error when Reese's options doesn't get installed even though i specifically set it as a dependency (thank you Modrinth launcher)",
+      "changelog_url": null,
+      "date_published": "2024-10-29T17:44:05.835951Z",
+      "downloads": 464,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "l6AxfNKx",
+          "hashes": {
+            "sha512": "d9600af9b7015c96152678340cf78b5faa43e4d18bd43dccb45c119b4652992230a88aa6d8a63a50aca01210809b9d46b73b2b2c31617a683428f5079725b56e",
+            "sha1": "81f775a23db753d1749ad07df7f43c30c22087d6"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/5EV3zJs4/sodiumoptionsapi-fabric-1.0.4-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.4-1.21.1.jar",
+          "primary": true,
+          "size": 305572,
+          "file_type": null
+        },
+        {
+          "id": "R1dMU3do",
+          "hashes": {
+            "sha512": "e34d22982059b45c790c2816b875889f1bab5ff1d663c75fe027932c8379a1d4a0cab4dd35fba8491fe0d8fc1eaba96f0ece84c3131b19487fcf71d5cd7e226a",
+            "sha1": "91991f096b9227b5f3d0e529842ee80f63c74964"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/5EV3zJs4/sodiumoptionsapi-fabric-1.0.4-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.4-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213230,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "UH3P7wPo",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.3 for 1.21.1",
+      "version_number": "1.0.3",
+      "changelog": "Fix crash on dedicated servers",
+      "changelog_url": null,
+      "date_published": "2024-10-13T04:22:20.166876Z",
+      "downloads": 2251,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "q6mqSn2N",
+          "hashes": {
+            "sha512": "a763efde6be73e10b2f48350904f9bade19bee0ce41c4c88568df696ac217c3c7b4f43428d0aaac6e14e3fd46d5cbd07fe6306bfc228cbcecb0eea03ef0641e0",
+            "sha1": "16a73acda7675f57977620c54891db3f0413f61d"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/UH3P7wPo/sodiumoptionsapi-neoforge-1.0.3-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.3-1.21.1.jar",
+          "primary": true,
+          "size": 308334,
+          "file_type": null
+        },
+        {
+          "id": "GPRNt3ua",
+          "hashes": {
+            "sha1": "2ffccf57008e63d13b7b4fa1da280faa9690012f",
+            "sha512": "2856702f651839f774848c3f6d5670890989f2280417c250c7556e45ed92439f6d80fa20b0280d80b6586d4a70cc661d08da021cec82340794cd15b719ba925e"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/UH3P7wPo/sodiumoptionsapi-neoforge-1.0.3-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.3-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213320,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "rngNO66x",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.3 for 1.21.1",
+      "version_number": "1.0.3",
+      "changelog": "Fix crash on dedicated servers",
+      "changelog_url": null,
+      "date_published": "2024-10-13T04:22:20.031603Z",
+      "downloads": 43092,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dEVCAAT1",
+          "hashes": {
+            "sha1": "e9939429124a3ed63d46b033576af5095e8ffa08",
+            "sha512": "d161c38487cc96d0b6610346b331bda320f03f4d80aca7f321aec588e6c4d0b995ddd06ad5f9724054be4f51393a74a038113af33a4569ab2a65186fe6c37c2d"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/rngNO66x/sodiumoptionsapi-fabric-1.0.3-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.3-1.21.1.jar",
+          "primary": true,
+          "size": 305542,
+          "file_type": null
+        },
+        {
+          "id": "q4g5oAYy",
+          "hashes": {
+            "sha512": "6eba3a95a39b58436b2cb9c98358c7730771c615659c54fbc9a76a0418fa687655f07bd2f8146c5ec212105b17a168c0fa1c175e1d03bdd0da157491b68fdc95",
+            "sha1": "87a679d19fb3c1a710e3eeb63250b83f8c62851c"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/rngNO66x/sodiumoptionsapi-fabric-1.0.3-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.3-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213156,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "3G9Nkvuw",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.2 for 1.21.1",
+      "version_number": "1.0.2",
+      "changelog": "## Changelog\r\n- Update for Sodium beta 2",
+      "changelog_url": null,
+      "date_published": "2024-09-16T07:00:34.367807Z",
+      "downloads": 14868,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "95s88QHu",
+          "hashes": {
+            "sha1": "ee1acdb2e424b73a433d4973e8bffb436b385a4a",
+            "sha512": "9052276b941e4e8f1b0a0d2e9622e9c3042756e91ed5eb4ac554d7d9bb3d9abf3c40c25b5b29cf5609fa3e6df3a135c3178d7ca94762a302932726b16dd950eb"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/3G9Nkvuw/sodiumoptionsapi-fabric-1.0.2-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.2-1.21.1.jar",
+          "primary": true,
+          "size": 305544,
+          "file_type": null
+        },
+        {
+          "id": "nVcPGI7V",
+          "hashes": {
+            "sha1": "a0c63263a4e490f6f16428f574c855f90e1639b2",
+            "sha512": "0cf89795c4cb3e5713a73c3a1bc82bc1d9d7700b4befc668f77110dd61d036348499ef2c4f131852a495918b4dc88077458484c09418429b071f7c8a8933bb04"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/3G9Nkvuw/sodiumoptionsapi-fabric-1.0.2-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.2-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213152,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "3tMrKnAt",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.2 for 1.21.1",
+      "version_number": "1.0.2",
+      "changelog": "## Changelog\r\n- Update for Sodium beta 2",
+      "changelog_url": null,
+      "date_published": "2024-09-16T07:00:34.151186Z",
+      "downloads": 2077,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TIaDbYcv",
+          "hashes": {
+            "sha1": "0d428dd3f4de4af80447db89eaa9156d33c29ca7",
+            "sha512": "615f799141b364472ab3813e3d5fb7c4f90d9e414d37cdc2c4ac3097971586bed4e7639519eb7f8eea45988772fe078a7aadf29bba10e530de8984c5acfedffc"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/3tMrKnAt/sodiumoptionsapi-neoforge-1.0.2-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.2-1.21.1.jar",
+          "primary": true,
+          "size": 308337,
+          "file_type": null
+        },
+        {
+          "id": "JE3nDl00",
+          "hashes": {
+            "sha512": "5fd686d1da0eebe2187d0cb1e765396dc5860def16d9d5681bce0bc38974a338acbe1bde78bb10acfdaa1bf89bd28f959ddaf88c623ad155e27179966106adae",
+            "sha1": "f6b5e8fcd28a03dbf1f957c481cf433df882a4ef"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/3tMrKnAt/sodiumoptionsapi-neoforge-1.0.2-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.2-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213316,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "iKsckq2S",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Neoforge 1.0.0 for 1.21.1",
+      "version_number": "1.0.0",
+      "changelog": "## Changelog\r\n- Initial release",
+      "changelog_url": null,
+      "date_published": "2024-09-15T17:29:25.914290Z",
+      "downloads": 5103,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OEIz8yfg",
+          "hashes": {
+            "sha1": "3ccbe35445b0ef9e9a39c56d5444cd04ffa83a12",
+            "sha512": "7627862d9ac7d26bacd1e2edccff3a3ebc573a451d6986baf634e07a7eec771881bfa09492a68a7e4ec507c205457a1db0ee5e51a0f6ed2f27e887ef11f73d26"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/iKsckq2S/sodiumoptionsapi-neoforge-1.0.0-1.21.1.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.0-1.21.1.jar",
+          "primary": true,
+          "size": 308335,
+          "file_type": null
+        },
+        {
+          "id": "58BpRgoD",
+          "hashes": {
+            "sha512": "dae9f5290c311909ecaa226b5395eb97a8034beebbab021224d513b9f5fc3d2f96c8707b8f2fdb6d2a03fd88467d98aba4043357c44cd7cee7872de8fb65dee5",
+            "sha1": "e16dd1e5942788c5d0291e5eeed7b6ae06a29240"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/iKsckq2S/sodiumoptionsapi-neoforge-1.0.0-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-neoforge-1.0.0-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213265,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "PalQMwBl",
+      "project_id": "Es5v4eyq",
+      "author_id": "dSn53j6E",
+      "featured": false,
+      "name": "SodiumOptionsAPI Fabric 1.0.0 for 1.21.1",
+      "version_number": "1.0.0",
+      "changelog": "## Changelog\r\n- Initial release",
+      "changelog_url": null,
+      "date_published": "2024-09-15T17:29:25.828202Z",
+      "downloads": 1968,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JBrjL2lA",
+          "hashes": {
+            "sha512": "42225489e9fbf47b4774f28a311c011c3347816b324883f8a7c9809f3d3ba0512e750b43c6bc638b5c830d56d45f940b69b47f20937c05567fcc5d97f660ceb9",
+            "sha1": "d18182218f76a7c3004e893273f4a0e658cd2b60"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/PalQMwBl/sodiumoptionsapi-fabric-1.0.0-1.21.1.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.0-1.21.1.jar",
+          "primary": true,
+          "size": 305543,
+          "file_type": null
+        },
+        {
+          "id": "b2jUtu8o",
+          "hashes": {
+            "sha512": "53a549a21ad34ece5c3d1501a2ec400f336dd0b2ed534b0a9487a71f2a254673be5caa72b18bdf07a7ae0aaf304a488198168fd2082d1735fb23445d3ddab908",
+            "sha1": "5b11dc6c4a9b539d3f09f30032e0c3d1d4faee78"
+          },
+          "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/PalQMwBl/sodiumoptionsapi-fabric-1.0.0-1.21.1-sources.jar",
+          "filename": "sodiumoptionsapi-fabric-1.0.0-1.21.1-sources.jar",
+          "primary": false,
+          "size": 213101,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Bh37bMuy",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

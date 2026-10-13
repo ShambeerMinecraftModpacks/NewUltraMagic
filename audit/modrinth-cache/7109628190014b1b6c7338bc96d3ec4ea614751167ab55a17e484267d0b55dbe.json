@@ -1,0 +1,807 @@
+{
+  "url": "https://api.modrinth.com/v2/project/u58R1TMW/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:50.710090+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "IITF0PRC",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 17",
+      "version_number": "2.0.0-beta.17+1.21.1",
+      "changelog": "- Strip signature from libraries (Su5eD)\n- Force unique module name for libraries (Su5eD)\n- Bump adapter (Su5eD)\n- Add version catalog (Su5eD)\n- Add support for Class Tweakers (Su5eD)\n- Fix CurseForge publishing (Su5eD)\n- Bump Adapter to 2.0.40 (Su5eD)\n- Bump Adapter to 2.0.38 (Su5eD)\n- Resolve provided (alias) namespaces when mapping Fabric fluid types (#2283) (fromdisposition, fromdisposition)\n- Bump Adapter to 2.0.37 (Su5eD)\n- Move cache out of mods folder (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-08-15T12:43:58.152125Z",
+      "downloads": 659629,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "U2fKggY2",
+          "hashes": {
+            "sha512": "cb92b662047208792e61191d372d1e255766200406c35769007101f8c578c1018938610c3b90352afd93ec42d7963acf3607e35c50e669df50ac85d7c5529560",
+            "sha1": "15e652d3628b1bcb644b93576fcab154496f770a"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.17+1.21.1-full.jar",
+          "primary": true,
+          "size": 4573244,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "9Bz9VtV5",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 16",
+      "version_number": "2.0.0-beta.16+1.21.1",
+      "changelog": "- Bump Adapter to 2.0.40 (Su5eD)\n- Bump Adapter to 2.0.38 (Su5eD)\n- Resolve provided (alias) namespaces when mapping Fabric fluid types (#2283) (fromdisposition, fromdisposition)\n- Bump Adapter to 2.0.37 (Su5eD)\n- Move cache out of mods folder (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-07-30T16:37:33.667048Z",
+      "downloads": 203240,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aHyVegOM",
+          "hashes": {
+            "sha512": "39094eb8c514db0ffc474bf64a95ebb1a55d50db6a68fcb1dc0fcaea2d1d1fdeb44aa73de9b77a07b04cb7d75741f7c0ac9bb63eae5ded225b2bb0695588c064",
+            "sha1": "f874627f9b3f8c33c8ef7f904a0084742aad48e5"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/9Bz9VtV5/connector-2.0.0-beta.16%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.16+1.21.1-full.jar",
+          "primary": true,
+          "size": 4533093,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "kDbM9LpX",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 15",
+      "version_number": "2.0.0-beta.15+1.21.1",
+      "changelog": "- Update Fabric Loader to 0.19.x (Su5eD)\n- Merge pull request #2122 from Sinytra/docs (Su5eD)\n- Document mixin safeguard (Su5eD)\n- Add probe link to docs (Su5eD)\n- Update wiki plugin (Su5eD)\n- Fix codeblock titles (Su5eD)\n- Move docs to the Modded Minecraft Wiki (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-07-04T09:40:24.011483Z",
+      "downloads": 367139,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WKVakIEn",
+          "hashes": {
+            "sha1": "3ca84be625bb792f796dd50963d4d21842370893",
+            "sha512": "71b9a887298d3f60c3f5ae72835a6e146f3e664184f1d60edef5e2b989e5b6ef460757526e87a3b1a162e5778ea932aa4da8223aa557ffa2178ffb574a42533d"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/kDbM9LpX/connector-2.0.0-beta.15%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.15+1.21.1-full.jar",
+          "primary": true,
+          "size": 4527056,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "1i8teo7m",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 14",
+      "version_number": "2.0.0-beta.14+1.21.1",
+      "changelog": "- Develop beta 14 (#2119) (Su5eD)\n- Bump Adapter to 2.0.36 (Su5eD)\n- Bump Adapter to 2.0.35 (Su5eD)\n- Bump Adapter to 2.0.33 (Su5eD)\n- Bump Adapter to 2.0.30 (Su5eD)\n- Bump Adapter to 2.0.29 (Su5eD)\n- Bump Adapter to 2.0.28 (Su5eD)\n- Bump Adapter to 2.0.27 (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-16T15:38:10.350716Z",
+      "downloads": 3332741,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "n0KZg9t2",
+          "hashes": {
+            "sha512": "6ed3168c2c7dad2606ada1fdf63ee412bb8bb5620718a702f6ac51310e671f2f93ab46fc96400e258f4433e51b96f9dd21441e1a8963d8b356c75b578e156dcc",
+            "sha1": "930067497b5c1249e51b3e33620ab4e72dc92f4c"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.14+1.21.1-full.jar",
+          "primary": true,
+          "size": 4526785,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "HOPIDf1H",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 13",
+      "version_number": "2.0.0-beta.13+1.21.1",
+      "changelog": "- Develop beta 13 (#2103) (Su5eD)\n- Silence incorrect warnings about broken mods loaded by Connector (Su5eD)\n- Add MixinExtras dummy to dependency resolution (Su5eD)\n- Fix FFAPI version (Su5eD)\n- Update to Adapter V2 (Su5eD)\n- Fix normalized version comparison (Su5eD)\n- Fix incorrectly loading sided mixin config (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-08T14:35:01.121117Z",
+      "downloads": 41636,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VZDoMd7z",
+          "hashes": {
+            "sha512": "4bd0936b5912133c03ca8e2a7d12456e00599e6fd85785e7967efe267276e8df6e85a375b3dc36ff07541c8ca3c94fef10b4fcbf7952c35fdfef433b6f0fff04",
+            "sha1": "f4f0902ec24590c4ef123514be527204d67ec60d"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/HOPIDf1H/connector-2.0.0-beta.13%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.13+1.21.1-full.jar",
+          "primary": true,
+          "size": 4514506,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "YCMXHxwl",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 12",
+      "version_number": "2.0.0-beta.12+1.21.1",
+      "changelog": "- Develop beta 12 (#2031) (Su5eD)\n- Update adapter to 1.13.58 (Su5eD)\n- Update adapter to 1.13.57 (Su5eD)\n- Bump version to beta 12 (Su5eD)\n- Update Adapter to 1.13.56 (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-27T21:10:27.708524Z",
+      "downloads": 613088,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QgMdof4E",
+          "hashes": {
+            "sha512": "5d3746f9cf220c3592f1398f7b7380af265c91b465c3fbaa813f521c41ac022e9e5ce909b4251a05ef8c92c3b93a3ce7e0c081577ef8ec2ab2b4ca86d112799f",
+            "sha1": "b835ddbf29090a67271879789a395f2c502ca269"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/YCMXHxwl/connector-2.0.0-beta.12%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.12+1.21.1-full.jar",
+          "primary": true,
+          "size": 4528520,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "6MgWNmMr",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 11",
+      "version_number": "2.0.0-beta.11+1.21.1",
+      "changelog": "- Develop beta 11 (#2000) (Su5eD)\n- Update Adapter to 1.13.47 (Su5eD)\n- Update Adapter to 1.13.46 (Su5eD)\n- Fix crash on invalid mixin config json (Su5eD)\n- Start beta 11 (Su5eD)\n- Fix transformer lib not published to maven (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-10-28T13:01:09.871387Z",
+      "downloads": 290863,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BJrl5jPk",
+          "hashes": {
+            "sha1": "634685aa075a12c3369606fb9764d26743f8973d",
+            "sha512": "111c3dea3907903696f016efde54c0960cc091d84e5a3ee31414b92e155f687757f0d431f629006808010291abac7099e065f08ff49be19f6743e545f4cd5fc6"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/6MgWNmMr/connector-2.0.0-beta.11%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.11+1.21.1-full.jar",
+          "primary": true,
+          "size": 4545403,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "a4IkLwwg",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "Connector 2.0.0 beta 10",
+      "version_number": "2.0.0-beta.10+1.21.1",
+      "changelog": "- Improve platform version format (Su5eD)\n- Update issue templates (Su5eD)\n- Develop beta 10 (#1960) (Su5eD, Milkev, nergizer, Katherine)\n- Fix lazy entity attribute replacement (Su5eD)\n- Always show loading errors (Su5eD)\n- Update adapter to 1.13.42 (Su5eD)\n- Make PLUGIN modules read connector (Su5eD)\n- Update adapter definition to 1.13.40 (Su5eD)\n- Don't crash if moving module fails (Su5eD)\n- Update README (Su5eD)\n- Display Connector version in debug overlay (Su5eD)\n- Update adapter definition to 1.13.37 (Su5eD)\n- Silence mixin errors from unused mixins (Su5eD)\n- Implement Adapter UTP transforms (Su5eD)\n- Check LoadingModList#hasErrors instead of LoadingModList#getModLoadingIssues != empty (#1830) (Katherine)\n- Propagate issue tracker link to bridged mods.toml (Su5eD, nergizer)\n- Wrap thread factory set context class loader in a try (#1771) (Milkev)\n- Fix ffloader impl change (Su5eD)\n- Start beta 10, perform routine maintenance (Su5eD)\n- Upload test results to Probe service (Su5eD)\n- Fix maven publish config (Su5eD)\n- Always save test results cache (Su5eD)\n- Run probe web deployment after tests workflow (Su5eD)\n- Update probe workflow (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-09-29T19:04:00.547443Z",
+      "downloads": 121421,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SRQWlFPu",
+          "hashes": {
+            "sha512": "51ed7bf5ed1385a1192b94fbc86105753cb5a8bedc63577f4e7a3353914d541431711d772c84e27dc7c500bac3efc706bfe083a4fdc5545f4248aaacfabe8aa0",
+            "sha1": "ce0fc6681666adccdf700bea48d8e1c3968afea1"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/a4IkLwwg/connector-2.0.0-beta.10%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.10+1.21.1-full.jar",
+          "primary": true,
+          "size": 4589762,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "leZwcwvX",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "connector 2.0.0-beta.9+1.21.1",
+      "version_number": "2.0.0-beta.9+1.21.1",
+      "changelog": "- Develop 1.21.1 Beta 9 (Matyrobbrt)\n- Bump FART version (Su5eD)\n- Merge branch '1.21.x' into dev (Su5eD)\n- Update build workflow (Su5eD)\n- Redirect `getTextureDiffuseColor` mixins within `BeaconBlockEntity` to Neo extension method (Matyrobbrt)\n- Fix frame recomputation resulting in `TypeNotPresent` exceptions (Matyrobbrt)\n- Load embedded connector jars even if fabric mod loading fails (Matyrobbrt)\n- Bump the Neo version so the game can be launched with FAPI (Matyrobbrt)\n- Copy original access when adding new fields to account for NeoForge type-changing patches (Matyrobbrt)\n- Update probe workflow (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-08-30T13:20:52.001941Z",
+      "downloads": 121144,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RA5ceita",
+          "hashes": {
+            "sha512": "0f2288aea82b4c734860ff900844154e63f1bf33b16a980604f49ca4e5f980ca5a473eda8b39c001152502f52e16c034c8c840ab37169cfcaceba2aeb7056f5d",
+            "sha1": "decde48ac0e74ce6c90d967b2657b5ebd2a7451d"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/leZwcwvX/connector-2.0.0-beta.9%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.9+1.21.1-full.jar",
+          "primary": true,
+          "size": 4501915,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "KrmWHpgS",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "connector 2.0.0-beta.8+1.21.1",
+      "version_number": "2.0.0-beta.8+1.21.1",
+      "changelog": "- Develop 1.21.1 beta 8 (#1720) (Su5eD)\n- Add probe workflow (Su5eD)\n- Merge pull request #1802 from unilock/dev (Katherine)\n- Merge pull request #1799 from theendercore/1.21.x (Su5eD)\n- fixed dependency example (TheEnderCore)\n- Fix shadow packaging (Su5eD)\n- Update adapter definition to 1.13.26+1.21.1 (Su5eD)\n- Consider all transform results (Su5eD)\n- Create standalone transformation library (Su5eD)\n- Include boot layer module names in exclusion list (Su5eD)\n- Ignore multi-release jar version (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-05-08T18:27:23.879429Z",
+      "downloads": 855629,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "66rnyv0g",
+          "hashes": {
+            "sha512": "c734a56142138aeabab116c7e30427d894c8b6c36dc95f498bbcd262916287894326f23a5da84d2605a924a93337f9302b83c2221ead2e013531d350baec796f",
+            "sha1": "bee48ae214a83b7b790c3eafb5e1e9fdfe77b7a4"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/KrmWHpgS/connector-2.0.0-beta.8%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.8+1.21.1-full.jar",
+          "primary": true,
+          "size": 4496468,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "mk9pRgwU",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "connector 2.0.0-beta.7+1.21.1",
+      "version_number": "2.0.0-beta.7+1.21.1",
+      "changelog": "- Develop beta 7 (#1689) (Su5eD)\n- Fix adapter patch logging wrong result (Su5eD)\n- Fix Fabric and Neo kotlin libs incompat (Su5eD)\n- Update build workflow (Su5eD)\n- Place non-mod libraries on the GAME layer (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-02-25T22:46:16.403497Z",
+      "downloads": 247877,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2pylzKzV",
+          "hashes": {
+            "sha512": "82e4e47b0cff30ca5043bc3a2f400e50b78088f4e0e29dd23e3d8f2926021939fe6b63fc293dbd01488e28e4312d431378cb0d127aa99d2c0540dd1e4285e876",
+            "sha1": "28c81d10885d2c33cac85b0eb05aa4e5ddae095c"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/mk9pRgwU/connector-2.0.0-beta.7%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.7+1.21.1-full.jar",
+          "primary": true,
+          "size": 4485116,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "k3UrqfQk",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "connector 2.0.0-beta.6+1.21.1",
+      "version_number": "2.0.0-beta.6+1.21.1",
+      "changelog": "- Develop 1.21.1 beta 6 (#1636) (Su5eD)\n- Fix crash on NeoForge .97 (Su5eD)\n- Prevent mixin safeguard error from disappearing (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-01-20T19:09:06.460370Z",
+      "downloads": 36302,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fMChmR3F",
+          "hashes": {
+            "sha512": "30c89544db106fc3e1b6886647c61e22c7f849b603cd96486e7dcb8ab2d46406bd5b8ce31976a2a010c3fdedbae47d0aab0cfdae4c7869f78eea14dec30e2223",
+            "sha1": "180ccce84c5d74e7388a590fdc9c01cfb137ca60"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/k3UrqfQk/connector-2.0.0-beta.6%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.6+1.21.1-full.jar",
+          "primary": true,
+          "size": 4483373,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "i1rqgLSL",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "connector 2.0.0-beta.5+1.21.1",
+      "version_number": "2.0.0-beta.5+1.21.1",
+      "changelog": "- Connector 1.21.1 beta 5 (#1591) (Su5eD)\n- Bump FFLoader version (Su5eD)\n- Update issue templates (Su5eD)\n- Fabric ASM and ambigous method fix (Su5eD)\n- Move brigadier module to GAME layer (Su5eD)\n- Add fancy mixin safeguard stability checker (Su5eD)\n- Fix java libraries showing up as mods (Su5eD)\n- Make RecipeBookManagerMixin clientside (#1532) (TheEpicBlock)\n- Fix version select in bug report template (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-12-25T18:54:15.807917Z",
+      "downloads": 31650,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TR3GOdfK",
+          "hashes": {
+            "sha1": "ed56f01129252a7e70600950ed1101c74cd323db",
+            "sha512": "63153f28d64eccd883f1ff0e8a3a9571df930e4d531645ef15103b7fbf83d11bf04ab021a2ac617ddf892f69f6ae5bafd489ab6f98cf276c4e48470ace40f49b"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/i1rqgLSL/connector-2.0.0-beta.5%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.5+1.21.1-full.jar",
+          "primary": true,
+          "size": 4482821,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "aQSgBo32",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "connector 2.0.0-beta.4+1.21.1",
+      "version_number": "2.0.0-beta.4+1.21.1",
+      "changelog": "- Disable cache cleanup for release workflow (Su5eD)\n- Temp workaround for setup-gradle actions issue (Su5eD)\n- Bump version (Su5eD)\n- Don't classload FluidRenderHandler on dedicated server (#1529) (Katherine)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-12T15:51:31.464967Z",
+      "downloads": 18505,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LScLIV5b",
+          "hashes": {
+            "sha1": "c5b3ad2b592ff6a6c7436af5bbdea8081495d550",
+            "sha512": "91380f496538924f77cf1a069bd7f0689693a22d7aaf2cdb7a3eb6227373e2a7a16aa077e76bda3b0573ee248bd8fc4a2bf9d3607750bb774542c7641443bd28"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/aQSgBo32/connector-2.0.0-beta.4%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.4+1.21.1-full.jar",
+          "primary": true,
+          "size": 4476698,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "x3AHjKpg",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "connector 2.0.0-beta.3+1.21.1",
+      "version_number": "2.0.0-beta.3+1.21.1",
+      "changelog": "- Develop 1.21.1 beta 3 (#1432) (Su5eD)\n- Bump version (Su5eD)\n- Fix loading on servers (#1419) (dima_dencep, Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-22T16:26:24.531152Z",
+      "downloads": 14670,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YVw3iYoa",
+          "hashes": {
+            "sha512": "cee80abb22f558c0cf900dde663850fa2a213581cc32a9132dd5aca02469a6d24806937059455a9d7ec0b37066e14c22002393bd2582dd0bc07803147dc7b8f0",
+            "sha1": "66a0276ef818e58d71761d24beeec707d08e1f37"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/x3AHjKpg/connector-2.0.0-beta.3%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.3+1.21.1-full.jar",
+          "primary": true,
+          "size": 4476912,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server",
+      "id": "WFiIDhbD",
+      "project_id": "u58R1TMW",
+      "author_id": "5qUpS9rY",
+      "featured": true,
+      "name": "Connector 2.0.0-beta.2+1.21.1",
+      "version_number": "2.0.0-beta.2+1.21.1",
+      "changelog": "- Develop 1.21.1 beta 2 (#1335) (Su5eD)\n- Re-add LVT scope transformer (Su5eD)\n- Update adapter definition to 1.13.21 (Su5eD)\n- Enable missing mixin (Su5eD)\n- Update to Minecraft 1.21.1 (Su5eD)\n- Fix mapping ambiguity resolver false positive (Su5eD)\n- Update adapter definition to 1.13.19 (Su5eD)\n- Bump fabric loader to 2.5.31+0.16.0+1.21 (Su5eD)\n- Replace failing entity attributes during loading (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-08-17T10:25:55.336261Z",
+      "downloads": 11051,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "msXSdfjA",
+          "hashes": {
+            "sha1": "23fc257c621f109e362cdb4da3811fc64beadd7c",
+            "sha512": "5c012e8ea3f41ae9e2a05bd6ed007e4a85477033dcc73bd922535bb0ad69be398e19dd38eaec62bf6abf548a24d99abd2ba54a0737be1dd4136b124e3d1fe910"
+          },
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/WFiIDhbD/connector-2.0.0-beta.2%2B1.21.1-full.jar",
+          "filename": "connector-2.0.0-beta.2+1.21.1-full.jar",
+          "primary": true,
+          "size": 4476886,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "FYpiwiBR",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "Aqlf1Shp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

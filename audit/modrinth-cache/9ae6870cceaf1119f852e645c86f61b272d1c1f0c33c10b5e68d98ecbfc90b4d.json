@@ -1,0 +1,271 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=Sophisticated+Backpacks&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:18.377217+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "TyCTlI4b",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "sophisticated-backpacks",
+        "author": "P3pp3rF1y",
+        "author_id": "IAHjKJh4",
+        "organization": null,
+        "organization_id": null,
+        "title": "Sophisticated Backpacks",
+        "description": "Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades",
+        "categories": [
+          "forge",
+          "neoforge",
+          "storage"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge",
+          "storage"
+        ],
+        "versions": [
+          "1.16.5",
+          "1.18.2",
+          "1.19.2",
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "1.21.4",
+          "1.21.5",
+          "1.21.8",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "downloads": 20046062,
+        "follows": 2270,
+        "icon_url": "https://cdn.modrinth.com/data/TyCTlI4b/e31c7e2f8769d317339e25b2a8d1b40fbf312729_96.webp",
+        "date_created": "2024-09-25T02:01:31.953899+00:00",
+        "date_modified": "2026-10-13T08:02:44.356288+00:00",
+        "latest_version": "QkVLEgt1",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 10243117
+      },
+      {
+        "project_id": "ouNrBQtq",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "sophisticated-backpacks-unoffical-fabric-port",
+        "author": "Salandora",
+        "author_id": "pwgmrjoy",
+        "organization": null,
+        "organization_id": null,
+        "title": "Sophisticated Backpacks (Unoffical Fabric port)",
+        "description": "This is the Unofficial Fabric version of Sophisticated Backpacks.",
+        "categories": [
+          "equipment",
+          "fabric",
+          "storage"
+        ],
+        "display_categories": [
+          "equipment",
+          "fabric",
+          "storage"
+        ],
+        "versions": [
+          "1.19.2",
+          "1.19.4",
+          "1.20.1",
+          "1.20.4",
+          "1.21.1"
+        ],
+        "downloads": 11453121,
+        "follows": 722,
+        "icon_url": "https://cdn.modrinth.com/data/ouNrBQtq/0681de545fe72aa7e1bfccba1b8a12765f658c09_96.webp",
+        "date_created": "2024-05-01T07:22:31.058460+00:00",
+        "date_modified": "2025-10-25T11:56:39.683694+00:00",
+        "latest_version": "Jk6o7s4h",
+        "license": "LGPL-3.0-only",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": "https://cdn.modrinth.com/data/ouNrBQtq/images/5b6691bdeead84ae8532623f028e1fefe76acf88_350.webp",
+        "color": 10177324
+      },
+      {
+        "project_id": "s85zLEDe",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "sophisticated-backpacks-create-integration",
+        "author": "P3pp3rF1y",
+        "author_id": "IAHjKJh4",
+        "organization": null,
+        "organization_id": null,
+        "title": "Sophisticated Backpacks Create Integration",
+        "description": "Sophisticated Backpacks on create contraptions",
+        "categories": [
+          "forge",
+          "neoforge"
+        ],
+        "display_categories": [
+          "forge",
+          "neoforge"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1",
+          "1.21.4",
+          "1.21.5",
+          "1.21.8",
+          "1.21.10",
+          "1.21.11",
+          "26.1.2"
+        ],
+        "downloads": 997704,
+        "follows": 101,
+        "icon_url": "https://cdn.modrinth.com/data/s85zLEDe/63fd83994b39feceeec20241531d0f31cd096182_96.webp",
+        "date_created": "2025-04-11T05:51:42.815349+00:00",
+        "date_modified": "2026-10-12T22:34:46.254749+00:00",
+        "latest_version": "PWwbiDmx",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 5000524
+      },
+      {
+        "project_id": "BAEkFrvn",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "create-sophisticated-backpacks-compat",
+        "author": "Blizzor",
+        "author_id": "3wM5xUjQ",
+        "organization": null,
+        "organization_id": null,
+        "title": "Create: Sophisticated Backpacks Compat",
+        "description": "A compatibility mod that integrates Sophisticated Backpacks with Create",
+        "categories": [
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1"
+        ],
+        "downloads": 459828,
+        "follows": 38,
+        "icon_url": "https://cdn.modrinth.com/data/BAEkFrvn/4c92e7b470104563d8cde06771d3ee87b623d6ae_96.webp",
+        "date_created": "2025-08-04T00:04:36.875464+00:00",
+        "date_modified": "2025-08-03T18:51:23.053784+00:00",
+        "latest_version": "MGpIgh9e",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/BAEkFrvn/images/d98141dde1aa3122742bad1e44a516c8de7cf408.png",
+          "https://cdn.modrinth.com/data/BAEkFrvn/images/055523543edc5f6b25d546d37ca2f71fdc1698b1.png"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/BAEkFrvn/images/0c4525f55af138cd740ffb24bf6ab88472ebfd73_350.webp",
+        "color": 9589299
+      },
+      {
+        "project_id": "8RICmZfy",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "sophisticated-backpacks-easier-upgrade",
+        "author": "LoongLy",
+        "author_id": "ev5TIO4b",
+        "organization": null,
+        "organization_id": null,
+        "title": "Sophisticated Backpacks easier upgrade",
+        "description": "You can upgrade Diamond backpack to Netherite backpack on crafting table",
+        "categories": [
+          "equipment",
+          "fabric",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "equipment",
+          "fabric",
+          "forge",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21",
+          "1.21.1",
+          "1.21.4",
+          "1.21.5",
+          "1.21.8",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2"
+        ],
+        "downloads": 31219,
+        "follows": 7,
+        "icon_url": "https://cdn.modrinth.com/data/8RICmZfy/0b6c30111ed8dabdbc6e3ebfe5e7aa3a61aa8e49_96.webp",
+        "date_created": "2025-11-22T21:27:19.742374+00:00",
+        "date_modified": "2026-09-30T17:50:54.278355+00:00",
+        "latest_version": "hCPZutky",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/8RICmZfy/images/dea6a7ef818e7c3814440978fea919077e8e68f9_350.webp",
+          "https://cdn.modrinth.com/data/8RICmZfy/images/4a738228cf8cbde8abdf00507db6e140ff95b51c_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 9980717
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 35
+  }
+}

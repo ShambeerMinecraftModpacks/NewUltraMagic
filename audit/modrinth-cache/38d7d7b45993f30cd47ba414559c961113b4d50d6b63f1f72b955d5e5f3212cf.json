@@ -1,0 +1,801 @@
+{
+  "url": "https://api.modrinth.com/v2/project/pNabrMMw/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:53.420861+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CxSEpEnO",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": true,
+      "name": "19.5.1",
+      "version_number": "19.5.1",
+      "changelog": "- fix S2C packets being registered as bidirectional\n",
+      "changelog_url": null,
+      "date_published": "2026-07-17T10:08:12.486511Z",
+      "downloads": 62944,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ciOuz5No",
+          "hashes": {
+            "sha1": "b1bee01393b15f1eb0f46d58862ef99234e1d337",
+            "sha512": "0659d755c6ae91551d30c20b948d5bde0a39b2ae9825b1a4e132f0bbd10e032f18d82b6847261360589f36980ed3597ef6c6947b680523a1de767a9b7953682e"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/CxSEpEnO/ae2wtlib-19.5.1.jar",
+          "filename": "ae2wtlib-19.5.1.jar",
+          "primary": true,
+          "size": 252091,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "y9YgjcrO",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.5.0",
+      "version_number": "19.5.0",
+      "changelog": "- fix disconnect when restock results in empty stacks (#371)\n- Add Buttons to switch to terminals directly (#375)\n",
+      "changelog_url": null,
+      "date_published": "2026-05-06T16:02:30.437247Z",
+      "downloads": 56102,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JGthi7c1",
+          "hashes": {
+            "sha512": "627ce404fe1c9aeb5dc6452084b7e1473b6f27c6d2fd246452ff4c0aca0d738d7d6c0dbab5a4f8979d63cfa35b9ea6ad1872bdc3b35641ad0ad0ffe297220f32",
+            "sha1": "de72e7f4d8d9d29dbe7f8790644b32f6c5b9655f"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/y9YgjcrO/ae2wtlib-19.5.0.jar",
+          "filename": "ae2wtlib-19.5.0.jar",
+          "primary": true,
+          "size": 251969,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "JZs5lgpV",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.4.1",
+      "version_number": "19.4.1",
+      "changelog": "- fix disconnect when restock results in empty stacks (#371)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-28T22:51:08.228916Z",
+      "downloads": 75073,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2qAzZrO4",
+          "hashes": {
+            "sha1": "e5ac6b8ec0851d9fb23d92281842f1880f0979b7",
+            "sha512": "7fe0bcecfcba56f786a88523fc762d0531d0be3fdbc3cdc9320cdd1dfdf0b9b0211cdbfbf983081ddee4744037ef4a72845e70e10e764c76169beecad3f277fe"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/JZs5lgpV/ae2wtlib-19.4.1.jar",
+          "filename": "ae2wtlib-19.4.1.jar",
+          "primary": true,
+          "size": 242235,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "wutnk0In",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.4.0",
+      "version_number": "19.4.0",
+      "changelog": "- Update zh_cn localisation (#363)\n- PT_BR localisation (#364)\n- fix dupe bug with restock when items turn into different items on use (#366)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-24T21:58:42.191854Z",
+      "downloads": 3080,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "T4y5HLDl",
+          "hashes": {
+            "sha1": "45f6cd74a45cd57fb1a2a784d53403d1c185b2a3",
+            "sha512": "0b73c2c42ae89e8e5644269d150556de5b26689710d2dd5f86d2b3c77b5be16e1c91223cebe8ab3d7c80af773cbbdbbc6cc0190ecb1db06a191a0f0f99778e1a"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/wutnk0In/ae2wtlib-19.4.0.jar",
+          "filename": "ae2wtlib-19.4.0.jar",
+          "primary": true,
+          "size": 242215,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "jJ2svSk6",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.3.0",
+      "version_number": "19.3.0",
+      "changelog": "- Add setting for pick block to request the item when not available (#361)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-22T22:38:41.407929Z",
+      "downloads": 68177,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PRLth4R7",
+          "hashes": {
+            "sha512": "477fbc6642b2f96208b99189b9fb3fb774d41587a545a35d0b417fc0321bbe944db2553f0a08d0663258500ea73c3773f7fc093af604ff1d4b579b32c7c40d69",
+            "sha1": "455fb1b4708a6aa26aedbd0c33f2b331c35cdc98"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/jJ2svSk6/ae2wtlib-19.3.0.jar",
+          "filename": "ae2wtlib-19.3.0.jar",
+          "primary": true,
+          "size": 240969,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "IQFaf9vp",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.2.6",
+      "version_number": "19.2.6",
+      "changelog": "- Spain Spanish Translation and updates to the Mexican Spanish Translation (#353)\n- rework pickup so it will fill to a full stack \n- always use pickup to ME for items that are being restocked (even if it wouldn't be available / enabled)\n- mention that ae2wtlib's Wireless Terminals can be linked like ae2's Wireless Terminals\n- improve Restock: it now works on Create Depots, and likely a lot more clicking-on-block situations\n",
+      "changelog_url": null,
+      "date_published": "2025-08-28T21:42:48.707936Z",
+      "downloads": 46825,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "innJFFj5",
+          "hashes": {
+            "sha1": "282826608a79d4b1c29972919e7643f63e66e0c1",
+            "sha512": "d3b2a5039049826de6d41f737d2ccd630f32d2c3297d8ce1525a5d50a1d77c2faaaea96442660522c8c60e3758648d48c6f437783f8f91f484e3815b12f694ca"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/IQFaf9vp/ae2wtlib-19.2.6.jar",
+          "filename": "ae2wtlib-19.2.6.jar",
+          "primary": true,
+          "size": 240340,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "UOlbVk0Q",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.2.5",
+      "version_number": "19.2.5",
+      "changelog": "- fix bug where the singularity component would cause issues when ae2wtlib is not present\n- fix wireless pattern access terminal hotkey not closing the terminal when used inside the terminal (fix #351)\n",
+      "changelog_url": null,
+      "date_published": "2025-08-02T01:35:51.243469Z",
+      "downloads": 20124,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tSTwI20E",
+          "hashes": {
+            "sha1": "d04630f34452f813e481e65799204bdf0082a36d",
+            "sha512": "64faa15ff938b29cb2c44dd55a96c3d2ee4e6310c5840b1c427ba87f70a0eac88dfd0e5850103d8bc27da4f87d6ff138b1693691c68c5f4b292ebc74d6171561"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/UOlbVk0Q/ae2wtlib-19.2.5.jar",
+          "filename": "ae2wtlib-19.2.5.jar",
+          "primary": true,
+          "size": 237860,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ypYwh16p",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.2.4",
+      "version_number": "19.2.4",
+      "changelog": "- add Turkish translation (#335)\n- add Hungarian translation (#345, #347)\n- disallow removing armor with curse of binding (fix #348)\n- add tag for disabling restock, disable restock for powah reactors (fix #349)\n- fix issue where items that stack to less than 32 would get overstacked by pick block\n- change icon for terminal settings (close #341)\n",
+      "changelog_url": null,
+      "date_published": "2025-07-31T20:50:45.264720Z",
+      "downloads": 2020,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8qdUFzI2",
+          "hashes": {
+            "sha1": "fc15dea04af0eaa97f0a0dac07f790b91f02471d",
+            "sha512": "ab1e04fbed8b8a0f17108b831911d42787ab1cf68ca0df2a2224486be02795f4770ac16e6c621a87829ab165bcf698f7b0a1648c617e4f84d02a00d2fab0f94c"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/ypYwh16p/ae2wtlib-19.2.4.jar",
+          "filename": "ae2wtlib-19.2.4.jar",
+          "primary": true,
+          "size": 237701,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "QkqFSZTz",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.2.3",
+      "version_number": "19.2.3",
+      "changelog": "- Allow WTDefinitionBuilder to automatically retrieve translation keys for a given item (closes #336)\n",
+      "changelog_url": null,
+      "date_published": "2025-04-18T19:02:54.544528Z",
+      "downloads": 63536,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yRMh3Ro1",
+          "hashes": {
+            "sha1": "8c34fd76776403879f0435b7aee1ae0383a88323",
+            "sha512": "c287ddaee75d25595ab052c3afcbe7e48dd56ab0597def7776d3c6883e30546b2c8d1f29f6dcdc12c83406795535f628d1cf06d7d3ac8d690495971648ad3a22"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/QkqFSZTz/ae2wtlib-19.2.3.jar",
+          "filename": "ae2wtlib-19.2.3.jar",
+          "primary": true,
+          "size": 233958,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "LhLD7BZk",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.2.2",
+      "version_number": "19.2.2",
+      "changelog": "- update chinese translations (#329)\n- add leading zero if first char is \",\" (fix #311)\n- add Mexican Spanish Translation (#333)\n",
+      "changelog_url": null,
+      "date_published": "2025-03-09T18:54:05.859760Z",
+      "downloads": 15172,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "75UHaHkt",
+          "hashes": {
+            "sha1": "f34e6d02a5062f8d7a2e1f15998061eb5073ddc8",
+            "sha512": "94cae774d90a3fc6e19f4d2838b33e04b43cd67b8cae8fe27cd035003ce76a96f4ba52a1e88b2a133a3ff04072ab5ac6ce6c8c91022dba96ffcbedc860f536b7"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/LhLD7BZk/ae2wtlib-19.2.2.jar",
+          "filename": "ae2wtlib-19.2.2.jar",
+          "primary": true,
+          "size": 233881,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "l8n1d6bQ",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.2.1",
+      "version_number": "19.2.1",
+      "changelog": "- fix dedicated server crashing (#323)\n",
+      "changelog_url": null,
+      "date_published": "2025-01-09T19:10:27.263992Z",
+      "downloads": 13293,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4LMrclbe",
+          "hashes": {
+            "sha512": "c3f415356a1641644fd5712d2ff88e78132cfdbb80516120f6fdb7421ced851f46bc05ce154fa7595ce426a5fd30edd70f99494daf9aafd3b03720cc90bbcbbd",
+            "sha1": "110b895608e7b302ad66040a164e49116faf7605"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/l8n1d6bQ/ae2wtlib-19.2.1.jar",
+          "filename": "ae2wtlib-19.2.1.jar",
+          "primary": true,
+          "size": 232672,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6feJ9h09",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.2.0",
+      "version_number": "19.2.0",
+      "changelog": "- add config screen\n- fix an issue where opening the wireless access terminal would reset the settings of other terminals and vice versa (see #317)\n- add AE2wtlib config manager, which allows addons to avoid a similar issue with their terminals  \n",
+      "changelog_url": null,
+      "date_published": "2025-01-09T13:55:58.636356Z",
+      "downloads": 185,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QOwThZ09",
+          "hashes": {
+            "sha512": "db8f082973f971ac427032793e42deb24305067c6f51ed1a76651a1bedfc0c22b847642dc79d6a393dc7c2f00d8ba9ca5abe3efe415a8540998361e1fe01e792",
+            "sha1": "68461f40a3081c1ec05796a8983256df9b776423"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/6feJ9h09/ae2wtlib-19.2.0.jar",
+          "filename": "ae2wtlib-19.2.0.jar",
+          "primary": true,
+          "size": 232361,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9flqVkeD",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.1.8",
+      "version_number": "19.1.8",
+      "changelog": "- Updated Simplified Chinese localization (#315)\n- fix restock amount also displaying in stacks in JEI (#318)\n- add stow hotkey\n",
+      "changelog_url": null,
+      "date_published": "2025-01-05T23:03:33.615374Z",
+      "downloads": 479,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "trQPcqx6",
+          "hashes": {
+            "sha1": "c503a4ea1879d5c61b34c8756f3758e7ee690339",
+            "sha512": "ca7c6b638060033321b8c7496d10ab4a00638f5eab153f91784a56d44e39b36918574e286da76fc63d8dfc4f4125b023ca06f91d9cb1fc914a7c02e08ea582c5"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9flqVkeD/ae2wtlib-19.1.8.jar",
+          "filename": "ae2wtlib-19.1.8.jar",
+          "primary": true,
+          "size": 227758,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "X1bhyEw4",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.1.7",
+      "version_number": "19.1.7",
+      "changelog": "- add guidebook pages\n- change quantum bridge card recipe to reflect the fact that it is a quantum bridge\n",
+      "changelog_url": null,
+      "date_published": "2024-11-15T17:52:51.531053Z",
+      "downloads": 5558,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lW3bzxHV",
+          "hashes": {
+            "sha1": "daca822a2c478277b622f6b41131e34142e76765",
+            "sha512": "b9e5ba10e784ea1f96fac7c7a5ef87b84ef0a740ab51445630150bcc6c62a1294ab0ea8df8f4a034b7279892b9593af4a6b18e3c1215cf373d2c438150b1881d"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/X1bhyEw4/ae2wtlib-19.1.7.jar",
+          "filename": "ae2wtlib-19.1.7.jar",
+          "primary": true,
+          "size": 225214,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "sByIMks5",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": true,
+      "name": "19.1.6-beta",
+      "version_number": "19.1.6-beta",
+      "changelog": "- fix #307\n",
+      "changelog_url": null,
+      "date_published": "2024-10-01T17:51:21.766627Z",
+      "downloads": 6111,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YOcd0DtN",
+          "hashes": {
+            "sha512": "7620b23c9f3e1d1c7aaeaaa7b2ef8a6f9a4809619c150459f6d5165189ecd6b509eeb12e0455ce807966a4b709b980ede0c78abcc389b1864c90adfe66ee184c",
+            "sha1": "82d878972381d340ccd83335728c363ae9c2edc0"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/sByIMks5/ae2wtlib-19.1.6-beta.jar",
+          "filename": "ae2wtlib-19.1.6-beta.jar",
+          "primary": true,
+          "size": 218717,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "5c5Tws4t",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": false,
+      "name": "19.1.5-beta",
+      "version_number": "19.1.5-beta",
+      "changelog": "- fix #305 properly and remove the workaround\n",
+      "changelog_url": null,
+      "date_published": "2024-09-30T22:06:02.591471Z",
+      "downloads": 457,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lDejhEDM",
+          "hashes": {
+            "sha512": "82c664520624d36752ec3350c65bbff0c4626105b55d8765273ab70f252d3d5385568f222dbec6be61b6cc2bbafe450af96089b8796a34142a8dfdc8ccf41c14",
+            "sha1": "12c1672b12ecf1a7a73a29ea545542536609bb2f"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/5c5Tws4t/ae2wtlib-19.1.5-beta.jar",
+          "filename": "ae2wtlib-19.1.5-beta.jar",
+          "primary": true,
+          "size": 218259,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tL5vZeFg",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": true,
+      "name": "19.1.4-beta",
+      "version_number": "19.1.4-beta",
+      "changelog": "- workaround for #305\n",
+      "changelog_url": null,
+      "date_published": "2024-09-23T09:40:56.108412Z",
+      "downloads": 2432,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2k6LJilE",
+          "hashes": {
+            "sha512": "1e182dadc899e0ba25c1d200ef26165f525ee6890b35b74d5890e833f340a10fc07f88cdeb7b057fd862f11ecd36771a6c4eea1a6926c27419c2ea1a4ddebd4a",
+            "sha1": "42b6664ac6e2e80f91fc61b6be0c5ffee1da62ba"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/tL5vZeFg/ae2wtlib-19.1.4-beta.jar",
+          "filename": "ae2wtlib-19.1.4-beta.jar",
+          "primary": true,
+          "size": 218051,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7TWWccrb",
+      "project_id": "pNabrMMw",
+      "author_id": "GeQ5qn8q",
+      "featured": true,
+      "name": "19.1.3-beta",
+      "version_number": "19.1.3-beta",
+      "changelog": "- fix issue where the wrong version of ae2wtlib_api gets selected\n",
+      "changelog_url": null,
+      "date_published": "2024-08-06T16:31:57.064339Z",
+      "downloads": 3984,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VSy1jPDf",
+          "hashes": {
+            "sha1": "cd0409d6cfbab57c612964a905c578e243d85f54",
+            "sha512": "6598606f7a151b363fb7ae62d4917b19dbf45342c54a28519aff4df2506103323aafd0854b34676da07c9265dbedb5e8d392ee613090f5ed4bb38b5f2af68fc3"
+          },
+          "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/7TWWccrb/ae2wtlib-19.1.3-beta.jar",
+          "filename": "ae2wtlib-19.1.3-beta.jar",
+          "primary": true,
+          "size": 217790,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "XxWD5pD3",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

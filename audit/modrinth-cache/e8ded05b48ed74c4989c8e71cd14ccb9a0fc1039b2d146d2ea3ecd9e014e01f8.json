@@ -1,0 +1,242 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=JEI+Integration&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:13.634656+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "umCLwNyK",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "jei-integration",
+        "author": "SnowShock35",
+        "author_id": "jLd2YZC1",
+        "organization": null,
+        "organization_id": null,
+        "title": "JEI Integration",
+        "description": "Providing Integrations & Tooltips - Forge 1.10+",
+        "categories": [
+          "forge",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "utility"
+        ],
+        "versions": [
+          "1.18.2"
+        ],
+        "downloads": 64568,
+        "follows": 39,
+        "icon_url": "https://cdn.modrinth.com/data/umCLwNyK/6a481b55e6dd196c1fb57718569dfb0d76a9adfc_96.webp",
+        "date_created": "2022-06-01T09:47:17.729947+00:00",
+        "date_modified": "2022-06-01T09:47:17.037440+00:00",
+        "latest_version": "mW8ZH77Q",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2929780
+      },
+      {
+        "project_id": "VzR5wiLo",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "refined-storage-jei-integration",
+        "author": "raoulvdberge",
+        "author_id": "R9RLzzR6",
+        "organization": "Refined Mods",
+        "organization_id": "xeAOpeNm",
+        "title": "Refined Storage - JEI Integration",
+        "description": "Refined Storage has an optional integration mod for Just Enough Items (JEI), enhancing crafting and recipe interaction.",
+        "categories": [
+          "fabric",
+          "neoforge",
+          "storage"
+        ],
+        "display_categories": [
+          "fabric",
+          "neoforge",
+          "storage"
+        ],
+        "versions": [
+          "1.21.1",
+          "26.1.2"
+        ],
+        "downloads": 185916,
+        "follows": 22,
+        "icon_url": "https://cdn.modrinth.com/data/VzR5wiLo/6f9d59ae5e3c6c480012fc4ada3db8e7810da21a_96.webp",
+        "date_created": "2025-03-30T02:58:07.470722+00:00",
+        "date_modified": "2026-05-31T15:23:40.542278+00:00",
+        "latest_version": "zyeYfb2E",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 1973788
+      },
+      {
+        "project_id": "hh0hqGM2",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "jei-integration-reborn",
+        "author": "Error1015",
+        "author_id": "zNjTydxh",
+        "organization": null,
+        "organization_id": null,
+        "title": "JEI Integration: Reborn",
+        "description": "Added more information tips for items.",
+        "categories": [
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 33797,
+        "follows": 7,
+        "icon_url": "https://cdn.modrinth.com/data/hh0hqGM2/ba08f25e9cf5ab87ef347b705c9a5015e19b452c_96.webp",
+        "date_created": "2025-06-25T23:06:21.602992+00:00",
+        "date_modified": "2025-10-07T19:38:42.348620+00:00",
+        "latest_version": "2CbxvXc0",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/hh0hqGM2/images/67b7db546c6b2f29a02e99183a365c2edc513308_350.webp"
+        ],
+        "featured_gallery": null,
+        "color": 1196588
+      },
+      {
+        "project_id": "DDbOmvyW",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "sengoku-emijei",
+        "author": "Almalexy",
+        "author_id": "cHZ3N0d9",
+        "organization": null,
+        "organization_id": null,
+        "title": "Sengoku EMI/JEI integration",
+        "description": "EMI/JEI integration for Sengoku Jidai",
+        "categories": [
+          "fabric",
+          "game-mechanics",
+          "neoforge",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "neoforge",
+          "utility"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 1915,
+        "follows": 3,
+        "icon_url": "https://cdn.modrinth.com/data/DDbOmvyW/674f8bc7a5fd3fb5108f8168f6793475c14b69da_96.webp",
+        "date_created": "2026-06-22T17:46:01.134092+00:00",
+        "date_modified": "2026-06-22T20:14:02.649373+00:00",
+        "latest_version": "aewWMxes",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "environment": [
+          "client_only"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/DDbOmvyW/images/a8cb7358bbb9ea0a89545b22eca1eeb76c3dd53b.webp",
+          "https://cdn.modrinth.com/data/DDbOmvyW/images/04e7969a143a5902c54e3ba7c01e31ad38e65c9c.webp",
+          "https://cdn.modrinth.com/data/DDbOmvyW/images/1852929a59e0f05c34a735cb400aa4ed8734d7d1.webp"
+        ],
+        "featured_gallery": null,
+        "color": 15133933
+      },
+      {
+        "project_id": "rYwxQThq",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "dimensions-of-alexs-caves-jei-integration",
+        "author": "vcwdfca",
+        "author_id": "cXyyVi0V",
+        "organization": null,
+        "organization_id": null,
+        "title": "Dimensions of Alex's Caves JEI integration",
+        "description": "This is a JEI integration mod for the Dimensions of Alex's Caves.",
+        "categories": [
+          "forge",
+          "game-mechanics",
+          "utility"
+        ],
+        "display_categories": [
+          "forge",
+          "game-mechanics",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6"
+        ],
+        "downloads": 440,
+        "follows": 2,
+        "icon_url": "https://cdn.modrinth.com/data/rYwxQThq/48e523215eda6c6f860f3b38d3cd5d6799d53ce1_96.webp",
+        "date_created": "2026-08-12T22:46:36.258218+00:00",
+        "date_modified": "2026-07-31T16:47:42.875850+00:00",
+        "latest_version": "qbLXG8o1",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/rYwxQThq/images/0a76b3f4e72a9851a6e27d0b66bc5882a89e37b3_350.webp",
+          "https://cdn.modrinth.com/data/rYwxQThq/images/58040b57bc54b45a0b68bdc1b681e61d6f91c1b3_350.webp",
+          "https://cdn.modrinth.com/data/rYwxQThq/images/ce8bb63ae362ad138c311e857f378183eca05aaf_350.webp",
+          "https://cdn.modrinth.com/data/rYwxQThq/images/b5c0b2d05deaad7f85ba0ebef14b94898e30c9dd_350.webp",
+          "https://cdn.modrinth.com/data/rYwxQThq/images/d7f7b84d7c18ca4fe40dd3dae423f9c040d65e81_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/rYwxQThq/images/baeaa87e41b8ea3e121713bb95bf8a605559c1b0_350.webp",
+        "color": 3223850
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 17
+  }
+}

@@ -1,0 +1,1339 @@
+{
+  "url": "https://api.modrinth.com/v2/project/Aqlf1Shp/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:34.524763+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "V9WdDUTx",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.15+2.3.5+1.21.1",
+      "version_number": "0.116.15+2.3.5+1.21.1",
+      "changelog": "- Bump version (Su5eD)\n- Fix incompatible default method in FabricTooltipType (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-08-24T19:25:12.025609Z",
+      "downloads": 532018,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gxuKrrVB",
+          "hashes": {
+            "sha1": "1a2c41d2efbe1c60159b90a165557e7c06d03a5c",
+            "sha512": "2b44ecd839544e3668a02f8de86433d507417d068dcafeee7f698744fc2b12fd888a1bba509da57c8e2884d01dbaf344f49bbac0f22cdae599507356ed0cbe30"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/V9WdDUTx/forgified-fabric-api-0.116.15%2B2.3.5%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+          "primary": true,
+          "size": 5613159,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "K4hHKnnI",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.15+2.3.4+1.21.1",
+      "version_number": "0.116.15+2.3.4+1.21.1",
+      "changelog": "- Fix crash in fluid overlay cache (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-08-18T20:56:27.071090Z",
+      "downloads": 184043,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZEmsBGOE",
+          "hashes": {
+            "sha512": "2de84db829cae926f7a90d8d828114b8d8d735ca230d518c6c3772f6f25b48838b209f75d7c198ba3bb6ec5a64d12094c7b7dacc76af387263a50e97e07c262e",
+            "sha1": "0788e3e4e736c138a7c151b651bec26713f6cfe4"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/K4hHKnnI/forgified-fabric-api-0.116.15%2B2.3.4%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.15+2.3.4+1.21.1.jar",
+          "primary": true,
+          "size": 5613327,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ubZIpGFv",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.15+2.3.3+1.21.1",
+      "version_number": "0.116.15+2.3.3+1.21.1",
+      "changelog": "- Re-add methods in FakePlayer (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-08-15T11:22:58.375792Z",
+      "downloads": 149103,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pUbfGVtC",
+          "hashes": {
+            "sha512": "0ceda7e0131ad795ab406f2ea29a58fff43104b56af27fe9ebb1defc7c47cad3e20f8a625a90ecc40f620b7abac7d38078a5be3eb78c1f32b977945ad0789c74",
+            "sha1": "573e4ef7d172d9b14b1a366a7cda171b8e42e93c"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/ubZIpGFv/forgified-fabric-api-0.116.15%2B2.3.3%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.15+2.3.3+1.21.1.jar",
+          "primary": true,
+          "size": 5613494,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tLCRIkwt",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.15+2.3.2+1.21.1",
+      "version_number": "0.116.15+2.3.2+1.21.1",
+      "changelog": "- Enable deprecated fabric-renderer-registries-v1 module (Su5eD)\n- Add accessor method (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-08-13T13:39:39.368360Z",
+      "downloads": 48412,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gAlf4ifJ",
+          "hashes": {
+            "sha512": "238e613bdf05d547e738612335e73cfcf0c7908e30514ce01d99db8a9a07b2bd0c0fee7e3eac8ecbecbf7bb446a8fc06c72b64e4177cc8bb20b9cb8f6eb6e7e6",
+            "sha1": "21de1771c105b26d90848d30478237805b9deef4"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/tLCRIkwt/forgified-fabric-api-0.116.15%2B2.3.2%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.15+2.3.2+1.21.1.jar",
+          "primary": true,
+          "size": 5609484,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "L9bk5uA9",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.15+2.3.1+1.21.1",
+      "version_number": "0.116.15+2.3.1+1.21.1",
+      "changelog": "- Bump version (modmuss50)\n- Extend `TooltipFlag` to allow for `shouldDisplayAllInformation` (#5483) (#5520) (Cassian Godsted)\n- Add missing class UntrackedNetworkHandler (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-07-30T11:14:09.157549Z",
+      "downloads": 341136,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OQnpsjG4",
+          "hashes": {
+            "sha1": "f3b5ff6e2ca338d8d9338acc5a1e47393e7b1ad2",
+            "sha512": "de6cc76a406371c6cab8600621ea9bf630a796baaa64afa2103a75cddcc8ab52e0a15a5c3dec9b2ed2cf3efcd7d93c622434eb3e8d007361fdd54f2504c09757"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L9bk5uA9/forgified-fabric-api-0.116.15%2B2.3.1%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
+          "primary": true,
+          "size": 5590061,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "dAxle9F7",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.14+2.3.0+1.21.1",
+      "version_number": "0.116.14+2.3.0+1.21.1",
+      "changelog": "- Bump version (modmuss50)\n- Fix CurseForge publishing (Su5eD)\n- Port fabric-tag-api-v1 (Su5eD)\n- [1.21.1] Tag entry removal backport (#5467) (pnku, Chrys Chrysanthemum, Juuz, cputnam-a11y, ThePotatoArchivist)\n",
+      "changelog_url": null,
+      "date_published": "2026-07-16T17:31:46.310673Z",
+      "downloads": 346066,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KzRMj5EM",
+          "hashes": {
+            "sha1": "f03504497d29c72a4a7747515d7aa06bbc78c93d",
+            "sha512": "9dbb0018e68b4efd65abf57f5fc41bb5d3b812e4a3cb75164937cb28ab541225b939fdeac0477ec2a7a75507791f3c9fc5592229279c68a9db04854a36ab5d72"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/dAxle9F7/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.14+2.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 5592346,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ZPwOh4Do",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.13+2.3.0+1.21.1",
+      "version_number": "0.116.13+2.3.0+1.21.1",
+      "changelog": "- Port fabric-tag-api-v1 (Su5eD)\n- [1.21.1] Tag entry removal backport (#5467) (pnku, Chrys Chrysanthemum, Juuz, cputnam-a11y, ThePotatoArchivist)\n",
+      "changelog_url": null,
+      "date_published": "2026-07-16T15:14:20.332041Z",
+      "downloads": 2522,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RKo4WPTD",
+          "hashes": {
+            "sha1": "7f0b6cf3ec6ee752a70b5057a8e658ec8dd73570",
+            "sha512": "1bdf9865949b11c29833e87a405ada040ffa50634f09c383ec37fb75d28ad9e5c8ba8faefba29d20ebfc8c5be509825ac02b1f50fb4f72d3abcf5777067ba364"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/ZPwOh4Do/forgified-fabric-api-0.116.13%2B2.3.0%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.13+2.3.0+1.21.1.jar",
+          "primary": true,
+          "size": 5592330,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "YsECO6Ri",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.13+2.2.5+1.21.1",
+      "version_number": "0.116.13+2.2.5+1.21.1",
+      "changelog": "- Use MEV mixin for day check (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-07-15T18:03:34.762639Z",
+      "downloads": 15351,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MiTdsanh",
+          "hashes": {
+            "sha1": "c652e4d9fa2966b833f98d9091c62d1516a4ef54",
+            "sha512": "15693d4e423cf97fd00d779bd5f0de04cf72b7c6e56d944758500cacef8237d5980ecb02a9fb75942fe6dcacbbf5d9b82389696859005a276d235c208e080d9b"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/YsECO6Ri/forgified-fabric-api-0.116.13%2B2.2.5%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.13+2.2.5+1.21.1.jar",
+          "primary": true,
+          "size": 5569505,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "eCUwdgcG",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.13+2.2.4+1.21.1",
+      "version_number": "0.116.13+2.2.4+1.21.1",
+      "changelog": "- Fix test mod classpath (Su5eD)\n- Bump version (modmuss50)\n- [1.21.1] Backport fix for `ButtonList` `IndexOutOfBoundsException` for screens with renderable only widgets (#5448) (Fuzss)\n- Limit initial capacity of collections/maps when decoding packets (modmuss50)\n- Bump version (modmuss50)\n- [1.21.1] Add RecipeOutputMixin to support FabricRecipeExporter (#5008) (#5315) (modmuss, Liam Broome)\n- Bump version (modmuss50)\n- Backport vanilla tag as `c:loom_patterns` (#5290) (TelepathicGrunt)\n- Bump version (modmuss50)\n- Respect item MAX_STACK_SIZE in Storage.insert (#5220) (Eric Coleman)\n- Bump version (modmuss50)\n- Implement `#c:foods/dough` (#5144) (IThundxr)\n",
+      "changelog_url": null,
+      "date_published": "2026-07-15T17:26:46.962654Z",
+      "downloads": 1170,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZwegWpyg",
+          "hashes": {
+            "sha1": "429239c3687fa2cf1d4c255cb51737e65a4a4c96",
+            "sha512": "e75c416ed1c55331823f329f9a41602eab4cf7df9b9cd836edd2bcad00fe76b7b1b2783170ca8ef6dbddf1fb7bea34e72537e297eaf4d9ae260b6b8b903b6de0"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/eCUwdgcG/forgified-fabric-api-0.116.13%2B2.2.4%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.13+2.2.4+1.21.1.jar",
+          "primary": true,
+          "size": 5570499,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7nHK7hMg",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.7+2.2.4+1.21.1",
+      "version_number": "0.116.7+2.2.4+1.21.1",
+      "changelog": "- Handle null view, pos in fluid compat handler (Su5eD)\n- Inject FabricRecipeExporter at runtime (Su5eD)\n- Fix attempting to remove null screen when Supplementaries is installed (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-21T15:38:44.113972Z",
+      "downloads": 3799940,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vznhKi35",
+          "hashes": {
+            "sha512": "858acb32a79e7ed1f37472bd7c50e3d2f47c7d7f6e734a8cece3800eb30d565a09580c261778ea73a0ae25e10e9eb9b16866012fe61d24f671b0ffe3ae2377dd",
+            "sha1": "459b5f4c7297b2f7649d43137f3e5a069b69b707"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/7nHK7hMg/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+          "primary": true,
+          "size": 5569793,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "xz5fFY6r",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.7+2.2.3+1.21.1",
+      "version_number": "0.116.7+2.2.3+1.21.1",
+      "changelog": "- Override submodel AO setting by parent (Su5eD)\n- Use submodel data in multipart model rendering (Su5eD)\n- Fix Gradle game runs (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-18T17:43:32.867383Z",
+      "downloads": 17647,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "efEOJ8xM",
+          "hashes": {
+            "sha512": "555c3071c0b13cd309e19a97b16286d06c8947b06d4787224ad88113ebce85105dc265ce442849489a9fb02f4d3f050edb8b91c58eeb5ea53c22b6cd9c7d68b8",
+            "sha1": "49101159c58ea5305da4b6ad2350803bb3c65056"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/xz5fFY6r/forgified-fabric-api-0.116.7%2B2.2.3%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.7+2.2.3+1.21.1.jar",
+          "primary": true,
+          "size": 5568947,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RctniEse",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.7+2.2.2+1.21.1",
+      "version_number": "0.116.7+2.2.2+1.21.1",
+      "changelog": "- Handle null keys/values in FlammableBlockRegistryImpl (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-16T14:24:24.947914Z",
+      "downloads": 19273,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7TqNn566",
+          "hashes": {
+            "sha512": "50055cf765fa0809c248f1ac7af1aa80fb287120b30226440d422031c09b382487b68b6ae0978447c19cac6dd7be1fa303ed449b6b46be48ddc7899aeeb8f664",
+            "sha1": "3b59f631eec65a9eeaa4f38868a0005c29e46d89"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/RctniEse/forgified-fabric-api-0.116.7%2B2.2.2%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.7+2.2.2+1.21.1.jar",
+          "primary": true,
+          "size": 5567803,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "16ZPmtFm",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.7+2.2.1+1.21.1",
+      "version_number": "0.116.7+2.2.1+1.21.1",
+      "changelog": "- Update FFLoader to 2.5.68 (Su5eD)\n- Update FFLoader (Su5eD)\n- Reintroduce FakePlayerNetworkHandler (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2026-02-04T16:53:50.966005Z",
+      "downloads": 81054,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pypTkaU6",
+          "hashes": {
+            "sha1": "222673ec5bdec830384987fb495d900514e8648e",
+            "sha512": "dc09919d7d0257ba934aaa327fc54aa8fc49fa9769fd448d6b1108ced0a40c265d65054a20f78ea96aac5d6eaf3c5ac3137e95e70e4b3f908432ea96aef32923"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/16ZPmtFm/forgified-fabric-api-0.116.7%2B2.2.1%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.7+2.2.1+1.21.1.jar",
+          "primary": true,
+          "size": 5563869,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "tIUhtT2C",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.116.7+2.2.0+1.21.1",
+      "version_number": "0.116.7+2.2.0+1.21.1",
+      "changelog": "- Bump implementation version (Su5eD)\n- Use NeoForge API for attachment sync (Su5eD)\n- Fix setAttached not accepting null value (Su5eD)\n- Bump implementation version (Su5eD)\n- Bump version (modmuss50)\n- Bump version (modmuss50)\n- Bump version (modmuss50)\n- Add super constructor for ForwardingBakedModel (#4800) (AlphaMode)\n- Add FabricItem#getCreatorNamespace (#4746) (#4793) (Cassian Godsted, Shnupbups)\n- Improve model data generation mixins (#4792) (Up)\n- Bump version (modmuss50)\n- [1.21.1] ArmorRenderer: Add option to disable default head item rendering (#4726) (Juuz)\n- [1.21.1] Fix FabricRecipeProvider.getRecipeIdentifier not applying to recipe advancements (#4724) (Juuz)\n- Bump version (modmuss50)\n- Bump version (modmuss50)\n- [1.21.1] Registry aliasing backport (#4698) (Cassian Godsted, Syst3ms, modmuss50)\n- Bump version (modmuss50)\n- Backporting #4642 to 1.21.1 (#4659) (YajatKaul)\n- Fix method collision in trapdoor test (Su5eD)\n- Bump version (modmuss50)\n- Call all remaining listeners when ALLOW_CHAT event is cancled (#4657) (MisterCheezeCake)\n- Call AFTER_PLAYER_CHANGE_WORLD on respawn in different world (#4653) (#4658) (DennisOchulor)\n- Add tag to make open trapdoors above tagged blocks climbable (#4660) (Juuz)\n- Backport world attachment sync fix from #4366 (#4665) (DennisOchulor)\n- Bump version (modmuss50)\n- Add ServerChunkEvents.CHUNK_LEVEL_TYPE_CHANGE (#4541) (#4610) (DennisOchulor)\n- Update Actions versions (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-12-25T15:49:46.062481Z",
+      "downloads": 439315,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "myOVBAL9",
+          "hashes": {
+            "sha512": "59aa2599fde40dcaaf210ce7d9d7f9e665c9173370708d7337c7230f2f0eb894a4f130bfbfb78b612d4faad25353d03ceab42691b1b3bcacd924dd72434732ef",
+            "sha1": "47b05580454707ac1f701c40bdbfbf86b15cbe9f"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/tIUhtT2C/forgified-fabric-api-0.116.7%2B2.2.0%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar",
+          "primary": true,
+          "size": 5551314,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "9uOfdsZC",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.115.6+2.1.4+1.21.1",
+      "version_number": "0.115.6+2.1.4+1.21.1",
+      "changelog": "- Add dummy dependency target for mods (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-10-06T18:32:35.899468Z",
+      "downloads": 659472,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Z1RjAJ3R",
+          "hashes": {
+            "sha1": "f98335548ab3d6592912535c5703f18ab153c10d",
+            "sha512": "b412ba686f327ec501f58f2335667de02eea0f6350f78a48ca0faaec9015d0e142058c2fc25aba35485096434a01e09a3b94fa930f44977142bd200bb606a2b3"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/9uOfdsZC/forgified-fabric-api-0.115.6%2B2.1.4%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar",
+          "primary": true,
+          "size": 5578066,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6cijwglm",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.115.6+2.1.3+1.21.1",
+      "version_number": "0.115.6+2.1.3+1.21.1",
+      "changelog": "- Thread-safe block render layers (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-09-18T19:51:53.435838Z",
+      "downloads": 83755,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MUQ5Xscs",
+          "hashes": {
+            "sha1": "4a65c6349af308c5ac3371d0a4750ef3c73b77fc",
+            "sha512": "af367339172f06aa69124a70cc1e48ad93a7a5407e914cdbd3480177f8fbece992319e9dd9df435fa667459de2893ed8485036de73fe1ef3e37a5154903c9f1c"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/6cijwglm/forgified-fabric-api-0.115.6%2B2.1.3%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.115.6+2.1.3+1.21.1.jar",
+          "primary": true,
+          "size": 5577338,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "O2rCJvg7",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.115.6+2.1.2+1.21.1",
+      "version_number": "0.115.6+2.1.2+1.21.1",
+      "changelog": "- Use ConcurrentHashMap in packet register (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-09-18T15:12:39.150881Z",
+      "downloads": 4979,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "F6Q6qvDh",
+          "hashes": {
+            "sha1": "e238020528101d85f42ddfa9e430506bf64f2fac",
+            "sha512": "db177744a6ab5e0246915129d919055cebd31821cc10a044ab4efe21311c455ff579e969f9efbb3135eb4c0a7642920dc88ee61bb6fbccee24f8e70e491cd95c"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/O2rCJvg7/forgified-fabric-api-0.115.6%2B2.1.2%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.115.6+2.1.2+1.21.1.jar",
+          "primary": true,
+          "size": 5577519,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "vQbH2z4u",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.115.6+2.1.1+1.21.1",
+      "version_number": "0.115.6+2.1.1+1.21.1",
+      "changelog": "- Bump implementation version (Su5eD)\n- Fix crash on dummy ClientPacketListener (#229) (Galen Huang)\n- Fix Item/Block color API (#230) (eehunter)\n- Re-implement FabricShaderProgram for mods that use it (#225) (Katherine)\n- Adjust target for ArmorFeatureRendererMixin#renderArmor (#223) (Katherine)\n",
+      "changelog_url": null,
+      "date_published": "2025-06-11T09:38:53.624074Z",
+      "downloads": 475047,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "u2OUDSnr",
+          "hashes": {
+            "sha1": "44cf59adf6848430279e2f745d3e7a7789bc6fd3",
+            "sha512": "f3709a29e3289f550f7ffb5a7c2b83d0952321ad3645ccb15eba3c2db8282da491e146d29aac0f6af8a17c2edaa499f5aa9816b471b35e7093abd9dc1eebb209"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/vQbH2z4u/forgified-fabric-api-0.115.6%2B2.1.1%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.115.6+2.1.1+1.21.1.jar",
+          "primary": true,
+          "size": 5576540,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BOq0raqo",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.115.6+2.1.0+1.21.1",
+      "version_number": "0.115.6+2.1.0+1.21.1",
+      "changelog": "- Bump version (modmuss50)\n- fix(attsync): use correct event for transferring attachments during respawn (#4483) (Octol1ttle)\n- Bump version (modmuss50)\n- AttSync: Disconnect when attachment target is null (#4538) (#4586) (Octol1ttle, modmuss50)\n- Bump version (modmuss50)\n- [1.21.1] Add Pumpkin Block and Item Tags (#4526) (modmuss, Joseph T. McQuigg)\n- [1.21.1] Backport Convention Drink Tags (#4537) (TheDeathlyCow)\n- Bump version (modmuss50)\n- Fix BlockView API v2 not applying WorldViewMixin (#4500) (#4511) (modmuss, PepperCode1)\n- Bump version (modmuss50)\n- Bump version (modmuss50)\n- Sync remaining `c` tags with NeoForge (#4161) (TelepathicGrunt)\n- Bump version (modmuss50)\n- Bump version (modmuss50)\n- Fix NPE in WaterPotionStorage#isWaterPotion (#4313) (Bruno Ploumhans)\n- Bump implementation version (Su5eD)\n- Bump version (modmuss50)\n- Add transitive access wideners for tracked data related creator entity methods (#4229) (Daniel Orr)\n- Add RegistryEntryAddedCallback.allEntries (#4235) (modmuss)\n- Bump version (modmuss50)\n- Provide a RegistryByteBuf for attachment syncing (#4223) (modmuss)\n- Bump version (modmuss50)\n- Translation updates (#4194) (Fabric Bot)\n- Add AFTER_CLIENT_WORLD_CHANGE (#4173) (fishshi)\n- Data Attachment Sync API (#4049) (Syst3ms)\n- Update loom and neo (Su5eD)\n- Add issue template (Su5eD)\n- Update workflow (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-05-04T19:51:57.823812Z",
+      "downloads": 491322,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TtrIRGd4",
+          "hashes": {
+            "sha1": "0c3c61253e1d6d015a724cd869b2dbb2c0bce5c8",
+            "sha512": "2b31c367283c334b770581bee06a1e827f7a1a5906059e23ad24c85fcc48a3d6460f81bc1625c07109977d570950ac8d697a9b261130c99bf20dc0267832cac0"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/BOq0raqo/forgified-fabric-api-0.115.6%2B2.1.0%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.115.6+2.1.0+1.21.1.jar",
+          "primary": true,
+          "size": 5572489,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "bwjdatGD",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.107.0+2.0.26+1.21.1",
+      "version_number": "0.107.0+2.0.26+1.21.1",
+      "changelog": "- Move ScreenAccessor to client-only mixins (Su5eD)\n- Remove fabric loader dep in indigo (Su5eD)\n- Don't send empty register packet (Su5eD)\n- Remove redundant HandledScreenMixin (Su5eD)\n- Fix NPE in resource condition loader (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-03-31T10:55:26.679797Z",
+      "downloads": 132266,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RhXEclUQ",
+          "hashes": {
+            "sha512": "831a854865755cb8ba01f84d3afdc500dfdcf7ff337c56989d2c9ac3fba8d09f22f3391efcbdd9cc2ceae967ae86961d9d5af472ef8a1b9ac1fc5ca511d355fb",
+            "sha1": "987a325c417fecf00a5e8764b2023f8c3800a64c"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/bwjdatGD/forgified-fabric-api-0.107.0%2B2.0.26%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar",
+          "primary": true,
+          "size": 5505216,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "674fIqe4",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.107.0+2.0.25+1.21.1",
+      "version_number": "0.107.0+2.0.25+1.21.1",
+      "changelog": "- Bump implementation version (Su5eD)\n- Fix ModeLoaderMixin conflict (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-03-10T17:36:43.912079Z",
+      "downloads": 90682,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CuVuTxMe",
+          "hashes": {
+            "sha1": "29ab222d376dd48deae88c4c1265e94a2b9cb4f3",
+            "sha512": "a628f735fc85c94615fd5abfa59b5808560032cebf6b83e2661c95089e8fb9ebe946ff68a374b1ed8eb4f694f19203d0f0266c3347e1c7d118d533fe6056fdee"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/674fIqe4/forgified-fabric-api-0.107.0%2B2.0.25%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar",
+          "primary": true,
+          "size": 5506153,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1vqVLbUz",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.107.0+2.0.24+1.21.1",
+      "version_number": "0.107.0+2.0.24+1.21.1",
+      "changelog": "- Bump implementation version (Su5eD)\n- Fix crashes and transfer issues with item/fluid transfer (#201) (David W)\n",
+      "changelog_url": null,
+      "date_published": "2025-03-06T09:01:19.710038Z",
+      "downloads": 17610,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Xgh2s0xh",
+          "hashes": {
+            "sha512": "64dc6a3d2ba0cffc41d2a5e64ac691396f33d0ef8a9fb549dd60481c67a5d80faea2ea2e72f7c057cd30decece953eaa07251225ff5c1036caff57f6934b8ec4",
+            "sha1": "15557b430ab7f41be9ad9c2a0f181dcfff621e9e"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/1vqVLbUz/forgified-fabric-api-0.107.0%2B2.0.24%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.107.0+2.0.24+1.21.1.jar",
+          "primary": true,
+          "size": 5505596,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Fz3tHM30",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.107.0+2.0.23+1.21.1",
+      "version_number": "0.107.0+2.0.23+1.21.1",
+      "changelog": "- Account for configuration channels in NetworkRegistryMixin#preserveSendableChannels (#171) (Katherine)\n- Fix NeoForge mixin conflict (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2025-01-29T14:12:55.228949Z",
+      "downloads": 39468,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6u6cGtH1",
+          "hashes": {
+            "sha1": "3744e8591327fef8526b6b7579e28f5d14dbb22b",
+            "sha512": "6f5f46ef13d30c3ea747d366c31ec80f6a0b195ea1ff5aea9746bed10337adc684c7131e487e705ebd3e8300d53ac7af79a30b2c8d42da270af0c47f05bada6d"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/Fz3tHM30/forgified-fabric-api-0.107.0%2B2.0.23%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.107.0+2.0.23+1.21.1.jar",
+          "primary": true,
+          "size": 5502388,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zBdt8WxF",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.107.0+2.0.22+1.21.1",
+      "version_number": "0.107.0+2.0.22+1.21.1",
+      "changelog": "- Dont sort custom packtype listeners (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-12-17T11:16:17.294730Z",
+      "downloads": 45943,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pfFi8OSn",
+          "hashes": {
+            "sha1": "8343e456a6d251771427d81af46f447308f27cff",
+            "sha512": "96f80503941b518d5dd6b1f3c403f3b12ac41346c6b9d41d95a3ea0236582bc91a5dbe993053a8f91856eff590fab591a3177652c89f1d8a8d16ca345b89d783"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/zBdt8WxF/forgified-fabric-api-0.107.0%2B2.0.22%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.107.0+2.0.22+1.21.1.jar",
+          "primary": true,
+          "size": 5502430,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "eBuCy0Pz",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.107.0+2.0.21+1.21.1",
+      "version_number": "0.107.0+2.0.21+1.21.1",
+      "changelog": "- Fix custom elytra flight (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-12-17T10:47:22.257759Z",
+      "downloads": 463,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZFOI5Ejh",
+          "hashes": {
+            "sha512": "960def1a735dd9a1e599e782dc0fb2cb02c3e5d50ce0e9e2ca2c62670609710f878d3b87df90362e93154f73b9959bc5eb674bf98b3e86b565ee53fdc26cd53a",
+            "sha1": "b64163834e32f1b4387814b7698a2492ad520e75"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/eBuCy0Pz/forgified-fabric-api-0.107.0%2B2.0.21%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.107.0+2.0.21+1.21.1.jar",
+          "primary": true,
+          "size": 5502441,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hZWNslS6",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.107.0+2.0.20+1.21.1",
+      "version_number": "0.107.0+2.0.20+1.21.1",
+      "changelog": "- Simple fix for Continuity models (Su5eD)\n- Bump impl version (Su5eD)\n- Bump version (modmuss50)\n- Fix overriding vanilla translations (#4187) (apple502j)\n- Add ServerChunkEvents.Generate (#4183) (Jason Penilla)\n- New Crowdin updates (#4167) (Fabric Bot)\n- AttachmentType Registration Enhancements (#4109) (forgetmenot13579)\n- Bump version (modmuss50)\n- Fix tests (modmuss50)\n- Fix build after bad merge (modmuss50)\n- Add support for Item-containing Items (#4083) (BasiqueEvangelist)\n- Add Stripped Logs and Stripped Woods Tags (#4146) (IThundxr)\n- Add more `c` fluid tags (#4134) (TelepathicGrunt)\n- New Crowdin updates (#4124) (Fabric Bot)\n- Add Pie Item Tag c:foods/pie (#4114) (Joseph T. McQuigg, modmuss)\n- Bump version (modmuss50)\n- Fix cherry pick issues (modmuss50)\n- Add ItemVariant#withComponentChanges and FluidVariant#withComponentChanges (#4082) (BasiqueEvangelist)\n- Add access to ClientConfigurationNetworkHandler in context (#4097) (Joseph Burton)\n- Create `c:obsidians` block and item tag (#4088) (TelepathicGrunt)\n- New Crowdin updates (#4086) (Fabric Bot)\n- Fix failing mixin (Su5eD)\n- Modify Enchantment and Fabric Component Map Builder Extensions (#4085) (TheDeathlyCow)\n",
+      "changelog_url": null,
+      "date_published": "2024-12-14T11:18:04.318075Z",
+      "downloads": 3501,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VqgqWRze",
+          "hashes": {
+            "sha1": "8cab9d9cfc3c20fb2206d59b77e90f995ba0f707",
+            "sha512": "deee3ad5141a0e34988850339e4c7b83e4b2d7a9c1a317e1bb9ae67119a81fabb1c3bb3d0d98a6eb9f753f94af02e7bc0c57d40cb1f35644cfeed53ab58370b4"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/hZWNslS6/forgified-fabric-api-0.107.0%2B2.0.20%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.107.0+2.0.20+1.21.1.jar",
+          "primary": true,
+          "size": 5502244,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "kgswi4BN",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.19+1.21.1",
+      "version_number": "0.104.0+2.0.19+1.21.1",
+      "changelog": "- Bump impl version (Su5eD)\n- Packet fixes - disable neoforge splitter and send minecraft:register (#170) (Moulberry)\n- Use the holding LivingEntity instance for getPreferredEquipmentSlot in getEquipmentSlot (#169) (Katherine)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-20T19:10:51.203271Z",
+      "downloads": 12073,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SSUxrTZf",
+          "hashes": {
+            "sha512": "3da0d98cf00c8f32b3ec1fca364d62dcf6f649ace18e073a2662ced302c398c11f7ef45a404430188c770deb2f1f65947993ee8da6c6e5025a7f85698dfc04f4",
+            "sha1": "e1c4431dc3fbf04d93536a98dce3a7a34180b371"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/kgswi4BN/forgified-fabric-api-0.104.0%2B2.0.19%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.19+1.21.1.jar",
+          "primary": true,
+          "size": 5475999,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "L7Mufn4x",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.18+1.21.1",
+      "version_number": "0.104.0+2.0.18+1.21.1",
+      "changelog": "- Fix regression leading to SSP disconnecting (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-06T20:17:28.791792Z",
+      "downloads": 5703,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DgQpZdEw",
+          "hashes": {
+            "sha1": "2db1fc9e36d8d28f6e805e7a58f0caf74d5d6669",
+            "sha512": "370e6eb94af3ff6404502a77b22e922eb0b2f199435c85f620e5aaef026b67e0feab24c3cf5a8be9fc7026ddeb2d24d30e58d4746b213fabbacb146e5fb982a9"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L7Mufn4x/forgified-fabric-api-0.104.0%2B2.0.18%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.18+1.21.1.jar",
+          "primary": true,
+          "size": 5472425,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "BL3sKxr1",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.17+1.21.1",
+      "version_number": "0.104.0+2.0.17+1.21.1",
+      "changelog": "- Fix server missing sendable channels from Fabric mods (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-05T17:34:41.946911Z",
+      "downloads": 575,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "62oYnlHS",
+          "hashes": {
+            "sha512": "d20abc24740046a79b1f17857da23c1d8f3deddb7daa56e7ccdda88ec3191779bbb25738745a3c954bf0b646ad8c35bed6ac4c5b608c2704a93a3343020e93c3",
+            "sha1": "7c64b6f2699de9b2e775cb265a91af3170c6f7cb"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/BL3sKxr1/forgified-fabric-api-0.104.0%2B2.0.17%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.17+1.21.1.jar",
+          "primary": true,
+          "size": 5472331,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SEPr0dKm",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.16+1.21.1",
+      "version_number": "0.104.0+2.0.16+1.21.1",
+      "changelog": "- Turn exception into warning in ColorProviderRegistryImpl (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-11-02T20:35:43.127361Z",
+      "downloads": 1429,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "K7iBJn37",
+          "hashes": {
+            "sha1": "4f0e949ec95660abdec6c9a7a21ff9c295638665",
+            "sha512": "0ea51fe19a08376a6b6742e332e637ff41396373d27d383ef62b5734c4977d4ea0a6fa9f2cd884db713a99876b4590c7a5dffa7d016e800b1b7bd22c41ba5f2e"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/SEPr0dKm/forgified-fabric-api-0.104.0%2B2.0.16%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.16+1.21.1.jar",
+          "primary": true,
+          "size": 5470848,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2bxEYAKi",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.15+1.21.1",
+      "version_number": "0.104.0+2.0.15+1.21.1",
+      "changelog": "- Bump impl version (Su5eD)\n- Adjust applyOverlayConditions mixin target to specific ordinal (#163) (Blodhgarm)\n",
+      "changelog_url": null,
+      "date_published": "2024-10-13T09:36:16.172401Z",
+      "downloads": 7458,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "h1MYaaEc",
+          "hashes": {
+            "sha1": "d8807ff4500ed76877ace7e8e89f162626df4ab4",
+            "sha512": "7046fc4701a678d4e3bd4561dc632289a3ddd35637cb34a48acbb03f7b563f54e4843c37842d02f65341a1db512cd665372988473313f16db8a9d71a1ada63dd"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/2bxEYAKi/forgified-fabric-api-0.104.0%2B2.0.15%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.15+1.21.1.jar",
+          "primary": true,
+          "size": 5470847,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "Jfn0eaw3",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.14+1.21.1",
+      "version_number": "0.104.0+2.0.14+1.21.1",
+      "changelog": "- Fix in-game music not playing (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-28T11:51:42.891338Z",
+      "downloads": 26583,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cSEUoETE",
+          "hashes": {
+            "sha512": "883b2b4bd9383d2776856b98ae5982db03760838df0842aac9d3ff8124076eab2f969df048a26b61bde836e678c885dcb52ad2ad2913b7a5248d54c45fcc5817",
+            "sha1": "a4aaba2eab595f2cc23828f3c58fdd4bacabfaca"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/Jfn0eaw3/forgified-fabric-api-0.104.0%2B2.0.14%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.14+1.21.1.jar",
+          "primary": true,
+          "size": 5470386,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hvuIf2Ij",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.13+1.21.1",
+      "version_number": "0.104.0+2.0.13+1.21.1",
+      "changelog": "- Fix conflicting resource conditions (Su5eD)\n- Fix crash with HNN (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-22T13:05:16.827247Z",
+      "downloads": 2031,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KGNwcrU4",
+          "hashes": {
+            "sha1": "8a42093290e9669e339eace17fb48790efc232c8",
+            "sha512": "9867870d632caeb86824bebb0cd17460b22e0ab59f0ba360662d487d8a326ef506ec05c5717ca1938e800569c7ead2e7388f603726dba07fc2cfe962800775bc"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/hvuIf2Ij/forgified-fabric-api-0.104.0%2B2.0.13%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.13+1.21.1.jar",
+          "primary": true,
+          "size": 5470399,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yBBRHOhD",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.104.0+2.0.12+1.21.1",
+      "version_number": "0.104.0+2.0.12+1.21.1",
+      "changelog": "- Bump version (modmuss50)\n- Use unix line endings on all files (#4079) (modmuss)\n- Add TransferVariant.getComponentMap() (#4074) (modmuss)\n- Add missing `minecraft:enchantable/vanishing` to `c:enchantables` (#4058) (TelepathicGrunt)\n- New Crowdin updates (#4059) (Fabric Bot)\n- Add `c:animal_foods` tag (#4080) (TelepathicGrunt, modmuss50)\n- Bump version (modmuss50)\n- After Damage Event (#4051) (TheDeathlyCow)\n- Dont invoke ItemGroupEvents.MODIFY_ENTRIES_ALL for the OP tab, when the OP tab is disabled (#4045) (AshyBoxy)\n- Translation updates (#4027) (Fabric Bot)\n- 1.21.1 (modmuss50)\n- Install git in build workflow (#4025) (modmuss)\n- Bump versions (modmuss50)\n- New Crowdin updates (#4003) (Fabric Bot)\n- Add crop and nugget tags (#4008) (Juuz)\n- Fix handled screen not calling super.mouseReleased or super.mouseDragged (#4010) (modmuss)\n- Crafter support for the transfer api. (#4013) (modmuss)\n- Add chorus fruit to `c:foods/fruit` tag (#4021) (TelepathicGrunt, modmuss)\n- Bump NeoForge version (Su5eD)\n",
+      "changelog_url": null,
+      "date_published": "2024-09-22T11:51:05.547471Z",
+      "downloads": 368,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EVEhIs5e",
+          "hashes": {
+            "sha1": "1576cefa1fe9cf1aa60d7c20a9c7ca0ad919fb8b",
+            "sha512": "29ed09ccf29396e3b03bcd861567ddf45f1e8696ec4da48ab703176a1740ec210eb00765247ed52604b9fc0314cc5feb5510fbd06fdac916e486099111e3def2"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/yBBRHOhD/forgified-fabric-api-0.104.0%2B2.0.12%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.104.0+2.0.12+1.21.1.jar",
+          "primary": true,
+          "size": 5470214,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "GMkGuXO4",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.102.0+2.0.12+1.21.1",
+      "version_number": "0.102.0+2.0.12+1.21.1",
+      "changelog": "- Bump implementation version (Su5eD)\n- Network fixes (#147) (dima_dencep)\n",
+      "changelog_url": null,
+      "date_published": "2024-08-12T07:53:32.028189Z",
+      "downloads": 8821,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cAZSGnfE",
+          "hashes": {
+            "sha512": "4c90b1b22642cd07c4dc67e7a626ca3d87ebefece65734af6330776efe5d598494bcab45593f6799f3f38e9352b84a87bea92d54a8d809df3375efbef5302973",
+            "sha1": "a81e008050f6adf4e69b45a2361be816021c796e"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/GMkGuXO4/forgified-fabric-api-0.102.0%2B2.0.12%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.102.0+2.0.12+1.21.1.jar",
+          "primary": true,
+          "size": 5450416,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "cPvIelmQ",
+      "project_id": "Aqlf1Shp",
+      "author_id": "5qUpS9rY",
+      "featured": false,
+      "name": "[1.21.1] Forgified Fabric API 0.102.0+2.0.11+1.21.1",
+      "version_number": "0.102.0+2.0.11+1.21.1",
+      "changelog": "Initial release",
+      "changelog_url": null,
+      "date_published": "2024-08-11T08:59:12.315454Z",
+      "downloads": 2078,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NfQaGmhi",
+          "hashes": {
+            "sha512": "c9ac45eb525464b97019d267324a243e7271d1a1da4a80cfeaee0edb09234e5886b58be1628fe7d0e61564e4566e49367d3e2405e1ac37b9a7766105536ad2ce",
+            "sha1": "8d4a83c75001fa1de1d85f01cf7e6aff12674638"
+          },
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/cPvIelmQ/forgified-fabric-api-0.102.0%2B2.0.11%2B1.21.1.jar",
+          "filename": "forgified-fabric-api-0.102.0+2.0.11+1.21.1.jar",
+          "primary": true,
+          "size": 5450685,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

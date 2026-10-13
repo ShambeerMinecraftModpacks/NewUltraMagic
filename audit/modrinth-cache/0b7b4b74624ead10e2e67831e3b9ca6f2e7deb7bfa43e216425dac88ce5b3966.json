@@ -1,0 +1,192 @@
+{
+  "url": "https://api.modrinth.com/v2/project/fPetb5Kh/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:47.904927+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nFniEtJV",
+      "project_id": "fPetb5Kh",
+      "author_id": "71h6EGVq",
+      "featured": false,
+      "name": "1.21.1-3.4.0-neoforge",
+      "version_number": "1.21.1-3.4.0-neoforge",
+      "changelog": "- Backported feature to search for the next instance of an already located biome\n- Backported config options to make the compass consume XP levels when searching for a biome\n- Backported config option to add durability to the compass and a recipe to repair a broken compass\n- Backported fix for biomes with c:hidden_from_locator_selection tag not being hidden\n- Backported improvements to biome selection GUI\n- Backported Ecuadorian Spanish translations",
+      "changelog_url": null,
+      "date_published": "2026-04-08T01:47:47.219161Z",
+      "downloads": 974213,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1QpITe9l",
+          "hashes": {
+            "sha512": "5314b536bcb9a594a9cf2bbd46c82468d17e1559bd6c00da9d91e96c0814f50416799a011705f0d184bd731dac3f03dec009c76fea3d02b3556a6013f9649014",
+            "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95"
+          },
+          "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/nFniEtJV/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+          "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+          "primary": true,
+          "size": 224657,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "dtrDpgsF",
+      "project_id": "fPetb5Kh",
+      "author_id": "71h6EGVq",
+      "featured": false,
+      "name": "1.21.1-2.6.0-fabric",
+      "version_number": "1.21.1-2.6.0-fabric",
+      "changelog": "- Backported feature to search for the next instance of an already located biome\n- Backported config options to make the compass consume XP levels when searching for a biome\n- Backported config option to add durability to the compass and a recipe to repair a broken compass\n- Backported fix for biomes with c:hidden_from_locator_selection tag not being hidden\n- Backported improvements to biome selection GUI\n- Backported Spanish translations\n- Backported Ecuadorian Spanish translations",
+      "changelog_url": null,
+      "date_published": "2026-04-08T01:46:46.923495Z",
+      "downloads": 361399,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WO45DKR3",
+          "hashes": {
+            "sha512": "e39a30da8ad209223c508174c267a7cb59dfd78d25cf38dd2a7ac76f783a669fe3407aeaddc05550ef2cbf2614e9886464bef5ba236edb6e8bdabea9fe3035f8",
+            "sha1": "15bb7a4f27eaa13b755edac496c1c9d502843827"
+          },
+          "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/dtrDpgsF/NaturesCompass-1.21.1-2.6.0-fabric.jar",
+          "filename": "NaturesCompass-1.21.1-2.6.0-fabric.jar",
+          "primary": true,
+          "size": 233392,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "AqEmYPpi",
+      "project_id": "fPetb5Kh",
+      "author_id": "71h6EGVq",
+      "featured": false,
+      "name": "1.21.1-3.0.3-neoforge",
+      "version_number": "1.21.1-3.0.3-neoforge",
+      "changelog": "- Updated to NeoForge 1.21.1",
+      "changelog_url": null,
+      "date_published": "2024-12-29T18:46:17.672305Z",
+      "downloads": 1321317,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UYPtn5bU",
+          "hashes": {
+            "sha1": "4a91af947622a2bb2c0381db249cc6f06c1f1843",
+            "sha512": "4caa38ac13ac61ea57e75673845674d6904af3a8c481004ab99c27f19110160809c02b40ac2a4eff91ba6e4c55f68aa12018818ba097ca49b6092e0d17558daa"
+          },
+          "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/AqEmYPpi/NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+          "filename": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+          "primary": true,
+          "size": 216873,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "9W2MUsnU",
+      "project_id": "fPetb5Kh",
+      "author_id": "71h6EGVq",
+      "featured": false,
+      "name": "1.21.1-2.2.7-fabric",
+      "version_number": "1.21.1-2.2.7-fabric",
+      "changelog": "- Updated to Fabric 1.21.1",
+      "changelog_url": null,
+      "date_published": "2024-12-29T18:43:48.685678Z",
+      "downloads": 2111581,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AW6MTHpE",
+          "hashes": {
+            "sha512": "95e686f2b4d13c8d2e00ce24ef32075900aaacf38b2b6af676e92ef8936ea39b95146fea05321029a73a3322ba685361afbe7bbe6667143bf27fead0c5d54f8c",
+            "sha1": "c705431dd94ae496fb527a4c36855c86fd8ef987"
+          },
+          "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/9W2MUsnU/NaturesCompass-1.21.1-2.2.7-fabric.jar",
+          "filename": "NaturesCompass-1.21.1-2.2.7-fabric.jar",
+          "primary": true,
+          "size": 223976,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "dAktoHul",
+      "project_id": "fPetb5Kh",
+      "author_id": "71h6EGVq",
+      "featured": false,
+      "name": "1.21.1-1.11.7-forge",
+      "version_number": "1.21.1-1.11.7-forge",
+      "changelog": "- Updated to Forge 1.21.1",
+      "changelog_url": null,
+      "date_published": "2024-12-29T18:43:05.803090Z",
+      "downloads": 31148,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Y2usF5eN",
+          "hashes": {
+            "sha1": "6dae0fcdbd94fe597917edf96b03a27c188f96b2",
+            "sha512": "e192552a422c20668bede4e93245ce9a649fa1567760bf8275aa778d0d406e53192822a85f4ae786baf4065d15cc275414620dabe6697fab7581a31f1cc58dbb"
+          },
+          "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/dAktoHul/NaturesCompass-1.21.1-1.11.7-forge.jar",
+          "filename": "NaturesCompass-1.21.1-1.11.7-forge.jar",
+          "primary": true,
+          "size": 215683,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

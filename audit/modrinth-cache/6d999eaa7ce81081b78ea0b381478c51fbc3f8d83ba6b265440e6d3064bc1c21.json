@@ -1,0 +1,257 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=FTB+Teams&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:11.760701+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "WFWJ2H8D",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "better-party-x-ftb-teams",
+        "author": "MrStilu2k6",
+        "author_id": "3693K3pm",
+        "organization": null,
+        "organization_id": null,
+        "title": "Better Party X FTB Teams",
+        "description": "Synchronizes Better Party parties with FTB Teams, including members, names, colors, leaders, and officers, so other FTB integrations can use the same team.",
+        "categories": [
+          "adventure",
+          "fabric",
+          "forge",
+          "management",
+          "neoforge",
+          "social"
+        ],
+        "display_categories": [
+          "adventure",
+          "fabric",
+          "forge",
+          "management",
+          "neoforge",
+          "social"
+        ],
+        "versions": [
+          "1.20.1",
+          "1.21.1",
+          "26.1",
+          "26.1.1",
+          "26.1.2"
+        ],
+        "downloads": 3756,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/WFWJ2H8D/cb4762214cc9dd5c97c6ad2f41790e629d0fb1af_96.webp",
+        "date_created": "2026-08-02T01:47:44.004211+00:00",
+        "date_modified": "2026-09-17T12:28:45.160858+00:00",
+        "latest_version": "wRo4w7IV",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [
+          "ai_content",
+          "ai_content_assets",
+          "ai_content_text"
+        ],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2037522
+      },
+      {
+        "project_id": "V4OaNOOH",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "irons-spell-n-ftb-teams",
+        "author": "HenryCROSS",
+        "author_id": "TcM6CbnR",
+        "organization": null,
+        "organization_id": null,
+        "title": "Irons Spell N FTB Teams",
+        "description": "NeoForge 1.21.1 addon that makes Iron's Spells 'n Spellbooks summons respect FTB Teams allegiance — summons won't target teammates.",
+        "categories": [
+          "game-mechanics",
+          "neoforge"
+        ],
+        "display_categories": [
+          "game-mechanics",
+          "neoforge"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 1437,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/V4OaNOOH/b3ef50f7ed454e14bb7388f738231911db2453c9.png",
+        "date_created": "2026-07-17T23:01:21.041024+00:00",
+        "date_modified": "2026-07-15T02:51:08.673050+00:00",
+        "latest_version": "z0Se3Q1C",
+        "license": "GPL-3.0-or-later",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 6817029
+      },
+      {
+        "project_id": "SWZGEk5x",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "quests-teams-fixes",
+        "author": "Stalemated",
+        "author_id": "UKSElgCe",
+        "organization": null,
+        "organization_id": null,
+        "title": "Quests & Teams Fixes",
+        "description": "A utility mod designed to fix some issues in FTB Quests and FTB Teams, including quests soft locking in bigger modpacks.",
+        "categories": [
+          "fabric",
+          "forge",
+          "optimization",
+          "utility"
+        ],
+        "display_categories": [
+          "fabric",
+          "forge",
+          "optimization",
+          "utility"
+        ],
+        "versions": [
+          "1.20.1"
+        ],
+        "downloads": 130947,
+        "follows": 0,
+        "icon_url": "https://cdn.modrinth.com/data/SWZGEk5x/9e287eea066085bc1286b80ecfaff4ab1518db7e_96.webp",
+        "date_created": "2026-08-23T02:37:03.332147+00:00",
+        "date_modified": "2026-09-09T04:27:18.917128+00:00",
+        "latest_version": "UO91lnJY",
+        "license": "MIT",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 15362361
+      },
+      {
+        "project_id": "UNCI38gZ",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "tensura-compat-ftb",
+        "author": "MinhEragon",
+        "author_id": "zJq8KiYP",
+        "organization": "ManasMods",
+        "organization_id": "in7WDUl6",
+        "title": "Tensura Compat: FTB",
+        "description": "A compatibility brigde between Tensura: Reincarnated and FTB mods (including FTB Library, FTB Chunks, FTB Teams and FTB Quests).",
+        "categories": [
+          "adventure",
+          "fabric",
+          "game-mechanics",
+          "library",
+          "neoforge"
+        ],
+        "display_categories": [
+          "adventure",
+          "fabric",
+          "game-mechanics",
+          "library",
+          "neoforge"
+        ],
+        "versions": [
+          "1.21.1"
+        ],
+        "downloads": 10526,
+        "follows": 2,
+        "icon_url": "https://cdn.modrinth.com/data/UNCI38gZ/95448435cb869e121d8f3db5bf42519f03dd7dcd_96.webp",
+        "date_created": "2026-04-10T22:09:09.314925+00:00",
+        "date_modified": "2026-07-05T15:04:01.293572+00:00",
+        "latest_version": "ydPx4R4m",
+        "license": "LicenseRef-All-Rights-Reserved",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [],
+        "featured_gallery": null,
+        "color": 2888474
+      },
+      {
+        "project_id": "hQGQrFbZ",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "adminshop",
+        "author": "Ammonium",
+        "author_id": "ZWVwN7CK",
+        "organization": null,
+        "organization_id": null,
+        "title": "AdminShop",
+        "description": "Note: as of version 2.0 onwards, this mod requires FTB Teams\n\nA powerful, fully customizable shop for modpack developers and server admins. Buy and sell items and fluids, fully automate buying and selling, create shared co-op accounts.",
+        "categories": [
+          "economy",
+          "forge",
+          "technology",
+          "utility"
+        ],
+        "display_categories": [
+          "economy",
+          "forge",
+          "utility"
+        ],
+        "versions": [
+          "1.19.2",
+          "1.19.4",
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6"
+        ],
+        "downloads": 5046,
+        "follows": 8,
+        "icon_url": "https://cdn.modrinth.com/data/hQGQrFbZ/631b1aea3c50e4cce102e5605cc729229c8a91ef.png",
+        "date_created": "2024-01-11T03:29:48.473298+00:00",
+        "date_modified": "2025-06-02T22:13:43.097403+00:00",
+        "latest_version": "gELnLFJb",
+        "license": "LGPL-2.1-or-later",
+        "client_side": "required",
+        "server_side": "required",
+        "environment": [
+          "client_and_server"
+        ],
+        "disclosure_types": [],
+        "gallery": [
+          "https://cdn.modrinth.com/data/hQGQrFbZ/images/04c68bfdb792e4acbf9ddc1683ecae87c083a105_350.webp",
+          "https://cdn.modrinth.com/data/hQGQrFbZ/images/4ee4f01aaf34c476fca8a557889702c20241e81d_350.webp",
+          "https://cdn.modrinth.com/data/hQGQrFbZ/images/b19075ca4984a22df1d52891d9e7f6675ec22fdd_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/hQGQrFbZ/images/acc21d87383c376cfc895cc52206f59db74736eb_350.webp",
+        "color": 8127676
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 8
+  }
+}

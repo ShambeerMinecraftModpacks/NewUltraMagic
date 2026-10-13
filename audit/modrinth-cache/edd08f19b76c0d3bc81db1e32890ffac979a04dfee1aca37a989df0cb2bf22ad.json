@@ -1,0 +1,3113 @@
+{
+  "url": "https://api.modrinth.com/v2/project/5srFLIaK/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:32.302962+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "IURyim1H",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.11 for 1.21.1 Fabric",
+      "version_number": "1.13.11+1.21.1-fabric-release",
+      "changelog": "- Fix crash on startup",
+      "changelog_url": null,
+      "date_published": "2026-09-29T02:24:28.763484Z",
+      "downloads": 11828,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "foi2wlKe",
+          "hashes": {
+            "sha512": "4fd93b1ba5c12727460fdf260002f37fc887cda2971917a913728d6fa1831eeea3184923314f87440ec98f992b4a52c470dbcc1cbb94902da0150da414d2298d",
+            "sha1": "5550fb04a96e733d6016792088ff7c9526d1ea15"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/IURyim1H/better-clouds-1.13.11%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.13.11+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 816134,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "UvRCtZxT",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.11 for 1.21.1 NeoForge",
+      "version_number": "1.13.11+1.21.1-neoforge-release",
+      "changelog": "- Fix crash on startup",
+      "changelog_url": null,
+      "date_published": "2026-09-29T02:21:19.743593Z",
+      "downloads": 11059,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JxF2qCda",
+          "hashes": {
+            "sha512": "b8d6946e99965a4037fd5c83a8aa8dc53b6b3360aa73be0e9a579088a8dd923d06ffadcda61e737ca63d6db5afe64a5b5ca7f2bbe399216da65ac46ae2e8cf7b",
+            "sha1": "949fa76046ac2303c05f9fdcda782eb22e4d3683"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/UvRCtZxT/better-clouds-1.13.11%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.13.11+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 817079,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "PzCX6pG5",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.10 for 1.21.1 Fabric",
+      "version_number": "1.13.10+1.21.1-fabric-release",
+      "changelog": "- Fix mod being built for the wrong game version in 1.13.9",
+      "changelog_url": null,
+      "date_published": "2026-09-29T02:16:23.974359Z",
+      "downloads": 20,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6sCO71Nb",
+          "hashes": {
+            "sha1": "114ca309fe4bdbf19ffcfa6a4b9b91a142895ee4",
+            "sha512": "1781c3ccf4879bf42f5036afbaeadc224cdb3290a537e37dc2cb9169d55c5699104fdd64a35f3950b895d6de56e0cf030e307191a4343fa94f2ccc1b1ca2c4be"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/PzCX6pG5/better-clouds-1.13.10%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.13.10+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 816045,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "PrFr8HgF",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.9 for 1.21.1 Fabric",
+      "version_number": "1.13.9+1.21.1-fabric-release",
+      "changelog": "- Fixes [#391](https://github.com/Qendolin/better-clouds/issues/391)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-29T02:11:36.127263Z",
+      "downloads": 7,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zMdc8aOV",
+          "hashes": {
+            "sha1": "913493d7e1b2114efa34ad3c0c618d327d8dfc6a",
+            "sha512": "d21998c0916af623202d1575052b041d46e35c3e2de90c46cfb1769d57a4f9ad1c5359876f373e508af098b15825d3e995b364a3ff14475708a3fa11565bf535"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/PrFr8HgF/better-clouds-1.13.9%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.13.9+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 816044,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "CGLjCdKF",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.9 for 1.21.1 NeoForge",
+      "version_number": "1.13.9+1.21.1-neoforge-release",
+      "changelog": "- Fixes [#391](https://github.com/Qendolin/better-clouds/issues/391)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-29T02:11:35.063464Z",
+      "downloads": 13,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "X9WuJUOY",
+          "hashes": {
+            "sha512": "29f432fde31c0278a9895b171c75af338330825855bdb2c84c96696460be98ef0e9342a6c3d0c8506eb50a4332f6b0739f9e5f4ae736489094985dbeffe92bb6",
+            "sha1": "a4e2502b5cf6363fca9bbdc3d3dc8b4db37310f4"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/CGLjCdKF/better-clouds-1.13.9%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.13.9+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 816969,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "RbaYx4M3",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.8 for 1.21.1 Fabric",
+      "version_number": "1.13.8+1.21.1-fabric-release",
+      "changelog": "- Add Distant Horizons 3.3.x support (Fixes #383, thanks Swedz)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-19T06:20:35.439766Z",
+      "downloads": 3216,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2B74m9y4",
+          "hashes": {
+            "sha512": "4fe02aa14d99fb459c506aff7eca6e7560cfa4ae05911112f4b08ce7954b5f5cd71bba6a84d60fb8d1263cac3dbea8c994f307ff6bc76d4b176df6dc6ab5e977",
+            "sha1": "dd85a8d2e07d41725341cc3c86f682debdc42f2e"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/RbaYx4M3/better-clouds-1.13.7%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.13.7+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 816089,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "w0azz5HH",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.8 for 1.21.1 NeoForge",
+      "version_number": "1.13.8+1.21.1-neoforge-release",
+      "changelog": "- Add Distant Horizons 3.3.x support (Fixes #383, thanks Swedz)\n",
+      "changelog_url": null,
+      "date_published": "2026-09-19T06:20:19.091745Z",
+      "downloads": 6625,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eGv5iPv7",
+          "hashes": {
+            "sha512": "edb29ab9e5e4fe0bdd400962f509e2c16b974a52bc326a69273cc2b28254cda7a5836de9fc423fb30221cb04a991d15bb76369538a8646b869ce0d5bbf76f284",
+            "sha1": "11f4e9d7c952d9eb4c22a483c01f63b3d40814cf"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/w0azz5HH/better-clouds-1.13.8%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.13.8+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 817034,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "E3bc2I7R",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.7 for 1.21.1 Fabric",
+      "version_number": "1.13.7+1.21.1-fabric-release",
+      "changelog": "- Fixed DH and Iris shader compatibility on 1.21.1 Fabric (thanks Ch4mp10 on GitHub)\n- Added a warning message when clouds are not enabled\n",
+      "changelog_url": null,
+      "date_published": "2026-09-07T19:51:20.362063Z",
+      "downloads": 8554,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KezcxjDU",
+          "hashes": {
+            "sha512": "34223bd9da940484bee1d7704c82d993de0f34db94985462385f8ec948512fb8f64383463443e793f908d3a068e9de453842eb3346f7b829e7aa32cf54170878",
+            "sha1": "36988914133877d56e5c8f29ccd3b490a7da118a"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/E3bc2I7R/better-clouds-1.13.7%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.13.7+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 816087,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "98i9IvGb",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.7 for 1.21.1 NeoForge",
+      "version_number": "1.13.7+1.21.1-neoforge-release",
+      "changelog": "- Fixed DH and Iris shader compatibility on 1.21.1 Fabric (thanks Ch4mp10 on GitHub)\n- Added a warning message when clouds are not enabled\n",
+      "changelog_url": null,
+      "date_published": "2026-09-07T19:51:05.441512Z",
+      "downloads": 8907,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eYYQqgBa",
+          "hashes": {
+            "sha512": "97ae81fddefb42c79c9ee82d75b0ab28531c8f8f1f6c9643026a157f0a5d8bf2ce220dbdbf3f18d16fd19100710adbc0ea48ee1338d951c17528d5f7d3a3cd14",
+            "sha1": "c59c1d4f8fa9671a68d28a46d58a62a147a2d833"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/98i9IvGb/better-clouds-1.13.7%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.13.7+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 817032,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "XK8POrWQ",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.6 for 1.21.1 NeoForge",
+      "version_number": "1.13.6+1.21.1-neoforge-release",
+      "changelog": "Day 1 patch :p\n\n- Fix options not saving and reverting to default when options menu is closed\n",
+      "changelog_url": null,
+      "date_published": "2026-07-10T17:23:20.517809Z",
+      "downloads": 53352,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vhwIxlP6",
+          "hashes": {
+            "sha512": "c81cb2520940ca91161b4b73fcb44c81ef30a33030b0a04d26eaa291763bcc02b8cfed88c20132a9e266f58896d1bfc8248c93ba13874690029a66c855b4608d",
+            "sha1": "23c59c710b511587f4d1c4e04b1fd529a0be5c1f"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/XK8POrWQ/better-clouds-1.13.6%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.13.6+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 815478,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "am3WxR65",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.6 for 1.21.1 Fabric",
+      "version_number": "1.13.6+1.21.1-fabric-release",
+      "changelog": "Day 1 patch :p\n\n- Fix options not saving and reverting to default when options menu is closed\n",
+      "changelog_url": null,
+      "date_published": "2026-07-10T17:23:10.339181Z",
+      "downloads": 41643,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D6TEimej",
+          "hashes": {
+            "sha512": "f530b41d768b446ebe425a9d04d8bffcc21dd1093a2992ab7aac428533a9b5da9a864b4b240a0e3effce0acec06fcfe44ff575f5aa5ea5767cb670b52ee6f166",
+            "sha1": "73b72c52c343ba4fecf2953e83191414d3f4306a"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/am3WxR65/better-clouds-1.13.6%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.13.6+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 814539,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "bFswE7LK",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.5 for 1.21.1 Fabric",
+      "version_number": "1.13.5+1.21.1-fabric-release",
+      "changelog": "- Fix selected shader and noise preset changing unexpectedly\n- Remove SodiumGameOptionPagesMixin to prevent it from potentially causing a crash\n- Silence \"Framebuffer complete\" log message",
+      "changelog_url": null,
+      "date_published": "2026-07-08T19:41:57.349125Z",
+      "downloads": 714,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "pkV90cH0",
+          "hashes": {
+            "sha1": "1c6749139097895483cf6163570c9ff6bb07e021",
+            "sha512": "1a7ce6a29c76509d9454e4aa6668471c4a7fbd517ea2832362b71e9aef8c66426a3eeba033b406f27a4cddf86c15ae5ec13e7f211af75aca78b6fae0c8ed0db1"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/bFswE7LK/better-clouds-1.13.5%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.13.5+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 814375,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "rj65x08X",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Release 1.13.5 for 1.21.1 NeoForge",
+      "version_number": "1.13.5+1.21.1-neoforge-release",
+      "changelog": "- Fix selected shader and noise preset changing unexpectedly\n- Remove SodiumGameOptionPagesMixin to prevent it from potentially causing a crash\n- Silence \"Framebuffer complete\" log message",
+      "changelog_url": null,
+      "date_published": "2026-07-08T19:39:58.928251Z",
+      "downloads": 2676,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KkPn3iBC",
+          "hashes": {
+            "sha512": "7f1b058ce53ec6c7da89f879a782779ed47b89bcdc4c2abc2aa762f788a2b2354cd85476bbbfe39c76b4497e3ecdaf747ebf46a72adaab40cf71a3c5686717a3",
+            "sha1": "2e3e53083996b3cbf9f26642211dcf09a24619bd"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/rj65x08X/better-clouds-1.13.5%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.13.5+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 815310,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "bfurRkm7",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Beta 1.13.5 for 1.21.1 NeoForge",
+      "version_number": "1.13.5+1.21.1-neoforge-beta",
+      "changelog": "- Port 1.13.5 features over to older versions\n- Drop Forge support (Fabric and NeoForge are still supported)\n- **Sunset of older versions (no new features, only major bug fixes)**\n- Probably unstable, please report issues if you encounter any\n",
+      "changelog_url": null,
+      "date_published": "2026-05-21T17:56:59.966703Z",
+      "downloads": 45325,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aPPDNZz2",
+          "hashes": {
+            "sha1": "5a7c4b5e17e44ebe57d351a221463bc526a52b32",
+            "sha512": "28431a57db449054e302745494c32352c0e250a0cd7b0513956c875284bbe67039cc230d56c3ff82d02f454711d8cecd2fea06c5c481807c19237ae0b13a64c6"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/bfurRkm7/better-clouds-1.13.5-beta%2B1.21.1-neoforge.rev.a60dfa0.jar",
+          "filename": "better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.jar",
+          "primary": true,
+          "size": 816389,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "rB7DiK7e",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Alpha 1.13.5 for 1.21.1 Fabric",
+      "version_number": "1.13.5+1.21.1-fabric-alpha",
+      "changelog": "- Port 1.13.5 features over to older versions\n- Drop Forge support (Fabric and NeoForge are still supported)\n- **Sunset of older versions (no new features, only major bug fixes)**\n- Probably unstable, please report issues if you encounter any\n",
+      "changelog_url": null,
+      "date_published": "2026-05-21T17:56:18.420877Z",
+      "downloads": 11102,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MdRTzgpV",
+          "hashes": {
+            "sha1": "06d3237d3e7e80b4bdf128d909129ff713e6dc47",
+            "sha512": "e39049402859d8275102c9f4bb3b950728173e125481ed9a6cc60d060ca6704f74584be320a5894060cc2274dfa8f9b0e418f8fdb2dd70f6836f436321545ff5"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/rB7DiK7e/better-clouds-1.13.5-alpha%2B1.21.1-fabric.rev.a60dfa0.jar",
+          "filename": "better-clouds-1.13.5-alpha+1.21.1-fabric.rev.a60dfa0.jar",
+          "primary": true,
+          "size": 815451,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge",
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "ucwzanPQ",
+      "project_id": "5srFLIaK",
+      "author_id": "fOBNj6nh",
+      "featured": false,
+      "name": "Alpha 1.7.20 for 1.21.1 NeoForge",
+      "version_number": "1.7.20+1.21.1-neoforge-alpha",
+      "changelog": "This version attempts to fix Distant Horizons v3+ support (DH API 6+ support) as well as attempting to fix a rendering error.\n\nMarked as Alpha as changes may produce instability. If any issues occur, please report them.\n\n[Villhume](https://github.com/Villhume) made his first contribution in PR [#306](https://github.com/Qendolin/better-clouds/pull/306)! Thanks so much!",
+      "changelog_url": null,
+      "date_published": "2026-04-28T00:45:09.948829Z",
+      "downloads": 155548,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1RCeX9yB",
+          "hashes": {
+            "sha1": "6a24b02d31ef802670d3de196ab32cdefc912f5a",
+            "sha512": "42237971ef5e56cc56db54f61ffa5d52261f1f645bdffb643475069a484eca7c345865056f61323113387c675d7ad965508bf0e56087d88ec0f505d60f2e4bfc"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/ucwzanPQ/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.jar",
+          "filename": "better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.jar",
+          "primary": true,
+          "size": 790657,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "wapDaY5q",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.19 for 1.21.1 NeoForge",
+      "version_number": "1.7.19+1.21.1-neoforge-r",
+      "changelog": "- Fix crashes/errors on older YACL versions\r\n- Fix crash on 1.20.1 Forge",
+      "changelog_url": null,
+      "date_published": "2025-10-06T19:41:59.602977Z",
+      "downloads": 158506,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eTJWwvjO",
+          "hashes": {
+            "sha1": "b603b85cb136f59e5d138f7ca9dfd9adfd917eb2",
+            "sha512": "745ca8e1d3e579470b7cf6503aa3bc559de94fbf2ab6ef88fe0b670f93a40508f705418b8332da66b1853199f5f40872e6cc2cd8fb9fa1636078927c4db2220f"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/wapDaY5q/better-clouds-1.7.19%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.19+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 787669,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "Ta9mG3DR",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.19 for 1.21.1 Fabric",
+      "version_number": "1.7.19+1.21.1-fabric-r",
+      "changelog": "- Fix crashes/errors on older YACL versions\r\n- Fix crash on 1.20.1 Forge",
+      "changelog_url": null,
+      "date_published": "2025-10-06T19:41:58.108502Z",
+      "downloads": 115467,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "R2KqBwUw",
+          "hashes": {
+            "sha1": "f6ec95f8e8b23bf488d2397247bd79caf014e377",
+            "sha512": "a4e89c2eea92f1ed34027961a6a63c16edfddf3da74e2bc6425694dd739840dd52d7d50204e5cb82d1734ada63d908ad4f99bc72d2a18804bd5ec02952d20ca7"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/Ta9mG3DR/better-clouds-1.7.19%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.19+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 787679,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "hffdxZd5",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.18 for 1.21.1 NeoForge",
+      "version_number": "1.7.18+1.21.1-neoforge-r",
+      "changelog": "- Update to 1.21.9 and 1.21.10 (hopefully)\r\n- Support YACL 3.8",
+      "changelog_url": null,
+      "date_published": "2025-10-03T17:50:05.909182Z",
+      "downloads": 1728,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OLlEjoKl",
+          "hashes": {
+            "sha1": "e54120d6d70533156fdd27cd66c22e1be692ace4",
+            "sha512": "97e0b99fd1241dd5e9c9c6dc5d176c04bde668195e144e8bb0c5bbe8b5c59526c241b9e520a989e36002ce7eb49693dae80c230090400fdb0ad7c826b7f2cc3c"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/hffdxZd5/better-clouds-1.7.18%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.18+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 787106,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "NlR3jn8Y",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.18 for 1.21.1 Fabric",
+      "version_number": "1.7.18+1.21.1-fabric-r",
+      "changelog": "- Update to 1.21.9 and 1.21.10 (hopefully)\r\n- Support YACL 3.8",
+      "changelog_url": null,
+      "date_published": "2025-10-03T17:50:05.450058Z",
+      "downloads": 1809,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "F70NUPLw",
+          "hashes": {
+            "sha512": "19a07bcaa47f62adf49d189c00385bf373ac5c8697f7710ba177464943a40ed975d40ee0d30e9b175f755b6b8baa4e15b70dc3116bee1876f9b2f3747bc0c44a",
+            "sha1": "aa8d94862647cbc34e460b693f23e53be3d258ac"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/NlR3jn8Y/better-clouds-1.7.18%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.18+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 787111,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "9Cbk55Pv",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.17 for 1.21.1 Fabric",
+      "version_number": "1.7.17+1.21.1-fabric-r",
+      "changelog": "- Fixed a crash with Lunar Client on 1.21.6+ (use Prism or Modrinth btw.)\r\n- Added Better Clouds Toggle to Sodium Video Settings on 1.21.1+",
+      "changelog_url": null,
+      "date_published": "2025-08-06T21:37:29.808002Z",
+      "downloads": 97491,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3XTNxXNX",
+          "hashes": {
+            "sha1": "92f7aeac1f60b2a7bc0b6d2045cbe357f61cddb2",
+            "sha512": "e6712421eece2efa078c6ce58f7b3faf4ffeae4e76784c78888fcf3b60f34304cedfc7cec27b88921a097e93731838e90bcd7b18ab670289e76d91a1ffe17819"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/9Cbk55Pv/better-clouds-1.7.17%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.17+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 780503,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "U0BTwXtf",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.17 for 1.21.1 NeoForge",
+      "version_number": "1.7.17+1.21.1-neoforge-r",
+      "changelog": "- Fixed a crash with Lunar Client on 1.21.6+ (use Prism or Modrinth btw.)\r\n- Added Better Clouds Toggle to Sodium Video Settings on 1.21.1+",
+      "changelog_url": null,
+      "date_published": "2025-08-06T21:37:22.103959Z",
+      "downloads": 16664,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FmjvmY9m",
+          "hashes": {
+            "sha1": "3b545234fca34056554922bf2ce4d037cf6837de",
+            "sha512": "fe9d1eae5dceecc140b3f820c36d99f2ccbaf9248d6162dd092200e39de1757a3440f4d449854e3bc66b03fcc9c3b60aed726677d71562a71c62ed23b2882c9e"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/U0BTwXtf/better-clouds-1.7.17%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.17+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 780376,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ECX54Zqv",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.16 for 1.21.1 Fabric",
+      "version_number": "1.7.16+1.21.1-fabric-r",
+      "changelog": "- Added 1.20.1 Oculus (Iris <1.7) support\r\n- Fixed Fabric Seasons version check\r\n- Fixed crash on old versions of Serene Seasons\r\n- Fixed NeoForge 1.21.7 mininum version\r\n- Fixed crash while loading with Distant Horizons",
+      "changelog_url": null,
+      "date_published": "2025-07-31T15:10:26.077Z",
+      "downloads": 7399,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TS49fZpc",
+          "hashes": {
+            "sha1": "392e25ce6d4b09688452398ae8b0f77ae7b33f36",
+            "sha512": "bda49d603537330996482510bdfbb26e4d3cec2b4aea3e17510db764b02e36a48bfb3c577e21d1fc819610aea7a3c7520669723ee386dbddbb69ab4bb4b85e6f"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/ECX54Zqv/better-clouds-1.7.16%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.16+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 776152,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "hE1M3J6F",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.16 for 1.21.1 NeoForge",
+      "version_number": "1.7.16+1.21.1-neoforge-r",
+      "changelog": "- Added 1.20.1 Oculus (Iris <1.7) support\r\n- Fixed Fabric Seasons version check\r\n- Fixed crash on old versions of Serene Seasons\r\n- Fixed NeoForge 1.21.7 mininum version\r\n- Fixed crash while loading with Distant Horizons",
+      "changelog_url": null,
+      "date_published": "2025-07-31T15:10:17.198210Z",
+      "downloads": 19844,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6B4XCqVp",
+          "hashes": {
+            "sha1": "bf8544fae57bfe132892d807eca5791551b35047",
+            "sha512": "2cd2d9485d7eee3fac40f55511efa8936d4e4ac89831b42b591b66344ca311123888c357048769ecfda3dd99279b6eb8b4454a236670332e7fabd7aa191be83a"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/hE1M3J6F/better-clouds-1.7.16%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.16+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 775987,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "W0yHjVna",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Stable 1.7.15 for 1.21.1 Fabric",
+      "version_number": "1.7.15+1.21.1-fabric-s",
+      "changelog": "- Update to 1.21.8\r\n- Fix when \"Iris Support\" disabled",
+      "changelog_url": null,
+      "date_published": "2025-07-21T20:44:13.445928Z",
+      "downloads": 4245,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "sUzN5Rec",
+          "hashes": {
+            "sha512": "911a5c32c5de829af1ad78f0638558535bb1387affa5364e0d3b060cde4ff87d7c60026e7c18eb1addd9348053518f0be3c59e78e43364c4912a980d0ed92bde",
+            "sha1": "ee580710b8642a53aa70775f85ff1f1fd33c3be1"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/W0yHjVna/better-clouds-1.7.15-stable%2B1.21.1-fabric.rev.124e2fb.jar",
+          "filename": "better-clouds-1.7.15-stable+1.21.1-fabric.rev.124e2fb.jar",
+          "primary": true,
+          "size": 773289,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "UYwaMXzU",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Stable 1.7.15 for 1.21.1 NeoForge",
+      "version_number": "1.7.15+1.21.1-neoforge-s",
+      "changelog": "- Update to 1.21.8\r\n- Fix when \"Iris Support\" disabled",
+      "changelog_url": null,
+      "date_published": "2025-07-21T20:43:45.499010Z",
+      "downloads": 43443,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lIjvsPhh",
+          "hashes": {
+            "sha512": "07088b979e4ea84c82a150f91f54df5a6869811ab995f7e8489b4fed70b0621e1bf796a18660641e486a5b97a363cb6414adc330ca8cfb9f432b8a50fdade15d",
+            "sha1": "7ddc38d421de6629eec6a5fe98980c0da0517217"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/UYwaMXzU/better-clouds-1.7.15-stable%2B1.21.1-neoforge.rev.124e2fb.jar",
+          "filename": "better-clouds-1.7.15-stable+1.21.1-neoforge.rev.124e2fb.jar",
+          "primary": true,
+          "size": 773108,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "ooeoSAiI",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.14 for 1.21.1 Fabric",
+      "version_number": "1.7.14+1.21.1-fabric-r",
+      "changelog": "- Updated to 1.21.6  \n  This was quite a difficult update, and I had to bodge many things, so expect issues.\n- Fixed a rare crash on AMD GPUs\n- Fixed rendering issues with Ars Nouveau (Thanks @justliliandev)\n- Added russian translation (Thanks @Korben)\n- Enabled Better Clouds in the Big Globe dimension per default\n- Added a fog distnace adjustment option",
+      "changelog_url": null,
+      "date_published": "2025-06-22T22:09:16.153254Z",
+      "downloads": 28860,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FTcAjcOK",
+          "hashes": {
+            "sha1": "c8c75dc70d5558e124f189e794393aaa381d0a97",
+            "sha512": "988795b3e2cf01034edfdc2cf68cd6792c8dc313238ff7b72d24ef2e841f20a2fe3a970f4192b8991ba3c6777dcd13040922436482533027a27aef869c9badac"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/ooeoSAiI/better-clouds-1.7.14%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.14+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 771868,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "equv2TRU",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "NzbGi8mq",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.14 for 1.21.1 NeoForge",
+      "version_number": "1.7.14+1.21.1-neoforge-r",
+      "changelog": "- Updated to 1.21.6  \n  This was quite a difficult update, and I had to bodge many things, so expect issues.\n- Fixed a rare crash on AMD GPUs\n- Fixed rendering issues with Ars Nouveau (Thanks @justliliandev)\n- Added russian translation (Thanks @Korben)\n- Enabled Better Clouds in the Big Globe dimension per default\n- Added a fog distnace adjustment option",
+      "changelog_url": null,
+      "date_published": "2025-06-22T22:09:15.705356Z",
+      "downloads": 11825,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "iJLlgRbS",
+          "hashes": {
+            "sha1": "f488902e3f65725f5f1a120caaea44ef264c3ae2",
+            "sha512": "d9790ec27898a7effe47c2729f68ef73fdb7dde13c2ef5da9a123c31d0eb93ba97cd73d77af06091bf08bbada6bd0df577c83557095b578bdb9232862801778e"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/NzbGi8mq/better-clouds-1.7.14%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.14+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 771672,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "ACDNgCDA",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "NEq3pK8p",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.13 for 1.21.1 Fabric",
+      "version_number": "1.7.13+1.21.1-fabric-r",
+      "changelog": "- Fixed Shader Preset Title field\n- Fixed Clouds not showing with many shaders\n",
+      "changelog_url": null,
+      "date_published": "2025-04-04T21:56:48.276116Z",
+      "downloads": 48341,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "L7cQeRAJ",
+          "hashes": {
+            "sha512": "e83e4c2ed92bd846efc20721fa4bde943c53606070d7c27e9a50749473f1d2861dd0e5cb78d1de3261e477aa439be6b8698f67c0133034ac8d0346691fdb6bba",
+            "sha1": "2cc2164521fcdecb8620d4926a50d6d11d9db8d6"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/NEq3pK8p/better-clouds-1.7.13%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.13+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 715690,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "equv2TRU",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Uz5SwDCS",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.13 for 1.21.1 NeoForge",
+      "version_number": "1.7.13+1.21.1-neoforge-r",
+      "changelog": "- Fixed Shader Preset Title field\n- Fixed Clouds not showing with many shaders\n",
+      "changelog_url": null,
+      "date_published": "2025-04-04T21:56:46.678998Z",
+      "downloads": 46645,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uOzmJ7kD",
+          "hashes": {
+            "sha1": "80e5f5460f7c6981284ba68e9f514e8db7897311",
+            "sha512": "c80d99671a474414eedf7e38d8b1694f90af99ccaf0acfc7ee0df827b7a6023d3d984f08a8614e4b00fb28e5679ff9df2e42256ce4acb1e720b25b094e271785"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/Uz5SwDCS/better-clouds-1.7.13%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.13+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 714458,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "ACDNgCDA",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "tDU9ZYRY",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.12 for 1.21.1 Fabric",
+      "version_number": "1.7.12+1.21.1-fabric-r",
+      "changelog": "- Fixed clouds being opaque on some hardware\n- Other improvements\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T09:54:59.499164Z",
+      "downloads": 1845,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dajBdoxB",
+          "hashes": {
+            "sha1": "eab963bdad3440581026994d67bfeb4393c713c5",
+            "sha512": "1647b53428203e1f1fbdfe8324b73880655914ff4da2623b16dd7839fa9a47fcfde97ce6b4e9207cda4e320eb2920ac2be73b272fedacbeff361752c61b9a003"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/tDU9ZYRY/better-clouds-1.7.12%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.12+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 714240,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "f9ZVX07g",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "dN6jqvVQ",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.12 for 1.21.1 NeoForge",
+      "version_number": "1.7.12+1.21.1-neoforge-r",
+      "changelog": "- Fixed clouds being opaque on some hardware\n- Other improvements\n",
+      "changelog_url": null,
+      "date_published": "2025-04-01T09:54:41.734759Z",
+      "downloads": 741,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AJSA8H1M",
+          "hashes": {
+            "sha1": "4dd8548c214ec35fb4d1497e7bfaa2964c20f69a",
+            "sha512": "9cf1ad5618aa019e363cd092c19d7fb4b49fdc170df30f57a76dd4974eda3f764fcea4fe16fe104bc49add7b83448c7096f4afc992f5e95179cc7fcf59818495"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/dN6jqvVQ/better-clouds-1.7.12%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.12+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 712917,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "TC62OAaO",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "VHQHVwni",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.11 for 1.21.1 NeoForge",
+      "version_number": "1.7.11+1.21.1-neoforge-r",
+      "changelog": "- Fix issues in previous (deleted) versions\n",
+      "changelog_url": null,
+      "date_published": "2025-03-28T01:45:55.509131Z",
+      "downloads": 846,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PhhBllAq",
+          "hashes": {
+            "sha1": "3c2b56ffa0ca2c4057f58fbd4e66597412b04587",
+            "sha512": "eafade6867835a42c5bd52318af4bfb0c80cabb0fccc35b0ec80655b58a953a93ab7ac852857d11cfa103f8fbd71286a94bc8e1fbe057182bfa2b147c8c0e9d2"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/VHQHVwni/better-clouds-1.7.11%2B1.21.1-neoforge.jar",
+          "filename": "better-clouds-1.7.11+1.21.1-neoforge.jar",
+          "primary": true,
+          "size": 693264,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "TC62OAaO",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "mUYuroWO",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.11 for 1.21.1 Fabric",
+      "version_number": "1.7.11+1.21.1-fabric-r",
+      "changelog": "- Fix issues in previous (deleted) versions\n",
+      "changelog_url": null,
+      "date_published": "2025-03-28T01:45:55.385324Z",
+      "downloads": 2524,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bJvDbzN1",
+          "hashes": {
+            "sha1": "662447921a6bb375dfa262534cc71609f8660a56",
+            "sha512": "d3e7bcfdf1eae022d52187318f789d3c5ae16fa311b47d15050b30378aa6296a2138b6767460a19076aa079b731346f4887081f1d05c780070b3a8fa64fa9404"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/mUYuroWO/better-clouds-1.7.11%2B1.21.1-fabric.jar",
+          "filename": "better-clouds-1.7.11+1.21.1-fabric.jar",
+          "primary": true,
+          "size": 700998,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "f9ZVX07g",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "sUmK8PWH",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.9 for 1.21 Fabric",
+      "version_number": "1.7.9+1.21-fabric-r",
+      "changelog": "- Added interoperability with Serene and Fabric Seasons  \n  Cloud coverage changes depending on the season\n- Added interoperability with Enhanced Celestials  \n  Clouds are lit according to the moon color and size.\n- Support older versions of FML for 1.20.1\n- Added GUI config and command to enable BC in other dimensions  \n  Experimental!\n",
+      "changelog_url": null,
+      "date_published": "2025-03-14T21:15:57.895762Z",
+      "downloads": 6935,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jGpX8gk0",
+          "hashes": {
+            "sha1": "ed6a29ff20e50457321cdfeebd2b47948d508ce2",
+            "sha512": "bf6ca7ac6b24d63c2cc913da1493f4603c28c3b34f84a71f316593f013fca1cee4b5bfe0f33b96d74b951b8475b7a0833582b171846b4e60a61f05626c27da4e"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/sUmK8PWH/better-clouds-1.7.9%2B1.21-fabric.jar",
+          "filename": "better-clouds-1.7.9+1.21-fabric.jar",
+          "primary": true,
+          "size": 664348,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "f9ZVX07g",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "XC56zLmp",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.9 for 1.21 NeoForge",
+      "version_number": "1.7.9+1.21-neoforge-r",
+      "changelog": "- Added interoperability with Serene and Fabric Seasons  \n  Cloud coverage changes depending on the season\n- Added interoperability with Enhanced Celestials  \n  Clouds are lit according to the moon color and size.\n- Support older versions of FML for 1.20.1\n- Added GUI config and command to enable BC in other dimensions  \n  Experimental!\n",
+      "changelog_url": null,
+      "date_published": "2025-03-14T21:15:56.973550Z",
+      "downloads": 2080,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3MijIJaa",
+          "hashes": {
+            "sha1": "f7b744229206f5b1a2740c740c482b8a97b36091",
+            "sha512": "b1508feab55569376a0da0e854ad7996e1ad9d69585180c4d8d70eedab3fcf374437086b8e193a6d7cf1000203cf6f657cde13be6f104195c79da71b1ae84da6"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/XC56zLmp/better-clouds-1.7.9%2B1.21-neoforge.jar",
+          "filename": "better-clouds-1.7.9+1.21-neoforge.jar",
+          "primary": true,
+          "size": 663055,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "TC62OAaO",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "5ZSh4y7U",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.8 for 1.21 NeoForge",
+      "version_number": "1.7.8+1.21-neoforge-r",
+      "changelog": "- Improved Cloud Movement,\n  more random **and** more deterministic!\n- Fixed crash in previous (deleted) version\n",
+      "changelog_url": null,
+      "date_published": "2025-03-13T00:25:19.637466Z",
+      "downloads": 425,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DuydFv6d",
+          "hashes": {
+            "sha512": "9ad0fb0ee34f402e39d500d1d21ee295c3c31b60d10d066ec1577fe927a3d9440a074fc4d284cb083ce0e6792f401887e39e24ea18376bef885cf88d19ba2f5e",
+            "sha1": "e0ed575f522d1e0df1269604233097c9466ff226"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/5ZSh4y7U/better-clouds-1.7.8%2B1.21-neoforge.jar",
+          "filename": "better-clouds-1.7.8+1.21-neoforge.jar",
+          "primary": true,
+          "size": 633328,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "TC62OAaO",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "5TuBWFEX",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.7 for 1.21 Fabric",
+      "version_number": "1.7.7+1.21-fabric-r",
+      "changelog": "- Improved Cloud Movement,\n  more random **and** more deterministic!\n",
+      "changelog_url": null,
+      "date_published": "2025-03-12T21:49:43.057150Z",
+      "downloads": 1338,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dq9DXU8B",
+          "hashes": {
+            "sha1": "8fff5a1afe026162b225e5d8cf5afbc208e82795",
+            "sha512": "0603d0bf9e5b51e1a8570a96914c4c06a9859dffcbefdb359b03c86d58ff201b260407a304878e6342fab005cbe3c0c65c360a9efe5ea950d7ac0a808e93cf64"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/5TuBWFEX/better-clouds-1.7.7%2B1.21-fabric.jar",
+          "filename": "better-clouds-1.7.7+1.21-fabric.jar",
+          "primary": true,
+          "size": 633773,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "f9ZVX07g",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "WnTaUmEM",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.6 for 1.21 Fabric",
+      "version_number": "1.7.6+1.21-fabric-r",
+      "changelog": "Improved Sodium Extra compat:\n- Clouds won't disappear if the fog is disabled\n- Clouds won't be affected by fog distance\n- Fixed crash in previous (deleted) version",
+      "changelog_url": null,
+      "date_published": "2024-12-18T23:08:24.372070Z",
+      "downloads": 54575,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ra5Jbr4Q",
+          "hashes": {
+            "sha1": "66d01a0ceca1ad40cfaa76c7408dafb5e36840be",
+            "sha512": "2f745c9cc51a1a1b5c35ed654d150ec78fd2b8a856e8cadd037fb8cfcc20c6807224f6be5ddc3e809b8be3947a230e7e9a32848ff9cbde54b85aee693bacf2b9"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/WnTaUmEM/better-clouds-1.7.6%2B1.21-fabric.jar",
+          "filename": "better-clouds-1.7.6+1.21-fabric.jar",
+          "primary": true,
+          "size": 583155,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "f9ZVX07g",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "3K1lVoXz",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.6 for 1.21 NeoForge",
+      "version_number": "1.7.6+1.21-neoforge-r",
+      "changelog": "Improved Sodium Extra compat:\n- Clouds won't disappear if the fog is disabled\n- Clouds won't be affected by fog distance\n- Fixed crash in previous (deleted) version",
+      "changelog_url": null,
+      "date_published": "2024-12-18T23:07:53.948853Z",
+      "downloads": 4707,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nd0QRcXA",
+          "hashes": {
+            "sha1": "39c479fb43c9da5d508e1a5702e4458e38d2648e",
+            "sha512": "7dc70fa10c4fa8cf0fd49a9ed3e89a2b6fd526c29626532f3fe2fc8d0561374a402e5f8dcf7c9fa96fe2a2eb6d9f1954cd55cf5de2acdf77301ddaf1cc8cb1b5"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/3K1lVoXz/better-clouds-1.7.6%2B1.21-neoforge.jar",
+          "filename": "better-clouds-1.7.6+1.21-neoforge.jar",
+          "primary": true,
+          "size": 583353,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "TC62OAaO",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "LzmuyokQ",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.5 for 1.21 Fabric",
+      "version_number": "1.7.5+1.21-fabric-r",
+      "changelog": "- Revamped dynamic tint calculations to integrate biome fog more intelligently.\n- Night brightness now varies with the moon phase.\n- Enhanced the fade-out effect for smoother visuals.\n- Fixed compatibility issues with the \"Fog\" mod.\n- Replaced the \"Edge Fade\" option with a more flexible \"Fog Transition Factor.\"\n- Overhauled cloud settings: vanilla quality options are ignored; \"Height\" can now be set to zero.\n- Added support for YACL 3.6.",
+      "changelog_url": null,
+      "date_published": "2024-11-29T19:57:24.999107Z",
+      "downloads": 16987,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9AFBDhjm",
+          "hashes": {
+            "sha512": "62d1ff919e6f1d9e9190204758f86cd332439bed4e7a1b06a00945ae2e6ec4d7bf962d789fdcd42131c90bcacc3461b24764e30d21763ed8751c78b288196261",
+            "sha1": "5ac0418d023f625b64c286aeb3875d550dea8c99"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/LzmuyokQ/better-clouds-1.7.5%2B1.21-fabric.jar",
+          "filename": "better-clouds-1.7.5+1.21-fabric.jar",
+          "primary": true,
+          "size": 507362,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "zJpHMkdD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "f9ZVX07g",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "mt2RKAUG",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.5 for 1.21 NeoForge",
+      "version_number": "1.7.5+1.21-neoforge-r",
+      "changelog": "- Revamped dynamic tint calculations to integrate biome fog more intelligently.\n- Night brightness now varies with the moon phase.\n- Enhanced the fade-out effect for smoother visuals.\n- Fixed compatibility issues with the \"Fog\" mod.\n- Replaced the \"Edge Fade\" option with a more flexible \"Fog Transition Factor.\"\n- Overhauled cloud settings: vanilla quality options are ignored; \"Height\" can now be set to zero.\n- Added support for YACL 3.6.",
+      "changelog_url": null,
+      "date_published": "2024-11-29T19:57:24.300176Z",
+      "downloads": 655,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RofvrsfI",
+          "hashes": {
+            "sha512": "8ec24b82b15ba74def2e69b6e312b842edc81213d16c7f7a57701fd682c7c8b09fd61732427334ed97c19584d7674cfa3a2aac32674d7d5ef52bd759202c87a5",
+            "sha1": "63c1a29daf6b2b424fe476cacbf9561fc3363a13"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/mt2RKAUG/better-clouds-1.7.5%2B1.21-neoforge.jar",
+          "filename": "better-clouds-1.7.5+1.21-neoforge.jar",
+          "primary": true,
+          "size": 504136,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "TC62OAaO",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "k6qR7lZj",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.4 for 1.21 Fabric",
+      "version_number": "1.7.4+1.21-fabric-r",
+      "changelog": "- Experimetal support for upcoming DH version\n- Fixed error on startup\n- Updated ukranian translation",
+      "changelog_url": null,
+      "date_published": "2024-09-26T16:40:04.044803Z",
+      "downloads": 56294,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1vIalZsD",
+          "hashes": {
+            "sha512": "741c934fea3d7c8d5b9855c623cf73107fb718058bb6753ab46499c71c3b519abdfcaa6e4ebfb1442224420ec18aec4aaa41181296bcf202cd116c6d5fd31d9b",
+            "sha1": "4bce3b6d8693210659300886e1f16816bc86280f"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/k6qR7lZj/better-clouds-1.7.4%2B1.21-fabric.jar",
+          "filename": "better-clouds-1.7.4+1.21-fabric.jar",
+          "primary": true,
+          "size": 494717,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "Y8Wa10Re",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "g3R9XJtN",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.4 for 1.21 NeoForge",
+      "version_number": "1.7.4+1.21-neoforge-r",
+      "changelog": "- Experimetal support for upcoming DH version\n- Fixed error on startup\n- Updated ukranian translation",
+      "changelog_url": null,
+      "date_published": "2024-09-26T16:39:46.689686Z",
+      "downloads": 2656,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Qxe5HYYF",
+          "hashes": {
+            "sha512": "8f6f26d337e18e7c355390f4c7f1d5cf6591eb692cf01362ddd8bf4ece3703782473df1e96eb350af012798ffce760a5f16dc68ffa66cf9461b3d93dcb341bee",
+            "sha1": "0f994eb3ed57dd37090e413877a7c3a824bf341d"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/g3R9XJtN/better-clouds-1.7.4%2B1.21-neoforge.jar",
+          "filename": "better-clouds-1.7.4+1.21-neoforge.jar",
+          "primary": true,
+          "size": 491381,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "EJAvGRvS",
+      "project_id": "5srFLIaK",
+      "author_id": "jRhn2xbX",
+      "featured": false,
+      "name": "Release 1.7.3 for 1.21 Fabric",
+      "version_number": "1.7.3+1.21-fabric-r",
+      "changelog": "- Added Ukrainian Translation (Thanks Tarteroycc)\n- Support latest Distant Horizons version\n- Fixed warnings when starting the game",
+      "changelog_url": null,
+      "date_published": "2024-09-03T14:32:10.545333Z",
+      "downloads": 29078,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wDL3UUbk",
+          "hashes": {
+            "sha1": "53d915293af5a041f618dd911070830a859efb0b",
+            "sha512": "9f4acb1c6db9fdb7350d92467ab94addff15469f9e48f81640a4c91a7c883a524ac07704ab6d1041641df217a8c3435a6b3996ea58c28f596361d7d088ee59b4"
+          },
+          "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/EJAvGRvS/better-clouds-1.7.3%2B1.21-fabric.jar",
+          "filename": "better-clouds-1.7.3+1.21-fabric.jar",
+          "primary": true,
+          "size": 493884,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "AANobbMI",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "JYQhtZtO",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "YL57xq9U",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": "Y8Wa10Re",
+          "project_id": "1eAoo2KR",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

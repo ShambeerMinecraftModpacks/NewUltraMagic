@@ -1,0 +1,791 @@
+{
+  "url": "https://api.modrinth.com/v2/project/qEH6GYul/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:54.341232+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ADxNEmse",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.15.jar",
+      "version_number": "1.21.1-6.0.15",
+      "changelog": "- [Add TabContext as parameter to CreativeTabItemProvider#makeCreativeTabStacks](https://github.com/ModdingX/LibX/commit/dcdfe8ac758826a90bab2e6d329ddf11cd7c2809) - MelanX\n- [Update to ModGradle 5.1.5 and Java 25](https://github.com/ModdingX/LibX/commit/371f43e8d1be186b1c860bb1e08c4e86e503c395) - MelanX\n- [No longer build 1.21 javadoc](https://github.com/ModdingX/LibX/commit/955ffdc077aa70321acf7cae644954317709bec2) - MelanX\n- [Check ConfigShadowHandler.TYPE instead of BeUpdateHandler.TYPE when broadcasting config](https://github.com/ModdingX/LibX/commit/ee7ed8d16ad94c7626880c2f96c7b617e0149e8d) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-09-05T09:40:31.498827Z",
+      "downloads": 5725,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RuunLagl",
+          "hashes": {
+            "sha1": "2361a1abbb4a55dd729fb90c6df41d31864dacc6",
+            "sha512": "944dd7834cfb88b15de9527c302dc7206d7e8b1e449d97cc605fb6e7225619c68d05ea5ba934f1d1da1bf5ff2a7e79bb990870e886293dc336deeea537e07382"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/ADxNEmse/LibX-1.21.1-6.0.15.jar",
+          "filename": "LibX-1.21.1-6.0.15.jar",
+          "primary": true,
+          "size": 1263056,
+          "file_type": null
+        },
+        {
+          "id": "zhq5cg2r",
+          "hashes": {
+            "sha1": "4df99f27969ac4af12ae5b68069eac5e9be56b3c",
+            "sha512": "32da50182f19bb7e313255866071e69fc82390898418ab677870ecd801e8b8ef690a0772f66c7b8114fd3e9a5d3c473e85fe0a9191c58382ee83e58bba5a7437"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/ADxNEmse/LibX-1.21.1-6.0.15-sources.jar",
+          "filename": "LibX-1.21.1-6.0.15-sources.jar",
+          "primary": false,
+          "size": 541032,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hqDl08eX",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.14.jar",
+      "version_number": "1.21.1-6.0.14",
+      "changelog": "- [Check ConfigShadowHandler.TYPE instead of BeUpdateHandler.TYPE when broadcasting config](https://github.com/ModdingX/LibX/commit/ee7ed8d16ad94c7626880c2f96c7b617e0149e8d) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-08-11T16:51:40.405766Z",
+      "downloads": 5654,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MHImkwv0",
+          "hashes": {
+            "sha512": "8a3e08eb3455583ad9c901c3223ffc49881b812cb46a37a0b7920b0ff0e949df9f89ba00aa331c54f48359b978689cda37238d2e35fe3856a67506b33fbf3803",
+            "sha1": "7234f2428e742134f2948eacd9cd6f8a4b73eff0"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/hqDl08eX/LibX-1.21.1-6.0.14.jar",
+          "filename": "LibX-1.21.1-6.0.14.jar",
+          "primary": true,
+          "size": 1262250,
+          "file_type": null
+        },
+        {
+          "id": "XXfl0OeH",
+          "hashes": {
+            "sha1": "a330a6f3080cde69132534a6864e7c0e52fa44f3",
+            "sha512": "25df68b733f28b77739ddae308f62d1e41937934aca27f1bcdf67880489fd054b72dd1f856ad76ed4d6b724fd17d508e75f1edb54673a5ee06747ed5f0a787f0"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/hqDl08eX/LibX-1.21.1-6.0.14-sources.jar",
+          "filename": "LibX-1.21.1-6.0.14-sources.jar",
+          "primary": false,
+          "size": 540827,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "YnbUigkd",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.13.jar",
+      "version_number": "1.21.1-6.0.13",
+      "changelog": "- [Fix decorated sign and hanging sign crash on placing](https://github.com/ModdingX/LibX/commit/e50d4de22ae5203c5b10ba171d3355476c038dfd) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-04-12T13:06:27.355661Z",
+      "downloads": 21096,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5cq9C8UW",
+          "hashes": {
+            "sha512": "c96dbd8c7076bcddff17383e3fa5644a49208debd2d2245e49a00507fdbdd5bb94f6132a1f50d698922b6106c2788f0fe37cf4dea4362962cb123abd39aaef85",
+            "sha1": "ea439be8d359a4210f66e84f0457d8b3e93a2922"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/YnbUigkd/LibX-1.21.1-6.0.13.jar",
+          "filename": "LibX-1.21.1-6.0.13.jar",
+          "primary": true,
+          "size": 1262251,
+          "file_type": null
+        },
+        {
+          "id": "8doLSbFz",
+          "hashes": {
+            "sha1": "0c3b2eb9946ef6bc92b67160c55b407ff5739645",
+            "sha512": "7a56016501b710aaed662c1733b9272f08afb383b292c9ec6ccac4bc5ca7253b43f7f7f3e369fc1a01e011494bdca6fc4369599770af7b6971a8bfff7148ef14"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/YnbUigkd/LibX-1.21.1-6.0.13-sources.jar",
+          "filename": "LibX-1.21.1-6.0.13-sources.jar",
+          "primary": false,
+          "size": 540825,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "7epd0iYY",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.12.jar",
+      "version_number": "1.21.1-6.0.12",
+      "changelog": "- [Fix orphaned intrusive holders when a RegistryCondition skips an entry](https://github.com/ModdingX/LibX/commit/69f1caddd4541b14dfc3bbb95d37bfdf444027bf) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-04-12T08:42:14.003987Z",
+      "downloads": 106,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CEGC7K2p",
+          "hashes": {
+            "sha1": "d7e3170a1e0fd7ad16e6f99459afb9f650b199ad",
+            "sha512": "62c60f8b0aba82b7c67b4c464650d25c7191e90d49165c6553f545c52b68fdba8304e7f770143c328053386fb32355bff16968769a971522d2a4e78d5862f8b5"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/7epd0iYY/LibX-1.21.1-6.0.12.jar",
+          "filename": "LibX-1.21.1-6.0.12.jar",
+          "primary": true,
+          "size": 1262051,
+          "file_type": null
+        },
+        {
+          "id": "X5kvTqtC",
+          "hashes": {
+            "sha1": "3191094e82bc9aee0fe2bf8b66337f7cf13224f4",
+            "sha512": "199abb3b66f52e1ca58603ebd51bbb1723e3abec772427943d5507a03c2f343c2fbca9d864210f6b90f13dae3c9b201387504bf300d71374cf0890e7f2073c90"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/7epd0iYY/LibX-1.21.1-6.0.12-sources.jar",
+          "filename": "LibX-1.21.1-6.0.12-sources.jar",
+          "primary": false,
+          "size": 540619,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "yohGnYGV",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.11.jar",
+      "version_number": "1.21.1-6.0.11",
+      "changelog": "- [Fix trapdoor and door block properties](https://github.com/ModdingX/LibX/commit/24924eb759849236541602920bd8719da3b62cb3) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-04-12T08:39:05.783723Z",
+      "downloads": 49,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CHAQEYbH",
+          "hashes": {
+            "sha1": "611c5cfe6e4a90e7c6ccb3ebdd102ad85d23f6c9",
+            "sha512": "d42957b39445bb1617779f63c8fe61e650ddfdc5d0fe18fd0959186e613add327b71a7faba63f8c2fbc3f8d7c1ff9d896029731f75f5a467d78390c879fd39b0"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/yohGnYGV/LibX-1.21.1-6.0.11.jar",
+          "filename": "LibX-1.21.1-6.0.11.jar",
+          "primary": true,
+          "size": 1261746,
+          "file_type": null
+        },
+        {
+          "id": "GOgAajsu",
+          "hashes": {
+            "sha1": "fda1d4067aef32f9e412762e28b40609b64baf52",
+            "sha512": "4c072115c4d4352ec9dfba57356ebf86552a638b4d33a3285ac3ec4dbedb1f32df5bfce2bd910bc1bcba2fd8c0758d6f461e51f77dfd89dd6426eea29efae17b"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/yohGnYGV/LibX-1.21.1-6.0.11-sources.jar",
+          "filename": "LibX-1.21.1-6.0.11-sources.jar",
+          "primary": false,
+          "size": 540468,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1jQ1oYaF",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.10.jar",
+      "version_number": "1.21.1-6.0.10",
+      "changelog": "- [Fix memory leak in ItemStackRenderer](https://github.com/ModdingX/LibX/commit/a6b7e69390379018183ddf702734db41116aede5) - MelanX\n- [Add ICustomIngredient support in ObjectCraftingBuilder](https://github.com/ModdingX/LibX/commit/24e4e5194768ef4fb14476075fed21ace639ee32) - MelanX\n- [remove useless iterator call](https://github.com/ModdingX/LibX/commit/0eede709ee4af31a3e7d02981ebb3bea951f97b7) - noeppi_noeppi",
+      "changelog_url": null,
+      "date_published": "2026-03-19T17:10:22.055706Z",
+      "downloads": 4710,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6ZpI8qH0",
+          "hashes": {
+            "sha1": "370d422e76364e641faaf69fb480b519486e51d0",
+            "sha512": "fb8c606521bea996bae67d99676ac291848a1a54e1ac66b6b20b889ff9ae37f2b4ec4e15647ca81d56cd7598451eddfeeeb24ccacdd19d0c2b21715b58b4623d"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/1jQ1oYaF/LibX-1.21.1-6.0.10.jar",
+          "filename": "LibX-1.21.1-6.0.10.jar",
+          "primary": true,
+          "size": 1260340,
+          "file_type": null
+        },
+        {
+          "id": "Dcn74GKt",
+          "hashes": {
+            "sha1": "d1be3d2ded1be338f62a7b0723ecc16fcd658b7f",
+            "sha512": "25a4b4171bd82fcc31757ece2e49574cade0a86996898dbc6de7675e0e09263839e358c545e52c18a08392235e06571a623b8676ff025208bc434620d1a1b24e"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/1jQ1oYaF/LibX-1.21.1-6.0.10-sources.jar",
+          "filename": "LibX-1.21.1-6.0.10-sources.jar",
+          "primary": false,
+          "size": 539985,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "CLe8cTHs",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.9.jar",
+      "version_number": "1.21.1-6.0.9",
+      "changelog": "- [Apply additional tooltips to all config screens](https://github.com/ModdingX/LibX/commit/1d0c0522a266939a1fdee2234d014fb3fdab2ff9) - noeppi_noeppi\n- [Merge remote-tracking branch 'origin/feature/more-config-tooltips' into 1.21](https://github.com/ModdingX/LibX/commit/c8446869060ac5a804aa30bedbcfaf23dc905a7e) - noeppi_noeppi\n- [It makes no sense to use isEnabled on FluidBase as long a fluids don't support that feature.](https://github.com/ModdingX/LibX/commit/874ddd1a6c8cb5e944b1b99ed2fb59732564c04e) - noeppi_noeppi\n- [Merge remote-tracking branch 'origin/feature/is-enabled-for-additional-registrations' into 1.21](https://github.com/ModdingX/LibX/commit/6385053cda4a98a92c8301621e26cd97cf9cad94) - noeppi_noeppi\n- [Merge remote-tracking branch 'origin/fix/config-selector-buttons-centered' into 1.21](https://github.com/ModdingX/LibX/commit/db49a606262c960e0941457e64167a5b86c2a7e9) - noeppi_noeppi\n- [Only ever take classes annotated with ModX into account when constructing the default mod id in ModInit.](https://github.com/ModdingX/LibX/commit/02572e832917f945d1e2c1777a7c1af00ec08c48) - noeppi_noeppi\n- [Merge remote-tracking branch 'origin/fix/mainentry-annotation' into 1.21](https://github.com/ModdingX/LibX/commit/669b561dacb2cfa5c2bb22d6e4011f7d200dff5c) - noeppi_noeppi\n- [reorder arguments in CraftingExtension](https://github.com/ModdingX/LibX/commit/1c0803bc18deb2a4e95b2b52678d60d14bf4b439) - noeppi_noeppi\n- [Merge remote-tracking branch 'origin/feature/easy-conditional-recipes' into 1.21](https://github.com/ModdingX/LibX/commit/9d712865f04c0e8dcb01ad7a38a31590e2bf71de) - noeppi_noeppi\n- [Add tree support to ProcessorEnv](https://github.com/ModdingX/LibX/commit/fa5dbf6b42a668fef9902a1e329113b2cacff9fe) - noeppi_noeppi\n- [Merge pull request #93 from ModdingX/fix/copy-entity-data-function](https://github.com/ModdingX/LibX/commit/4d4b716310dc1e49be605916a213dcf9666fd258) - MelanX\n- [Add tooltips to config widget editor](https://github.com/ModdingX/LibX/commit/c5e2cb59b79ee4263499e8ef4ee75bbcd4962dbd) - MelanX\n- [Add feature flag support to blocks and items](https://github.com/ModdingX/LibX/commit/68ccebbbf8057eeebea309c7ee09d4c9380fddf2) - MelanX\n- [Fix crash for blocks that use copy block entity data function](https://github.com/ModdingX/LibX/commit/527e6301c441e7113b6cd217cebc6358f4b59f40) - MelanX\n- [Fix buttons being off-centered in config selection screen](https://github.com/ModdingX/LibX/commit/61ae0dac3ada24c119f3b03a1a9409b05581d80b) - MelanX\n- [Fix default @Mod detection for multiple entrypoints](https://github.com/ModdingX/LibX/commit/f4ae4e2fefbb17d9d399e1c315405c56588721c7) - MelanX\n- [Add RecipeCategory parameter to shaped recipe method in Javadocs](https://github.com/ModdingX/LibX/commit/eaeba638c272950663a7f31ee8bf923c574abc77) - MelanX\n- [Add ICondition to CraftingExtension Javadoc](https://github.com/ModdingX/LibX/commit/352504ed81490fbfcd46a133264ec605a9d9f955) - MelanX\n- [Add ICondition support in ObjectCraftingBuilder](https://github.com/ModdingX/LibX/commit/398d673f2bb5a62a6bf1c60ba683f1e956ba3fa4) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-01-11T13:08:07.921069Z",
+      "downloads": 13447,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "3FwbhgYN",
+          "hashes": {
+            "sha512": "6d80cb2457454c9b4177bc0ce71769332e8da953c87eac1d86ee3b8c1a21fd5bf02e704ca70b1d7a5057800a278112d663d3384ce420240ba0833a5db45b7056",
+            "sha1": "06a144a41aa7affca17f30a28c0e9effdddc3f4e"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/CLe8cTHs/LibX-1.21.1-6.0.9.jar",
+          "filename": "LibX-1.21.1-6.0.9.jar",
+          "primary": true,
+          "size": 1259776,
+          "file_type": null
+        },
+        {
+          "id": "6lvDLgaD",
+          "hashes": {
+            "sha512": "b4231fd78a3bba961606ed1aa87ce373a9a30f9d03c22aabb407e3c9c858d4f69ef6cd14b1c0d14b9eb8fff9b0673209350e1a029bff155cb973320454f664d0",
+            "sha1": "db377250bbc88ebd935d347d3b5dfd2ad2516eab"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/CLe8cTHs/LibX-1.21.1-6.0.9-sources.jar",
+          "filename": "LibX-1.21.1-6.0.9-sources.jar",
+          "primary": false,
+          "size": 539734,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "cfELyvLC",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.8.jar",
+      "version_number": "1.21.1-6.0.8",
+      "changelog": "- [Merge pull request #93 from ModdingX/fix/copy-entity-data-function](https://github.com/ModdingX/LibX/commit/4d4b716310dc1e49be605916a213dcf9666fd258) - MelanX\n- [Fix crash for blocks that use copy block entity data function](https://github.com/ModdingX/LibX/commit/527e6301c441e7113b6cd217cebc6358f4b59f40) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-01-03T16:00:19.726414Z",
+      "downloads": 753,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jLYnKs1w",
+          "hashes": {
+            "sha512": "8ebcadc72edcfe7d6b285894c7e194732d5653c0a5d5698065189a6d0c50ade94753f557821b99ba101470a8669a2cd371788f4ac1eee69b1b19b1c177f95b77",
+            "sha1": "e816c147641d6825924fb32938b8ee911df69cf7"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/cfELyvLC/LibX-1.21.1-6.0.8.jar",
+          "filename": "LibX-1.21.1-6.0.8.jar",
+          "primary": true,
+          "size": 1253779,
+          "file_type": null
+        },
+        {
+          "id": "V0F6iQoD",
+          "hashes": {
+            "sha512": "46f76e41deb926852cd837b5f5b38bf830b916f3bb80696c321943ff4fc64075f5094049b6a92b0384cc9791bc4ca2c86f5b406b940f1cc89fb93f2c67cbccd8",
+            "sha1": "1e8ea5a5547016166f33bc970dbdc7bd11477b2e"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/cfELyvLC/LibX-1.21.1-6.0.8-sources.jar",
+          "filename": "LibX-1.21.1-6.0.8-sources.jar",
+          "primary": false,
+          "size": 538562,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "uusKqQHt",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.7.jar",
+      "version_number": "1.21.1-6.0.7",
+      "changelog": "- [Fix BlockBE not dropping inventory correctly (#96)](https://github.com/ModdingX/LibX/commit/158ea5f29f6af47c6a7f9d36df13bb744c070ea0) - MelanX",
+      "changelog_url": null,
+      "date_published": "2026-01-02T19:37:58.496593Z",
+      "downloads": 178,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FNiWC2Ox",
+          "hashes": {
+            "sha512": "0ac79ee3336cda04bf5640991c7c69bcad9b809ccaabe86ecc5a5103a8a973eaf345197b71799a1d943cb4e7f34d1576d9d95e4d0d0682b266d1a3c036b20696",
+            "sha1": "20cf2a815929e20153591dec61b0251310b7e591"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/uusKqQHt/LibX-1.21.1-6.0.7.jar",
+          "filename": "LibX-1.21.1-6.0.7.jar",
+          "primary": true,
+          "size": 1253553,
+          "file_type": null
+        },
+        {
+          "id": "RO0lgOTc",
+          "hashes": {
+            "sha512": "5379204897c58e0577d5905031accfaeca5c3edc0fd28986d24810b3a7aff9af2bbc341fc2f7d58fd7ba97fe8bee381aee4ab875bf4e3270e8b7da20a8fe5859",
+            "sha1": "0723c2fcb36e9d445d983be0eae119b70b1d95a6"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/uusKqQHt/LibX-1.21.1-6.0.7-sources.jar",
+          "filename": "LibX-1.21.1-6.0.7-sources.jar",
+          "primary": false,
+          "size": 538506,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "eRZEnAsO",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.6.jar",
+      "version_number": "1.21.1-6.0.6",
+      "changelog": "- [Support arbitrary output stacks in ObjectCraftingBuilder](https://github.com/ModdingX/LibX/commit/8384f278640ffdba445257dc3895b1d4e9049802) - noeppi_noeppi\n- [Fix wrong javadoc in MoreCodecs](https://github.com/ModdingX/LibX/commit/f35d34d45306d11caba788d084a464d68bccd59f) - noeppi_noeppi",
+      "changelog_url": null,
+      "date_published": "2025-06-26T16:15:53.878284Z",
+      "downloads": 17892,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EccDAQjK",
+          "hashes": {
+            "sha512": "ff7a71dbe8e26767a9fa911e68dfa19c5dccdc411a581c89c87628bf1a5da67235248b4288f04ceac505afbe63777e7af5b36f7e1789bde720f1d3c3ca22eb4b",
+            "sha1": "a9f8e9359904d66f6055b89e7121b5e00189ba38"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/eRZEnAsO/LibX-1.21.1-6.0.6.jar",
+          "filename": "LibX-1.21.1-6.0.6.jar",
+          "primary": true,
+          "size": 1253547,
+          "file_type": null
+        },
+        {
+          "id": "XX3pM5t0",
+          "hashes": {
+            "sha1": "5119c6190cb3d7a606eba3f59e444e04e3db0b66",
+            "sha512": "7871e04cf0b3133198ff25364520aa435c310d36f028355814af3a65f265838a78bd38ba3e99ebaa665f2cc40a04293694e35d1f1e948554fbf7e1d77bb29783"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/eRZEnAsO/LibX-1.21.1-6.0.6-sources.jar",
+          "filename": "LibX-1.21.1-6.0.6-sources.jar",
+          "primary": false,
+          "size": 538504,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "DbX18kSV",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.5.jar",
+      "version_number": "1.21.1-6.0.5",
+      "changelog": "- [Fix rendering of TextScreen](https://github.com/ModdingX/LibX/commit/5d26d36389b91112d2f3fd3d4b2fac16d0c3233f) - MelanX",
+      "changelog_url": null,
+      "date_published": "2025-03-29T15:38:09.877560Z",
+      "downloads": 2860,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2L2PMmsd",
+          "hashes": {
+            "sha1": "33d11cdfb5b207151e9079e6d733229e20376f1b",
+            "sha512": "0d9201abc82db3f9ea7b3216258232fcd22cc3678b0ae58ea48d77906683d802fd215b4c9d87dd082c2ff857e90de832ecdcd48d92e75523a276f4db1c484847"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/DbX18kSV/LibX-1.21.1-6.0.5.jar",
+          "filename": "LibX-1.21.1-6.0.5.jar",
+          "primary": true,
+          "size": 1253687,
+          "file_type": null
+        },
+        {
+          "id": "DoYcL7CS",
+          "hashes": {
+            "sha512": "0bee55012cca9417cba65204ef219b0330e34f0c43b94875ff8b827e938813b1d61961d94cb7585fe5409a221d4f4b7ac1c9aa0e8b90aafde917125a8bf7b071",
+            "sha1": "e1507f979cb228fa09d2bd8b7fcc0cead374b664"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/DbX18kSV/LibX-1.21.1-6.0.5-sources.jar",
+          "filename": "LibX-1.21.1-6.0.5-sources.jar",
+          "primary": false,
+          "size": 538570,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "8oYTDPz3",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.4.jar",
+      "version_number": "1.21.1-6.0.4",
+      "changelog": "- [Merge branch 'fix/hand-command' into 1.21](https://github.com/ModdingX/LibX/commit/ad6589d33c0039e949e8d0fcb5ea3d666796647e) - noeppi_noeppi\n- [Print a warning if a config validator is registered from an unexpected mod.](https://github.com/ModdingX/LibX/commit/e329789a877f88bc5d3e12ef1e029ce634203f6d) - noeppi_noeppi\n- [Make the data component toPrettyComponent work with different data component type registries again.](https://github.com/ModdingX/LibX/commit/607410db317b93a027cd64f8088c5c8a6c8ddf16) - noeppi_noeppi\n- [Fix error in encoding data components in hand command](https://github.com/ModdingX/LibX/commit/1bee47ce6496de03a09ba33cb69b4bc2768e9b1a) - MelanX",
+      "changelog_url": null,
+      "date_published": "2025-02-26T22:54:03.063895Z",
+      "downloads": 825,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "f7ILgtDK",
+          "hashes": {
+            "sha512": "36e499c3bff63c5b200bb56d9b34314677a26c8d597deb57885bd287be381d17c469a77fe8fb94b0bcbba946be49a14c29148de38dcc3580c4225fe84928ead2",
+            "sha1": "2b5032b26ec1602bc9eeb7c450e452a6f82b4e61"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/8oYTDPz3/LibX-1.21.1-6.0.4.jar",
+          "filename": "LibX-1.21.1-6.0.4.jar",
+          "primary": true,
+          "size": 1253511,
+          "file_type": null
+        },
+        {
+          "id": "D4zluaFo",
+          "hashes": {
+            "sha512": "6f1ba27312c4b5f58d979d50b519f3648ba24f7a972f78f1e6f18139355d3e39d67e75553e4c15a1327c5f04ebe01a6f3091c89cf5c4ffbeafdd66d8626ea591",
+            "sha1": "c5e647ddd160d6df85539187608a82fc7f9bde4c"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/8oYTDPz3/LibX-1.21.1-6.0.4-sources.jar",
+          "filename": "LibX-1.21.1-6.0.4-sources.jar",
+          "primary": false,
+          "size": 538543,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "hkGdpHdO",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.3.jar",
+      "version_number": "1.21.1-6.0.3",
+      "changelog": "- [Fix hand command output](https://github.com/ModdingX/LibX/commit/d9fd70a9ed53157f9882f824fca769227082cd72) - MelanX",
+      "changelog_url": null,
+      "date_published": "2025-02-23T11:44:22.832739Z",
+      "downloads": 150,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5a22csXC",
+          "hashes": {
+            "sha1": "be57c38032c3ed8a292dbdaf3531accd2dfbe52a",
+            "sha512": "4bcc3d165be8a23e008b7fa29f12c09cabc42dffa73142edf3d9e90bfbc357d1f405961ee97538c4be315eb4352b860481e8a10d888d7eebedb2d16c5c732a83"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/hkGdpHdO/LibX-1.21.1-6.0.3.jar",
+          "filename": "LibX-1.21.1-6.0.3.jar",
+          "primary": true,
+          "size": 1253174,
+          "file_type": null
+        },
+        {
+          "id": "ejsGJZrq",
+          "hashes": {
+            "sha512": "dad1e4a2b478a0b4378cf10b33a1a667c8dd0a2a3b47fd2648299f7aad1358fb24341e2a529d65146c041820ded83858383648007b1dd2f85b436f5ccf734149",
+            "sha1": "d4c1ace4037a7ff4e5293e018ecde6356bffb72a"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/hkGdpHdO/LibX-1.21.1-6.0.3-sources.jar",
+          "filename": "LibX-1.21.1-6.0.3-sources.jar",
+          "primary": false,
+          "size": 538344,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "SNmrRWm5",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.2.jar",
+      "version_number": "1.21.1-6.0.2",
+      "changelog": "- [Set default burn time in BlockBase to 0](https://github.com/ModdingX/LibX/commit/ce6ef7689f84a37b539c7cd5f5ce0879c4ff4b99) - MelanX",
+      "changelog_url": null,
+      "date_published": "2025-02-22T08:33:40.480981Z",
+      "downloads": 104,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tlF1eMkp",
+          "hashes": {
+            "sha512": "e0bc6c5ea0bd41e62b7efebbfe5dbbfcff37313775e0e688da0d5e47561d22d38015bd47051f906f29966adcc4acbeb42db9849df1ec96c5e9fb126de81a422f",
+            "sha1": "41b742ed0038b8f1382c6d1d8a402a9a6cecc050"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/SNmrRWm5/LibX-1.21.1-6.0.2.jar",
+          "filename": "LibX-1.21.1-6.0.2.jar",
+          "primary": true,
+          "size": 1253173,
+          "file_type": null
+        },
+        {
+          "id": "Nl0DbUbB",
+          "hashes": {
+            "sha512": "daece2995e112f2cb9512aa40cf6c541f29ca0ce44ad88ecac98234923ceb05775724c4b9b763e756e4828341b38f01431e41b9041f492dba4ab75853ab2f7e8",
+            "sha1": "301f38904afc5599b1f8ab25918e0e73be3302af"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/SNmrRWm5/LibX-1.21.1-6.0.2-sources.jar",
+          "filename": "LibX-1.21.1-6.0.2-sources.jar",
+          "primary": false,
+          "size": 538343,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "1Hli2Su8",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.1.jar",
+      "version_number": "1.21.1-6.0.1",
+      "changelog": "- [Fix crash in loot data generation](https://github.com/ModdingX/LibX/commit/9e5b53d8dfab0fa55785a579abc1e0df0dc7224e) - MelanX",
+      "changelog_url": null,
+      "date_published": "2025-02-03T15:26:35.795256Z",
+      "downloads": 272,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9Wsn29N7",
+          "hashes": {
+            "sha1": "6d092b43afed99d48b1b3813f68f2333c826c157",
+            "sha512": "a746120e7b4f41f0f643fc20859880ff7f76fa5af5b7824e33118282d1dba3d5181aaaf495774018f5a703df7522e8578336f7899e84d57904b792d83e5eafa4"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/1Hli2Su8/LibX-1.21.1-6.0.1.jar",
+          "filename": "LibX-1.21.1-6.0.1.jar",
+          "primary": true,
+          "size": 1253173,
+          "file_type": null
+        },
+        {
+          "id": "qPsymMkc",
+          "hashes": {
+            "sha512": "abaf2511d37812b909e49f2d00f697f526bc606f6fd67382de40c3b2e0f511f88149d7135c9034607f56ec165c1d1e9c41f9f633a23ac46c254811b7c024b9d4",
+            "sha1": "fd1500372323795328b932161920a78d5e3558cb"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/1Hli2Su8/LibX-1.21.1-6.0.1-sources.jar",
+          "filename": "LibX-1.21.1-6.0.1-sources.jar",
+          "primary": false,
+          "size": 538345,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2QGV5zSs",
+      "project_id": "qEH6GYul",
+      "author_id": "BTS0hlQy",
+      "featured": false,
+      "name": "LibX-1.21.1-6.0.0.jar",
+      "version_number": "1.21.1-6.0.0",
+      "changelog": "- [1.21](https://github.com/ModdingX/LibX/compare/93a03000680c6a874b543ac317aa9edd3fd2feb1..3ba22b40e3eaab795639948bcbda3f97f05fb9f8) - *noeppi_noeppi*",
+      "changelog_url": null,
+      "date_published": "2025-02-01T15:10:30.365237Z",
+      "downloads": 198,
+      "version_type": "alpha",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Xm1FzKhO",
+          "hashes": {
+            "sha1": "4e62e879001454604fef8104a28941369ba41781",
+            "sha512": "12e003c92a21229a7d5550ab2bf86c3cd683fbfd7f4d9bae74c6e36775d91d2ae1f20913f3eb02d0a572dbf06e6d8836b754d2a35a6209864b50a811414c814a"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/2QGV5zSs/LibX-1.21.1-6.0.0.jar",
+          "filename": "LibX-1.21.1-6.0.0.jar",
+          "primary": true,
+          "size": 1253449,
+          "file_type": null
+        },
+        {
+          "id": "KgQdIPbu",
+          "hashes": {
+            "sha512": "2d5a6088c0dee76c3fd1791937190f4b13246088afe12ef2ac9c6463a55ff174838ca88584c9456b8a67cb92f3ee79b5c718fe04f193b6dbc4a33235d5bab262",
+            "sha1": "db826ca8b0abebdb6d45b0da9c91a50544eb35e4"
+          },
+          "url": "https://cdn.modrinth.com/data/qEH6GYul/versions/2QGV5zSs/LibX-1.21.1-6.0.0-sources.jar",
+          "filename": "LibX-1.21.1-6.0.0-sources.jar",
+          "primary": false,
+          "size": 538581,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

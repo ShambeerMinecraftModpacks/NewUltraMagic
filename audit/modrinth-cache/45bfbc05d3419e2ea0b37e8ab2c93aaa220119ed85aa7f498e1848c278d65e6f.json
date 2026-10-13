@@ -1,0 +1,59 @@
+{
+  "url": "https://api.modrinth.com/v2/search?query=LionfishAPI&limit=5&facets=%5B%5B%22project_type%3Amod%22%5D%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:39:15.387657+00:00",
+  "response": {
+    "hits": [
+      {
+        "project_id": "lcl84AyI",
+        "project_type": "mod",
+        "all_project_types": [
+          "mod"
+        ],
+        "slug": "betterendfix",
+        "author": "RedCraft86",
+        "author_id": "J46fhGz8",
+        "organization": null,
+        "organization_id": null,
+        "title": "Better End Fix",
+        "description": "Stopping LionfishAPI from messing up Better End's terrain gen",
+        "categories": [
+          "forge",
+          "utility",
+          "worldgen"
+        ],
+        "display_categories": [
+          "forge",
+          "utility",
+          "worldgen"
+        ],
+        "versions": [
+          "1.20.1"
+        ],
+        "downloads": 6374,
+        "follows": 8,
+        "icon_url": "https://cdn.modrinth.com/data/lcl84AyI/ed0c69923aaeb9cd37a31cc44225e7b6be8bfc6d_96.webp",
+        "date_created": "2025-09-07T03:54:24.964785+00:00",
+        "date_modified": "2026-01-30T16:19:50.829895+00:00",
+        "latest_version": "wOuhf2Qj",
+        "license": "MIT",
+        "client_side": "unsupported",
+        "server_side": "required",
+        "environment": [
+          "server_only"
+        ],
+        "disclosure_types": [
+          "archived"
+        ],
+        "gallery": [
+          "https://cdn.modrinth.com/data/lcl84AyI/images/8493ff0906c89cceea0cf626eb9bb12f80464fd6_350.webp"
+        ],
+        "featured_gallery": "https://cdn.modrinth.com/data/lcl84AyI/images/65047cf0aa4b85203f78dacfb33e6f4a84ba985a_350.webp",
+        "color": 3417383
+      }
+    ],
+    "offset": 0,
+    "limit": 5,
+    "total_hits": 1
+  }
+}

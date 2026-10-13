@@ -1,0 +1,71 @@
+{
+  "url": "https://api.modrinth.com/v2/project/tCkE8p2N",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:55.555676+00:00",
+  "response": {
+    "client_side": "optional",
+    "server_side": "optional",
+    "game_versions": [
+      "1.20.1",
+      "1.21.1",
+      "26.1.2"
+    ],
+    "environment": [
+      "client_or_server_prefers_both"
+    ],
+    "id": "tCkE8p2N",
+    "slug": "placebo",
+    "project_type": "mod",
+    "team": "SuT4CkSA",
+    "organization": null,
+    "title": "Placebo",
+    "description": "Placebo is a library used by most of my mods.\nIt does not provide any game-relevant features on its own (save for maybe a couple debug commands).",
+    "body": "Holds shared code for use in my mods.  \nAlone, this mod does nothing but register itself as a mod, hence the name.  ",
+    "body_url": null,
+    "published": "2023-07-24T08:31:59.270477Z",
+    "updated": "2026-10-13T02:09:52.058831Z",
+    "approved": "2023-08-04T11:02:44.773821Z",
+    "queued": "2023-08-02T21:44:53.370898Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "downloads": 1596784,
+    "followers": 56,
+    "categories": [
+      "library"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "NK0coiau",
+      "6SkuAGoz",
+      "kb8pGRQR",
+      "h9wlw0dC",
+      "LWgIe4ct",
+      "nU7CXkMr",
+      "1Ypo4tf4",
+      "c4uzJQYp",
+      "h326cnw1",
+      "B5zbSVlT"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/tCkE8p2N/f5a71de378c2cc940efaa812da151c480cfdbbb6_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/tCkE8p2N/66f5ea793fe9142bebda111eea1a9ac907d265bc.png",
+    "issues_url": "https://github.com/Shadows-of-Fire/Placebo/issues",
+    "source_url": "https://github.com/Shadows-of-Fire/Placebo",
+    "wiki_url": null,
+    "discord_url": "https://discord.com/servers/shadows-mods-613010559532531713",
+    "donation_urls": [],
+    "gallery": [],
+    "color": 3288331,
+    "thread_id": "tCkE8p2N",
+    "monetization_status": "monetized"
+  }
+}

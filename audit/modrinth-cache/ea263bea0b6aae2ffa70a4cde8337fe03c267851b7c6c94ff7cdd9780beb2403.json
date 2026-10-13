@@ -1,0 +1,44 @@
+{
+  "url": "https://api.modrinth.com/v2/project/pg5DWzmH/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:54.289102+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "iEJR1CsA",
+      "project_id": "pg5DWzmH",
+      "author_id": "7fqMBMno",
+      "featured": false,
+      "name": "GodlyVampirism 1.10.0",
+      "version_number": "1.10.0",
+      "changelog": "",
+      "changelog_url": null,
+      "date_published": "2026-01-21T13:52:05.611866Z",
+      "downloads": 5730,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "tsCUxmO5",
+          "hashes": {
+            "sha512": "9cab5be5ec27efc6c5d3c6c6ad9bc7ef37de59e566af8bc58b1fa1a296ccf0f2eded5bb5ca5cf99eaf8b5c4bb5388689831a892624bdff2afdff27bc9167b29c",
+            "sha1": "c049cb736de501cd346cebd3c593335df4a086c4"
+          },
+          "url": "https://cdn.modrinth.com/data/pg5DWzmH/versions/iEJR1CsA/godly_vampirism-1.21.1-1.10.0.jar",
+          "filename": "godly_vampirism-1.21.1-1.10.0.jar",
+          "primary": true,
+          "size": 7693,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "url": "https://api.modrinth.com/v2/project/G1hIVOrD/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:38.327023+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Hf91FuVF",
+      "project_id": "G1hIVOrD",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Lib 3.0.12",
+      "version_number": "3.0.12",
+      "changelog": "# -----{ 3.0.12 }-----\n\n1.21.3\n\n# -----{ 3.0.11 }-----\n\nImproved performance for certain UI render utilities.\nFix crash with Tech Reborn on fabric\n\n# -----{ 3.0.10 }-----\n\n\n\n# -----{ 3.0.9 }-----\n\n\n\n# -----{ 3.0.8 }-----\n\nFix extra parameter in CodecSavedData\nAdded CodecSavedData\n\n# -----{ 3.0.7 }-----\n\nAdded CodecSavedData\nAdded NetworkHandle and bumped ByteCodecs\n\n# -----{ 3.0.6 }-----\n\nAdded NetworkHandle and bumped ByteCodecs\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.5 }-----\n\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.4 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.3 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.2 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.1 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.0 }-----\n\n\n\n# -----{ 2.5.5 }-----\n\nAdded helper for mojang either in bytecodecs.\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.4 }-----\n\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.3 }-----\n\nFixed fabric network packets being flipped\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.2 }-----\n\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.1 }-----\n\n\n\n# -----{ 2.5.0 }-----\n\nUpdated to 1.20.5\n\n# -----{ 2.4.10 }-----\n\nAdded option to stop resetting mouse on container open.\nAdd menu content player context from 1.20.1 to 1.20.4\n\n# -----{ 2.4.9 }-----\n\nAdd menu content player context from 1.20.1 to 1.20.4\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.8 }-----\n\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.7 }-----\n\nAdded required option to packs and allow loading datapacks\n\n# -----{ 2.4.6 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.5 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.4 }-----\n\nUse correct generic for recipe serializer\n\n# -----{ 2.4.3 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.2 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.1 }-----\n\nFix possible crash on neoforge and improve code on fabric\n\n# -----{ 2.4.0 }-----\n\nDeprecated old networking and added a new version.\nRemoved FinishedCodecRecipe and add CodecRecipeBuilder\nDeprecated bound and update render utils to respect that\nAdded width and height to parent widget\nAdded number range codecs\nUpdate to 1.20.4\nAdded nbt validators\n\n# -----{ 2.2.4 }-----\n\nFixed scroll list scrolling on different axis\nFix neoforge not loading\n\n# -----{ 2.2.3 }-----\n\nFix neoforge not loading\n\n# -----{ 2.2.2 }-----\n\nAdd missing impl on forge\n\n# -----{ 2.2.1 }-----\n\n\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.1.16 }-----\n\nAdded codec metadata section serializer\nAdded context menus widget\n\n# -----{ 2.1.15 }-----\n\nAdded context menus widget\n\n# -----{ 2.1.14 }-----\n\nFixed issue where hidden widgets could have cursors shown\n\n# -----{ 2.1.13 }-----\n\nFixed crash in nbt predicates\nAdded strict mode for nbt predicates\n\n# -----{ 2.1.12 }-----\n\nAdded strict mode for nbt predicates\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\n\n# -----{ 2.1.11 }-----\n\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.10 }-----\n\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.9 }-----\n\nAdded component bytecodec and update bytecodec version.\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.8 }-----\n\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.7 }-----\n\nAdded more ByteCodec types\n\n# -----{ 2.1.6 }-----\n\nAdded new experimental ByteCodec packets\n\n# -----{ 2.1.5 }-----\n\nFix CME in creative tabs\n\n# -----{ 2.1.4 }-----\n\nAdd dataless packet handler, fix web responses not being correct in WebUtils\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.3 }-----\n\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.2 }-----\n\nAdd map tag and map collection methods for tags.\nAdd replace versions of tooltip set methods and add clear tooltip method.\nAdd mod file paths to mod info and add pretty gson.\nRegister ingredients properly on forge.\nAdd CursorWidget and allow for better cursor setting on base screens\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\n\n# -----{ 2.1.1 }-----\n\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\n\n# -----{ 2.1.0 }-----\n\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\n\n# -----{ 2.0.8 }-----\n\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.7 }-----\n\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.6 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n- Full 1.20 release",
+      "changelog_url": null,
+      "date_published": "2024-12-08T04:44:17.577543Z",
+      "downloads": 8007180,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ITpkFDXZ",
+          "hashes": {
+            "sha512": "df8a9586eaa0e2f8e1e6a5651ba79ff6c95327b0ab89cdab4708cc6ed51c3da6829d00e8f176e7e7b7b37d4af8c5bd9e3df047f3a8a04fd1af925d80c774185b",
+            "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd"
+          },
+          "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar",
+          "filename": "resourcefullib-fabric-1.21-3.0.12.jar",
+          "primary": true,
+          "size": 485586,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "x99nCLTm",
+      "project_id": "G1hIVOrD",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Lib 3.0.12",
+      "version_number": "3.0.12",
+      "changelog": "# -----{ 3.0.12 }-----\n\n1.21.3\n\n# -----{ 3.0.11 }-----\n\nImproved performance for certain UI render utilities.\nFix crash with Tech Reborn on fabric\n\n# -----{ 3.0.10 }-----\n\n\n\n# -----{ 3.0.9 }-----\n\n\n\n# -----{ 3.0.8 }-----\n\nFix extra parameter in CodecSavedData\nAdded CodecSavedData\n\n# -----{ 3.0.7 }-----\n\nAdded CodecSavedData\nAdded NetworkHandle and bumped ByteCodecs\n\n# -----{ 3.0.6 }-----\n\nAdded NetworkHandle and bumped ByteCodecs\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.5 }-----\n\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.4 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.3 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.2 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.1 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.0 }-----\n\n\n\n# -----{ 2.5.5 }-----\n\nAdded helper for mojang either in bytecodecs.\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.4 }-----\n\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.3 }-----\n\nFixed fabric network packets being flipped\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.2 }-----\n\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.1 }-----\n\n\n\n# -----{ 2.5.0 }-----\n\nUpdated to 1.20.5\n\n# -----{ 2.4.10 }-----\n\nAdded option to stop resetting mouse on container open.\nAdd menu content player context from 1.20.1 to 1.20.4\n\n# -----{ 2.4.9 }-----\n\nAdd menu content player context from 1.20.1 to 1.20.4\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.8 }-----\n\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.7 }-----\n\nAdded required option to packs and allow loading datapacks\n\n# -----{ 2.4.6 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.5 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.4 }-----\n\nUse correct generic for recipe serializer\n\n# -----{ 2.4.3 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.2 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.1 }-----\n\nFix possible crash on neoforge and improve code on fabric\n\n# -----{ 2.4.0 }-----\n\nDeprecated old networking and added a new version.\nRemoved FinishedCodecRecipe and add CodecRecipeBuilder\nDeprecated bound and update render utils to respect that\nAdded width and height to parent widget\nAdded number range codecs\nUpdate to 1.20.4\nAdded nbt validators\n\n# -----{ 2.2.4 }-----\n\nFixed scroll list scrolling on different axis\nFix neoforge not loading\n\n# -----{ 2.2.3 }-----\n\nFix neoforge not loading\n\n# -----{ 2.2.2 }-----\n\nAdd missing impl on forge\n\n# -----{ 2.2.1 }-----\n\n\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.1.16 }-----\n\nAdded codec metadata section serializer\nAdded context menus widget\n\n# -----{ 2.1.15 }-----\n\nAdded context menus widget\n\n# -----{ 2.1.14 }-----\n\nFixed issue where hidden widgets could have cursors shown\n\n# -----{ 2.1.13 }-----\n\nFixed crash in nbt predicates\nAdded strict mode for nbt predicates\n\n# -----{ 2.1.12 }-----\n\nAdded strict mode for nbt predicates\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\n\n# -----{ 2.1.11 }-----\n\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.10 }-----\n\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.9 }-----\n\nAdded component bytecodec and update bytecodec version.\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.8 }-----\n\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.7 }-----\n\nAdded more ByteCodec types\n\n# -----{ 2.1.6 }-----\n\nAdded new experimental ByteCodec packets\n\n# -----{ 2.1.5 }-----\n\nFix CME in creative tabs\n\n# -----{ 2.1.4 }-----\n\nAdd dataless packet handler, fix web responses not being correct in WebUtils\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.3 }-----\n\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.2 }-----\n\nAdd map tag and map collection methods for tags.\nAdd replace versions of tooltip set methods and add clear tooltip method.\nAdd mod file paths to mod info and add pretty gson.\nRegister ingredients properly on forge.\nAdd CursorWidget and allow for better cursor setting on base screens\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\n\n# -----{ 2.1.1 }-----\n\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\n\n# -----{ 2.1.0 }-----\n\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\n\n# -----{ 2.0.8 }-----\n\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.7 }-----\n\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.6 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n- Full 1.20 release",
+      "changelog_url": null,
+      "date_published": "2024-12-08T04:44:13.631452Z",
+      "downloads": 2512338,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YAZOXahA",
+          "hashes": {
+            "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+            "sha512": "a9d20e345faa9bcb297bd95ac9524205834804d1bb13518397dd4f7f62b352b08c3339ee7f7870d3669078ceeb33d5c31ea527aecce4b31d62ec1ff7d8b562c8"
+          },
+          "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
+          "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+          "primary": true,
+          "size": 484332,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "qhDtAMev",
+      "project_id": "G1hIVOrD",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Lib 3.0.11",
+      "version_number": "3.0.11",
+      "changelog": "# -----{ 3.0.11 }-----\n\nImproved performance for certain UI render utilities.\nFix crash with Tech Reborn on fabric\n\n# -----{ 3.0.10 }-----\n\n\n\n# -----{ 3.0.9 }-----\n\n\n\n# -----{ 3.0.8 }-----\n\nFix extra parameter in CodecSavedData\nAdded CodecSavedData\n\n# -----{ 3.0.7 }-----\n\nAdded CodecSavedData\nAdded NetworkHandle and bumped ByteCodecs\n\n# -----{ 3.0.6 }-----\n\nAdded NetworkHandle and bumped ByteCodecs\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.5 }-----\n\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.4 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.3 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.2 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.1 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.0 }-----\n\n\n\n# -----{ 2.5.5 }-----\n\nAdded helper for mojang either in bytecodecs.\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.4 }-----\n\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.3 }-----\n\nFixed fabric network packets being flipped\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.2 }-----\n\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.1 }-----\n\n\n\n# -----{ 2.5.0 }-----\n\nUpdated to 1.20.5\n\n# -----{ 2.4.10 }-----\n\nAdded option to stop resetting mouse on container open.\nAdd menu content player context from 1.20.1 to 1.20.4\n\n# -----{ 2.4.9 }-----\n\nAdd menu content player context from 1.20.1 to 1.20.4\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.8 }-----\n\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.7 }-----\n\nAdded required option to packs and allow loading datapacks\n\n# -----{ 2.4.6 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.5 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.4 }-----\n\nUse correct generic for recipe serializer\n\n# -----{ 2.4.3 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.2 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.1 }-----\n\nFix possible crash on neoforge and improve code on fabric\n\n# -----{ 2.4.0 }-----\n\nDeprecated old networking and added a new version.\nRemoved FinishedCodecRecipe and add CodecRecipeBuilder\nDeprecated bound and update render utils to respect that\nAdded width and height to parent widget\nAdded number range codecs\nUpdate to 1.20.4\nAdded nbt validators\n\n# -----{ 2.2.4 }-----\n\nFixed scroll list scrolling on different axis\nFix neoforge not loading\n\n# -----{ 2.2.3 }-----\n\nFix neoforge not loading\n\n# -----{ 2.2.2 }-----\n\nAdd missing impl on forge\n\n# -----{ 2.2.1 }-----\n\n\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.1.16 }-----\n\nAdded codec metadata section serializer\nAdded context menus widget\n\n# -----{ 2.1.15 }-----\n\nAdded context menus widget\n\n# -----{ 2.1.14 }-----\n\nFixed issue where hidden widgets could have cursors shown\n\n# -----{ 2.1.13 }-----\n\nFixed crash in nbt predicates\nAdded strict mode for nbt predicates\n\n# -----{ 2.1.12 }-----\n\nAdded strict mode for nbt predicates\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\n\n# -----{ 2.1.11 }-----\n\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.10 }-----\n\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.9 }-----\n\nAdded component bytecodec and update bytecodec version.\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.8 }-----\n\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.7 }-----\n\nAdded more ByteCodec types\n\n# -----{ 2.1.6 }-----\n\nAdded new experimental ByteCodec packets\n\n# -----{ 2.1.5 }-----\n\nFix CME in creative tabs\n\n# -----{ 2.1.4 }-----\n\nAdd dataless packet handler, fix web responses not being correct in WebUtils\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.3 }-----\n\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.2 }-----\n\nAdd map tag and map collection methods for tags.\nAdd replace versions of tooltip set methods and add clear tooltip method.\nAdd mod file paths to mod info and add pretty gson.\nRegister ingredients properly on forge.\nAdd CursorWidget and allow for better cursor setting on base screens\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\n\n# -----{ 2.1.1 }-----\n\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\n\n# -----{ 2.1.0 }-----\n\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\n\n# -----{ 2.0.8 }-----\n\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.7 }-----\n\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.6 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n- Full 1.20 release",
+      "changelog_url": null,
+      "date_published": "2024-10-08T03:55:18.565136Z",
+      "downloads": 752243,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EGDrCT0S",
+          "hashes": {
+            "sha512": "d8456ad1fee455cb66e736a09e38a15888b7c863932d15241b6a9b01ab52842e4f3bd42ef28cc85f1ef515d42f60e077e331c7a4b4659d8bc37c3610ec4cf331",
+            "sha1": "a9c2ef9eb192fcb31eb9e4f38eb6ba0841cddee7"
+          },
+          "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/qhDtAMev/resourcefullib-fabric-1.21-3.0.11.jar",
+          "filename": "resourcefullib-fabric-1.21-3.0.11.jar",
+          "primary": true,
+          "size": 484468,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "XjYVlVPE",
+      "project_id": "G1hIVOrD",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Lib 3.0.11",
+      "version_number": "3.0.11",
+      "changelog": "# -----{ 3.0.11 }-----\n\nImproved performance for certain UI render utilities.\nFix crash with Tech Reborn on fabric\n\n# -----{ 3.0.10 }-----\n\n\n\n# -----{ 3.0.9 }-----\n\n\n\n# -----{ 3.0.8 }-----\n\nFix extra parameter in CodecSavedData\nAdded CodecSavedData\n\n# -----{ 3.0.7 }-----\n\nAdded CodecSavedData\nAdded NetworkHandle and bumped ByteCodecs\n\n# -----{ 3.0.6 }-----\n\nAdded NetworkHandle and bumped ByteCodecs\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.5 }-----\n\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.4 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.3 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.2 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.1 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.0 }-----\n\n\n\n# -----{ 2.5.5 }-----\n\nAdded helper for mojang either in bytecodecs.\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.4 }-----\n\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.3 }-----\n\nFixed fabric network packets being flipped\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.2 }-----\n\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.1 }-----\n\n\n\n# -----{ 2.5.0 }-----\n\nUpdated to 1.20.5\n\n# -----{ 2.4.10 }-----\n\nAdded option to stop resetting mouse on container open.\nAdd menu content player context from 1.20.1 to 1.20.4\n\n# -----{ 2.4.9 }-----\n\nAdd menu content player context from 1.20.1 to 1.20.4\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.8 }-----\n\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.7 }-----\n\nAdded required option to packs and allow loading datapacks\n\n# -----{ 2.4.6 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.5 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.4 }-----\n\nUse correct generic for recipe serializer\n\n# -----{ 2.4.3 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.2 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.1 }-----\n\nFix possible crash on neoforge and improve code on fabric\n\n# -----{ 2.4.0 }-----\n\nDeprecated old networking and added a new version.\nRemoved FinishedCodecRecipe and add CodecRecipeBuilder\nDeprecated bound and update render utils to respect that\nAdded width and height to parent widget\nAdded number range codecs\nUpdate to 1.20.4\nAdded nbt validators\n\n# -----{ 2.2.4 }-----\n\nFixed scroll list scrolling on different axis\nFix neoforge not loading\n\n# -----{ 2.2.3 }-----\n\nFix neoforge not loading\n\n# -----{ 2.2.2 }-----\n\nAdd missing impl on forge\n\n# -----{ 2.2.1 }-----\n\n\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.1.16 }-----\n\nAdded codec metadata section serializer\nAdded context menus widget\n\n# -----{ 2.1.15 }-----\n\nAdded context menus widget\n\n# -----{ 2.1.14 }-----\n\nFixed issue where hidden widgets could have cursors shown\n\n# -----{ 2.1.13 }-----\n\nFixed crash in nbt predicates\nAdded strict mode for nbt predicates\n\n# -----{ 2.1.12 }-----\n\nAdded strict mode for nbt predicates\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\n\n# -----{ 2.1.11 }-----\n\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.10 }-----\n\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.9 }-----\n\nAdded component bytecodec and update bytecodec version.\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.8 }-----\n\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.7 }-----\n\nAdded more ByteCodec types\n\n# -----{ 2.1.6 }-----\n\nAdded new experimental ByteCodec packets\n\n# -----{ 2.1.5 }-----\n\nFix CME in creative tabs\n\n# -----{ 2.1.4 }-----\n\nAdd dataless packet handler, fix web responses not being correct in WebUtils\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.3 }-----\n\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.2 }-----\n\nAdd map tag and map collection methods for tags.\nAdd replace versions of tooltip set methods and add clear tooltip method.\nAdd mod file paths to mod info and add pretty gson.\nRegister ingredients properly on forge.\nAdd CursorWidget and allow for better cursor setting on base screens\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\n\n# -----{ 2.1.1 }-----\n\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\n\n# -----{ 2.1.0 }-----\n\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\n\n# -----{ 2.0.8 }-----\n\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.7 }-----\n\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.6 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n- Full 1.20 release",
+      "changelog_url": null,
+      "date_published": "2024-10-08T03:55:13.427874Z",
+      "downloads": 114514,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hH20FdOt",
+          "hashes": {
+            "sha512": "b51942d0a252161988daa2bff841044a426e197bd876d0bf89191e89471d38f21946010a5cac6f8dcd0064390ff19d60f20f77a0d45a4541e8a19e2fc18ff9d1",
+            "sha1": "004b51394d4b4460e70d65b0894e9e42799bcc5c"
+          },
+          "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/XjYVlVPE/resourcefullib-neoforge-1.21-3.0.11.jar",
+          "filename": "resourcefullib-neoforge-1.21-3.0.11.jar",
+          "primary": true,
+          "size": 483221,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_and_server",
+      "id": "Qq8o6KAr",
+      "project_id": "G1hIVOrD",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[Fabric] Resourceful Lib 3.0.10",
+      "version_number": "3.0.10",
+      "changelog": "# -----{ 3.0.10 }-----\n\n\n\n# -----{ 3.0.9 }-----\n\n\n\n# -----{ 3.0.8 }-----\n\nFix extra parameter in CodecSavedData\nAdded CodecSavedData\n\n# -----{ 3.0.7 }-----\n\nAdded CodecSavedData\nAdded NetworkHandle and bumped ByteCodecs\n\n# -----{ 3.0.6 }-----\n\nAdded NetworkHandle and bumped ByteCodecs\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.5 }-----\n\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.4 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.3 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.2 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.1 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.0 }-----\n\n\n\n# -----{ 2.5.5 }-----\n\nAdded helper for mojang either in bytecodecs.\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.4 }-----\n\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.3 }-----\n\nFixed fabric network packets being flipped\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.2 }-----\n\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.1 }-----\n\n\n\n# -----{ 2.5.0 }-----\n\nUpdated to 1.20.5\n\n# -----{ 2.4.10 }-----\n\nAdded option to stop resetting mouse on container open.\nAdd menu content player context from 1.20.1 to 1.20.4\n\n# -----{ 2.4.9 }-----\n\nAdd menu content player context from 1.20.1 to 1.20.4\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.8 }-----\n\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.7 }-----\n\nAdded required option to packs and allow loading datapacks\n\n# -----{ 2.4.6 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.5 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.4 }-----\n\nUse correct generic for recipe serializer\n\n# -----{ 2.4.3 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.2 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.1 }-----\n\nFix possible crash on neoforge and improve code on fabric\n\n# -----{ 2.4.0 }-----\n\nDeprecated old networking and added a new version.\nRemoved FinishedCodecRecipe and add CodecRecipeBuilder\nDeprecated bound and update render utils to respect that\nAdded width and height to parent widget\nAdded number range codecs\nUpdate to 1.20.4\nAdded nbt validators\n\n# -----{ 2.2.4 }-----\n\nFixed scroll list scrolling on different axis\nFix neoforge not loading\n\n# -----{ 2.2.3 }-----\n\nFix neoforge not loading\n\n# -----{ 2.2.2 }-----\n\nAdd missing impl on forge\n\n# -----{ 2.2.1 }-----\n\n\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.1.16 }-----\n\nAdded codec metadata section serializer\nAdded context menus widget\n\n# -----{ 2.1.15 }-----\n\nAdded context menus widget\n\n# -----{ 2.1.14 }-----\n\nFixed issue where hidden widgets could have cursors shown\n\n# -----{ 2.1.13 }-----\n\nFixed crash in nbt predicates\nAdded strict mode for nbt predicates\n\n# -----{ 2.1.12 }-----\n\nAdded strict mode for nbt predicates\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\n\n# -----{ 2.1.11 }-----\n\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.10 }-----\n\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.9 }-----\n\nAdded component bytecodec and update bytecodec version.\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.8 }-----\n\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.7 }-----\n\nAdded more ByteCodec types\n\n# -----{ 2.1.6 }-----\n\nAdded new experimental ByteCodec packets\n\n# -----{ 2.1.5 }-----\n\nFix CME in creative tabs\n\n# -----{ 2.1.4 }-----\n\nAdd dataless packet handler, fix web responses not being correct in WebUtils\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.3 }-----\n\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.2 }-----\n\nAdd map tag and map collection methods for tags.\nAdd replace versions of tooltip set methods and add clear tooltip method.\nAdd mod file paths to mod info and add pretty gson.\nRegister ingredients properly on forge.\nAdd CursorWidget and allow for better cursor setting on base screens\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\n\n# -----{ 2.1.1 }-----\n\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\n\n# -----{ 2.1.0 }-----\n\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\n\n# -----{ 2.0.8 }-----\n\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.7 }-----\n\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.6 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n- Full 1.20 release",
+      "changelog_url": null,
+      "date_published": "2024-08-31T19:34:00.647303Z",
+      "downloads": 50685,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yRqoPszO",
+          "hashes": {
+            "sha512": "efd33ffadfbec5c823822eeeda1965ab3e905b638e1037dabbc03f2fc784b567c87f36b90152836dbcaa05de90841981d45380ffbf6aee00db89e171a35b8d06",
+            "sha1": "d62e9fbf8e3ac67ed4927f799ec489f50cb63d50"
+          },
+          "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Qq8o6KAr/resourcefullib-fabric-1.21-3.0.10.jar",
+          "filename": "resourcefullib-fabric-1.21-3.0.10.jar",
+          "primary": true,
+          "size": 484428,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "qhtZ1F6o",
+      "project_id": "G1hIVOrD",
+      "author_id": "VTfgLJ1p",
+      "featured": true,
+      "name": "[NeoForge] Resourceful Lib 3.0.10",
+      "version_number": "3.0.10",
+      "changelog": "# -----{ 3.0.10 }-----\n\n\n\n# -----{ 3.0.9 }-----\n\n\n\n# -----{ 3.0.8 }-----\n\nFix extra parameter in CodecSavedData\nAdded CodecSavedData\n\n# -----{ 3.0.7 }-----\n\nAdded CodecSavedData\nAdded NetworkHandle and bumped ByteCodecs\n\n# -----{ 3.0.6 }-----\n\nAdded NetworkHandle and bumped ByteCodecs\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.5 }-----\n\nDeprecated PacketType.type, added helpers for CodecPacketType\n\n# -----{ 3.0.4 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.3 }-----\n\nFixed crash on dedicated server\n\n# -----{ 3.0.2 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.1 }-----\n\nfixed crash if someone used stack sensitive texture on neo\n\n# -----{ 3.0.0 }-----\n\n\n\n# -----{ 2.5.5 }-----\n\nAdded helper for mojang either in bytecodecs.\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.4 }-----\n\nUpdate bytecodecs to 1.1.0\n\n# -----{ 2.5.3 }-----\n\nFixed fabric network packets being flipped\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.2 }-----\n\nAdded helper for creating data components & added pair bytecodec\n\n# -----{ 2.5.1 }-----\n\n\n\n# -----{ 2.5.0 }-----\n\nUpdated to 1.20.5\n\n# -----{ 2.4.10 }-----\n\nAdded option to stop resetting mouse on container open.\nAdd menu content player context from 1.20.1 to 1.20.4\n\n# -----{ 2.4.9 }-----\n\nAdd menu content player context from 1.20.1 to 1.20.4\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.8 }-----\n\nUpdated highlight internals to use less memory\n\n# -----{ 2.4.7 }-----\n\nAdded required option to packs and allow loading datapacks\n\n# -----{ 2.4.6 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.5 }-----\n\nCheck if the mouse is in bounds to try cursor checks.\n\n# -----{ 2.4.4 }-----\n\nUse correct generic for recipe serializer\n\n# -----{ 2.4.3 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.2 }-----\n\nAdd check if network is optional if it should send the packet to the player\n\n# -----{ 2.4.1 }-----\n\nFix possible crash on neoforge and improve code on fabric\n\n# -----{ 2.4.0 }-----\n\nDeprecated old networking and added a new version.\nRemoved FinishedCodecRecipe and add CodecRecipeBuilder\nDeprecated bound and update render utils to respect that\nAdded width and height to parent widget\nAdded number range codecs\nUpdate to 1.20.4\nAdded nbt validators\n\n# -----{ 2.2.4 }-----\n\nFixed scroll list scrolling on different axis\nFix neoforge not loading\n\n# -----{ 2.2.3 }-----\n\nFix neoforge not loading\n\n# -----{ 2.2.2 }-----\n\nAdd missing impl on forge\n\n# -----{ 2.2.1 }-----\n\n\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.2.0 }-----\n\n1.20.2 Update\n\n# -----{ 2.1.16 }-----\n\nAdded codec metadata section serializer\nAdded context menus widget\n\n# -----{ 2.1.15 }-----\n\nAdded context menus widget\n\n# -----{ 2.1.14 }-----\n\nFixed issue where hidden widgets could have cursors shown\n\n# -----{ 2.1.13 }-----\n\nFixed crash in nbt predicates\nAdded strict mode for nbt predicates\n\n# -----{ 2.1.12 }-----\n\nAdded strict mode for nbt predicates\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\n\n# -----{ 2.1.11 }-----\n\nAdded ability to set random and get total to WeightedCollection, should allow for more deterministic responses\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.10 }-----\n\nAdded Fabric-Loom-Remap to manifest file\n\n# -----{ 2.1.9 }-----\n\nAdded component bytecodec and update bytecodec version.\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.8 }-----\n\nFixed server translations not pulling value properly.\n\n# -----{ 2.1.7 }-----\n\nAdded more ByteCodec types\n\n# -----{ 2.1.6 }-----\n\nAdded new experimental ByteCodec packets\n\n# -----{ 2.1.5 }-----\n\nFix CME in creative tabs\n\n# -----{ 2.1.4 }-----\n\nAdd dataless packet handler, fix web responses not being correct in WebUtils\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.3 }-----\n\nAdd enumbuilder, fix fabric ingredients, add unsafe methods\n\n# -----{ 2.1.2 }-----\n\nAdd map tag and map collection methods for tags.\nAdd replace versions of tooltip set methods and add clear tooltip method.\nAdd mod file paths to mod info and add pretty gson.\nRegister ingredients properly on forge.\nAdd CursorWidget and allow for better cursor setting on base screens\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\n\n# -----{ 2.1.1 }-----\n\nAdded NetworkChannel#canSendPlayerPackets and NetworkChannel now accept an 'optional' parameter to determine if connections should be refused if channel does not exist on the other side\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\n\n# -----{ 2.1.0 }-----\n\nBreaking change: changed IntContainerData#size to IntContainerData#getSize to fix conflict with yarn mappings\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\n\n# -----{ 2.0.8 }-----\n\nAdded ResourcefulCreativeTab#addContent for ability to add a dynamic amount of itemstacks\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.7 }-----\n\nAdded support for defining internal resource packs in mods.toml and fabric.mods.json\n\n# -----{ 2.0.6 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n\n\n# -----{ 2.0.5 }-----\n\n- Full 1.20 release",
+      "changelog_url": null,
+      "date_published": "2024-08-31T19:33:55.901663Z",
+      "downloads": 7192,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "2tWSBxEH",
+          "hashes": {
+            "sha1": "3932664914e4427167351b8cc6f4e1daed86b3c3",
+            "sha512": "96336c973a056be44d23fb968a1d3a7db61d714076192be6424fbbffddd234654de3e14df1a34abf5d6eb1c94ee542fbdff3aed35ecf225e20c392c3cbacc8e9"
+          },
+          "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/qhtZ1F6o/resourcefullib-neoforge-1.21-3.0.10.jar",
+          "filename": "resourcefullib-neoforge-1.21-3.0.10.jar",
+          "primary": true,
+          "size": 483175,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

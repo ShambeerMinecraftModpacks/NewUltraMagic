@@ -1,0 +1,3963 @@
+{
+  "url": "https://api.modrinth.com/v2/project/6AQIaxuO/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:33.292870+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "3TElmFLp",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.2",
+      "version_number": "fabric-12.10.2",
+      "changelog": "- Updated Russian translation (#363)\n",
+      "changelog_url": null,
+      "date_published": "2026-03-24T13:08:19.265982Z",
+      "downloads": 49988,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "C6dpPBx0",
+          "hashes": {
+            "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272",
+            "sha1": "a5ad5f3e839a399e5021a543b7aa3c02e462eee0"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+          "filename": "wthit-1.21.1-fabric-12.10.2.jar",
+          "primary": true,
+          "size": 876011,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "goffbZcc",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.2",
+      "version_number": "forge-12.10.2",
+      "changelog": "- Updated Russian translation (#363)\n",
+      "changelog_url": null,
+      "date_published": "2026-03-24T13:07:17.516017Z",
+      "downloads": 4421,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hWPCaSUG",
+          "hashes": {
+            "sha1": "023652ec957083bfe706899b0783b83cc96d714a",
+            "sha512": "dfba546fe049ab72dbfac0dfd73487038e2b65f2dc57496df7011702cc65f11ab4e8b9f265ba8c95a0ebb3b285f3b329c287cc44982c9bd87cba3ea5337f8363"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/goffbZcc/wthit-1.21.1-forge-12.10.2.jar",
+          "filename": "wthit-1.21.1-forge-12.10.2.jar",
+          "primary": true,
+          "size": 864915,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "IeXnWQRE",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.2",
+      "version_number": "neo-12.10.2",
+      "changelog": "- Updated Russian translation (#363)\n",
+      "changelog_url": null,
+      "date_published": "2026-03-24T13:07:15.446127Z",
+      "downloads": 77559,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SibMlzuB",
+          "hashes": {
+            "sha512": "b5310bc63f4d724e6f15340be502346a322c7cee9af3d4f0ef2e2556500b69f6db12a1efc4d38850dfb18c5c3aa03dbc5277e47f9bc3bb6c2785ce036b833767",
+            "sha1": "ac19d46e1dbd77bd2d6ac8dee0d15198b05f6a7e"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IeXnWQRE/wthit-1.21.1-neo-12.10.2.jar",
+          "filename": "wthit-1.21.1-neo-12.10.2.jar",
+          "primary": true,
+          "size": 863316,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "j4ao0meG",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.1",
+      "version_number": "fabric-12.10.1",
+      "changelog": "- Fixed simple tier origin always showing Forge class\n",
+      "changelog_url": null,
+      "date_published": "2026-01-29T15:40:03.437995Z",
+      "downloads": 25236,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GuDTOeIA",
+          "hashes": {
+            "sha512": "13ff7e1ea0c038dc527336db1e3daa4cce532eb4799421e393383310ac47b3ea48374a5c369115174097edaa2289608a7e3709fde964616cbc76377383e89ba9",
+            "sha1": "15ad47eaa635d05b7dc16e9ff278973cbf5e8ede"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/j4ao0meG/wthit-1.21.1-fabric-12.10.1.jar",
+          "filename": "wthit-1.21.1-fabric-12.10.1.jar",
+          "primary": true,
+          "size": 870367,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "DpdBnH2I",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.1",
+      "version_number": "forge-12.10.1",
+      "changelog": "- Fixed simple tier origin always showing Forge class\n",
+      "changelog_url": null,
+      "date_published": "2026-01-29T15:39:24.623106Z",
+      "downloads": 1594,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kGQzAbQ0",
+          "hashes": {
+            "sha512": "1e35388dadc1ac2bbf098b35dbc071468507e6966651daae1871204d8153cb5edd8c509d8898db7628c84d9045c346a4f203499a822705b3c3b045f021d1497b",
+            "sha1": "e9000f32f8c15563475723a16376c20965523759"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DpdBnH2I/wthit-1.21.1-forge-12.10.1.jar",
+          "filename": "wthit-1.21.1-forge-12.10.1.jar",
+          "primary": true,
+          "size": 860459,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "dMvCLKsS",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.1",
+      "version_number": "neo-12.10.1",
+      "changelog": "- Fixed simple tier origin always showing Forge class\n",
+      "changelog_url": null,
+      "date_published": "2026-01-29T15:36:30.155574Z",
+      "downloads": 11247,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RfKyHAoW",
+          "hashes": {
+            "sha512": "a34030a2ca8d984edec3dbc7b1dfb201e3866546e613c4ee956d7b05eebcfc7ead029db5bb5b0a6ad51860622fc54e3b5c85849c1ce6360892fb53b0beaff588",
+            "sha1": "6dc023f771fc3537048354c560ce562555a62f0f"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/dMvCLKsS/wthit-1.21.1-neo-12.10.1.jar",
+          "filename": "wthit-1.21.1-neo-12.10.1.jar",
+          "primary": true,
+          "size": 857863,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "QKOutglp",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.0",
+      "version_number": "fabric-12.10.0",
+      "changelog": "- [API] Deprecated `getWorld` function in favor of `getLevel`\n  - `getLevel` returns the `ServerLevel` instance on `IServerAccessor`\n- Added French translation (#357)\n- Added log messages of material origin when tier failed to be resolved\n",
+      "changelog_url": null,
+      "date_published": "2026-01-20T20:08:03.754799Z",
+      "downloads": 4437,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vUt94bT2",
+          "hashes": {
+            "sha1": "773d97ba46794daf8c44e90538ddf04be3da77de",
+            "sha512": "3dcb64bf489c997dcd89b7577a2c29f98841941762da0b77cb733413888ee57a82f00216517d45fdbd08f3bff5c2d842060ab1de5b1722180ac2cc1f2269f393"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/QKOutglp/wthit-1.21.1-fabric-12.10.0.jar",
+          "filename": "wthit-1.21.1-fabric-12.10.0.jar",
+          "primary": true,
+          "size": 869819,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "huvR0tdt",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.0",
+      "version_number": "forge-12.10.0",
+      "changelog": "- [API] Deprecated `getWorld` function in favor of `getLevel`\n  - `getLevel` returns the `ServerLevel` instance on `IServerAccessor`\n- Added French translation (#357)\n- Added log messages of material origin when tier failed to be resolved\n",
+      "changelog_url": null,
+      "date_published": "2026-01-20T20:06:48.074365Z",
+      "downloads": 406,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qQV527GJ",
+          "hashes": {
+            "sha1": "17bdbfc2ec49401a8dba8dc941b452fa92ddd562",
+            "sha512": "7a7d9ee708c968e1cb3143400464d1352c8205e5cac298d1d5e991b4b2af61ba82a4b649127266d836a1aeecd3da30eb7437edd827552401e7c8a81606c5f815"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/huvR0tdt/wthit-1.21.1-forge-12.10.0.jar",
+          "filename": "wthit-1.21.1-forge-12.10.0.jar",
+          "primary": true,
+          "size": 859911,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "WHXrGxMW",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.10.0",
+      "version_number": "neo-12.10.0",
+      "changelog": "- [API] Deprecated `getWorld` function in favor of `getLevel`\n  - `getLevel` returns the `ServerLevel` instance on `IServerAccessor`\n- Added French translation (#357)\n- Added log messages of material origin when tier failed to be resolved\n",
+      "changelog_url": null,
+      "date_published": "2026-01-20T20:06:42.201960Z",
+      "downloads": 1808,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wBTzXVE5",
+          "hashes": {
+            "sha1": "1de8297108e03c98dd28688b1577020a76535696",
+            "sha512": "0168ae0a1eaef43af6cf42e7d7ff3d7e973cd9deba677b4c9e96772449f9006b86b2fb1db98152cb98963894314017339708896f95755f3e7017308edf3661ea"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/WHXrGxMW/wthit-1.21.1-neo-12.10.0.jar",
+          "filename": "wthit-1.21.1-neo-12.10.0.jar",
+          "primary": true,
+          "size": 857317,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "86lHnhWk",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.9.0",
+      "version_number": "fabric-12.9.0",
+      "changelog": "- Added lectern book tooltip\n- Changed horse stats formula\n- Fixed cursor jumping when switching from plugin toggle screen\n",
+      "changelog_url": null,
+      "date_published": "2026-01-05T15:21:53.889623Z",
+      "downloads": 11548,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uJEUdwan",
+          "hashes": {
+            "sha1": "0af3fe1357c391f6a74b2563f1c64a101b1056ba",
+            "sha512": "0f02eebe7eb53b042eadad9da42ed786275db508f0e0d37882e6716581d864f85dc5fb5d7c62eaad3cba2010673a92657929c59f10ba817ccbe6b5a68b956eea"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/86lHnhWk/wthit-1.21.1-fabric-12.9.0.jar",
+          "filename": "wthit-1.21.1-fabric-12.9.0.jar",
+          "primary": true,
+          "size": 861808,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "6YxGzCx1",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.9.0",
+      "version_number": "neo-12.9.0",
+      "changelog": "- Added lectern book tooltip\n- Changed horse stats formula\n- Fixed cursor jumping when switching from plugin toggle screen\n",
+      "changelog_url": null,
+      "date_published": "2026-01-05T15:19:45.014034Z",
+      "downloads": 4792,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZCqzo6NY",
+          "hashes": {
+            "sha1": "1723b143807e72b8c46677a8324a67dad59b0439",
+            "sha512": "2e8384d2e7fd7b0363256329a56a0f75444a5d1263f6fa617a5592a9fe9d4f6bbeea6b02a29f53f588e1482f1b95d7a5d5172b40c82d53ecca2012bdc6f5a815"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/6YxGzCx1/wthit-1.21.1-neo-12.9.0.jar",
+          "filename": "wthit-1.21.1-neo-12.9.0.jar",
+          "primary": true,
+          "size": 849309,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "xg9sST8h",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.9.0",
+      "version_number": "forge-12.9.0",
+      "changelog": "- Added lectern book tooltip\n- Changed horse stats formula\n- Fixed cursor jumping when switching from plugin toggle screen\n",
+      "changelog_url": null,
+      "date_published": "2026-01-05T15:19:42.089738Z",
+      "downloads": 604,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5yprLdDO",
+          "hashes": {
+            "sha1": "ea144437485a690d6b7bfc668d783e7a0d4ad236",
+            "sha512": "b6010d341a32a1041a59ee5b66b4a69f627c114c134a2cf313b7db9447d10422fe74fe7b43c32856106d4c4509955f3631b5b57b3de7070c896c6e6f46aa9d45"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/xg9sST8h/wthit-1.21.1-forge-12.9.0.jar",
+          "filename": "wthit-1.21.1-forge-12.9.0.jar",
+          "primary": true,
+          "size": 851855,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "vZanBQ2e",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.3",
+      "version_number": "fabric-12.8.3",
+      "changelog": "- Fixed server spam when WTHIT is not installed on the server\n",
+      "changelog_url": null,
+      "date_published": "2025-12-03T18:47:57.745206Z",
+      "downloads": 38141,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Tcy7E6Du",
+          "hashes": {
+            "sha1": "d66b942bcc06fb0bb5a04d8aca872773cc59b222",
+            "sha512": "b74e719441cf3e4b698c35cd799a079c069b89151ddff6b0cb9970d44ee448dfca20e8e2ec8b4f08aca8fdd7ab1662d3ef03a37fd460137aab641d46e8d317d9"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/vZanBQ2e/wthit-1.21.1-fabric-12.8.3.jar",
+          "filename": "wthit-1.21.1-fabric-12.8.3.jar",
+          "primary": true,
+          "size": 854488,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "m5u78Zko",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.3",
+      "version_number": "forge-12.8.3",
+      "changelog": "- Fixed server spam when WTHIT is not installed on the server\n",
+      "changelog_url": null,
+      "date_published": "2025-12-03T18:46:52.341444Z",
+      "downloads": 1089,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "JUw2bOn8",
+          "hashes": {
+            "sha1": "5f5f5dd677ae2b74b3c4f7aa6dac2ae822baef86",
+            "sha512": "949925f936d9239612392934012bf66c40253bc4c7bb83f95b4fae81e07524c6d07974a9a1ee3bc66a4bb147c80acdf01b0b55f1d9bcea6df7fe3c671ad85397"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/m5u78Zko/wthit-1.21.1-forge-12.8.3.jar",
+          "filename": "wthit-1.21.1-forge-12.8.3.jar",
+          "primary": true,
+          "size": 844500,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "rCSIhSD3",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.3",
+      "version_number": "neo-12.8.3",
+      "changelog": "- Fixed server spam when WTHIT is not installed on the server\n",
+      "changelog_url": null,
+      "date_published": "2025-12-03T18:46:48.259928Z",
+      "downloads": 6674,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1faRW5Ba",
+          "hashes": {
+            "sha1": "d3e3c7ccf677090b71db572056a6e68589831124",
+            "sha512": "9a7ee4b844ad8475029cfb7e488b17031ddd5c66232f9e08afa93e276f609a5c78ddb08e631919832c2f533e68550eb0ba9d56ab8d4fb1aec7fa440d62e12939"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/rCSIhSD3/wthit-1.21.1-neo-12.8.3.jar",
+          "filename": "wthit-1.21.1-neo-12.8.3.jar",
+          "primary": true,
+          "size": 841952,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Duiqie5X",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.2",
+      "version_number": "fabric-12.8.2",
+      "changelog": "- Fixed key binds not being able to be set to mouse buttons (#350)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-07T18:44:03.025189Z",
+      "downloads": 13283,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PVDm4uEX",
+          "hashes": {
+            "sha512": "918d76a3d3853c98422775fd776e85785eb2cf3e1da96cb83f7222feb166cef848e3a7a863cbec13030dafe8165b01d6cbca96ae988a1b427d717f51b4ff47f5",
+            "sha1": "e3d70f8e59f2fdce173bbf8e23bb0fb6a82083ca"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Duiqie5X/wthit-1.21.1-fabric-12.8.2.jar",
+          "filename": "wthit-1.21.1-fabric-12.8.2.jar",
+          "primary": true,
+          "size": 854294,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "QiQSsooO",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.2",
+      "version_number": "forge-12.8.2",
+      "changelog": "- Fixed key binds not being able to be set to mouse buttons (#350)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-07T18:43:11.490566Z",
+      "downloads": 841,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xl5jkmAC",
+          "hashes": {
+            "sha512": "d14a6e5bd9171a6a2610f6f6512c3399fa27a7fd0ddc982f5eb98273b8b6df4b9382f450fbeaa12d60bcc4ddb270d0c2b35691dff782695c93d7e4135cfd737f",
+            "sha1": "19755104201333cdcee51f67324b4baeb31610e3"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/QiQSsooO/wthit-1.21.1-forge-12.8.2.jar",
+          "filename": "wthit-1.21.1-forge-12.8.2.jar",
+          "primary": true,
+          "size": 844279,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "dRSnmt3g",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.2",
+      "version_number": "neo-12.8.2",
+      "changelog": "- Fixed key binds not being able to be set to mouse buttons (#350)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-07T18:43:03.140876Z",
+      "downloads": 6326,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FovbRKNO",
+          "hashes": {
+            "sha1": "d840ad1a48b1e9ca6aad8346681e4285273cfd85",
+            "sha512": "4e4e2de83a39d0270b731b06f76f5681a8078f28fa802c5e8db0aa740ffbdb539924ab51e3da262b21337dbe2277c6cfc5a4399e62a8d75d1d18e7bfc3befca8"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/dRSnmt3g/wthit-1.21.1-neo-12.8.2.jar",
+          "filename": "wthit-1.21.1-neo-12.8.2.jar",
+          "primary": true,
+          "size": 841731,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "xCL2wfwx",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.1",
+      "version_number": "fabric-12.8.1",
+      "changelog": "- Fixed crash on server (#348)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-01T15:01:29.387765Z",
+      "downloads": 2733,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "o7hMDJSC",
+          "hashes": {
+            "sha1": "869dffff81761c677e595855f79b994119a8c286",
+            "sha512": "349a9a4d35c397a1056a29a4dc94e0644b093acf4b695b849c95b6ac6141e1eeb3da57e51561c681ed9bfdb69f50cfa8af9fdc5fbc788d0c883c93a66feb5672"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/xCL2wfwx/wthit-1.21.1-fabric-12.8.1.jar",
+          "filename": "wthit-1.21.1-fabric-12.8.1.jar",
+          "primary": true,
+          "size": 852310,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ILvgUpe9",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.1",
+      "version_number": "neo-12.8.1",
+      "changelog": "- Fixed crash on server (#348)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-01T15:00:21.980309Z",
+      "downloads": 1317,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uR1yrTMD",
+          "hashes": {
+            "sha1": "595388a2111e2a3da23a0638173e793ff752974c",
+            "sha512": "32191ec635b6e66314beeffa5ea6bbee8dcdfa800acf796b530797538b6647edfd17a8a030a88a7ac7edf1c05f680cfb2f5661c5c962e6e37f76e4e8c622a9e4"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ILvgUpe9/wthit-1.21.1-neo-12.8.1.jar",
+          "filename": "wthit-1.21.1-neo-12.8.1.jar",
+          "primary": true,
+          "size": 839790,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "cGfLnDYx",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.1",
+      "version_number": "forge-12.8.1",
+      "changelog": "- Fixed crash on server (#348)\n",
+      "changelog_url": null,
+      "date_published": "2025-11-01T15:00:17.245093Z",
+      "downloads": 204,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zUVVCYiE",
+          "hashes": {
+            "sha512": "939dc422622aa4453fad7392c2b2f3d4763a30e3426e9c3b40a64ae5b3914007766bd586d415b97efdd6e84c25df7749393de4612df2d6625e9a9740af8addd0",
+            "sha1": "ec5ac2dcf22be54e437fd76de2fa3a576e7c03e7"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/cGfLnDYx/wthit-1.21.1-forge-12.8.1.jar",
+          "filename": "wthit-1.21.1-forge-12.8.1.jar",
+          "primary": true,
+          "size": 842339,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "DHGC98hs",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.0",
+      "version_number": "fabric-12.8.0",
+      "changelog": "- Improved formatting to use Component instead of String if available (#169)\n- Changed jukebox to use song description for hide item data (#290)\n- Changed to use home-grown keybinding system\n  - Now key binds won't be conflicting (#170)\n- Changed breaking progress to fade out instead of moving backwards when stopped (#300)\n- Fixed beehive occupant info not appearing in tooltip (#347)\n- Made ModInfo cache concurrent, fixed crash with Language Reload\n",
+      "changelog_url": null,
+      "date_published": "2025-10-31T19:06:16.730008Z",
+      "downloads": 563,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "M1WnX5XH",
+          "hashes": {
+            "sha1": "d48c9df570f23923cc8af00340c5e2ca68180a7b",
+            "sha512": "afd66cdf740eaaa1c1fb2ae1d4cfe396d8f37c8be9db794a19a0a3b0e2d920eeeb9869035b5701dabe5512da195a3c65d42e9bde0ad053c243dd58200e4a50e2"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DHGC98hs/wthit-1.21.1-fabric-12.8.0.jar",
+          "filename": "wthit-1.21.1-fabric-12.8.0.jar",
+          "primary": true,
+          "size": 851871,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "xVihUR9p",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.0",
+      "version_number": "neo-12.8.0",
+      "changelog": "- Improved formatting to use Component instead of String if available (#169)\n- Changed jukebox to use song description for hide item data (#290)\n- Changed to use home-grown keybinding system\n  - Now key binds won't be conflicting (#170)\n- Changed breaking progress to fade out instead of moving backwards when stopped (#300)\n- Fixed beehive occupant info not appearing in tooltip (#347)\n- Made ModInfo cache concurrent, fixed crash with Language Reload\n",
+      "changelog_url": null,
+      "date_published": "2025-10-31T19:05:25.366644Z",
+      "downloads": 228,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OWR23nIk",
+          "hashes": {
+            "sha1": "66425f4edd13e216ad25a8cfff2d7c6c9f6a8f56",
+            "sha512": "3fca36d1521bb9d0cc0939025749d4a556aca6d9d7c41d28219a59a1729b584cb71accb9a0c65ffa3d8681d1d40670e08cfe6535b0c8f7e3807ee4476b1663ec"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/xVihUR9p/wthit-1.21.1-neo-12.8.0.jar",
+          "filename": "wthit-1.21.1-neo-12.8.0.jar",
+          "primary": true,
+          "size": 839344,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "RIAOSAbh",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.8.0",
+      "version_number": "forge-12.8.0",
+      "changelog": "- Improved formatting to use Component instead of String if available (#169)\n- Changed jukebox to use song description for hide item data (#290)\n- Changed to use home-grown keybinding system\n  - Now key binds won't be conflicting (#170)\n- Changed breaking progress to fade out instead of moving backwards when stopped (#300)\n- Fixed beehive occupant info not appearing in tooltip (#347)\n- Made ModInfo cache concurrent, fixed crash with Language Reload\n",
+      "changelog_url": null,
+      "date_published": "2025-10-31T19:05:24.112659Z",
+      "downloads": 59,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "cUAHCtVR",
+          "hashes": {
+            "sha512": "862141937eef470184e7d0f0215f4f7e49be12dc849d52fff2f2040da16c86dfb9c3180bf479b2d5d494c357b64e70efc60eb6aa6151f9c2ef7eb977e4c6814b",
+            "sha1": "23f28f42aa2154db412cd1f432ef9fa658a31ae8"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/RIAOSAbh/wthit-1.21.1-forge-12.8.0.jar",
+          "filename": "wthit-1.21.1-forge-12.8.0.jar",
+          "primary": true,
+          "size": 841892,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "GtVHJMeR",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.7.0",
+      "version_number": "fabric-12.7.0",
+      "changelog": "- Fixed config screen not sending warning if errors are in collapsed entries\n- Changed config screen to use tabs\n- Changed overlay placement option to be its own screen with preview\n",
+      "changelog_url": null,
+      "date_published": "2025-10-18T03:28:52.194463Z",
+      "downloads": 4345,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4VBfbW2m",
+          "hashes": {
+            "sha1": "50e259ee39e5d79be239c76b3c8da6bab00f1e5c",
+            "sha512": "f3dcde6b98c41effaec876f4a718a843cf3aacf7ba3213e27dd1e782f18abb02f4f39572c51536d17cddbf9750a6d905a8acb98b971a5a913d9c18e0054d199d"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/GtVHJMeR/wthit-1.21.1-fabric-12.7.0.jar",
+          "filename": "wthit-1.21.1-fabric-12.7.0.jar",
+          "primary": true,
+          "size": 842566,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "TajkUmt6",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.7.0",
+      "version_number": "neo-12.7.0",
+      "changelog": "- Fixed config screen not sending warning if errors are in collapsed entries\n- Changed config screen to use tabs\n- Changed overlay placement option to be its own screen with preview\n",
+      "changelog_url": null,
+      "date_published": "2025-10-18T03:28:50.173243Z",
+      "downloads": 2761,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OlbaGHQr",
+          "hashes": {
+            "sha512": "1ec15db9de6797f98e132e77bbf9ab2099de3229d1e591351f7c50db9c4838a54e70b45c8c32bdba65c370493aba518e59423f18a069558d8eda1f5b4624ccbb",
+            "sha1": "40b52850ae72e13906d344ecc712ed34b83affce"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/TajkUmt6/wthit-1.21.1-neo-12.7.0.jar",
+          "filename": "wthit-1.21.1-neo-12.7.0.jar",
+          "primary": true,
+          "size": 830733,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "gZ5405Ur",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.7.0",
+      "version_number": "forge-12.7.0",
+      "changelog": "- Fixed config screen not sending warning if errors are in collapsed entries\n- Changed config screen to use tabs\n- Changed overlay placement option to be its own screen with preview\n",
+      "changelog_url": null,
+      "date_published": "2025-10-18T03:28:50.022137Z",
+      "downloads": 456,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "gCLgro09",
+          "hashes": {
+            "sha512": "ff3bc75a6a962aba4e1d596c6a3257917f08ad4eca4b635dc2c8d80bc6f78e37217f46df97e633361658e9697c6bd58aa07341e5fc7adc8185abb839df139030",
+            "sha1": "36ff3558c15716a30c468c1744d009c8024365d7"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/gZ5405Ur/wthit-1.21.1-forge-12.7.0.jar",
+          "filename": "wthit-1.21.1-forge-12.7.0.jar",
+          "primary": true,
+          "size": 833259,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Wzt21Ms9",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.6.0",
+      "version_number": "neo-12.6.0",
+      "changelog": "- [API] Added estimated progress time tooltip and API\n- Added focus on search bar when pressing ctrl+f in config\n- Added hour component on progress timer\n- Changed progress to show as a bar by default\n- Changed player's head name to show in block's name\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-10-09T09:00:25.342168Z",
+      "downloads": 1461,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DcUAsEOi",
+          "hashes": {
+            "sha512": "f9256e5566b3d99f5316f67f45b90b4f462ca80383507b8234c6302b31f26b9ea699a964eaa6fd307de6c1f4ebbff7942491a1346d891cc4be57731bfa73ed97",
+            "sha1": "61ee173e9b20c741496bd40508b208442849165c"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Wzt21Ms9/wthit-neo-12.6.0.jar",
+          "filename": "wthit-neo-12.6.0.jar",
+          "primary": true,
+          "size": 816034,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Yw8wslMi",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.6.0",
+      "version_number": "fabric-12.6.0",
+      "changelog": "- [API] Added estimated progress time tooltip and API\n- Added focus on search bar when pressing ctrl+f in config\n- Added hour component on progress timer\n- Changed progress to show as a bar by default\n- Changed player's head name to show in block's name\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-10-09T09:00:24.257763Z",
+      "downloads": 2536,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BXuVGEE3",
+          "hashes": {
+            "sha512": "7c708c68df1dfd511de497fff0ca05d2c49be767a3e752fa028a346c86baed9ff6958c8e4e26d55c2c1c7be88187b411043fcdfbfa792b95288fb789082baec8",
+            "sha1": "e216af94692b317ee65cb3f745ad7cda600f5d1c"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Yw8wslMi/wthit-fabric-12.6.0.jar",
+          "filename": "wthit-fabric-12.6.0.jar",
+          "primary": true,
+          "size": 827711,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "m1wWgj7d",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.6.0",
+      "version_number": "forge-12.6.0",
+      "changelog": "- [API] Added estimated progress time tooltip and API\n- Added focus on search bar when pressing ctrl+f in config\n- Added hour component on progress timer\n- Changed progress to show as a bar by default\n- Changed player's head name to show in block's name\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-10-09T08:57:35.497114Z",
+      "downloads": 286,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xQWLcFeq",
+          "hashes": {
+            "sha512": "381454630ff3d853be27a7f0bdff667c29f66f1a939cc530bee0da9fd659990ad9359852c7eac07f54f8725347b6bcfec66820735ab7d6361195705d1e82b93d",
+            "sha1": "d90a3e4d9b54762e3ef60b8777986de0fd4f2801"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/m1wWgj7d/wthit-forge-12.6.0.jar",
+          "filename": "wthit-forge-12.6.0.jar",
+          "primary": true,
+          "size": 818565,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "IcXHSMzo",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.5",
+      "version_number": "fabric-12.5.5",
+      "changelog": "- Added light block to default blacklist (#342)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-10-01T06:30:30.998410Z",
+      "downloads": 2498,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kAfTPFvv",
+          "hashes": {
+            "sha1": "51dda373cbc8b395d33802494c73f64f4e5fa222",
+            "sha512": "232c83015c2b6d3aa4e6df8015e45ec6be70087ef1173188f2f937e349687a52998eeb5803e742add6ab26dedecf89ddeace6fb4ea81d4e4128b3f74583a1a60"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IcXHSMzo/wthit-fabric-12.5.5.jar",
+          "filename": "wthit-fabric-12.5.5.jar",
+          "primary": true,
+          "size": 824608,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "zMXNPD9L",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.5",
+      "version_number": "neo-12.5.5",
+      "changelog": "- Added light block to default blacklist (#342)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-10-01T06:30:12.908860Z",
+      "downloads": 1607,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nEYxkfAF",
+          "hashes": {
+            "sha512": "0abbdd1e993b7ce00b6530c1b818a7927bbede819d89f96d83e1eedf60152be88bf105105199c9c701379a34dca4b410708d202af3905685786eb4d129629869",
+            "sha1": "14baaf653db3539e22872f29063b15e22e1a6431"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/zMXNPD9L/wthit-neo-12.5.5.jar",
+          "filename": "wthit-neo-12.5.5.jar",
+          "primary": true,
+          "size": 812981,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "NPeOsVWw",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.5",
+      "version_number": "forge-12.5.5",
+      "changelog": "- Added light block to default blacklist (#342)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-10-01T06:27:51.722834Z",
+      "downloads": 278,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZzfKwh71",
+          "hashes": {
+            "sha1": "4cf4049384cb5e8da55c15baf722f9b99207d33e",
+            "sha512": "7fb65cfe40686e06bd403b6d4685b9b724f29785706d278b6cd18cc24b1b016681afe76e62b1419005e7b4e5d125aa763ebf65a78baaecb07978175e5429e29b"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/NPeOsVWw/wthit-forge-12.5.5.jar",
+          "filename": "wthit-forge-12.5.5.jar",
+          "primary": true,
+          "size": 815512,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "6u6CIvVn",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.4",
+      "version_number": "neo-12.5.4",
+      "changelog": "- Added log on when the tier comparison failed\n- Added log when component is clicked on the inspector screen\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-06-04T11:49:14.469690Z",
+      "downloads": 18078,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zIo7jthQ",
+          "hashes": {
+            "sha512": "f142684b1f779582950c42a77593665587805d03f994b35f9ab0a361ecd5fa12659e3a0ea210a69d510f5cc5d2d3f580f117144de8306fa33ddff7c2550d49c6",
+            "sha1": "62929c2c774c9e84fefdd77ec3e417a241001106"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/6u6CIvVn/wthit-neo-12.5.4.jar",
+          "filename": "wthit-neo-12.5.4.jar",
+          "primary": true,
+          "size": 812967,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "8cYAgOX3",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.4",
+      "version_number": "fabric-12.5.4",
+      "changelog": "- Added log on when the tier comparison failed\n- Added log when component is clicked on the inspector screen\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-06-04T11:49:14.331676Z",
+      "downloads": 51545,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "n8uyXzzA",
+          "hashes": {
+            "sha512": "7fa30ed4735f1212e5cc449eb61168c52341d0ac38876f904dbd211301147402432c13ec7ef218bbedbffb24870fb7243e0239e21d0a80e2a8d537d26b55e4ea",
+            "sha1": "0b4af88a299a41369933f9f9d93e5304d7508ba0"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/8cYAgOX3/wthit-fabric-12.5.4.jar",
+          "filename": "wthit-fabric-12.5.4.jar",
+          "primary": true,
+          "size": 824592,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "5HGra4qS",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.4",
+      "version_number": "forge-12.5.4",
+      "changelog": "- Added log on when the tier comparison failed\n- Added log when component is clicked on the inspector screen\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-06-04T11:46:48.846Z",
+      "downloads": 3947,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Yn76xsuE",
+          "hashes": {
+            "sha1": "7cb30eae86035b84b5f4dfa4a3a303e44a46a2b3",
+            "sha512": "fac01e241fcd0fb62ad20ac5748354039478f856a8269d10b4fca1c17ac2a8c7e196f61caf96dfda4b9198de4eea458cfa322268de3bfc4cf0a28a8e26035a6c"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/5HGra4qS/wthit-forge-12.5.4.jar",
+          "filename": "wthit-forge-12.5.4.jar",
+          "primary": true,
+          "size": 815498,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ExzpsXnh",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.3",
+      "version_number": "neo-12.5.3",
+      "changelog": "- Changed setup to be on the main thread\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-04-13T07:37:04.757051Z",
+      "downloads": 6778,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "h25lvGSo",
+          "hashes": {
+            "sha512": "7deeba78971e45af6c7f8116c2a7e575ca6f9902548954ca3e6bcdb738e0bd1a158117f4693246d03f3ccd2304a73a65a03e137fdc37dee3e8030ec5b949eb9f",
+            "sha1": "dfe4576f9b3d9d1c5f5e69cdcae1137ed534fc46"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ExzpsXnh/wthit-neo-12.5.3.jar",
+          "filename": "wthit-neo-12.5.3.jar",
+          "primary": true,
+          "size": 812040,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "A5IXlWt0",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.3",
+      "version_number": "fabric-12.5.3",
+      "changelog": "- Changed setup to be on the main thread\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-04-13T07:37:03.599947Z",
+      "downloads": 30072,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7feUm5by",
+          "hashes": {
+            "sha512": "7be92b80edefbaff90004eda563b9ffd2e7247b99b9b6c179a236c2377cebd8c6964575dcbac861a2d0f4bc9b715dad7e14602d3dd3ba5fe9229e52c5fbdbcfe",
+            "sha1": "f3cffa355f3fb146899d44c1874f0c2b9487cb33"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/A5IXlWt0/wthit-fabric-12.5.3.jar",
+          "filename": "wthit-fabric-12.5.3.jar",
+          "primary": true,
+          "size": 823648,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "AXKA7Auk",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.3",
+      "version_number": "forge-12.5.3",
+      "changelog": "- Changed setup to be on the main thread\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-04-13T07:34:41.834515Z",
+      "downloads": 2011,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QPTIer8u",
+          "hashes": {
+            "sha512": "7f205e286a6749bb1bc176b68102b0397485ac83cae1c62f4b4f8508760075bb86b02296f5ac15a977fda10e45f4a2234529829b7d0724acc7bdfa89324e3596",
+            "sha1": "0dbf45f17042e2c2960a383d1255a41d2d7adadd"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/AXKA7Auk/wthit-forge-12.5.3.jar",
+          "filename": "wthit-forge-12.5.3.jar",
+          "primary": true,
+          "size": 814571,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "tY7R3XHi",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.2",
+      "version_number": "neo-12.5.2",
+      "changelog": "- Fixed Ominous Banner having wrong name (#308)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-04-10T16:32:42.209978Z",
+      "downloads": 443,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rQL6WJL5",
+          "hashes": {
+            "sha512": "01cf8d687e19ad67be97da3d6fe5b3d8d7b52b674bb09cb63d23b2997bb13d57d7339b9316c9d6dcb06fa4fa5a075f8002fe93af10564f2a60dbb016c4b0eb19",
+            "sha1": "de5eb4c7f9025df36ea7274f6a2bb5d030dca87e"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/tY7R3XHi/wthit-neo-12.5.2.jar",
+          "filename": "wthit-neo-12.5.2.jar",
+          "primary": true,
+          "size": 811432,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "lDhkhfvm",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.2",
+      "version_number": "fabric-12.5.2",
+      "changelog": "- Fixed Ominous Banner having wrong name (#308)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-04-10T16:32:40.050150Z",
+      "downloads": 1142,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NsZLj3u4",
+          "hashes": {
+            "sha512": "7373954818eafafd4865e95bc2bdac45f89e53b785b116c8fa869903cd506c04328866b3f2ae80d2216a9535df580a3bac5d525236226baf90b1c988820d3fe4",
+            "sha1": "c5431328a7883e46fd68afb4880d0547d536482e"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/lDhkhfvm/wthit-fabric-12.5.2.jar",
+          "filename": "wthit-fabric-12.5.2.jar",
+          "primary": true,
+          "size": 823648,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "4X87kXGc",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.2",
+      "version_number": "forge-12.5.2",
+      "changelog": "- Fixed Ominous Banner having wrong name (#308)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-04-10T16:30:05.874456Z",
+      "downloads": 227,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BPutCydb",
+          "hashes": {
+            "sha1": "d5de544b4f56b7c333792017a5c1b567b93d4e38",
+            "sha512": "4361aedf3f0db32a77de9fec513cb093820bbf439af4f1c431c7ea7910a8c071d3205c26a6f1095a4b82a85220d94f7015b5dad36d3bf71323a86480cc009008"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4X87kXGc/wthit-forge-12.5.2.jar",
+          "filename": "wthit-forge-12.5.2.jar",
+          "primary": true,
+          "size": 813964,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "h1dwQ12l",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.1",
+      "version_number": "neo-12.5.1",
+      "changelog": "- Fixed `PairComponent#key#getWidth` not being called making height calculation wrong\n- Fixed raycast position getting mutated when clipping fluid shape (#312)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-01-22T12:25:21.609689Z",
+      "downloads": 12319,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hYymNwse",
+          "hashes": {
+            "sha1": "058c46620c17d3c496a3ff0355243a1e0db00712",
+            "sha512": "327a8627b634bb1b56e5c851d46e8ed4a296dbcc662654ea879eeb309905acefc3592005291140764f02acaf06c0b298e2d570d7c7554c163ed8340c6f830b77"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/h1dwQ12l/wthit-neo-12.5.1.jar",
+          "filename": "wthit-neo-12.5.1.jar",
+          "primary": true,
+          "size": 795554,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "njLybO11",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.1",
+      "version_number": "fabric-12.5.1",
+      "changelog": "- Fixed `PairComponent#key#getWidth` not being called making height calculation wrong\n- Fixed raycast position getting mutated when clipping fluid shape (#312)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-01-22T12:25:18.688671Z",
+      "downloads": 55887,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Sxq1ENJ3",
+          "hashes": {
+            "sha512": "9247c7bd478dd65d3ea753236eb6cefe70cb92dab1638ed44dc4565fdd46d4937df6fc2b0376c8d9f5b778966b9f093731e6a082dd7935d186e6268bc6350d93",
+            "sha1": "0687dce79dec6fca01c0e0f8ad83ab00d6b484fc"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/njLybO11/wthit-fabric-12.5.1.jar",
+          "filename": "wthit-fabric-12.5.1.jar",
+          "primary": true,
+          "size": 807541,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "PJx8rA4t",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.1",
+      "version_number": "forge-12.5.1",
+      "changelog": "- Fixed `PairComponent#key#getWidth` not being called making height calculation wrong\n- Fixed raycast position getting mutated when clipping fluid shape (#312)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-01-22T12:22:52.000250Z",
+      "downloads": 3106,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Xgo6bGUD",
+          "hashes": {
+            "sha1": "ba9460b15d53a9f138de8e2c0348293a3f2dc415",
+            "sha512": "9057a0345a4cb62dfd4d3e82007d4047ce3da97dea0fc212e2a8b103cd970b00591f7041a2d93852584918ada98adb052d874d66217e63134ad864387a7dc881"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PJx8rA4t/wthit-forge-12.5.1.jar",
+          "filename": "wthit-forge-12.5.1.jar",
+          "primary": true,
+          "size": 798086,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "49Li6TbZ",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.0",
+      "version_number": "neo-12.5.0",
+      "changelog": "- Added tags to all built-in tooltips\n  - Note that the tags are not guaranteed to be as stable as API classes. This is more of a workaround to allow plugins to override built-in tooltips.\n- Changed `waila_plugins.json` comment for custom config path to relative (#306)\n- Fixed multiline `WrappedComponent` not rendered properly\n- Fixed error if there are tier instances with the same incorrect tag (#304)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-01-11T18:41:50.475341Z",
+      "downloads": 776,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7GPCl4V7",
+          "hashes": {
+            "sha512": "b082860f4b58ec176d7dd7e4e8724b878b280f1a794948aa5af025ab27f0743cc5021d5cb2af87b3a5c9bacfe9637ed3570cc5b366671d84646e3442b7b032f9",
+            "sha1": "0c9216cb89aefd55022a918d8ab630b3828c2938"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/49Li6TbZ/wthit-neo-12.5.0.jar",
+          "filename": "wthit-neo-12.5.0.jar",
+          "primary": true,
+          "size": 795488,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "HqpfqgWw",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.0",
+      "version_number": "fabric-12.5.0",
+      "changelog": "- Added tags to all built-in tooltips\n  - Note that the tags are not guaranteed to be as stable as API classes. This is more of a workaround to allow plugins to override built-in tooltips.\n- Changed `waila_plugins.json` comment for custom config path to relative (#306)\n- Fixed multiline `WrappedComponent` not rendered properly\n- Fixed error if there are tier instances with the same incorrect tag (#304)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-01-11T18:41:49.288321Z",
+      "downloads": 4969,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hCHOjtSC",
+          "hashes": {
+            "sha1": "10e0eb1f9a4c03aadd5a7fad53e285785c2f9258",
+            "sha512": "812641e919e2e841cf98635a9e4d5bae3fafc7a65d6c41f90cbb1ee00738aeadf86c846771a39b2543b56bafe64d7835d489355704337d221c128fbe057d933d"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/HqpfqgWw/wthit-fabric-12.5.0.jar",
+          "filename": "wthit-fabric-12.5.0.jar",
+          "primary": true,
+          "size": 807473,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "8VFA5wqG",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.5.0",
+      "version_number": "forge-12.5.0",
+      "changelog": "- Added tags to all built-in tooltips\n  - Note that the tags are not guaranteed to be as stable as API classes. This is more of a workaround to allow plugins to override built-in tooltips.\n- Changed `waila_plugins.json` comment for custom config path to relative (#306)\n- Fixed multiline `WrappedComponent` not rendered properly\n- Fixed error if there are tier instances with the same incorrect tag (#304)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2025-01-11T18:39:26.958215Z",
+      "downloads": 554,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CSNnmvpI",
+          "hashes": {
+            "sha512": "038366082fa9fefb6962ea381075e2de250fdee94e725b768f149bccd42b6def6d67864a4cb1c7ab51f34034a640af6df482d5de9c05da94adc9fe64ab857d67",
+            "sha1": "9dd19d60a0615f2413a452aa84cc5028696f91b3"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/8VFA5wqG/wthit-forge-12.5.0.jar",
+          "filename": "wthit-forge-12.5.0.jar",
+          "primary": true,
+          "size": 798019,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "HU7IF2bY",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.5",
+      "version_number": "fabric-12.4.5",
+      "changelog": "- Fixed item tooltip lighting (#303)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-12-09T18:49:21.599971Z",
+      "downloads": 86952,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HUE6kPBb",
+          "hashes": {
+            "sha512": "0182d175bb187f31d75642d57c836a0ff61f4fa535aa749ea77f3518d6c0cff44537e91744a3c963dbc43a024d74c3cd9485df6f61e9206d7c0f782347136377",
+            "sha1": "c1d7c43bb7636ec42004e8940a68c7a590d06f36"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/HU7IF2bY/wthit-fabric-12.4.5.jar",
+          "filename": "wthit-fabric-12.4.5.jar",
+          "primary": true,
+          "size": 804197,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "w2ZsQkFF",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.5",
+      "version_number": "neo-12.4.5",
+      "changelog": "- Fixed item tooltip lighting (#303)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-12-09T18:49:19.020269Z",
+      "downloads": 1210,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "R9mI2afp",
+          "hashes": {
+            "sha1": "3bc123cdb541cad113e5608583e98c75dd5b89df",
+            "sha512": "67c55da724f37da327f53fa9381552a2a5af01a36249f875abdd90edf9b8d8081de4de3c13b6d07c42c9764472e00a9187761d141f3da9f24baaf349b439f109"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/w2ZsQkFF/wthit-neo-12.4.5.jar",
+          "filename": "wthit-neo-12.4.5.jar",
+          "primary": true,
+          "size": 792152,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "D6ibcqHB",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.5",
+      "version_number": "forge-12.4.5",
+      "changelog": "- Fixed item tooltip lighting (#303)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-12-09T18:47:09.543036Z",
+      "downloads": 1228,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jTHIr5jI",
+          "hashes": {
+            "sha1": "37668d4a2ea29b45e189c02239dbc5fe7c067f5b",
+            "sha512": "ab03149ecda3294c4a4aeec24f0aff355b925dc3ab5d9f42ca44c1410a5475f2eb71441ee774d1dd36e4314f4cba5858b990f713bee11f61c7ba1f7b2a15dac9"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/D6ibcqHB/wthit-forge-12.4.5.jar",
+          "filename": "wthit-forge-12.4.5.jar",
+          "primary": true,
+          "size": 794684,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "TiPykZT7",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.4",
+      "version_number": "neo-12.4.4",
+      "changelog": "- Added config option to change item grid scale (#301)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-12-08T16:19:15.208615Z",
+      "downloads": 74,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LzO6aVxg",
+          "hashes": {
+            "sha512": "290ac0d9898578f187f5d7d4af3c39131beefad83ed7ecdcf15556ff9ce9113a5b429ec4c6a33da6bec1aefd34b7bce19166fbf79cdbc6bce0d2477193b469f1",
+            "sha1": "11843bda852bb9db244c1fbfb117364595e2885d"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/TiPykZT7/wthit-neo-12.4.4.jar",
+          "filename": "wthit-neo-12.4.4.jar",
+          "primary": true,
+          "size": 792150,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "okOOp0OB",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.4",
+      "version_number": "fabric-12.4.4",
+      "changelog": "- Added config option to change item grid scale (#301)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-12-08T16:19:11.943638Z",
+      "downloads": 643,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ok07pTT2",
+          "hashes": {
+            "sha512": "007e411a08f2a6122610868339a7c3fdfed70fa0fa4e21e2a74cb7eb9ca1888af574f0c902f169a649939e0a41a9a765006acc020b017d1d5767efacc83e5bf8",
+            "sha1": "1f64346ec88b80ac3ec16f5a66e65e00c3332428"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/okOOp0OB/wthit-fabric-12.4.4.jar",
+          "filename": "wthit-fabric-12.4.4.jar",
+          "primary": true,
+          "size": 804198,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ni0XWwM1",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.4",
+      "version_number": "forge-12.4.4",
+      "changelog": "- Added config option to change item grid scale (#301)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-12-08T16:16:46.084689Z",
+      "downloads": 99,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ooxF0liP",
+          "hashes": {
+            "sha1": "3ab4f26e8b48c5d4399bb28d2cabd6360912e354",
+            "sha512": "555e3a176c9758cd6956b2a8b66c4b0367fc87956067eed313303e7955f77bff95da03814b6acba367669dd063aef6673bbedb38c6382828fccbd4adc738744c"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ni0XWwM1/wthit-forge-12.4.4.jar",
+          "filename": "wthit-forge-12.4.4.jar",
+          "primary": true,
+          "size": 794682,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "pKBapvez",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.3",
+      "version_number": "neo-12.4.3",
+      "changelog": "- Fixed plugin configurations getting reset at every launch (#296)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-11-12T15:36:05.235764Z",
+      "downloads": 1962,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "EqKd359L",
+          "hashes": {
+            "sha512": "c87800d0122753ec5b800d8ec52cfdb19e1433b7975f3a36294198152c3d5a385c1868e0b74cf5890795b9958e0509bf119171fec291a9951b2d6342ff2055ca",
+            "sha1": "61049b8dab021f10a3395f30b26cac303bb3b255"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/pKBapvez/wthit-neo-12.4.3.jar",
+          "filename": "wthit-neo-12.4.3.jar",
+          "primary": true,
+          "size": 789671,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "y5qBJGmV",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.3",
+      "version_number": "fabric-12.4.3",
+      "changelog": "- Fixed plugin configurations getting reset at every launch (#296)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-11-12T15:36:03.311721Z",
+      "downloads": 24495,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ekiqq6UQ",
+          "hashes": {
+            "sha1": "f6b25691e63af8f5a9a05bedc594f597bbecd248",
+            "sha512": "d3ae0101de9798c64d3a412922792280745a021b82644072e986eb19fb716f1694a04f9b760bd1dfddd0ab1dec83a5c2d8cc9c1a2b80dacd6975e01981b12c89"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/y5qBJGmV/wthit-fabric-12.4.3.jar",
+          "filename": "wthit-fabric-12.4.3.jar",
+          "primary": true,
+          "size": 801497,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "9UpHq5MV",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.3",
+      "version_number": "forge-12.4.3",
+      "changelog": "- Fixed plugin configurations getting reset at every launch (#296)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-11-12T15:33:45.849846Z",
+      "downloads": 955,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "dDu4tXG8",
+          "hashes": {
+            "sha512": "4b2ba14b3027b0185fed62d1e1e21ea50c4bbb557b54059ee4c92fd4fa6369f95047dd6b3803e1a20e3a49860a8e4ad6ad99734e58dab579348b53cd91f40752",
+            "sha1": "a35afb480b5d0165cbdda56bedeb788e7e50152b"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/9UpHq5MV/wthit-forge-12.4.3.jar",
+          "filename": "wthit-forge-12.4.3.jar",
+          "primary": true,
+          "size": 792345,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "4OZFJwAo",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.2",
+      "version_number": "neo-12.4.2",
+      "changelog": "- Updated Vietnamese translation (#289)\n- Updated Japanese translation (#295)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-09-14T09:14:44.951304Z",
+      "downloads": 2864,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RRzWrx9b",
+          "hashes": {
+            "sha512": "9f00e53a1c74c1fecb2791dc5a5bf62925227e08f44427bfe79799f26b99256ffcda3653247ebee6a204e40c41cb207916847ed00fb96452d6df31b14d04d1b3",
+            "sha1": "1152f37643f496217c60a5489d4aa19c72b43f42"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4OZFJwAo/wthit-neo-12.4.2.jar",
+          "filename": "wthit-neo-12.4.2.jar",
+          "primary": true,
+          "size": 789591,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "e2c2N02m",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.2",
+      "version_number": "forge-12.4.2",
+      "changelog": "- Updated Vietnamese translation (#289)\n- Updated Japanese translation (#295)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-09-14T09:14:43.812884Z",
+      "downloads": 3709,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VdnPZ0b2",
+          "hashes": {
+            "sha512": "172ec5c81ce316a56ec67a26e561b54f5ba5a4e3bc3336f133e26bccc9fb260cd8be282f324db7c6526260bbda2283136a11fb3f8dd92cb6b85b00b5b1b5ea25",
+            "sha1": "f7350e188826bf95b91c4a9c727e9882c1ccd796"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/e2c2N02m/wthit-forge-12.4.2.jar",
+          "filename": "wthit-forge-12.4.2.jar",
+          "primary": true,
+          "size": 792265,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "g5SUraXf",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.2",
+      "version_number": "fabric-12.4.2",
+      "changelog": "- Updated Vietnamese translation (#289)\n- Updated Japanese translation (#295)\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-09-14T09:14:43.557431Z",
+      "downloads": 50939,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eOEVXxr8",
+          "hashes": {
+            "sha512": "80ada9c5ed46161de8689c378a87cc595c0a2687f35f3236d796d78947c8ac4bf28843fef67865d060a23e6f0155d2b30d4aa10f9bc43780f05cb6b11eaef237",
+            "sha1": "262cc2a962352dd4bd66568cd2909236a142c1e4"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/g5SUraXf/wthit-fabric-12.4.2.jar",
+          "filename": "wthit-fabric-12.4.2.jar",
+          "primary": true,
+          "size": 801399,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "4pOxeDtP",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.1",
+      "version_number": "neo-12.4.1",
+      "changelog": "- Fixed crash on Forge if plugin annotation missing the side value\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-31T18:32:27.781363Z",
+      "downloads": 495,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ZQpdMm98",
+          "hashes": {
+            "sha512": "a5f233ea9590e0496438aae7a70df52765160f669c0df06148d9216f941b1786a927ab516cea2915eb7eefe9112731833de693f3fd3e6968dd040f45d3e9e6d9",
+            "sha1": "986eeea7e2cfc58df0a5a7db24dde1e0b6f2c6b7"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4pOxeDtP/wthit-neo-12.4.1.jar",
+          "filename": "wthit-neo-12.4.1.jar",
+          "primary": true,
+          "size": 785480,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "IuL0dwkl",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.1",
+      "version_number": "fabric-12.4.1",
+      "changelog": "- Fixed crash on Forge if plugin annotation missing the side value\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-31T18:32:26.783978Z",
+      "downloads": 7695,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "32EDBuRd",
+          "hashes": {
+            "sha1": "73cac591dc36b9ff514948216389289239ee2359",
+            "sha512": "09fb2c8181968d06f51887bd155b290a7488f134af4ca131146c573126e4f6cb9f3e440dd4a4d71f48b30e9caf6dbdb8a870cbf0902a0a302814f82dc0d0dc0e"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IuL0dwkl/wthit-fabric-12.4.1.jar",
+          "filename": "wthit-fabric-12.4.1.jar",
+          "primary": true,
+          "size": 797288,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "cGy4nEFg",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.1",
+      "version_number": "forge-12.4.1",
+      "changelog": "- Fixed crash on Forge if plugin annotation missing the side value\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-31T18:32:26.541608Z",
+      "downloads": 1641,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "j1DRhNUk",
+          "hashes": {
+            "sha1": "aee914db154af519286a8f897a5630035fe17638",
+            "sha512": "d84ea2dbcadba6c01f0e2ca90763961189b252528991a5d017075c7b01a02c23f1393fd0e32455e9475668b9755c0d2e85371e332313bd7aa3edb3a478b49800"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/cGy4nEFg/wthit-forge-12.4.1.jar",
+          "filename": "wthit-forge-12.4.1.jar",
+          "primary": true,
+          "size": 788154,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "lv7qikFY",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.0",
+      "version_number": "neo-12.4.0",
+      "changelog": "- [API] Added separate common and client-side entrypoints, `IWailaCommonPlugin` and `IWailaClientPlugin`\n  - Added `ICommonRegistrar` and `IClientRegistrar`\n  - Deprecated `IWailaPlugin` and `IRegistrar`\n- Changed built-in configs to use translations properly\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-25T10:51:38.197163Z",
+      "downloads": 334,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DmQzmCEZ",
+          "hashes": {
+            "sha1": "69dbc853cd2d1227e8c031c4943608f0da9f93b9",
+            "sha512": "3c145d0f772be9a8806d8b0d683a70736887308b546ddf5a3cd0518c7c54d5ff2d5430cc63ed2abe8b4ab7818177431ee39e7fbb16926d085c63b40f547de20e"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/lv7qikFY/wthit-neo-12.4.0.jar",
+          "filename": "wthit-neo-12.4.0.jar",
+          "primary": true,
+          "size": 785479,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "U2divjAG",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.0",
+      "version_number": "forge-12.4.0",
+      "changelog": "- [API] Added separate common and client-side entrypoints, `IWailaCommonPlugin` and `IWailaClientPlugin`\n  - Added `ICommonRegistrar` and `IClientRegistrar`\n  - Deprecated `IWailaPlugin` and `IRegistrar`\n- Changed built-in configs to use translations properly\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-25T10:51:37.256602Z",
+      "downloads": 569,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jnMUMmed",
+          "hashes": {
+            "sha512": "62ae28243e0f0bb1bf57b4eee0ff615aa2d6d8f02bee15c75a9c0a19e7c056eb3f7bb197d16e28c688098f4d8b3462d4ef90e94ca3329791ea6f72134351d3ef",
+            "sha1": "56fda066e193df65b175bb5eaab9d717a8f2fe0e"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/U2divjAG/wthit-forge-12.4.0.jar",
+          "filename": "wthit-forge-12.4.0.jar",
+          "primary": true,
+          "size": 788127,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "2VGCwEFS",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.4.0",
+      "version_number": "fabric-12.4.0",
+      "changelog": "- [API] Added separate common and client-side entrypoints, `IWailaCommonPlugin` and `IWailaClientPlugin`\n  - Added `ICommonRegistrar` and `IClientRegistrar`\n  - Deprecated `IWailaPlugin` and `IRegistrar`\n- Changed built-in configs to use translations properly\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-25T10:51:36.615029Z",
+      "downloads": 4482,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DE8SSOX5",
+          "hashes": {
+            "sha512": "ad900a137aca10762e5f5bf053a1abf4d03916bb112451e20cfed881f38461986446e7dead6241cf517f95142a82ae662cbad84e5fdc943458f54d3e6e856949",
+            "sha1": "697d68a9457dd3a6e61e7a7b01d913e25a9c62ea"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/2VGCwEFS/wthit-fabric-12.4.0.jar",
+          "filename": "wthit-fabric-12.4.0.jar",
+          "primary": true,
+          "size": 797286,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "PDT0TeIi",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.3.0",
+      "version_number": "neo-12.3.0",
+      "changelog": "- Updated to Minecraft 1.21.1\n- Updated Russian translations (#285)\n- Fixed crash when opening the config screen from NeoForge's mod menu screen (#286)\n- [API] Added API to annotate config object with comments in JSON5 mode\n- Changed config files from JSON to JSON5, also added comments for them\n- Changed all config files to be reloaded when the plugin reloaded\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-11T19:56:09.045958Z",
+      "downloads": 806,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IX5gX5Dt",
+          "hashes": {
+            "sha512": "a9ea1719cb77761c58c6483977e82bf1ce7b0b0b921b349ef4197fc107b3968fcaf909e89d8fcfe71a67320ca78abf060343706a0bd52d9156a7041e7b4b6440",
+            "sha1": "03a4ea6a467a789be928210c8cc4c0b228c57d2b"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PDT0TeIi/wthit-neo-12.3.0.jar",
+          "filename": "wthit-neo-12.3.0.jar",
+          "primary": true,
+          "size": 761734,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "sZcS5duf",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.3.0",
+      "version_number": "forge-12.3.0",
+      "changelog": "- Updated to Minecraft 1.21.1\n- Updated Russian translations (#285)\n- Fixed crash when opening the config screen from NeoForge's mod menu screen (#286)\n- [API] Added API to annotate config object with comments in JSON5 mode\n- Changed config files from JSON to JSON5, also added comments for them\n- Changed all config files to be reloaded when the plugin reloaded\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-11T19:56:08.507344Z",
+      "downloads": 1383,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XYRiJ5fC",
+          "hashes": {
+            "sha512": "da04ff64124a0ef8d48c01ecffe9bed4a32dbad3853712f76b1dcf7fb9d4f64a0048ede547ffa28cfc07846e4c5f962a9c1012dd666b76fffa7dcc5e3fb1febe",
+            "sha1": "2d8dee462578d8e5454966106bafa909e0750845"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/sZcS5duf/wthit-forge-12.3.0.jar",
+          "filename": "wthit-forge-12.3.0.jar",
+          "primary": true,
+          "size": 763348,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "1PfY6b5p",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "UyP3k3Fo",
+      "project_id": "6AQIaxuO",
+      "author_id": "6MnkHI68",
+      "featured": false,
+      "name": "12.3.0",
+      "version_number": "fabric-12.3.0",
+      "changelog": "- Updated to Minecraft 1.21.1\n- Updated Russian translations (#285)\n- Fixed crash when opening the config screen from NeoForge's mod menu screen (#286)\n- [API] Added API to annotate config object with comments in JSON5 mode\n- Changed config files from JSON to JSON5, also added comments for them\n- Changed all config files to be reloaded when the plugin reloaded\n\n_Full changelog can be seen at <https://raw.githubusercontent.com/badasintended/wthit/dev/master/CHANGELOG.txt>_\n",
+      "changelog_url": null,
+      "date_published": "2024-08-11T19:56:08.435643Z",
+      "downloads": 9395,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "N1GDg4yu",
+          "hashes": {
+            "sha512": "915c57e9fada7223fd768a1eba32fa7e538afe932aebdf8bc9775c6e0d662b74ccc046099f65d94ff1d425cc3100fd98345aa03eb2154a90f0589faf98de10af",
+            "sha1": "043d9b89fab334d734bdca1ca59fa30c7bac817d"
+          },
+          "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/UyP3k3Fo/wthit-fabric-12.3.0.jar",
+          "filename": "wthit-fabric-12.3.0.jar",
+          "primary": true,
+          "size": 773092,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "ftdbN0KK",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "fRiHVvU7",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "nfn13YXA",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}

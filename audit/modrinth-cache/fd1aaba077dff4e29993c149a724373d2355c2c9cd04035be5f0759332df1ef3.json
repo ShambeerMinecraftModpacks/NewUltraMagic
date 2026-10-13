@@ -1,0 +1,107 @@
+{
+  "url": "https://api.modrinth.com/v2/project/HsdNFinx",
+  "request": null,
+  "retrieved_utc": "2026-10-13T20:38:37.879951+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.18.2",
+      "1.19",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20.1",
+      "1.21",
+      "1.21.1",
+      "1.21.3",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1.2"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "HsdNFinx",
+    "slug": "valhelsia-core",
+    "project_type": "mod",
+    "team": "eEgnWFP3",
+    "organization": null,
+    "title": "Valhelsia Core",
+    "description": "API for the Valhelsia mods and friends.",
+    "body": "Valhelsia Core is an API for different mods: Valhelsia Structures, Valhelsia Furniture, Valhelsia Tweaks, Valhelsia Quests and Forbidden and Arcanus.",
+    "body_url": null,
+    "published": "2022-05-23T07:18:51.798706Z",
+    "updated": "2026-04-12T16:38:14.310802Z",
+    "approved": "2022-05-23T07:18:51.798706Z",
+    "queued": null,
+    "status": "approved",
+    "requested_status": null,
+    "moderator_message": null,
+    "license": {
+      "id": "LicenseRef-Custom",
+      "name": "",
+      "url": null
+    },
+    "downloads": 2272081,
+    "followers": 99,
+    "categories": [
+      "library"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "ZqsSH535",
+      "KTcpY3IJ",
+      "FBMXOiGW",
+      "eedzHUYh",
+      "WD3qvkz8",
+      "Kq69QpMh",
+      "1SQivDtI",
+      "ehryK9zL",
+      "Pn07Kcra",
+      "UxBwjYcr",
+      "8CWjKnje",
+      "b5YRIs1N",
+      "wSFwDxJf",
+      "eWH7WT4F",
+      "eP3L8E7C",
+      "nIwCCydr",
+      "4slZwQn7",
+      "9VOLAgj3",
+      "l6sRBcWH",
+      "cttRekq9",
+      "qYTpdW7B",
+      "rUdJzw8h",
+      "nlW52bsr",
+      "vFX55Of3",
+      "m9eGvqgz",
+      "KrCWiqIn",
+      "htX76uz2",
+      "iysgI9bj",
+      "l4EKYaUc"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/HsdNFinx/d798680216c5921e6be6d01bcd681204dd7ff73b_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/HsdNFinx/icon.png",
+    "issues_url": null,
+    "source_url": null,
+    "wiki_url": "https://wiki.valhelsia.net/",
+    "discord_url": "https://discord.com/invite/rdfQuaM",
+    "donation_urls": [
+      {
+        "id": "other",
+        "platform": "Other",
+        "url": "https://store.valhelsia.net/"
+      }
+    ],
+    "gallery": [],
+    "color": 16157756,
+    "thread_id": "HsdNFinx",
+    "monetization_status": "monetized"
+  }
+}

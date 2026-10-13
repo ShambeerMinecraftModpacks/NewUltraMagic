@@ -1,0 +1,86 @@
+{
+  "born_in_chaos_[Forge]1.20.1_1.7.3.jar": {
+    "project": "borninchaos",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "caelus-forge-3.2.0+1.20.1.jar": {
+    "project": "caelus",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "Clumps-forge-1.20.1-12.0.0.4.jar": {
+    "project": "clumps",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "Connector-1.0.0-beta.47+1.20.1.jar": {
+    "project": "connector",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "Controlling-forge-1.20.1-12.0.2.jar": {
+    "project": "controlling",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "CyclopsCore-1.20.1-1.21.3.jar": {
+    "project": "cyclops-core",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar": {
+    "project": "enchanting-infuser",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "enigmaticaddons-1.2.5.jar": {
+    "project": "enigmatic-addons",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "EvilCraft-1.20.1-1.2.52.jar": {
+    "project": "evilcraft",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "forbidden_arcanus-1.20.1-2.2.6.jar": {
+    "project": "forbidden-arcanus",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "jeiintegration_1.20.1-10.0.0.jar": {
+    "project": "jei-integration",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "JustEnoughResources-1.20.1-1.4.0.247.jar": {
+    "project": "just-enough-resources-jer",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "piercingpaxels-1.0.12.jar": {
+    "project": "piercingpaxels",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "pipez-forge-1.20.1-1.2.26.jar": {
+    "project": "pipez",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar": {
+    "project": "presence-footsteps-forge",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "Searchables-forge-1.20.1-1.0.3.jar": {
+    "project": "searchables",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "sophisticatedbackpacks-1.20.1-3.24.15.1445.jar": {
+    "project": "sophisticated-backpacks",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "sophisticatedcore-1.20.1-1.2.113.1314.jar": {
+    "project": "sophisticated-core",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "tempad-forge-1.20.1-2.3.4.jar": {
+    "project": "tempad",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "tombstone-1.20.1-8.9.4.jar": {
+    "project": "corail-tombstone",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  },
+  "TreeChop-1.20.1-forge-0.19.0-fixed.jar": {
+    "project": "treechop",
+    "basis": "manual_title_author_source_link_match; source hash not found"
+  }
+}
