@@ -1,0 +1,1307 @@
+{
+  "url": "https://api.modrinth.com/v2/project/67kVxsaO/version",
+  "request": null,
+  "retrieved_utc": "2026-10-14T17:36:32.855917+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "CvwvsqaY",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.1.1 for Minecraft 1.21.11",
+      "version_number": "1.1.1+1.21.11",
+      "changelog": "Update to 1.21.11 and add the ability to translate the warning message",
+      "changelog_url": null,
+      "date_published": "2026-02-27T00:36:08.846741Z",
+      "downloads": 12004,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uzqocuSc",
+          "hashes": {
+            "sha1": "583baf381ee8e2060ac10c7f892aab4697bae994",
+            "sha512": "e7b23729599b9ea41dc52b684dcddfe0a8f4d624833418901eb8e5383258bd670bd23346f326cf3b8b558e1b22d1da68338a32c931ba8ed77942c25c795a417d"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/CvwvsqaY/lmft-1.1.1%2B1.21.11-fabric.jar",
+          "filename": "lmft-1.1.1+1.21.11-fabric.jar",
+          "primary": true,
+          "size": 67311,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.11"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "bxSu3GbH",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Neoforge 1.1.1 for Minecraft 1.21.11",
+      "version_number": "1.1.1+1.21.11",
+      "changelog": "Update to 1.21.11 and add the ability to translate the warning message",
+      "changelog_url": null,
+      "date_published": "2026-02-27T00:31:00.478085Z",
+      "downloads": 1101,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bOIMt0or",
+          "hashes": {
+            "sha1": "cfaf299774e48a257d1b596ebdbb97e64dce3e73",
+            "sha512": "df8ab041d74cbed82f604b2b8754a601658b00822120cd66fda3363222eb786a7582f94a78777f0d0bbe8b9a3276b2be479b807af300c0675aa8fc3100cc2d43"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/bxSu3GbH/lmft-1.1.1%2B1.21.11-neoforge.jar",
+          "filename": "lmft-1.1.1+1.21.11-neoforge.jar",
+          "primary": true,
+          "size": 181869,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "poGMd0AE",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Neoforge 1.1.1 for Minecraft 1.21.9",
+      "version_number": "1.1.1+1.21.9",
+      "changelog": "Update to LMFT to allow for support of versions all the way back to 1.20.2 within one jar on neoforge",
+      "changelog_url": null,
+      "date_published": "2025-10-08T22:06:50.914361Z",
+      "downloads": 241784,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zPtY41pl",
+          "hashes": {
+            "sha512": "e8fcbeae565ea05ca78e6aeebe3c1ef539039bcd25b57f9842e3025de2e35d295317af6c842f57d0969918fe5aed80032fb68f0f98a81bbec84450408b3ac0e6",
+            "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/poGMd0AE/lmft-1.1.1%2B1.21.9-neoforge.jar",
+          "filename": "lmft-1.1.1+1.21.9-neoforge.jar",
+          "primary": true,
+          "size": 78624,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.17.1",
+        "1.18",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.1",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "mn7K4mkS",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.1.1 for Minecraft 1.21.9",
+      "version_number": "1.1.1+1.21.9",
+      "changelog": "Fix for issues with config files not being loaded or generated",
+      "changelog_url": null,
+      "date_published": "2025-10-08T21:19:43.837114Z",
+      "downloads": 1243065,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DbR8SVr1",
+          "hashes": {
+            "sha512": "a8010b73e78e3ca0a2dc9b80ac0fd0412b0ad6693756631c0897de1a8a7e4168d917bfd86c3a0448c4731bafad666fb8270778def151bf08f54840763d9e3d50",
+            "sha1": "9ec52b054e91c7f0a0a37edd4b2a3832699135dc"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/mn7K4mkS/lmft-1.1.1%2B1.21.9-fabric.jar",
+          "filename": "lmft-1.1.1+1.21.9-fabric.jar",
+          "primary": true,
+          "size": 78180,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.17.1",
+        "1.18",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.1",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "uvoZP3eK",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.1.0 for Minecraft 1.21.9",
+      "version_number": "1.1.0+1.21.9",
+      "changelog": "Update to LMFT to allow for support of versions all the way back to 1.17.1 within one jar, and removes any dependency like FAPI.",
+      "changelog_url": null,
+      "date_published": "2025-10-06T23:30:22.155868Z",
+      "downloads": 778,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8uouINRG",
+          "hashes": {
+            "sha512": "34adcfd3520f19d2e42a79bbce484025e905b2499ac93b218f79d0c76d258bbe8a69e4dddae3709895e1becfd506aeef41d1fcb1250ca8b12a30b8696482397a",
+            "sha1": "9b59c05e41ae71506a57319a18b06cd69ed0a12f"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/uvoZP3eK/lmft-1.1.0%2B1.21.9-fabric.jar",
+          "filename": "lmft-1.1.0+1.21.9-fabric.jar",
+          "primary": true,
+          "size": 78199,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "jEDKD9YH",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.1.0 for Minecraft 1.21.4",
+      "version_number": "1.1.0+1.21.4",
+      "changelog": "Update to 1.21.4 and add some minor new features\n\n- Add the ability only to show error messages if the user has any privilege level\n- Add ability to recheck tags on reload",
+      "changelog_url": null,
+      "date_published": "2024-12-18T19:51:51.555219Z",
+      "downloads": 15916,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "e6os3pAz",
+          "hashes": {
+            "sha512": "bf887f3a009388dcd32770310c69f0f36c41e2cc5dedf7ae897f875cabbde67fa47fd830d9530ca89198b4b62eaed51b948ee660089dbe49466555230ec221b2",
+            "sha1": "695e26a02fde3d845cb06f375d782353e6cc5a61"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/jEDKD9YH/lmft-1.1.0%2B1.21.4-fabric.jar",
+          "filename": "lmft-1.1.0+1.21.4-fabric.jar",
+          "primary": true,
+          "size": 178712,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "dihEczPf",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Neoforge 1.1.0 for Minecraft 1.21.4",
+      "version_number": "1.1.0+1.21.4",
+      "changelog": "Update to 1.21.4 and add some minor new features\n\n- Add the ability only to show error messages if the user has any privilege level\n- Add ability to recheck tags on reload",
+      "changelog_url": null,
+      "date_published": "2024-12-18T19:50:56.716289Z",
+      "downloads": 837,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "GKFJHPKb",
+          "hashes": {
+            "sha512": "6f5f0018667cc39585a4939532a56cfd1e375961c053f78860403e620374534acf6badd9177dcd97ed42da3aed598bbb5865ab36b907a8058bd2c306108bcdbb",
+            "sha1": "5bb8ddf9cbad1d71db718ad964804103275e2174"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/dihEczPf/lmft-1.1.0%2B1.21.4-neoforge.jar",
+          "filename": "lmft-1.1.0+1.21.4-neoforge.jar",
+          "primary": true,
+          "size": 179964,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "8bpAnmFd",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Neoforge 1.0.4 for Minecraft 1.21",
+      "version_number": "1.0.4+1.21",
+      "changelog": "Straight Forward port for LMFT for Minecraft 1.21\n",
+      "changelog_url": null,
+      "date_published": "2024-06-13T23:26:34.062950Z",
+      "downloads": 314873,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qioO8kIF",
+          "hashes": {
+            "sha512": "ae0409b51ba5e267325fedd6c543faee293ec7d301c0efa18b5840b3a0e0440d94a288639db5f7a9edbb06c7acf088c0a10643c6bf36f2be7338f81788dba229",
+            "sha1": "5eaff991e132659b9c04041da3a54d9c0dec2c3f"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/8bpAnmFd/lmft-1.0.4%2B1.21-neoforge.jar",
+          "filename": "lmft-1.0.4+1.21-neoforge.jar",
+          "primary": true,
+          "size": 178494,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "u5vsX04C",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.0.4 for Minecraft 1.21",
+      "version_number": "1.0.4+1.21",
+      "changelog": "Straight Forward port for LMFT for Minecraft 1.21",
+      "changelog_url": null,
+      "date_published": "2024-06-13T23:25:32.438687Z",
+      "downloads": 333653,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KVqXLHx5",
+          "hashes": {
+            "sha512": "7da4197eca14d4dd71dd696f765cf1d34cf8f462e7ac5a8ed0579b3046d4fb0b0a566dd2fd2dfb0555c18bc8e64f07c32b5b5977b97a88a840e19dd0b792a9f2",
+            "sha1": "4921f8875f3b42c94a485f73836b524ed67ee0a3"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/u5vsX04C/lmft-1.0.4%2B1.21-fabric.jar",
+          "filename": "lmft-1.0.4+1.21-fabric.jar",
+          "primary": true,
+          "size": 178508,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge",
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "XJdD8eB6",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT NeoForge 1.0.4 for Minecraft 1.20.1",
+      "version_number": "1.0.4+1.20.1",
+      "changelog": "Port of 1.0.4 was specifically updated for NeoForge due to issues with Forge and the changes NeoForge has been doing.",
+      "changelog_url": null,
+      "date_published": "2024-01-20T03:00:07.592511Z",
+      "downloads": 868529,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UL3f3Y9A",
+          "hashes": {
+            "sha1": "3c0dc40afb617ca2b5b2bbb4f7e831bd75009753",
+            "sha512": "41c4fb7874692b457cee5205911fccce305adb43c0dd237486926e856d15500996be551cfee1ad9aefaaed0a72422e7677c26980ac08313b4198438264c2a4bd"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/XJdD8eB6/lmft-1.0.4%2B1.20.1-forge.jar",
+          "filename": "lmft-1.0.4+1.20.1-forge.jar",
+          "primary": true,
+          "size": 178327,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20.3",
+        "1.20.4"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "server_only",
+      "id": "3lVpp3ss",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT NeoForge 1.0.4 for Minecraft 1.20.4+",
+      "version_number": "1.0.4+1.20.4",
+      "changelog": "Port of 1.0.4 was specifically updated for NeoForge due to issues with Forge and the changes NeoForge has been doing.",
+      "changelog_url": null,
+      "date_published": "2023-12-18T23:18:03.810828Z",
+      "downloads": 737,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RBeUaJd6",
+          "hashes": {
+            "sha512": "4c6982dd5d4b86121cd81f8570ae2fe55938344956b2b3ae841d2da0f9c22c1b668bd8bc956788544a081d3661eb26107a4fc5259072d7f2891db07f3ed155d6",
+            "sha1": "7ea511c804fe19c173c1764cc2c57aef291ff04d"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/3lVpp3ss/lmft-1.0.4%2B1.20.4-neoforge.jar",
+          "filename": "lmft-1.0.4+1.20.4-neoforge.jar",
+          "primary": true,
+          "size": 178184,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1",
+        "1.20.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "wtPd74Rj",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.4 for Minecraft 1.20+",
+      "version_number": "1.0.4+1.20.1",
+      "changelog": "**Use only for Forge Versions 47.2.6 or above.**\n\nFixes mixin variable mismatch caused by Forge bug being fixed within the TagGroup.Loader.Patch.",
+      "changelog_url": null,
+      "date_published": "2023-11-20T23:35:32.786902Z",
+      "downloads": 2606724,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zTO94iSu",
+          "hashes": {
+            "sha1": "e44a12eb51813b16faaab89b8073ec63c746c1b0",
+            "sha512": "2a4c44f3b27280255bc1b7d0fea5ca01ea7957650afa869dd323eea4de45145b531b0fa85bb7892d23d65ee863013638d8d17362af60304611e7c123d620d41b"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/wtPd74Rj/lmft-1.0.4%2B1.20.1-forge.jar",
+          "filename": "lmft-1.0.4+1.20.1-forge.jar",
+          "primary": true,
+          "size": 178625,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1",
+        "1.20.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "FMTxW0ZB",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.3 for Minecraft 1.20+",
+      "version_number": "1.0.3+1.20.1",
+      "changelog": "Fixes mixin conflict with later versions of forge due to patch",
+      "changelog_url": null,
+      "date_published": "2023-08-18T23:36:49.630764Z",
+      "downloads": 8921,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FHtEW0Pk",
+          "hashes": {
+            "sha512": "871aaf3ed28cf2890faed97fa7a247793f8588c3ed90c2c5dfbee6122cb5747737245ab7ab264221064260c9ec77d54215319a4c51a14a7281bfa2ca135bb4d8",
+            "sha1": "415a3383cebd436b1c5fe1c1080fab1f5d248fb7"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/FMTxW0ZB/lmft-1.0.3%2B1.20.1-forge.jar",
+          "filename": "lmft-1.0.3+1.20.1-forge.jar",
+          "primary": true,
+          "size": 179939,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19.3",
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "U330gCJM",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.0.2 for Minecraft 1.19.4",
+      "version_number": "1.0.2+1.19.4",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as an alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-08-07T23:48:54.091715Z",
+      "downloads": 1432,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4AmKoVOV",
+          "hashes": {
+            "sha1": "2727f374c5fad4c9a4633d9a0be480dd0942dccf",
+            "sha512": "4411adc721ea687cc64831d7824c589d05c3fcd29b3db9a873e94f8bd72e4a86772d57a3cee2bc5442784d68ed047fadf8eba9c26892e80a86f7ac063632b182"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/U330gCJM/lmft-1.0.2%2B1.19.4-fabric.jar",
+          "filename": "lmft-1.0.2+1.19.4-fabric.jar",
+          "primary": true,
+          "size": 179836,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19",
+        "1.19.1",
+        "1.19.2"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "9xw7byXk",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.0.2 for Minecraft 1.19",
+      "version_number": "1.0.2+1.19",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as an alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-08-07T23:48:30.915417Z",
+      "downloads": 4143,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XiEGLUCU",
+          "hashes": {
+            "sha1": "fec743310f49ae13ff4c3c82667ecf80e767e495",
+            "sha512": "120e25473b45a35a05a23be704af888399a938e305efd2552ed06426b9e833976f135ba64f0823df926022c790ed7a25f92b1f3ffb086b62637ce82fe07389b2"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/9xw7byXk/lmft-1.0.2%2B1.19-fabric.jar",
+          "filename": "lmft-1.0.2+1.19-fabric.jar",
+          "primary": true,
+          "size": 179811,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "G3tcpqxZ",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.0.2 for Minecraft 1.18.2",
+      "version_number": "1.0.2+1.18.2",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as an alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-08-07T23:47:21.770703Z",
+      "downloads": 413,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "oe2YvK0L",
+          "hashes": {
+            "sha1": "6469b8ef7e32efdf37a1f90157874deca8a99ef8",
+            "sha512": "6d8409954e956c73a6abce19ac96fc93e769eabf40a8343213e173e29a8f3d6341b4b7d11020515e95122a37d4c90e915bb20243f2df3be79b735b6ccbbd8a16"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/G3tcpqxZ/lmft-1.0.2%2B1.18.2-fabric.jar",
+          "filename": "lmft-1.0.2+1.18.2-fabric.jar",
+          "primary": true,
+          "size": 182384,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19.3",
+        "1.19.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "Eei63n9t",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.2 for Minecraft 1.19.4",
+      "version_number": "1.0.2+1.19.4",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as an alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-08-07T23:46:20.270611Z",
+      "downloads": 428,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "LD6U7gj5",
+          "hashes": {
+            "sha512": "140644fe9f02c21849c3739a434eb8161ea6a5fb5b4210b9786f289cac5cea1a19710f881e3e829fddd4af9fa03400adc9cc3f9cd43b9d9dade352611d0820b3",
+            "sha1": "1fa40a715d646df13358732a5152b7493ae8f92b"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/Eei63n9t/lmft-1.0.2%2B1.19.4-forge.jar",
+          "filename": "lmft-1.0.2+1.19.4-forge.jar",
+          "primary": true,
+          "size": 179896,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19",
+        "1.19.1",
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "D7tQvUmL",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.2 for Minecraft 1.19",
+      "version_number": "1.0.2+1.19",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as an alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-08-07T23:45:26.122184Z",
+      "downloads": 27994,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yX4YdTFO",
+          "hashes": {
+            "sha512": "0a39212a722fbcb66816ce45e3684543bb049a4f1c170f76383f97d81d7048fc2d53e906dc32fc28ef2e43cc3798b57661efae8f20a82a01107dd8a9086cb56e",
+            "sha1": "62f93b13244d7f69c79912261765657d98d4cb6c"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/D7tQvUmL/lmft-1.0.2%2B1.19-forge.jar",
+          "filename": "lmft-1.0.2+1.19-forge.jar",
+          "primary": true,
+          "size": 179873,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "uNo4PuMq",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.2 for Minecraft 1.18.2",
+      "version_number": "1.0.2+1.18.2",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as an alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-08-07T23:44:03.810460Z",
+      "downloads": 12873,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6HEeQNGH",
+          "hashes": {
+            "sha512": "8e5548985789454b66e5dfee310c6e42ffdb021bc3462b33e0bc59d4d476c61414141d0e71663c193afe9411047cbfddbd39e1fd2d8ab9574069bbca30d2fb21",
+            "sha1": "c123b2142ed6cd981f01a7d931c1d9485c1ec988"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/uNo4PuMq/lmft-1.0.2%2B1.18.2-forge.jar",
+          "filename": "lmft-1.0.2+1.18.2-forge.jar",
+          "primary": true,
+          "size": 182466,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "IWpydKCV",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.0.2 for Minecraft 1.20+",
+      "version_number": "1.0.2+1.20",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as an alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-07-24T21:04:10.197057Z",
+      "downloads": 4509503,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "UX7Uk7BB",
+          "hashes": {
+            "sha1": "2af70dc52be6a2fa7c0b8aca8621ac7ff1d476db",
+            "sha512": "83b2f970095b63856302edc4acd33bd057a0a6b0f2bd0a00ef21218f779852418c4ebe1fea27060b7bf7b7dfcbcc3fafcc8e1283599ea55201a3cbcff5e23f1f"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/IWpydKCV/lmft-1.0.2%2B1.20-fabric.jar",
+          "filename": "lmft-1.0.2+1.20-fabric.jar",
+          "primary": true,
+          "size": 179899,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "NbrNT9lM",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.2 for Minecraft 1.20.1",
+      "version_number": "1.0.2+1.20",
+      "changelog": "Attempts to Edit certain words used in Text and add config file support as a alternative to disable the message.",
+      "changelog_url": null,
+      "date_published": "2023-07-24T21:03:20.084962Z",
+      "downloads": 4829,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qA45ggSe",
+          "hashes": {
+            "sha512": "6032e217389ee345959b9876a225652575e9697589327523ce5363c16de163117231eaa405573c2009eccc0c3727ce03e82c2061603b0c0eb753db1cb049972a",
+            "sha1": "36c439dc97da2823a84024151a4fc6003b2d69a4"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/NbrNT9lM/lmft-1.0.2%2B1.20-forge.jar",
+          "filename": "lmft-1.0.2+1.20-forge.jar",
+          "primary": true,
+          "size": 179993,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "XCG151p5",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.1 for Minecraft 1.18.2",
+      "version_number": "1.0.1+1.18.2",
+      "changelog": "Back port of LMFT to Forge 1.18.2",
+      "changelog_url": null,
+      "date_published": "2023-06-16T22:43:19.510252Z",
+      "downloads": 199,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xpNnUqit",
+          "hashes": {
+            "sha1": "dbb6ff28c5b25f7b9a57387e94025ae31fb19eba",
+            "sha512": "ea377c376c9a84737bbe4e98ad927b0a60d9dbc0bf49821f9f542fb71f95e5b6ac301051327101844d3ab3266f79138f467e9e889c249255ad184de489a76745"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/XCG151p5/lmft-1.0.1%2B1.18.2-forge.jar",
+          "filename": "lmft-1.0.1+1.18.2-forge.jar",
+          "primary": true,
+          "size": 180492,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19",
+        "1.19.1",
+        "1.19.2"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "Thotlx8T",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.1 for Minecraft 1.19",
+      "version_number": "1.0.1+1.19",
+      "changelog": "Back port of LMFT to Forge 1.19",
+      "changelog_url": null,
+      "date_published": "2023-06-16T22:42:20.898843Z",
+      "downloads": 185,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "VKdVcjFW",
+          "hashes": {
+            "sha512": "62515d06407c3353ed421dc45f675795ef5359deaeb9f0a33bfd8ada663c65501aea272dcd307a84f37072a29726ce05079ed748b16ad3cbad1185fc8c98f62b",
+            "sha1": "ce9780930d088b192f7a38d9b99afddcc26e60f2"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/Thotlx8T/lmft-1.0.1%2B1.19-forge.jar",
+          "filename": "lmft-1.0.1+1.19-forge.jar",
+          "primary": true,
+          "size": 177905,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19.3",
+        "1.19.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "PLx01D8M",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.1 for Minecraft 1.19.4",
+      "version_number": "1.0.1+1.19.4",
+      "changelog": "Fix Mixin loading issue where such was being applied only on the Client",
+      "changelog_url": null,
+      "date_published": "2023-06-16T22:41:46.956065Z",
+      "downloads": 144,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kGEFCpoC",
+          "hashes": {
+            "sha512": "1c959853288329146ac50641139fe319f5fa4f171acc7fb724bbade42c86716e607a156f6da6caaae1ab89813674a41079d9586feb0bc97e428c65dc5a62ad3d",
+            "sha1": "6f7264ab967f4d0167fc9e9b4241f7aaca6c9201"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/PLx01D8M/lmft-1.0.1%2B1.19.4-forge.jar",
+          "filename": "lmft-1.0.1+1.19.4-forge.jar",
+          "primary": true,
+          "size": 177926,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "FFjTILwW",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.0.1 for Minecraft 1.20",
+      "version_number": "1.0.1+1.20",
+      "changelog": "Fix Mixin loading issue where such was being applied only on the Client",
+      "changelog_url": null,
+      "date_published": "2023-06-16T22:40:47.177817Z",
+      "downloads": 515,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CYN7UQFZ",
+          "hashes": {
+            "sha512": "d49d07ecbf4e917f7cffa3342eb2705bbc1d469d7c289e0add692c264cfaf40b8cf1499565a6c4584ccaebb0a4c0074647abfcbbd2d532c85cc65a9e539ed824",
+            "sha1": "ed18d349c568a35f579a1461a1a5e448e4a676b6"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/FFjTILwW/lmft-1.0.1%2B1.20-fabric.jar",
+          "filename": "lmft-1.0.1+1.20-fabric.jar",
+          "primary": true,
+          "size": 177917,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "JBfVAVN4",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.1 for Minecraft 1.20",
+      "version_number": "1.0.1+1.20",
+      "changelog": "Fix Mixin loading issue where such was being applied only on the Client",
+      "changelog_url": null,
+      "date_published": "2023-06-16T22:36:22.427086Z",
+      "downloads": 186,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qOcFXY0E",
+          "hashes": {
+            "sha512": "918f423b5ad6d3520b21597ea9c405749dcd12889e762edeb58ab98d4ef391d535ee5088e1b7742d44fc4dc73968335100dadfc71d75310a5742bf201f751ff2",
+            "sha1": "80fc3634710713e68a5f740a8676fdb1a865d8bd"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/JBfVAVN4/lmft-1.0.1%2B1.20-forge.jar",
+          "filename": "lmft-1.0.1+1.20-forge.jar",
+          "primary": true,
+          "size": 178023,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "kvmMQprz",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge 1.0.0 for Minecraft 1.20",
+      "version_number": "1.0.0+1.20",
+      "changelog": "Just a port of LMFT to Minecraft 1.20",
+      "changelog_url": null,
+      "date_published": "2023-06-12T22:45:43.985209Z",
+      "downloads": 211,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ayier4hX",
+          "hashes": {
+            "sha1": "e77b1dd37fc66d766497a122055eaed6d1769884",
+            "sha512": "42434e40330754fc7929985fceeaf00bfb2ea3e992e8988afbb4ead4f74b4ada4be5fe6821cf5bc2424aaaf585d87039dc8d924321d35e89c2d141bbca8e8ce6"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/kvmMQprz/lmft-1.0.0%2B1.20-forge.jar",
+          "filename": "lmft-1.0.0+1.20-forge.jar",
+          "primary": true,
+          "size": 178022,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "hQ1oeWSY",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric 1.0.0 for Minecraft 1.20",
+      "version_number": "1.0.0+1.20",
+      "changelog": "Just a port of LMFT to Minecraft 1.20",
+      "changelog_url": null,
+      "date_published": "2023-06-07T19:22:06.813044Z",
+      "downloads": 266,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KOBsNgBu",
+          "hashes": {
+            "sha512": "c1ec237555c9b50b32490b029413d4e67a65d00d5abeb45fe2f836dbb0ae830f13bc56ee37de954883c5adbb12c920051d630e9ae86308bcf49afad175340878",
+            "sha1": "161d461916ab119667fa6b03f5c001ea67e90ace"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/hQ1oeWSY/lmft-1.0.0%2B1.20-fabric.jar",
+          "filename": "lmft-1.0.0+1.20-fabric.jar",
+          "primary": false,
+          "size": 177914,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19.4"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "server_only",
+      "id": "jRzEDln8",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Forge for Minecraft 1.19.4",
+      "version_number": "1.0.0+1.19.4",
+      "changelog": "Initial Forge Release of LMFT",
+      "changelog_url": null,
+      "date_published": "2023-06-05T19:10:32.453687Z",
+      "downloads": 110,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FDLbzhey",
+          "hashes": {
+            "sha512": "937bc7576bf2ec4286366e4a34d35df42d04efe45e4a28503543ebd95c34e3e14cf5d0146f5350a0c64ef6b79171b8b7e5ae58b6fde8c43de2bb39757106828a",
+            "sha1": "44b917fa090ef02ab5108f33889b820dcd431edd"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/jRzEDln8/lmft-1.0.0%2B1.19.4-forge.jar",
+          "filename": "lmft-1.0.0+1.19.4-forge.jar",
+          "primary": true,
+          "size": 177928,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.19.3",
+        "1.19.4"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "aZVAynWJ",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric for Minecraft 1.19.3/1.19.4",
+      "version_number": "1.0.0+1.19.3",
+      "changelog": "Update the mod to 1.19.3+",
+      "changelog_url": null,
+      "date_published": "2023-05-11T03:29:34.144669Z",
+      "downloads": 260,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "4YAftgB7",
+          "hashes": {
+            "sha512": "499b842cf950ef6660ee321199ae5f33c6d42d0145d1aecfefdc0b170a654aeefe5e5a0ac20b98ed1b280b93fdffb059de81c8aee1d9e9605fb9c159f30f8526",
+            "sha1": "ca5c139f34d0743a5cdd4710b06109f0b97dee0b"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/aZVAynWJ/lmft-1.0.0%2B1.19.3.jar",
+          "filename": "lmft-1.0.0+1.19.3.jar",
+          "primary": true,
+          "size": 178003,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.18.2"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "rNZ0t6Uw",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric for Minecraft 1.18.2",
+      "version_number": "1.0.0+1.18.2",
+      "changelog": "Initial Release",
+      "changelog_url": null,
+      "date_published": "2022-08-05T22:00:34.790109Z",
+      "downloads": 129,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jQbu2ETb",
+          "hashes": {
+            "sha1": "bc4e555e23af44566d222e4bf02a70f55e1a24ca",
+            "sha512": "343a085d43c5ef27bc0506216b0fddb230aac1ece28573295cab925d36b914d9b25c1465370b5be0e66616e93b407e23f4a1d9f7ca2469bd6d349b926f49b00f"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/1.0.0/lmft-1.0.0%2B1.18.2.jar",
+          "filename": "lmft-1.0.0+1.18.2.jar",
+          "primary": true,
+          "size": 180782,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "95QMsRyb",
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.19",
+        "1.19.1",
+        "1.19.2"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "server_only",
+      "id": "A5wEWxlR",
+      "project_id": "67kVxsaO",
+      "author_id": "7DNYExCh",
+      "featured": false,
+      "name": "LMFT Fabric for Minecraft 1.19",
+      "version_number": "1.0.0+1.19.2",
+      "changelog": "Initial Commit",
+      "changelog_url": null,
+      "date_published": "2022-08-05T22:00:34.766774Z",
+      "downloads": 378,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zgiPl69L",
+          "hashes": {
+            "sha512": "9b5e7cc28fa1613c4fea69869c74f8d6416939a01f1fed8302c45044498816bcaa84cd9b869b1d6a5d17d21628a3c7dcda808c58293be2e16e3303223405b1e8",
+            "sha1": "2100b504e3c452992424283d7ed46927ff05d07e"
+          },
+          "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/1.0.0/lmft-1.0.0%2B1.19.jar",
+          "filename": "lmft-1.0.0+1.19.jar",
+          "primary": true,
+          "size": 178081,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "hfsU4hXq",
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

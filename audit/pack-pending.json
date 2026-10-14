@@ -1,0 +1,513 @@
+[
+  {
+    "source_file": "AE2-Things-1.2.1.jar",
+    "source_sha1": "9862284af52931df937980f199a401bfe6651587",
+    "source_names": [
+      "AE2 Things"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_prerelease",
+    "candidate": {
+      "version_number": "1.4.2-beta",
+      "version_type": "beta",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Нужен AE2; диапазон версий в целевом JAR ещё не проверен. Не путать с одноимённым Fabric-проектом ProjectET."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_prerelease",
+      "note": "Нужен AE2; диапазон версий в целевом JAR ещё не проверен. Не путать с одноимённым Fabric-проектом ProjectET.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.4.2-beta",
+      "channel": "beta",
+      "alternative": null
+    },
+    "prerelease_approval": "not_yet_approved",
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "betterfpsdist-1.20.1-6.0.jar",
+    "source_sha1": "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e",
+    "source_names": [
+      "betterfpsdist mod"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.21.1-6.1",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Подтверждена публикация для 1.21.1; отношения зависимостей проверить по JAR."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Подтверждена публикация для 1.21.1; отношения зависимостей проверить по JAR.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.21.1-6.1",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "biomemusic-1.20.1-3.5.jar",
+    "source_sha1": "435a1fcffc252591d0f5b7ff95e8fca8a71ccb59",
+    "source_names": [
+      "biomemusic mod"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.21.1-4.1",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/biome-music/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Подтверждён кандидат, не утверждение о самой новой версии."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Подтверждён кандидат, не утверждение о самой новой версии.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/biome-music/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.21.1-4.1",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "buildinggadgets2-1.0.8.jar",
+    "source_sha1": "d06a806e8ca84a9e96a69c32da4b43226a51e0c9",
+    "source_names": [
+      "Building Gadgets 2"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.3.9",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Подтверждён NeoForge 1.21.1."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Подтверждён NeoForge 1.21.1.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.3.9",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "celestisynth-1.20.1-1.3.3-all.jar",
+    "source_sha1": "587d9980e695dc0c1bb4f6bcc3892cda0eb2a135",
+    "source_names": [
+      "Celestisynth"
+    ],
+    "identity_basis": "exact_source_jar_sha1",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.21.1-1.3.9",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/celestisynth-1-21-1/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Официальный порт, на который ссылается исходный проект. Нужны GeckoLib и PlayerAnimator; последний beta."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Официальный порт, на который ссылается исходный проект. Нужны GeckoLib и PlayerAnimator; последний beta.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/celestisynth-1-21-1/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.21.1-1.3.9",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "Chunk-Pregenerator-1.20-4.4.4.jar",
+    "source_sha1": "a3232637a242ee0e26dafaa99307dded859ecfbe",
+    "source_names": [
+      "Chunk Pregenerator"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "NeoForge-1.21-4.5.4",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Страница файла явно включает 1.21.1."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Страница файла явно включает 1.21.1.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "NeoForge-1.21-4.5.4",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "cosmeticarmorreworked-1.20.1-v1a.jar",
+    "source_sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+    "source_names": [
+      "CosmeticArmorReworked"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.21.1-v1-neoforge",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Подтверждён NeoForge 1.21.1."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Подтверждён NeoForge 1.21.1.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.21.1-v1-neoforge",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "cupboard-1.20.1-2.7.jar",
+    "source_sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867",
+    "source_names": [
+      "Cupboard utilities"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.21.1-4.2",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Библиотека; проверить требования потребителей."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Библиотека; проверить требования потребителей.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.21.1-4.2",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "Disenchanting-forge-1.20.1-2.2.4.jar",
+    "source_sha1": "cacd9bb861428421687d1061e383368f2e11a105",
+    "source_names": [
+      "Disenchanting"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.21.1-2.3.0",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/disenchantingforge/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Подтверждён NeoForge 1.21.1."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Подтверждён NeoForge 1.21.1.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/disenchantingforge/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.21.1-2.3.0",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "ftb-library-forge-2001.2.13.jar",
+    "source_sha1": "a5427d5ff07eb044144ed0b54308370d88bce17e",
+    "source_names": [
+      "FTB Library"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "2101.1.37",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Проверить зависимости и диапазоны версий FTB по целевым JAR."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Проверить зависимости и диапазоны версий FTB по целевым JAR.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "2101.1.37",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "ftb-teams-forge-2001.3.2.jar",
+    "source_sha1": "c49023f5d471aa1ba7fc624d2565fe9e82b7117e",
+    "source_names": [
+      "FTB Teams"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "2101.1.11",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Связка FTB Library/Teams требует проверки диапазонов."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Связка FTB Library/Teams требует проверки диапазонов.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "2101.1.11",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "ftbbackups2-forge-1.20-1.0.23.jar",
+    "source_sha1": "4b100de40338247a3fbf4d1fd1846257c5338189",
+    "source_names": [
+      "FTB Backups 2"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.0.28 [NeoForge]",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Именно 1.0.28 явно отмечена 1.21.1; 1.0.29 с меткой только 1.21 автоматически не выбрана."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Именно 1.0.28 явно отмечена 1.21.1; 1.0.29 с меткой только 1.21 автоматически не выбрана.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.0.28 [NeoForge]",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "ironchest-1.20.1-14.4.4.jar",
+    "source_sha1": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb",
+    "source_names": [
+      "Iron Chests"
+    ],
+    "identity_basis": "exact_source_jar_sha1",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "1.21-neoforge-16.0.7",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "CurseForge явно включает 1.21.1, хотя Modrinth не дал точного совпадения тега."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "CurseForge явно включает 1.21.1, хотя Modrinth не дал точного совпадения тега.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "1.21-neoforge-16.0.7",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "jerintegration-5.5.0.jar",
+    "source_sha1": "1f2efe883bbb1df0e1e61e6b2b8468a5868dd759",
+    "source_names": [
+      "JER Integration"
+    ],
+    "identity_basis": "manual_source_project_review",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "6.5.0",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/jer-integration/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "Нужен JER; выбранный кандидат самого JER имеет канал beta."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "Нужен JER; выбранный кандидат самого JER имеет канал beta.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/jer-integration/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "6.5.0",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  },
+  {
+    "source_file": "polyeng-forge-0.1.1-1.20.1.jar",
+    "source_sha1": "4617a4de40edda9a480ea0c33ba03e97d4a3ae1a",
+    "source_names": [
+      "Polymorphic Energistics"
+    ],
+    "identity_basis": "exact_source_jar_sha1",
+    "status": "native_release",
+    "candidate": {
+      "version_number": "0.4.1",
+      "version_type": "release",
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "verification_basis": "CurseForge publication; target JAR not inspected"
+    },
+    "candidate_project_url": "https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics/files/all?page=1&pageSize=20&version=1.21.1",
+    "notes": [
+      "CurseForge явно включает 1.21.1; проверить совместную работу с AE2 и Polymorph."
+    ],
+    "required_dependencies": [],
+    "manual_evidence": {
+      "status": "native_release",
+      "note": "CurseForge явно включает 1.21.1; проверить совместную работу с AE2 и Polymorph.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics/files/all?page=1&pageSize=20&version=1.21.1",
+      "version": "0.4.1",
+      "channel": "release",
+      "alternative": null
+    },
+    "dependency_verification": "manual_notes_only; complete_target_descriptor_check_pending"
+  }
+]

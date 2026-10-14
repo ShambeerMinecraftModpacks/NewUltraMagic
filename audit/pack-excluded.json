@@ -1,0 +1,112 @@
+[
+  {
+    "source_file": "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+    "reason": "Better Tooltips 1.0.3: отдельный NeoForge-проект, замена требует согласования.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "alexscaves-2.0.2.jar",
+    "reason": "Неофициальный порт требует Citadel (Unofficial Port), а не автоматически выбранный официальный Citadel.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "alexsmobs-1.22.9.jar",
+    "reason": "Неофициальный порт требует Citadel (Unofficial Port); нельзя установить две библиотеки с одинаковым modId.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "applied-botanics-forge-1.5.1.jar",
+    "reason": "Нет совместимой обязательной зависимости Botania; сторонняя замена не согласована.",
+    "status": "native_prerelease"
+  },
+  {
+    "source_file": "AutoTranslation-1.2.1+mc1.20.2-forge.jar",
+    "reason": "AutoTranslation Next 2.1.0: отдельное продолжение, не подтверждено полное равенство функций.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "bloodmagic-1.20.1-3.3.5-47.jar",
+    "reason": "Несмотря на метку Release, автор описывает порт как ALPHA / WORK IN PROGRESS. Для стабильной сборки считать экспериментальным.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "Botania-1.20.1-450-FORGE.jar",
+    "reason": "Fork меняет внутренности и Java packages; автор предупреждает о несовместимости аддонов. Требует NeoForge 21.1.240+, Java 21, Patchouli 1.21.1-93+. Совместимость Applied Botanics не подтверждена.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "BotanicalMachinery-1.20.1-3.0.7.jar",
+    "reason": "Опубликованная версия 1.21.1 не найдена; перенос функций не решён.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "canary-mc1.20.1-0.3.3.jar",
+    "reason": "Lithium имеет собственный NeoForge-релиз; замена Canary требует согласования.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "Dungeon Now Loading-forge-1.20.1-2.11.jar",
+    "reason": "Неофициальный Tricky Trials Port. Подтверждён кандидат, не гарантируется последняя версия.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "eeeabsmobs-1.20.1-0.97-Fix.jar",
+    "reason": "Неофициальный порт: API предлагает 1.0.2 для 1.21.1; проверить JAR и содержимое перед включением.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "embeddium-0.3.31+mc1.20.1.jar",
+    "reason": "Выбран Sodium как обязательная зависимость актуальных Chloride и Sodium Dynamic Lights. Два рендерера вместе не установлены.",
+    "status": "native_release"
+  },
+  {
+    "source_file": "Ez-ae2-universal.jar",
+    "reason": "Опубликованная версия 1.21.1 не найдена.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "ItemProductionLib-1.20.1-1.0.2a-all.jar",
+    "reason": "Версия 1.21.1 не найдена; возможность убрать библиотеку зависит от нового состава.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "jeiintegration_1.20.1-10.0.0.jar",
+    "reason": "JEI Integration Reborn 1.0.2: отдельный проект.",
+    "status": "replacement_review"
+  },
+  {
+    "source_file": "koremods-modlauncher-1.0.0.jar",
+    "reason": "Версия 1.21.1 не найдена; необходимость библиотеки надо пересмотреть по новому составу.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "Mantle-1.20.1-1.11.79.jar",
+    "reason": "Опубликованная версия 1.21.1 не найдена; не переносить старую библиотеку без потребителя.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "memoryleakfix-forge-1.17+-1.1.5.jar",
+    "reason": "Версия 1.21.1 не найдена; отсутствие потребности в старом исправлении ещё не доказано.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "piercingpaxels-1.0.12.jar",
+    "reason": "Опубликованная версия 1.21.1 не найдена; функциональная замена не согласована.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "starlight-1.1.2+forge.1cda73c.jar",
+    "reason": "Версия 1.21.1 не найдена; старый Forge JAR не является кандидатом для NeoForge 1.21.1.",
+    "status": "no_verified_build"
+  },
+  {
+    "source_file": "terramity-0.9.8-forge-1.20.1.jar",
+    "reason": "Исключение уже согласовано пользователем.",
+    "status": "excluded"
+  },
+  {
+    "source_file": "traveloptics-6.1.0-1.20.1.jar",
+    "reason": "Найдена только Alpha-4.4.0.1 с явной пометкой DEPRECATED DONT USE. Поддерживаемый перенос не подтверждён.",
+    "status": "deprecated"
+  }
+]
