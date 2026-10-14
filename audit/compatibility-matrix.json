@@ -51,7 +51,7 @@
       },
       "candidate_project_url": "https://modrinth.com/mod/better_tooltips",
       "notes": [
-        "Better Tooltips 1.0.3: отдельный NeoForge-проект, замена требует согласования."
+        "Better Tooltips 1.0.3: отдельный NeoForge-проект, замена требует согласования. Его neoforge.mods.toml требует Minecraft [1.21,1.21.1), поэтому кандидат несовместим с 1.21.1."
       ],
       "required_dependencies": [],
       "manual_evidence": {

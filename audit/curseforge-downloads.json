@@ -1,5 +1,4 @@
 [
-  {
     "source_file": "betterfpsdist-1.20.1-6.0.jar",
     "provider": "curseforge",
     "project_id": 551520,
@@ -169,6 +168,7 @@
     "expected_size": 29795
   },
   {
+    "source_file": "ftb-library-forge-2001.2.13.jar",
     "provider": "curseforge",
     "project_id": 404465,
     "file_id": 9008089,
@@ -180,6 +180,7 @@
     "catalog_metadata": "official CurseForge page"
   },
   {
+    "source_file": "ftb-teams-forge-2001.3.2.jar",
     "provider": "curseforge",
     "project_id": 404468,
     "file_id": 8724782,

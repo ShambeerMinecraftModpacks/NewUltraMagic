@@ -39,6 +39,9 @@ def download(item):
 def main():
     matrix = json.loads((AUDIT / 'compatibility-matrix.json').read_text(encoding='utf-8'))
     deps = json.loads((AUDIT / 'dependency-audit.json').read_text(encoding='utf-8'))
+    extra = AUDIT / 'curseforge-downloads.json'
+    manual_downloads = json.loads(extra.read_text(encoding='utf-8')) if extra.exists() else []
+    manual_sources = {item.get('source_file') for item in manual_downloads}
     selected, excluded, pending = {}, [], []
     for row in matrix['rows']:
         reason = None
@@ -53,6 +56,8 @@ def main():
             continue
         c = row['candidate']
         if not c.get('files'):
+            if row['source_file'] in manual_sources:
+                continue
             if row['source_file'].lower().startswith('lionfishapi-'):
                 p = next(p for p in deps['projects'].values() if p['slug'] == 'lionfish-api')
                 c = p['candidates']['neoforge']['preferred']
@@ -81,9 +86,7 @@ def main():
     for pid, v in selected.items():
         primary = next((f for f in v['files'] if f.get('primary')), v['files'][0])
         downloads.append({'project_id': pid, 'version_id': v['id'], 'version': v['version_number'], 'channel': v['version_type'], **primary})
-    extra = AUDIT / 'curseforge-downloads.json'
-    if extra.exists():
-        downloads.extend(json.loads(extra.read_text(encoding='utf-8')))
+    downloads.extend(manual_downloads)
     results, errors = [], []
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         jobs = {pool.submit(download, d): d for d in downloads}
