@@ -1,0 +1,159 @@
+{
+  "url": "https://api.modrinth.com/v2/project/Z7rKZJ8k/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:18:19.125722+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "cnt6F6VI",
+      "project_id": "Z7rKZJ8k",
+      "author_id": "QjIAV8Is",
+      "featured": false,
+      "name": "Better Tooltips 1.0.3",
+      "version_number": "1.0.3",
+      "changelog": "Update en_us by mpustovoi in [#5](https://github.com/1foxy2/BetterTooltips/pull/5)\n\nbetter mod compat",
+      "changelog_url": null,
+      "date_published": "2025-03-31T21:36:48.576479Z",
+      "downloads": 219861,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eA2LowSS",
+          "hashes": {
+            "sha512": "f9f84903c7c5945deed7c4d59a1e5f3a6c6f3625140b81b719e56341a08d49af8b333aacdcffd7bcb5528a59f7207e73afbf121609db793778726e158f614d65",
+            "sha1": "ac67bc12905121dc52d6403edd2c4cc8d39a6b67"
+          },
+          "url": "https://cdn.modrinth.com/data/Z7rKZJ8k/versions/cnt6F6VI/better_tooltips-1.0.3.jar",
+          "filename": "better_tooltips-1.0.3.jar",
+          "primary": true,
+          "size": 64441,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "rqZZKgvt",
+      "project_id": "Z7rKZJ8k",
+      "author_id": "QjIAV8Is",
+      "featured": false,
+      "name": "Better Tooltips 1.0.2",
+      "version_number": "1.0.2",
+      "changelog": "readded yacl tooltip positioner",
+      "changelog_url": null,
+      "date_published": "2024-09-11T17:51:39.376809Z",
+      "downloads": 2886,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "muUFPDY7",
+          "hashes": {
+            "sha512": "b6e4d9c1f0fdd741be61d19a454456e9364905ad74763151bd61b881af9aa038754001e684da591dc42d36368415e8c9d5ae57bf939d189a9a05239d06ac97cf",
+            "sha1": "59d7b735c430731a7da0d4bf0f2a86d43545e367"
+          },
+          "url": "https://cdn.modrinth.com/data/Z7rKZJ8k/versions/rqZZKgvt/better_tooltips-1.0.2.jar",
+          "filename": "better_tooltips-1.0.2.jar",
+          "primary": true,
+          "size": 59090,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "UTPadYH1",
+      "project_id": "Z7rKZJ8k",
+      "author_id": "QjIAV8Is",
+      "featured": false,
+      "name": "Better Tooltips 1.0.1",
+      "version_number": "1.0.1",
+      "changelog": "fix bedrock centering not working",
+      "changelog_url": null,
+      "date_published": "2024-09-11T08:16:04.783336Z",
+      "downloads": 137,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yRqNdLDM",
+          "hashes": {
+            "sha1": "e0d5f4715e3f506969d0cd7c5a9d3f09468feb7e",
+            "sha512": "ce01356930dc196001e316039b52e7a5640a2ae1bed8a35872d3c7fb588e7f960d2a1b6701281e89d110c8144407f715033965a540e5b93af5044885c55faeb1"
+          },
+          "url": "https://cdn.modrinth.com/data/Z7rKZJ8k/versions/UTPadYH1/better_tooltips-1.0.1.jar",
+          "filename": "better_tooltips-1.0.1.jar",
+          "primary": true,
+          "size": 57575,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "CS2PXcPY",
+      "project_id": "Z7rKZJ8k",
+      "author_id": "QjIAV8Is",
+      "featured": false,
+      "name": "Better Tooltips 1.0.0",
+      "version_number": "1.0.0",
+      "changelog": "release",
+      "changelog_url": null,
+      "date_published": "2024-09-09T22:53:48.393200Z",
+      "downloads": 143,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "fO2YqNUj",
+          "hashes": {
+            "sha1": "de24cd151aee7b471f11c23839784a6255132fb1",
+            "sha512": "e1a07666a8f51ab469ef538939b83e560f17352a3e962dbe65ccbee7685183d44a62a5921ac877f87d283127b76714fd9e6ad9b8a61e39d895b8a65d143c4697"
+          },
+          "url": "https://cdn.modrinth.com/data/Z7rKZJ8k/versions/CS2PXcPY/better_tooltips-1.0.0.jar",
+          "filename": "better_tooltips-1.0.0.jar",
+          "primary": true,
+          "size": 57763,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

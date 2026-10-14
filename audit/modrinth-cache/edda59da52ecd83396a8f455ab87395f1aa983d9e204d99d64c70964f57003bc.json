@@ -1,0 +1,77 @@
+{
+  "url": "https://api.modrinth.com/v2/project/enigmaticlegacy%2B",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:11:53.802414+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.21.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "oIjj1Fan",
+    "slug": "enigmaticlegacy-plus",
+    "project_type": "mod",
+    "team": "h62Nl5hz",
+    "organization": null,
+    "title": "Enigmatic Legacy+",
+    "description": "An 1.21+ port of Enigmatic Legacy.",
+    "body": "### Description\nThis mod is designed to provide tools that will aid you in exploring seemingly endless reaches of Minecraft's worlds. As well as new resources, powerful gear and ancient relics - to reward you for doing so. Despite revolving around themes of arcane and mystery, **Enigmatic Legacy** doesn't stray too far away from what vanilla has to offer, instead attempting to expand upon it's mechanics and fill in the holes left open.\n\nThat includes, but is not limited to new tools, armor and weapons, dungeon loot, potions, enchantment manipulations, means of inventory management, means of making chunk-sized holes in your world, means of management and new applications to ethereal substance known as experience, 1000th implementation of item magnets, faster and more convenient ways of villager enslavement, and, of course, god-tier gear somewhere around the corners of the endgame. By the power of **Curios API**, there also are a lot of accessories, both classical ones like rings and charms, and completely unique types - like scrolls and spellstones.\n\n**Curios API, Caelus API and Patchouli are needed.**\n\n### Attention\nThis Mod is an unofficially authorized port of version 1.21.1, and the content of the mod may not be completely consistent with the original mod, and may include some additional content. It follows the distribution agreement for mysterious artifacts, and any infringement will be removed. The original author is [Aizistral™](https://aizistral.com/).",
+    "body_url": null,
+    "published": "2025-10-16T02:10:03.123791Z",
+    "updated": "2026-10-11T03:06:41.585286Z",
+    "approved": "2025-10-19T07:12:28.340101Z",
+    "queued": "2025-10-20T07:48:07.593738Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LicenseRef-Enigmatic-Legacy-License",
+      "name": "",
+      "url": "https://github.com/Aizistral-Studios/Enigmatic-Legacy/blob/1.19.X/LICENSE.md"
+    },
+    "downloads": 61070,
+    "followers": 31,
+    "categories": [
+      "adventure"
+    ],
+    "additional_categories": [
+      "equipment",
+      "magic"
+    ],
+    "loaders": [
+      "neoforge"
+    ],
+    "versions": [
+      "zgLGwiPp",
+      "r5XRm2LX",
+      "IOUIN6ie",
+      "ErPhQo57",
+      "sE5KVcHA",
+      "ELK5gx91"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/oIjj1Fan/b89533b2e991649b7cda73e5dc41258d1db3f02c_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/oIjj1Fan/b89533b2e991649b7cda73e5dc41258d1db3f02c.png",
+    "issues_url": null,
+    "source_url": "https://github.com/Auviotre/Enigmatic-Legacy-Plus",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/oIjj1Fan/images/04fe7c0f19fd22af8a987c5f3e82b51875691e71.png",
+        "raw_url": "https://cdn.modrinth.com/data/oIjj1Fan/images/04fe7c0f19fd22af8a987c5f3e82b51875691e71.png",
+        "featured": false,
+        "title": "Preview",
+        "description": null,
+        "created": "2025-10-18T02:23:47.711984Z",
+        "ordering": 0
+      }
+    ],
+    "color": 4145276,
+    "thread_id": "IS0piEZZ",
+    "monetization_status": "monetized"
+  }
+}

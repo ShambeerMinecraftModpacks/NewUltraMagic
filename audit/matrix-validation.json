@@ -1,0 +1,16 @@
+{
+  "rows": 139,
+  "unique_source_files": 139,
+  "all_candidates_tagged_target": true,
+  "publication_cutoff_checked": true,
+  "source_jar_sha256_unchanged": 139,
+  "counts": {
+    "replacement_review": 10,
+    "native_prerelease": 9,
+    "native_release": 108,
+    "no_verified_build": 8,
+    "approved_replacement": 2,
+    "excluded": 1,
+    "deprecated": 1
+  }
+}

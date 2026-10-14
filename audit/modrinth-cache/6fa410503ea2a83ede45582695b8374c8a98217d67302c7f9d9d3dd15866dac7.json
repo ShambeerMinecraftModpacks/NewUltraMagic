@@ -1,0 +1,71 @@
+{
+  "url": "https://api.modrinth.com/v2/project/eeeabs-mobs-unofficial",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:18:19.739738+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.21.1",
+      "1.21.11"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "qP6APTMF",
+    "slug": "eeeabs-mobs-unofficial",
+    "project_type": "mod",
+    "team": "mo4wnI58",
+    "organization": null,
+    "title": "EEEAB's Mobs [Unofficial]",
+    "description": "Unofficial port of EEEAB's Mobs - challenging bosses, mobs, structures and gear. Original mod by EEEAB.",
+    "body": "> ### Found a crash or a bug? Please report it here - do not blame the original mod!\n>\n> This is an unofficial port. Anything broken here is likely the port's fault, not EEEAB's. If something crashes or acts unexpectedly, please open an issue so it can be fixed.\n>\n> **When reporting, please include:**\n> 1. Your **Minecraft version & mod loader** (Fabric / Forge / NeoForge)\n> 2. What you were doing when it happened, plus the **crash report / log** if available.\n\n**EEEAB's Mobs [Unofficial]** brings challenging boss encounters, dangerous new mobs, unique structures, and epic gear to your Minecraft world!\n\nThis mod expands combat and exploration by introducing custom-animated enemies with multi-phase boss fights, telegraphed attacks, and high-tier rewards.\n\n### Key Features\n* **Challenging Bosses & Mobs:** Encounter uniquely animated enemies equipped with custom spellcasting, special abilities, and multi-phase mechanics.\n* **New Structures & Arenas:** Discover dangerous dungeons and battle arenas scattered throughout your world.\n* **Unique Gear & Rewards:** Earn powerful weapons, armor, and specialized items by overcoming tough PvE encounters.\n* **Skill-Based Combat:** Master attack patterns, time your dodges, and adapt your combat strategy to survive.\n\n### How It Changes Gameplay\n* **Action-RPG Exploration:** Turns standard world exploration into high-stakes dungeon crawling with rewarding boss fights.\n* **End-Game PvE Progression:** Provides a meaningful combat challenge for players looking to test their gear beyond vanilla mobs.\n\n***\n\n*Disclaimer: Unofficial port licensed under LGPL-3.0. Sources have been modified from the original. All original concepts and assets belong to EEEAB. Original project: [Modrinth](https://modrinth.com/mod/eeeab-s-mobs).*",
+    "body_url": null,
+    "published": "2026-09-01T10:33:03.955751Z",
+    "updated": "2026-09-28T07:28:28.172059Z",
+    "approved": "2026-09-25T19:38:09.826616Z",
+    "queued": "2026-09-01T10:40:08.960779Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "downloads": 1198,
+    "followers": 3,
+    "categories": [
+      "adventure",
+      "equipment",
+      "mobs"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "CVRZRaz4",
+      "1zHeChYo",
+      "tfqxcQIJ",
+      "sSmkQpPo",
+      "TxLljHmi",
+      "VToWSvw2",
+      "i2CRcnB1",
+      "EBZZcsQP"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/qP6APTMF/75cc8e86dab014a9d3879e4ffd2719f595ae6a05_96.webp",
+    "raw_icon_url": "https://cdn.modrinth.com/data/qP6APTMF/75cc8e86dab014a9d3879e4ffd2719f595ae6a05.png",
+    "issues_url": "https://github.com/sanufsoiii/eeeab-unofficial/issues",
+    "source_url": "https://github.com/sanufsoiii/eeeab-unofficial",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": [],
+    "color": 9260111,
+    "thread_id": "dNVc28vb",
+    "monetization_status": "monetized"
+  }
+}

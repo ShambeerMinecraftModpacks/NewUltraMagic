@@ -1,0 +1,279 @@
+{
+  "url": "https://api.modrinth.com/v2/project/oIjj1Fan/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:11:54.542694+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ELK5gx91",
+      "project_id": "oIjj1Fan",
+      "author_id": "gAmdqjhc",
+      "featured": false,
+      "name": "Enigmatic Legacy+ 1.21.1-1.1.2",
+      "version_number": "1.21.1-1.1.2",
+      "changelog": "### Release 1.1.2\n**Features:**\n- Added lots of new Items:\n    - **Decision of Annihilation**\n    - **Proof of Dimness**\n    - **Flawless Forging Gem**\n    - **Amulet of Radiance**\n    - **Pseudo-Sacred Chalice**\n    - **Resonator of Spell**\n    - **Potion of Purification**\n    - **Starlight Ingot**\n    - **Charming Insignia**\n    - ...\n- Added new features to **Tome of Void**.\n- Added lots of **Advancements**.\n\n**Changes:**\n- Books in the **Antique Book Bag** will now display descriptions of their relevant buffs.\n- Adjusted the effects of **The Architect's Favor**.\n- Improved the AI behavior of **Purified Ichor Spirit**.\n- Improved the way **Hearts of the Abyss** are obtained in multiplayer.\n- Added special visual effects for certain **Abyssal** items.\n- Completed AI curse boosts for nearly all mobs.\n- Changed mod compatibility from **Thirst Was Taken** to **Thirst Was Reclaimed**.\n- Adjusted the categories of most recipes.\n\n**Fixes:**\n- Fixed an issue where the **Fourth Curse** of **Ring of the Seven Curses** failed to activate.\n- Fixed a bug where **The Cube** might cause the server to forcibly shut down.\n- Fixed the Night Vision effect of the **Charm of Treasure Hunter** not working properly.\n- Fixed an issue where **Etheric Resonance** was not taking effect in the curio slot.\n- Fixed an issue where the **Spelltuner** failed to provide Water Breathing.\n- Fixed potential lag issues related to **Charm of Scorched Sun**.\n- Fixed an issue related to **The Burden of Desolation**.\n- Fixed an issue related to **Annihilation** recipe.\n- Fixed some minor issues.",
+      "changelog_url": null,
+      "date_published": "2026-10-11T03:06:41.585286Z",
+      "downloads": 656,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "i3j8kSMp",
+          "hashes": {
+            "sha512": "9f334bc1c22756d0d1d5e785223217409dcacf05a8ff3998f6d18281f45487df5f5a405d41204908e49591464f690d085724a7d8b00318ad2811448a2057b0f1",
+            "sha1": "01cc8991fac3eb2adccc96c8493172b698adab82"
+          },
+          "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/ELK5gx91/enigmaticlegacyplus-1.21.1-1.1.2.jar",
+          "filename": "enigmaticlegacyplus-1.21.1-1.1.2.jar",
+          "primary": true,
+          "size": 7254195,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "sE5KVcHA",
+      "project_id": "oIjj1Fan",
+      "author_id": "gAmdqjhc",
+      "featured": false,
+      "name": "Enigmatic Legacy Plus 1.21.1-1.0.0",
+      "version_number": "1.21.1-1.0.0",
+      "changelog": "### Release 1.0.0 [2026/05/10]\n**Features:**\n- Most of the 1.20 content from **Enigmatic Legacy** and **Enigmatic Addons** has been moved to 1.21.\n- Added lots of new contents and adjusted some original contents to fit new ones.\n- Added **Config GUI** in game for easier modification.\n\n**Tips:**\n- The '?' items will be implemented in the future.\n- The guidebook(**The Acknowledgment**) is currently not perfect.\n- You can send mod issues to Github to report bugs and errors.",
+      "changelog_url": null,
+      "date_published": "2026-05-10T15:39:31.564870Z",
+      "downloads": 42956,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NB3v9Oz5",
+          "hashes": {
+            "sha512": "c6ef6fc2e2a342d963758386d5743ad55b7fc0ce4d2683ed3acc14e39d6f1f423ac008a43a6d9f08c776c87f6bbf2340e96335f70dd461428d3db0412082752b",
+            "sha1": "a23057e5dfd92c3e8ca9378dcf542f8794b82251"
+          },
+          "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/sE5KVcHA/enigmaticlegacyplus-1.21.1-1.0.0.jar",
+          "filename": "enigmaticlegacyplus-1.21.1-1.0.0.jar",
+          "primary": true,
+          "size": 6893186,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": "BIogJv2D",
+          "project_id": "nU0bVIaL",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": "yohfFbgD",
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": "KsfI4QsR",
+          "project_id": "40FYwb4z",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "ErPhQo57",
+      "project_id": "oIjj1Fan",
+      "author_id": "gAmdqjhc",
+      "featured": false,
+      "name": "Enigmatic Legacy Plus - 1.21.1-0.6.0",
+      "version_number": "1.21.1-0.6.0",
+      "changelog": "- Added more Items.\n- This update will cause the Enigmatic Amulets to be lost once.",
+      "changelog_url": null,
+      "date_published": "2026-03-14T04:01:47.225072Z",
+      "downloads": 8518,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "DnUaGtmA",
+          "hashes": {
+            "sha1": "48c26d3e49fc2695cc9927042d0b981518a6e580",
+            "sha512": "ecc69bbc4cdb722af2ea6ccd56e0c3821754b8019288f0a608fd953f8257a5c7ccbaaaf8d3e5a946086ea20e336ec05933caa1a4a5a9aec58a7b988ca7fdedc6"
+          },
+          "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/ErPhQo57/enigmaticlegacyplus-1.21.1-0.6.0.jar",
+          "filename": "enigmaticlegacyplus-1.21.1-0.6.0.jar",
+          "primary": true,
+          "size": 6814864,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "IOUIN6ie",
+      "project_id": "oIjj1Fan",
+      "author_id": "gAmdqjhc",
+      "featured": false,
+      "name": "Enigmatic Legacy+ 1.21.1-0.5.0",
+      "version_number": "1.21.1-0.5.0",
+      "changelog": "Fixed some bugs",
+      "changelog_url": null,
+      "date_published": "2025-12-30T02:05:15.735561Z",
+      "downloads": 5628,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7HiubvmB",
+          "hashes": {
+            "sha1": "e510815c623e913ddcda71e67b7c5727abf2f3d1",
+            "sha512": "8fffa963bc0784559157bba17eba5d0e8e3304489d2a7f73d172d442f869fe82a8c2e672505e44f50119473b417697db6ace1fd85b521d1e5984adf3502afae3"
+          },
+          "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/IOUIN6ie/enigmaticlegacyplus-1.21.1-0.5.0.jar",
+          "filename": "enigmaticlegacyplus-1.21.1-0.5.0.jar",
+          "primary": true,
+          "size": 1846076,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "r5XRm2LX",
+      "project_id": "oIjj1Fan",
+      "author_id": "gAmdqjhc",
+      "featured": false,
+      "name": "Enigmatic Legacy+ 1.21.1-0.5.0",
+      "version_number": "1.21.1-0.5.0",
+      "changelog": "- Add more contents.",
+      "changelog_url": null,
+      "date_published": "2025-11-27T02:48:38.600564Z",
+      "downloads": 1599,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "I5cqhPzf",
+          "hashes": {
+            "sha1": "7e30c99d6897c79cb11ed3d6845fb4d926d2c921",
+            "sha512": "e6a4e476397cb72ea199b77791d1fb5fdc1d9bc24ebea4bb934bdcadaf6c41e04b46f53a0453ada4c57e3d371ffa70f765836f1af7fba37476f1a4b46de93e17"
+          },
+          "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/r5XRm2LX/enigmaticlegacyplus-1.21.1-0.5.0.jar",
+          "filename": "enigmaticlegacyplus-1.21.1-0.5.0.jar",
+          "primary": true,
+          "size": 1779317,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "zgLGwiPp",
+      "project_id": "oIjj1Fan",
+      "author_id": "gAmdqjhc",
+      "featured": false,
+      "name": "Enigmatic Legacy+ 1.21.1-0.4.1",
+      "version_number": "1.21.1-0.4.0",
+      "changelog": "- Most of the contents have been portted to 1.21;\n- Added some new Items and new Features;\n- Fixed a bug on server.",
+      "changelog_url": null,
+      "date_published": "2025-10-16T07:36:07.914363Z",
+      "downloads": 1439,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "wK9T44IC",
+          "hashes": {
+            "sha512": "200cbbbb3814c9c1d5a0aedc02e05aa54c3987f6ab25417ae83c3be2cc3d6f33f5c2ba6db8870daf686e665d3c12c2caad5d7741e1e650e01a1afd3e6db23626",
+            "sha1": "20819e588aa8e68a73b16268528e4c99b8c4cc14"
+          },
+          "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/zgLGwiPp/enigmaticlegacyplus-1.21.1-0.4.0.jar",
+          "filename": "enigmaticlegacyplus-1.21.1-0.4.0.jar",
+          "primary": true,
+          "size": 1504249,
+          "file_type": null
+        },
+        {
+          "id": "jiSBHP88",
+          "hashes": {
+            "sha512": "59b53868156073920a84122eac5ac49c684e2761802b81008d58eba2c0c19e86b70c6d8cee8eca4134b621870cfc7bc885a6382b56d6a76b23935a4c9a61a780",
+            "sha1": "69005576c40ede62248b409960d10c86f8e6198f"
+          },
+          "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/zgLGwiPp/enigmaticlegacyplus-1.21.1-0.4.0.jar",
+          "filename": "enigmaticlegacyplus-1.21.1-0.4.0.jar",
+          "primary": false,
+          "size": 1602059,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "40FYwb4z",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "vvuO3ImH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "nU0bVIaL",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

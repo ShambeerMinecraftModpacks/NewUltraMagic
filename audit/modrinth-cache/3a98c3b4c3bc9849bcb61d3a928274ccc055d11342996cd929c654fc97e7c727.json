@@ -1,0 +1,985 @@
+{
+  "url": "https://api.modrinth.com/v2/project/gvQqBUqZ/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:11:57.097716+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "N08Z8wog",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.4 for Fabric",
+      "version_number": "mc1.21.1-0.15.4-fabric",
+      "changelog": "Lithium 0.15.4 for Minecraft 1.21 and 1.21.1 backports a few bug fixes.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.4/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Fixes\n- Fix supporting block movement shortcut not offsetting VoxelShape \n- Fix double inventory related inventory invalidation issues\n- Avoid crashing when modded levels with broken registries are created\n- Fix comparator updates missing for furnaces and brewing stands",
+      "changelog_url": null,
+      "date_published": "2026-06-27T17:11:51.297165Z",
+      "downloads": 2770547,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5xthAQGD",
+          "hashes": {
+            "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63",
+            "sha512": "182064b00e6315e2255b857eaab8eb759e6b042ebd4cc8b855ff0d93f875a5a7188fac49f878d7b29d4ef7e6b6341190ad7f6f6f39f4a6d2c62003468b08e4c6"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.15.4+mc1.21.1.jar",
+          "primary": true,
+          "size": 797454,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "DDUrRVCA",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.4 for Neoforge",
+      "version_number": "mc1.21.1-0.15.4-neoforge",
+      "changelog": "Lithium 0.15.4 for Minecraft 1.21 and 1.21.1 backports a few bug fixes.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.4/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Fixes\n- Fix supporting block movement shortcut not offsetting VoxelShape \n- Fix double inventory related inventory invalidation issues\n- Avoid crashing when modded levels with broken registries are created\n- Fix comparator updates missing for furnaces and brewing stands",
+      "changelog_url": null,
+      "date_published": "2026-06-27T17:11:51.285886Z",
+      "downloads": 1493378,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "t1sysU0P",
+          "hashes": {
+            "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+            "sha512": "2735da2088b88a8bdcd4ad02a2b6fffbfd3925557cefd4fa54b5477dfb9e582ea7f521300c060f57dff1325dd21bff276b7333363ad3371ed6893e3de9eca9cd"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+          "primary": true,
+          "size": 774220,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "XQJtuOTA",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.3 for Fabric",
+      "version_number": "mc1.21.1-0.15.3-fabric",
+      "changelog": "Lithium 0.15.3 for Minecraft 1.21 and 1.21.1 backports an optimization and a bug fix.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.3/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Add missing palette crash recovery attempt\n- Use cached false values for fluid hole search\n\n## Fixes\n- Fix negative indices caused by byte to int cast (crash with modded fluids https://github.com/CaffeineMC/lithium/issues/719)",
+      "changelog_url": null,
+      "date_published": "2026-03-10T22:02:18.628608Z",
+      "downloads": 2279849,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SulCihDd",
+          "hashes": {
+            "sha512": "8c576d519121b0c2521101d2209eccd85d560b097fcb847aa54c51cd0d3f3947676f01c8d99913f514487c8e0972a1cf5f3da0c9ef0ec9bacdf2baeb4eb7d1a7",
+            "sha1": "c4a1c2b6de9915ac77ae46a005509d4acf09535d"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.15.3+mc1.21.1.jar",
+          "primary": true,
+          "size": 797398,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "RXHf27Wv",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.3 for Neoforge",
+      "version_number": "mc1.21.1-0.15.3-neoforge",
+      "changelog": "Lithium 0.15.3 for Minecraft 1.21 and 1.21.1 backports an optimization and a bug fix.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.3/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Add missing palette crash recovery attempt\n- Use cached false values for fluid hole search\n\n## Fixes\n- Fix negative indices caused by byte to int cast (crash with modded fluids https://github.com/CaffeineMC/lithium/issues/719)",
+      "changelog_url": null,
+      "date_published": "2026-03-10T22:02:18.624455Z",
+      "downloads": 2102095,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YSIfWx5J",
+          "hashes": {
+            "sha1": "9fd5fa9076044180ae7f51672de74669196ec72e",
+            "sha512": "65568e6c7e41684ad20e58db8766813840c0c8406eed9edc3f7a2514da7250ac46bde2bfb0936984cc5516c2782f86387ad0ed3d1b804b8bdddc7f7048759df4"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+          "primary": true,
+          "size": 774148,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "OLpCvF3o",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.2 for Neoforge",
+      "version_number": "mc1.21.1-0.15.2-neoforge",
+      "changelog": "Lithium 0.15.2 for Minecraft 1.21 and 1.21.1 backports an optimization and bug fixes.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.2/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Optimize non POI block searches (Thanks to jcw780)\n\n## Fixes\n- Fix incorrect hopper sleeping with double chests halves read by comparators",
+      "changelog_url": null,
+      "date_published": "2026-02-05T21:34:09.734768Z",
+      "downloads": 240398,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "lZMDmQva",
+          "hashes": {
+            "sha512": "86ed9b0d2d267f6dab87e49e0757341fccc8c3efe3b734a496d2b72eee06e903c0f4a6852ec14e30b69bf65885975d2d838f1add73d222c60a22c93f25a0cfb0",
+            "sha1": "54457ba68b0066a5b6034655f8d31a29a3e5e6b1"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OLpCvF3o/lithium-neoforge-0.15.2%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.15.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 773944,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "Yu6L8EnD",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.2 for Fabric",
+      "version_number": "mc1.21.1-0.15.2-fabric",
+      "changelog": "Lithium 0.15.2 for Minecraft 1.21 and 1.21.1 backports an optimization and bug fixes.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.2/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Optimize non POI block searches (Thanks to jcw780)\n\n## Fixes\n- Fix incorrect hopper sleeping with double chests halves read by comparators",
+      "changelog_url": null,
+      "date_published": "2026-02-05T21:34:09.727830Z",
+      "downloads": 1698959,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "QCRzBHhj",
+          "hashes": {
+            "sha1": "72d9c51e9ece62018f290bfbbf7bbb87190cc7ed",
+            "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.15.2+mc1.21.1.jar",
+          "primary": true,
+          "size": 797184,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "E5eJVp4O",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.1 for Fabric",
+      "version_number": "mc1.21.1-0.15.1-fabric",
+      "changelog": "Lithium 0.15.1 for Minecraft 1.21.1 backports several bug fixes, including better compatibility with neoforge.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.1/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Fixes\n- Fix missing initialization of block counting in empty sections\n- Mod compatibility between raycast optimization and ponder\n- Fix NeoForge chunk load tricks compatibility\n- Fix double inventory invalidation in hopper optimization\n- Hoppers unsubscribe from block entities and double inventories when invalidated",
+      "changelog_url": null,
+      "date_published": "2025-11-21T17:10:36.416852Z",
+      "downloads": 5262711,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jf4cH4Lm",
+          "hashes": {
+            "sha1": "6038cf136da413753345bf9d48e5798241439894",
+            "sha512": "bb0d13b429c3f790b3f8d42312a104eb7f33dadc0b1eb3b037255af2d1b17a3c51db7d9a4cf8552f9410922f03ab030e124cb5c0661d2442e63bef8a1d133136"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/E5eJVp4O/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.15.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 772848,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "G5SDYehn",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.1 for Neoforge",
+      "version_number": "mc1.21.1-0.15.1-neoforge",
+      "changelog": "Lithium 0.15.1 for Minecraft 1.21.1 backports several bug fixes, including better compatibility with neoforge.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.1/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Fixes\n- Fix missing initialization of block counting in empty sections\n- Mod compatibility between raycast optimization and ponder\n- Fix NeoForge chunk load tricks compatibility\n- Fix double inventory invalidation in hopper optimization\n- Hoppers unsubscribe from block entities and double inventories when invalidated",
+      "changelog_url": null,
+      "date_published": "2025-11-21T17:10:36.386905Z",
+      "downloads": 751355,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "bklp4tQG",
+          "hashes": {
+            "sha1": "38295e15a600899697a5dbd29b1e9c15060e5760",
+            "sha512": "1975e74294798fe173d944d3e0b174b39dc8b7fa177340acb71c8a85772932b82c9406099c854d45fa4f71b80dbbb73602fd7cc36d1374dfc8402e4a30ccfe3b"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/G5SDYehn/lithium-neoforge-0.15.1%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.15.1+mc1.21.1.jar",
+          "primary": true,
+          "size": 749987,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "xYxpXTIt",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.0 for Neoforge",
+      "version_number": "mc1.21.1-0.15.0-neoforge",
+      "changelog": "Lithium 0.15.0 for Minecraft 1.21.1 includes new optimizations and several bug fixes, including better compatibility with neoforge inventories.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.0/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- explosion entity raycast optimizations (Thanks to RacoonDog)\n- Sleeping crafter block entity\n\n## Fixes\n- Fix crash with Create Pondering when entities are pushed by fluids\n- Fix crash when placing a block at build limit in the end and attempting to spawn a dragon\n- Fix hoppers sleeping even though interaction with neoforge API block inventories is possible\n- Fix sleeping hoppers woken up by moving item entities even if blocked with a full block\n- Fix broken state of ChunkAwareBlockCollisionSweeper in entity nether portal positioning optimization and with TIS-Carpet",
+      "changelog_url": null,
+      "date_published": "2025-03-10T23:26:12.133235Z",
+      "downloads": 1820209,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "xr3UDDdI",
+          "hashes": {
+            "sha512": "34c0250ab119e7d83eb069433315883a572cd197d025dcc043c5f7e399c1e350addd79aed756da0bda87cc76add1a8747c5f69293ec2b9278b0348a1c15cdb32",
+            "sha1": "584c5a8186938dd58e43ecde316253e8e38f6650"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xYxpXTIt/lithium-neoforge-0.15.0%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.15.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 747405,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "MM5BBBOK",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.15.0 for Fabric",
+      "version_number": "mc1.21.1-0.15.0-fabric",
+      "changelog": "Lithium 0.15.0 for Minecraft 1.21.1 includes new optimizations and several bug fixes, including better compatibility with neoforge inventories.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.15.0/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- explosion entity raycast optimizations (Thanks to RacoonDog)\n- Sleeping crafter block entity\n\n## Fixes\n- Fix crash with Create Pondering when entities are pushed by fluids\n- Fix crash when placing a block at build limit in the end and attempting to spawn a dragon\n- Fix hoppers sleeping even though interaction with neoforge API block inventories is possible\n- Fix sleeping hoppers woken up by moving item entities even if blocked with a full block\n- Fix broken state of ChunkAwareBlockCollisionSweeper in entity nether portal positioning optimization and with TIS-Carpet",
+      "changelog_url": null,
+      "date_published": "2025-03-10T23:26:12.088687Z",
+      "downloads": 6884942,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AJ4zlUvN",
+          "hashes": {
+            "sha512": "fd3215501ebe8f6590cdf1ccc58182873cad8d74ebc4b0b3a2f5724748b9cb04c2b967503c072311dfbca9ba856195dc4662f3395a071b294fa0acfdd2a86bf6",
+            "sha1": "b7d77602807f2c7cd7132741244bf8c0b8dec6c1"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/MM5BBBOK/lithium-fabric-0.15.0%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.15.0+mc1.21.1.jar",
+          "primary": true,
+          "size": 771768,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "ccgnTSUG",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.8 for Neoforge",
+      "version_number": "mc1.21.1-0.14.8-neoforge",
+      "changelog": "Lithium 0.14.8 for Minecraft 1.21.1 includes a new optimization, a few bugfixes and improves mod compatibility.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.14.8/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Fast-path exit end portal search by counting nearby bedrock blocks. Reduces lag when placing the last end crystal when respawning the ender dragon by 97%.\n- Debug option for detecting invalid chunk data packets\n\n## Changes\n- Use worlds for thread tests instead of minecraft server to improve compatibility with the worldthreader mod\n\n## Fixes\n- Fix missing default return value in LithiumHashPalette copies\n- Fix incorrect handling of fire, lava and soul fire in experimental block touching optimization\n- Fix compatibility with Moonrise",
+      "changelog_url": null,
+      "date_published": "2025-02-20T00:24:04.964827Z",
+      "downloads": 52307,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BocPdFEy",
+          "hashes": {
+            "sha512": "e30361eb49eac0d6b6431bf7acef992b7b57ae244e96f7430eee8d906d28560e88f50562143c83230efd1cc935d646debc66578a0e64718399e8316ff8acda7c",
+            "sha1": "d6bbbdae2d8e94551606c32e75fded04605811ee"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ccgnTSUG/lithium-neoforge-0.14.8%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.14.8+mc1.21.1.jar",
+          "primary": true,
+          "size": 739349,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "3HMQZXbw",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.8 for Fabric",
+      "version_number": "mc1.21.1-0.14.8-fabric",
+      "changelog": "Lithium 0.14.8 for Minecraft 1.21.1 includes a new optimization, a few bugfixes and improves mod compatibility.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.14.8/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Fast-path exit end portal search by counting nearby bedrock blocks. Reduces lag when placing the last end crystal when respawning the ender dragon by 97%.\n- Debug option for detecting invalid chunk data packets\n\n## Changes\n- Use worlds for thread tests instead of minecraft server to improve compatibility with the worldthreader mod\n\n## Fixes\n- Fix missing default return value in LithiumHashPalette copies\n- Fix incorrect handling of fire, lava and soul fire in experimental block touching optimization\n- Fix compatibility with Moonrise",
+      "changelog_url": null,
+      "date_published": "2025-02-20T00:24:04.842003Z",
+      "downloads": 448917,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MuNiul4n",
+          "hashes": {
+            "sha512": "ed33ab7cc57950ec8b04b41f751720a3f903158093f1940b1a0bdb938b94bfaf398fc238014fee4523c9407fd3ff2377ee2e09cf7f7a349bfc8fc9e5a0b55a19",
+            "sha1": "8f5af483ccc65634133e94c72056a50a05a2f0c2"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/3HMQZXbw/lithium-fabric-0.14.8%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.14.8+mc1.21.1.jar",
+          "primary": true,
+          "size": 765859,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "NHA11tBg",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.7 for Fabric",
+      "version_number": "mc1.21.1-0.14.7-fabric",
+      "changelog": "Lithium 0.14.7 for Minecraft 1.21.1 fixes a few mod compatibility issues.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.14.7/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Fixes\n- Fix crash with level wrappers from various mods\n- Fix crash with moonrise: Set require=0 for ChunkStatusTracker Inject",
+      "changelog_url": null,
+      "date_published": "2025-01-20T22:01:50.836299Z",
+      "downloads": 1447737,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "IlBuvYaN",
+          "hashes": {
+            "sha512": "fe4b0d451ee40db68986395f205e38b9c6c8ea1c01c67bb65c166adf91945266a374b449f85d41741730d5957bce17e2f396affc04f38f50a6d9562143565053",
+            "sha1": "a3eefce7079418f6cbe6d2764ed1f19849ae8cef"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NHA11tBg/lithium-fabric-0.14.7%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.14.7+mc1.21.1.jar",
+          "primary": true,
+          "size": 749270,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "cU1Q9UWL",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.7 for Neoforge",
+      "version_number": "mc1.21.1-0.14.7-neoforge",
+      "changelog": "Lithium 0.14.7 for Minecraft 1.21.1 fixes a few mod compatibility issues.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.14.7/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Fixes\n- Fix crash with level wrappers from various mods\n- Fix crash with moonrise: Set require=0 for ChunkStatusTracker Inject",
+      "changelog_url": null,
+      "date_published": "2025-01-20T22:01:50.824443Z",
+      "downloads": 121227,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TCHxAjUP",
+          "hashes": {
+            "sha512": "0d95f55852f3a0623797e2ebd9d4047987ffa7656f66d636e4c04efb1491d540f92914332a0f6cf16be4fdfa949ac0da9e4274b9717df366c9ffe18479375330",
+            "sha1": "d6b55fed1004716f81d2929a26c086d0d06f6375"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/cU1Q9UWL/lithium-neoforge-0.14.7%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.14.7+mc1.21.1.jar",
+          "primary": true,
+          "size": 723210,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "GtRRmh9W",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.6 for Fabric",
+      "version_number": "mc1.21.1-0.14.6-fabric",
+      "changelog": "Lithium 0.14.6 for Minecraft 1.21.1 disables the LithiumHashPalette optimization by default due to many users reporting issues.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.14.6/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Automatic release publishing workflow\n\n## Changes\n- Disable `mixin.chunk.palette` (LithiumHashPalette) by default.",
+      "changelog_url": null,
+      "date_published": "2025-01-18T15:24:37.640891Z",
+      "downloads": 34132,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "39GNTXU7",
+          "hashes": {
+            "sha512": "2c92621e49bd4dc64790409dfcd068b149b828122daca3729179bc4bb60daca432b3b8089fe052377bcc47ff12255fd4a837de9de9d05faf299a94ea8c72a5ff",
+            "sha1": "db658b0bb3a4e6034440f4752f409181536ab3ad"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GtRRmh9W/lithium-fabric-0.14.6%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.14.6+mc1.21.1.jar",
+          "primary": true,
+          "size": 749258,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "fyVzZaMa",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.6 for Neoforge",
+      "version_number": "mc1.21.1-0.14.6-neoforge",
+      "changelog": "Lithium 0.14.6 for Minecraft 1.21.1 disables the LithiumHashPalette optimization by default due to many users reporting issues.\n\nMake sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium/blob/mc1.21.1-0.14.6/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Automatic release publishing workflow\n\n## Changes\n- Disable `mixin.chunk.palette` (LithiumHashPalette) by default.",
+      "changelog_url": null,
+      "date_published": "2025-01-18T15:24:37.587664Z",
+      "downloads": 2655,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ajhyH3nA",
+          "hashes": {
+            "sha1": "6696dd5f672953eb71aa3dddd36e6fe600e09dba",
+            "sha512": "2840241c8208aecdb5e13b125abaf8a26606d36ac876d8d5a26ee9d8755cc2fee190b48fe0c355286d15e06f21a28a5f3e232306784ef7b3ab87e31e953a5d51"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fyVzZaMa/lithium-neoforge-0.14.6%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.14.6+mc1.21.1.jar",
+          "primary": true,
+          "size": 723190,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "rzC1olaY",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.5 for Neoforge",
+      "version_number": "mc1.21.1-0.14.5-neoforge",
+      "changelog": "Lithium 0.14.5 is a backport release for Minecraft 1.21.1 which fixes a server crash that can be caused deliberately by clients. Make sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/mc1.21.1-0.14.5/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Replace streams in Tempting Sensor\n- Add debug info for LithiumHashPalette\n\n## Changes\n- Use fast iterator in Brain outdated memory removal\n- Handle BlockTag changes for pathnode and block predicates\n\n## Fixes\n- Fix server crash that can be caused deliberatly by clients (Thanks to Drex for reporting)\n- Keep block entity tickers subscribed to world border changes on size-unrelated world border events\n- Fix game event dispatcher optimization by using chunk status tracking\n- Fix block entity initialization issues\n- Neoforge: Avoid initializing hopper's entity tracking during sleeping attempt\n- Neoforge: Update hopper optimization for new neoforge version",
+      "changelog_url": null,
+      "date_published": "2025-01-14T21:09:49.076622Z",
+      "downloads": 3888,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WvMwjszW",
+          "hashes": {
+            "sha1": "62c1a47f2426d9102f996c69144acefa64beecbc",
+            "sha512": "d90de1bf86ede071ff2cab50de3e9765644a8f9286677be930fe94928c8a69311eca4c5a874c7f647bb8b498963bef8373fb49ca1988acd17b1be01087dbbe74"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/rzC1olaY/lithium-neoforge-0.14.5%2Bmc1.21.1.jar",
+          "filename": "lithium-neoforge-0.14.5+mc1.21.1.jar",
+          "primary": true,
+          "size": 723214,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "GGl8GkvX",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.5 for Fabric",
+      "version_number": "mc1.21.1-0.14.5-fabric",
+      "changelog": "Lithium 0.14.5 is a backport release for Minecraft 1.21.1 which fixes a server crash that can be caused deliberately by clients. Make sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/mc1.21.1-0.14.5/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Additions\n- Replace streams in Tempting Sensor\n- Add debug info for LithiumHashPalette\n\n## Changes\n- Use fast iterator in Brain outdated memory removal\n- Handle BlockTag changes for pathnode and block predicates\n\n## Fixes\n- Fix server crash that can be caused deliberatly by clients (Thanks to Drex for reporting)\n- Keep block entity tickers subscribed to world border changes on size-unrelated world border events\n- Fix game event dispatcher optimization by using chunk status tracking\n- Fix block entity initialization issues\n- Neoforge: Avoid initializing hopper's entity tracking during sleeping attempt\n- Neoforge: Update hopper optimization for new neoforge version",
+      "changelog_url": null,
+      "date_published": "2025-01-14T21:09:44.142065Z",
+      "downloads": 47278,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CuATB5ZM",
+          "hashes": {
+            "sha1": "760f3b66804bad15402d02cf6dda434f2a78ca69",
+            "sha512": "60997f16ad12bd602ce0bd1ae3ab5aa94f8f115b3b78c37d09e74e1a6af43b68de8d007b14d9b4b9d1996c892d783ade160b9ace80c30f6de81cde5ce2d177e1"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GGl8GkvX/lithium-fabric-0.14.5%2Bmc1.21.1.jar",
+          "filename": "lithium-fabric-0.14.5+mc1.21.1.jar",
+          "primary": true,
+          "size": 749270,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "dQrmTeoA",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.3 for Neoforge",
+      "version_number": "mc1.21.1-0.14.3-neoforge",
+      "changelog": "Lithium 0.14.3 for Minecraft 1.21.1 improves mod compatibility. Make sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/mc1.21.1-0.14.3/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Changes\n- Mod compatibility improvements, mostly on the neoforge platform",
+      "changelog_url": null,
+      "date_published": "2024-12-03T18:47:41.353090Z",
+      "downloads": 54642,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MYGB7ook",
+          "hashes": {
+            "sha1": "d1dcbbc60501081efe368a4869175b631300e978",
+            "sha512": "027aafbb4f1aa220b3b8758da2337cc8033af98e25bb1c552beb71687a2e0525cfe0909c4b849e095d56daef6b34bb362b366a122908b97d0ca0b058b397e857"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/dQrmTeoA/lithium-neoforge-0.14.3-snapshot%2Bmc1.21.1-build.92.jar",
+          "filename": "lithium-neoforge-0.14.3-snapshot+mc1.21.1-build.92.jar",
+          "primary": true,
+          "size": 718516,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "9xfJi96s",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.3 for Fabric",
+      "version_number": "mc1.21.1-0.14.3-fabric",
+      "changelog": "Lithium 0.14.3 for Minecraft 1.21.1 improves mod compatibility. Make sure to take a backup of your world before using the mod and please report any bugs and mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/mc1.21.1-0.14.3/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Changes\n- Mod compatibility improvements, mostly on the neoforge platform",
+      "changelog_url": null,
+      "date_published": "2024-12-03T18:47:09.495159Z",
+      "downloads": 554795,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "YsJLmuj7",
+          "hashes": {
+            "sha1": "7e1aa211a2cbd9a6daa3091ffd3392758c9968be",
+            "sha512": "d46a47c4ac7372b5bae629e5910a20eff5b3064053d2441760aa8c42095d8173a85d6fbb624ffc10c68fc954579630c56f55dbcf392fb0253b5c3ffd096ee0a0"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar",
+          "filename": "lithium-fabric-0.14.3-snapshot+mc1.21.1-build.92.jar",
+          "primary": true,
+          "size": 744554,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "frXUdgvL",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.2 for Fabric",
+      "version_number": "mc1.21.1-0.14.2-fabric",
+      "changelog": "This is a backport of 0.14.2 for Minecraft 1.21.1. Make sure to take a backup of your world before using the mod and please report any mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/mc1.21.1-0.14.2/lithium-mixin-config.md) and how to disable it when encountering a problem.",
+      "changelog_url": null,
+      "date_published": "2024-11-16T22:48:41.210092Z",
+      "downloads": 296981,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "yke9AJcv",
+          "hashes": {
+            "sha512": "f47cc7ce94c9e63202c940e60a8b68d2c3cdcd3eafbc8625af2596eccc02ce3712794b812c24ca88eed1a3bde0129cb3c8a54236bc3a85547ffe70db7781f225",
+            "sha1": "5659949861163c0bd991059f77260829f436c031"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/frXUdgvL/lithium-fabric-0.14.2-snapshot%2Bmc1.21.1-build.90.jar",
+          "filename": "lithium-fabric-0.14.2-snapshot+mc1.21.1-build.90.jar",
+          "primary": true,
+          "size": 745651,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "KhdehJ6l",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.2 for Neoforge",
+      "version_number": "mc1.21.1-0.14.2-neoforge",
+      "changelog": "This is a backport of 0.14.2 for Minecraft 1.21.1. Make sure to take a backup of your world before using the mod and please report any mod compatibility issues at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/mc1.21.1-0.14.2/lithium-mixin-config.md) and how to disable it when encountering a problem.",
+      "changelog_url": null,
+      "date_published": "2024-11-16T22:48:35.670673Z",
+      "downloads": 12326,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zsxTEcTP",
+          "hashes": {
+            "sha512": "c766ab0a10d5c00340c50f4aba31f9db2928de6bd2c42f83b0f289336b198c53effad883423ef56adfa01825b20673e153aa8d0b6ad9e6e06a68b0fcc5f01b44",
+            "sha1": "e72f983955c36f6c3e2ccd09d41659310241344a"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/KhdehJ6l/lithium-neoforge-0.14.2-snapshot%2Bmc1.21.1-build.90.jar",
+          "filename": "lithium-neoforge-0.14.2-snapshot+mc1.21.1-build.90.jar",
+          "primary": true,
+          "size": 721315,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "BrMIoIMv",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.0 (Beta 1) for Neoforge",
+      "version_number": "mc1.21.1-0.14.0-beta.1-neoforge",
+      "changelog": "This is the first experimental release for Lithium 0.14.0 which supports both the fabric and neoforge modloader. Make sure to take a backup of your world before using this experimental version. In case you find any bugs, please report them at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/b39a6b67ba3af96dacca00660c7aa0d56ed7888f/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Changes\n\n- Adapt almost all optimizations and settings to work with neoforge\n",
+      "changelog_url": null,
+      "date_published": "2024-10-16T16:33:07.593028Z",
+      "downloads": 26619,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "y1t56Imq",
+          "hashes": {
+            "sha1": "6b9a3fe518fd1b834223c4121203f18e700cb25f",
+            "sha512": "773c7f7c34e05086c34acbcf7e5f3aede8c7e53cbf6198882a8025eb48ac45c559af8b518de0be69607460d03c0e1981cc58801201fb4a2c77367b3170b59d87"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/BrMIoIMv/lithium-neoforge-0.14.0-snapshot%2Bmc1.21.1-build.88.jar",
+          "filename": "lithium-neoforge-0.14.0-snapshot+mc1.21.1-build.88.jar",
+          "primary": true,
+          "size": 717204,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "2mbrKlX3",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.14.0 (Beta 1) for Fabric",
+      "version_number": "mc1.21.1-0.14.0-beta.1-fabric",
+      "changelog": "This is the first experimental release for Lithium 0.14.0 which supports both the fabric and neoforge modloader. Make sure to take a backup of your world before using this experimental version. In case you find any bugs, please report them at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check the [description of each optimization](https://github.com/CaffeineMC/lithium-fabric/blob/b39a6b67ba3af96dacca00660c7aa0d56ed7888f/lithium-mixin-config.md) and how to disable it when encountering a problem.\n\n## Changes\n\n- Adapt almost all optimizations and settings to work with neoforge\n",
+      "changelog_url": null,
+      "date_published": "2024-10-16T16:32:00.250850Z",
+      "downloads": 540666,
+      "version_type": "beta",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HYG7KAei",
+          "hashes": {
+            "sha1": "a1fc520d6458c3bb592ac46d3d62cf76392c3618",
+            "sha512": "e7ff451152caa994521736b3144e7b3edc98ffee0e04bb8ce4381eb777d64fac2d4e9edf6928303c2228c02c5d09147d369e71c12b45c39b324daf6916e6d0a1"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2mbrKlX3/lithium-fabric-0.14.0-snapshot%2Bmc1.21.1-build.88.jar",
+          "filename": "lithium-fabric-0.14.0-snapshot+mc1.21.1-build.88.jar",
+          "primary": true,
+          "size": 767496,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "9x0igjLz",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.13.1",
+      "version_number": "mc1.21.1-0.13.1",
+      "changelog": "Lithium 0.13.1 fixes one bug and a compatibility issue with carpet mod.\n\n## Fixes\n- fix: incompatability with fabric-carpet's scarpet explosion event. (#565) (Thanks to wendavid552)\n- fix: disable broken mixin.world.game_events.dispatch optimization by default",
+      "changelog_url": null,
+      "date_published": "2024-09-20T13:57:33.369924Z",
+      "downloads": 836470,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "1osaN21J",
+          "hashes": {
+            "sha512": "4250a630d43492da35c4c197ae43082186938fdcb42bafcb6ccad925b79f583abdfdc17ce792c6c6686883f7f109219baecb4906a65d524026d4e288bfbaf146",
+            "sha1": "3dde05dcd5afab3ff6ca77c08f4c82d3a064f3c6"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/9x0igjLz/lithium-fabric-mc1.21.1-0.13.1.jar",
+          "filename": "lithium-fabric-mc1.21.1-0.13.1.jar",
+          "primary": true,
+          "size": 752804,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_or_server_prefers_both",
+      "id": "5szYtenV",
+      "project_id": "gvQqBUqZ",
+      "author_id": "uhPSqlnd",
+      "featured": false,
+      "name": "Lithium 0.13.0",
+      "version_number": "mc1.21.1-0.13.0",
+      "changelog": "Lithium 0.13.0 is the first release for 1.21.1. It fixes an issue and adds two new optimizations for goats and frogs.\n\n## Additions\n- new: LongJumpTask random weighted choice optimization\n- new: nonvanilla FrogAttackablesSensor optimization (enable with `mixin.minimal_nonvanilla=true` in the lithium.properties file. The frog target selection will deviate slightly from vanilla behavior.)\n\n## Fixes and Changes\n- fix: Hoppers not transferring to ChiseledBookshelfBlockEntity when multiple books are in a stack\n- change: replace hashmap in brain collection optimization\n- change: enable explosion exposure optimizations by default",
+      "changelog_url": null,
+      "date_published": "2024-08-11T17:21:32.983114Z",
+      "downloads": 744894,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "vi47i3lJ",
+          "hashes": {
+            "sha1": "25ab173627db3ed587380ddf635844d7a97ec6c4",
+            "sha512": "d4bd9a9cc37daad8828aa4fa9ca20e4f89d10e30cf6daf4546ef4cf4a684ba21ea0865a9c23cef9d1f4348e9ba4aca9aaca3db9f99534fc610fa78a5ca0bf151"
+          },
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5szYtenV/lithium-fabric-mc1.21.1-0.13.0.jar",
+          "filename": "lithium-fabric-mc1.21.1-0.13.0.jar",
+          "primary": true,
+          "size": 752726,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://api.modrinth.com/v2/project/FoVacERa",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:12:00.832218+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "required",
+    "game_versions": [
+      "1.20.1",
+      "1.21.1"
+    ],
+    "environment": [
+      "client_and_server"
+    ],
+    "id": "FoVacERa",
+    "slug": "lionfish-api",
+    "project_type": "mod",
+    "team": "jPBkCsZc",
+    "organization": null,
+    "title": "Lionfish-API",
+    "description": "Very Light Animation Api",
+    "body": "L_Ender's Mod's new Animation api\n\nThis Mod base API of L_Ender's Cataclysm\n\nThe base is mowzie's mob's Internal animation api and citadel\n\nThe Citadel added a lot of miscellaneous functions, so it became heavy\nIt was created because there might be a delay in updating",
+    "body_url": null,
+    "published": "2024-04-15T01:03:33.202953Z",
+    "updated": "2026-06-30T09:52:22.341109Z",
+    "approved": "2024-05-04T06:49:56.321601Z",
+    "queued": "2024-05-03T22:39:25.821833Z",
+    "status": "approved",
+    "requested_status": "approved",
+    "moderator_message": null,
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "downloads": 4517810,
+    "followers": 118,
+    "categories": [
+      "library",
+      "utility"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "forge",
+      "neoforge"
+    ],
+    "versions": [
+      "G3m5juql",
+      "FaK9Vh36",
+      "EuxMIyMd",
+      "h1YW5QgP",
+      "CPftDBcY",
+      "mWkKVbyd",
+      "fTRMVgyZ"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/FoVacERa/7b51d905c1cb378b9fa99327107b9d518effe54e.png",
+    "raw_icon_url": "https://cdn.modrinth.com/data/FoVacERa/7b51d905c1cb378b9fa99327107b9d518effe54e.png",
+    "issues_url": null,
+    "source_url": "https://github.com/lender544/Lionfish-API",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/QK4YRaFHzA",
+    "donation_urls": [],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/FoVacERa/images/7b51d905c1cb378b9fa99327107b9d518effe54e.png",
+        "raw_url": "https://cdn.modrinth.com/data/FoVacERa/images/7b51d905c1cb378b9fa99327107b9d518effe54e.png",
+        "featured": false,
+        "title": "Lionfish API",
+        "description": "Lionfish API, Cataclysm's API",
+        "created": "2024-04-29T11:02:21.459426Z",
+        "ordering": 0
+      }
+    ],
+    "color": 1057836,
+    "thread_id": "p9PCV4Jx",
+    "monetization_status": "monetized"
+  }
+}

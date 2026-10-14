@@ -1,0 +1,306 @@
+{
+  "AE2-Things-1.2.1.jar": {
+    "status": "native_prerelease",
+    "note": "Нужен AE2; диапазон версий в целевом JAR ещё не проверен. Не путать с одноимённым Fabric-проектом ProjectET.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.4.2-beta",
+    "channel": "beta",
+    "alternative": null
+  },
+  "betterfpsdist-1.20.1-6.0.jar": {
+    "status": "native_release",
+    "note": "Подтверждена публикация для 1.21.1; отношения зависимостей проверить по JAR.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-6.1",
+    "channel": "release",
+    "alternative": null
+  },
+  "biomemusic-1.20.1-3.5.jar": {
+    "status": "native_release",
+    "note": "Подтверждён кандидат, не утверждение о самой новой версии.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/biome-music/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-4.1",
+    "channel": "release",
+    "alternative": null
+  },
+  "buildinggadgets2-1.0.8.jar": {
+    "status": "native_release",
+    "note": "Подтверждён NeoForge 1.21.1.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.3.9",
+    "channel": "release",
+    "alternative": null
+  },
+  "Chunk-Pregenerator-1.20-4.4.4.jar": {
+    "status": "native_release",
+    "note": "Страница файла явно включает 1.21.1.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "NeoForge-1.21-4.5.4",
+    "channel": "release",
+    "alternative": null
+  },
+  "cosmeticarmorreworked-1.20.1-v1a.jar": {
+    "status": "native_release",
+    "note": "Подтверждён NeoForge 1.21.1.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-v1-neoforge",
+    "channel": "release",
+    "alternative": null
+  },
+  "cupboard-1.20.1-2.7.jar": {
+    "status": "native_release",
+    "note": "Библиотека; проверить требования потребителей.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-4.2",
+    "channel": "release",
+    "alternative": null
+  },
+  "Disenchanting-forge-1.20.1-2.2.4.jar": {
+    "status": "native_release",
+    "note": "Подтверждён NeoForge 1.21.1.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/disenchantingforge/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-2.3.0",
+    "channel": "release",
+    "alternative": null
+  },
+  "ftb-library-forge-2001.2.13.jar": {
+    "status": "native_release",
+    "note": "Проверить зависимости и диапазоны версий FTB по целевым JAR.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "2101.1.37",
+    "channel": "release",
+    "alternative": null
+  },
+  "ftb-teams-forge-2001.3.2.jar": {
+    "status": "native_release",
+    "note": "Связка FTB Library/Teams требует проверки диапазонов.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "2101.1.11",
+    "channel": "release",
+    "alternative": null
+  },
+  "ftbbackups2-forge-1.20-1.0.23.jar": {
+    "status": "native_release",
+    "note": "Именно 1.0.28 явно отмечена 1.21.1; 1.0.29 с меткой только 1.21 автоматически не выбрана.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.0.28 [NeoForge]",
+    "channel": "release",
+    "alternative": null
+  },
+  "ironchest-1.20.1-14.4.4.jar": {
+    "status": "native_release",
+    "note": "CurseForge явно включает 1.21.1, хотя Modrinth не дал точного совпадения тега.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21-neoforge-16.0.7",
+    "channel": "release",
+    "alternative": null
+  },
+  "jerintegration-5.5.0.jar": {
+    "status": "native_release",
+    "note": "Нужен JER; выбранный кандидат самого JER имеет канал beta.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/jer-integration/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "6.5.0",
+    "channel": "release",
+    "alternative": null
+  },
+  "lionfishapi-2.4-Fix.jar": {
+    "status": "native_release",
+    "note": "Нужна Cataclysm; кандидат также найден в графе Modrinth.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/lionfish-api/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "3.1",
+    "channel": "release",
+    "alternative": null
+  },
+  "polyeng-forge-0.1.1-1.20.1.jar": {
+    "status": "native_release",
+    "note": "CurseForge явно включает 1.21.1; проверить совместную работу с AE2 и Polymorph.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "0.4.1",
+    "channel": "release",
+    "alternative": null
+  },
+  "celestisynth-1.20.1-1.3.3-all.jar": {
+    "status": "native_release",
+    "note": "Официальный порт, на который ссылается исходный проект. Нужны GeckoLib и PlayerAnimator; последний beta.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/celestisynth-1-21-1/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-1.3.9",
+    "channel": "release",
+    "alternative": null
+  },
+  "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar": {
+    "status": "replacement_review",
+    "note": "Better Tooltips 1.0.3: отдельный NeoForge-проект, замена требует согласования.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": "better_tooltips"
+  },
+  "AutoTranslation-1.2.1+mc1.20.2-forge.jar": {
+    "status": "replacement_review",
+    "note": "AutoTranslation Next 2.1.0: отдельное продолжение, не подтверждено полное равенство функций.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": "autotranslation-next"
+  },
+  "canary-mc1.20.1-0.3.3.jar": {
+    "status": "replacement_review",
+    "note": "Lithium имеет собственный NeoForge-релиз; замена Canary требует согласования.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": "lithium"
+  },
+  "jeiintegration_1.20.1-10.0.0.jar": {
+    "status": "replacement_review",
+    "note": "JEI Integration Reborn 1.0.2: отдельный проект.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": "jei-integration-reborn"
+  },
+  "eeeabsmobs-1.20.1-0.97-Fix.jar": {
+    "status": "replacement_review",
+    "note": "Неофициальный порт: API предлагает 1.0.2 для 1.21.1; проверить JAR и содержимое перед включением.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": "eeeabs-mobs-unofficial"
+  },
+  "alexscaves-2.0.2.jar": {
+    "status": "replacement_review",
+    "note": "Неофициальный порт требует Citadel (Unofficial Port), а не автоматически выбранный официальный Citadel.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/alexs-caves-unofficial-port/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-2.0.10",
+    "channel": "release",
+    "alternative": null
+  },
+  "alexsmobs-1.22.9.jar": {
+    "status": "replacement_review",
+    "note": "Неофициальный порт требует Citadel (Unofficial Port); нельзя установить две библиотеки с одинаковым modId.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-1-21-1-port/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.21.1-1.22.17",
+    "channel": "release",
+    "alternative": null
+  },
+  "Botania-1.20.1-450-FORGE.jar": {
+    "status": "replacement_review",
+    "note": "Fork меняет внутренности и Java packages; автор предупреждает о несовместимости аддонов. Требует NeoForge 21.1.240+, Java 21, Patchouli 1.21.1-93+. Совместимость Applied Botanics не подтверждена.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/botania-revived/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "1.0.2",
+    "channel": "release",
+    "alternative": null
+  },
+  "bloodmagic-1.20.1-3.3.5-47.jar": {
+    "status": "replacement_review",
+    "note": "Несмотря на метку Release, автор описывает порт как ALPHA / WORK IN PROGRESS. Для стабильной сборки считать экспериментальным.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/blood-magic-unofficial-port/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "v1.1",
+    "channel": "release",
+    "alternative": null
+  },
+  "Dungeon Now Loading-forge-1.20.1-2.11.jar": {
+    "status": "replacement_review",
+    "note": "Неофициальный Tricky Trials Port. Подтверждён кандидат, не гарантируется последняя версия.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading-1-21-1-port/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "2.11.3 NeoForge",
+    "channel": "release",
+    "alternative": null
+  },
+  "BotanicalMachinery-1.20.1-3.0.7.jar": {
+    "status": "no_verified_build",
+    "note": "Опубликованная версия 1.21.1 не найдена; перенос функций не решён.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/botanical-machinery/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "Ez-ae2-universal.jar": {
+    "status": "no_verified_build",
+    "note": "Опубликованная версия 1.21.1 не найдена.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/ez-ae2/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "ItemProductionLib-1.20.1-1.0.2a-all.jar": {
+    "status": "no_verified_build",
+    "note": "Версия 1.21.1 не найдена; возможность убрать библиотеку зависит от нового состава.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/item-production-lib/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "koremods-modlauncher-1.0.0.jar": {
+    "status": "no_verified_build",
+    "note": "Версия 1.21.1 не найдена; необходимость библиотеки надо пересмотреть по новому составу.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "Mantle-1.20.1-1.11.79.jar": {
+    "status": "no_verified_build",
+    "note": "Опубликованная версия 1.21.1 не найдена; не переносить старую библиотеку без потребителя.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "memoryleakfix-forge-1.17+-1.1.5.jar": {
+    "status": "no_verified_build",
+    "note": "Версия 1.21.1 не найдена; отсутствие потребности в старом исправлении ещё не доказано.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "piercingpaxels-1.0.12.jar": {
+    "status": "no_verified_build",
+    "note": "Опубликованная версия 1.21.1 не найдена; функциональная замена не согласована.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "starlight-1.1.2+forge.1cda73c.jar": {
+    "status": "no_verified_build",
+    "note": "Версия 1.21.1 не найдена; старый Forge JAR не является кандидатом для NeoForge 1.21.1.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "traveloptics-6.1.0-1.20.1.jar": {
+    "status": "deprecated",
+    "note": "Найдена только Alpha-4.4.0.1 с явной пометкой DEPRECATED DONT USE. Поддерживаемый перенос не подтверждён.",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells/files/all?page=1&pageSize=20&version=1.21.1",
+    "version": "Alpha-4.4.0.1",
+    "channel": "alpha",
+    "alternative": null
+  },
+  "terramity-0.9.8-forge-1.20.1.jar": {
+    "status": "excluded",
+    "note": "Исключение уже согласовано пользователем.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": null
+  },
+  "EnigmaticLegacy-2.30.1.jar": {
+    "status": "approved_replacement",
+    "note": "Согласован переход на Enigmatic Legacy Plus. Две исходные строки ведут к одному целевому моду; равенство всех функций Addons не подтверждено.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": "enigmaticlegacy+"
+  },
+  "enigmaticaddons-1.2.5.jar": {
+    "status": "approved_replacement",
+    "note": "Согласован переход на Enigmatic Legacy Plus. Две исходные строки ведут к одному целевому моду; равенство всех функций Addons не подтверждено.",
+    "source_url": null,
+    "version": null,
+    "channel": "release",
+    "alternative": "enigmaticlegacy+"
+  }
+}

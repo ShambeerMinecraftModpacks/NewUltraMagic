@@ -15,7 +15,7 @@ CACHE = OUT / 'modrinth-cache'
 CACHE.mkdir(parents=True, exist_ok=True)
 API = 'https://api.modrinth.com/v2/'
 HEADERS = {'User-Agent': 'NewUltraMagic-CompatibilityAudit/1.0', 'Content-Type': 'application/json'}
-CUTOFF = '2026-10-13T20:59:59Z'
+CUTOFF = '2026-10-14T20:59:59Z'
 
 
 def request(endpoint, data=None):
@@ -70,7 +70,9 @@ def inspect_project(project_id):
     for loader in ['neoforge', 'fabric', 'forge']:
         vs = eligible(versions, loader)
         stable = [v for v in vs if v['version_type'] == 'release']
-        result['candidates'][loader] = {'latest': candidate(vs[0]) if vs else None, 'release': candidate(stable[0]) if stable else None, 'count': len(vs)}
+        beta = [v for v in vs if v['version_type'] == 'beta']
+        preferred = (stable or beta or vs)
+        result['candidates'][loader] = {'latest': candidate(vs[0]) if vs else None, 'release': candidate(stable[0]) if stable else None, 'preferred': candidate(preferred[0]) if preferred else None, 'count': len(vs)}
     return result
 
 
@@ -119,7 +121,7 @@ def run():
                 row['search_candidates'] = [{k: hit.get(k) for k in ['project_id', 'slug', 'title', 'author', 'versions']} for hit in hits]
             except Exception as e:
                 row['search_error'] = str(e)
-    result = {'target': {'minecraft': '1.21.1', 'loader': 'neoforge'}, 'checked_date': '2026-10-13', 'cutoff_utc': CUTOFF, 'rows': rows}
+    result = {'target': {'minecraft': '1.21.1', 'loader': 'neoforge'}, 'checked_date': '2026-10-14', 'cutoff_utc': CUTOFF, 'rows': rows}
     (OUT / 'modrinth-audit.json').write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
     unresolved = [{k: r.get(k) for k in ['source_file', 'names', 'source_links', 'search_candidates', 'error']} for r in rows if not r.get('project')]
     (OUT / 'unresolved.json').write_text(json.dumps(unresolved, ensure_ascii=False, indent=2), encoding='utf-8')

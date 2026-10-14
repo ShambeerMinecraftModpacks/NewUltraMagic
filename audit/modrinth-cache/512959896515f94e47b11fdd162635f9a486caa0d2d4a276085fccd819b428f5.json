@@ -1,0 +1,1316 @@
+{
+  "url": "https://api.modrinth.com/v2/project/aaRl8GiW/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:12:01.532612+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "EE1FHDyD",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.11",
+      "version_number": "21.1.11",
+      "changelog": "- Add additional safety for invalid or corrupted config files.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-09-04T03:19:44.476257Z",
+      "downloads": 2298937,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KMiujx23",
+          "hashes": {
+            "sha512": "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5",
+            "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "primary": true,
+          "size": 84812,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "jJsVYjnQ",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.11",
+      "version_number": "21.1.11",
+      "changelog": "- Add additional safety for invalid or corrupted config files.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-09-04T03:19:40.883257Z",
+      "downloads": 29907,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "D2v1jugk",
+          "hashes": {
+            "sha1": "6249fe489763f7821f695694fc94c0372a92779e",
+            "sha512": "2b95b9bb3d24f9273e2dc79e0c0cd812722db71226f1026c9c85d8f3a0c589a98345a13b6232b216c096067ca13ca9a882185bbcee2840729a6e802e5f830f6f"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/jJsVYjnQ/PrickleMC-forge-1.21.1-21.1.11.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.11.jar",
+          "primary": true,
+          "size": 84720,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "Ef7P6Rb7",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.11",
+      "version_number": "21.1.11",
+      "changelog": "- Add additional safety for invalid or corrupted config files.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-09-04T03:19:37.319066Z",
+      "downloads": 5133230,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "AKSrhAA7",
+          "hashes": {
+            "sha512": "d161b19004c72f87763d7ca12b845482e656535991a779211cad248f2646fe83c985f26bbe910290fa514260c7a6bdb5f1dac59bb4774c93c513409a1c3cab07",
+            "sha1": "6d6032880be3b6469c5615fd2ea160bf5eb93ac2"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Ef7P6Rb7/prickle-fabric-1.21.1-21.1.11.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.11.jar",
+          "primary": true,
+          "size": 87229,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "jGBdTRi5",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.10",
+      "version_number": "21.1.10",
+      "changelog": "- Revert previous changes. Please update.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-08-21T08:40:18.229968Z",
+      "downloads": 49129,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ofMRxJeP",
+          "hashes": {
+            "sha1": "7a6b8e3137bc678579ec929bf1b63a40fb8dc826",
+            "sha512": "26a441f853cd3a7f2fee1456921f8afff88eeb7e4e332cda8e6cd934fa9c2214792533302b0eec2abbea555e9f49f21e2e0246888811f7a3a15d3f467e84b293"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/jGBdTRi5/prickle-neoforge-1.21.1-21.1.10.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.10.jar",
+          "primary": true,
+          "size": 83726,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "SFWe9gfH",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.10",
+      "version_number": "21.1.10",
+      "changelog": "- Revert previous changes. Please update.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-08-21T08:40:14.603484Z",
+      "downloads": 846,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "8mJiy4Rp",
+          "hashes": {
+            "sha1": "e866975686b0ad79903e57e3b4e1674f0c8c06d7",
+            "sha512": "dc5e3af58824fffa443b817d2b1b307cfe543b85463131e5d560ee6f8877dc86e5df0de16ad4f2a74914f8c151fe0accb0c09157ffe4c9b57ace285f99f52727"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/SFWe9gfH/PrickleMC-forge-1.21.1-21.1.10.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.10.jar",
+          "primary": true,
+          "size": 83633,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "FV8iOPOH",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.10",
+      "version_number": "21.1.10",
+      "changelog": "- Revert previous changes. Please update.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-08-21T08:40:10.991853Z",
+      "downloads": 37028,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "NB6BzMPN",
+          "hashes": {
+            "sha1": "8e53d5329c4750c494399ccea4ab0e2de5a68106",
+            "sha512": "8dd98a0cab0d479acba9534ea4d525b56e90a1e3e69716fa0823c2b5b4b73bdd3b76226913f1610689f334f921bff95dc843ab30c8d355192c4512ef2c9da8bb"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/FV8iOPOH/prickle-fabric-1.21.1-21.1.10.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.10.jar",
+          "primary": true,
+          "size": 86155,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "6PUPR9D7",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.9",
+      "version_number": "21.1.9",
+      "changelog": "- Remove file pre-creation checks.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-08-21T01:10:50.538794Z",
+      "downloads": 881,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "HBypsJJU",
+          "hashes": {
+            "sha512": "e218294f298333994b1efb066d765c470c09e39008a267b3f4f5d453f41b0cad19225cfc31adde165a28e09c75dc96fecced23baeae0e6e2c7b73b954bec90cd",
+            "sha1": "404d9e08b2c980e10c609021b6a951affe4951c7"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/6PUPR9D7/prickle-neoforge-1.21.1-21.1.9.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.9.jar",
+          "primary": true,
+          "size": 83529,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "g7omsvVy",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.9",
+      "version_number": "21.1.9",
+      "changelog": "- Remove file pre-creation checks.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-08-21T01:10:47.344298Z",
+      "downloads": 94,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "hO9xoNQX",
+          "hashes": {
+            "sha512": "bab9913c9d5c947a04365950bc224c378785521bb5756fe47c1dc5dc10fc98c75fb9637dac6b71ae3b38d56df7e4488dc17496dc8dd70c5038f232207924c1b3",
+            "sha1": "7e338b98449e745c4377ff5069609da97d064c46"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/g7omsvVy/PrickleMC-forge-1.21.1-21.1.9.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.9.jar",
+          "primary": true,
+          "size": 83437,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "fjoLKIBT",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.9",
+      "version_number": "21.1.9",
+      "changelog": "- Remove file pre-creation checks.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-08-21T01:10:44.091425Z",
+      "downloads": 863,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "nFivfDZg",
+          "hashes": {
+            "sha512": "d66c0bdfcc9c027fa0deecbc5178f3c08b6abc335516006965fc095e2634d4ec6af56c6954e47903a0a20bb64508aa20550ed6a46e3b3fd5b9eb33faaeed6164",
+            "sha1": "a519638376955a3a577c95b861ed575861751885"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/fjoLKIBT/prickle-fabric-1.21.1-21.1.9.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.9.jar",
+          "primary": true,
+          "size": 85957,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "u5HZtlyZ",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.8",
+      "version_number": "21.1.8",
+      "changelog": "- Change publication settings.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T07:50:24.913681Z",
+      "downloads": 550790,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7L0wfxhI",
+          "hashes": {
+            "sha1": "be1772b863a6f3e141e2d587977e2c83fc0b0b43",
+            "sha512": "40025298c04099ac3f61f6d3095a03f949e46e6508414372662499f51e1161dcf99563f8ca2f3686755fdceba479da1aa653d247da5ec12a883b31741fcb6aa7"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/u5HZtlyZ/prickle-neoforge-1.21.1-21.1.8.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.8.jar",
+          "primary": true,
+          "size": 83725,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "AD8XMDqK",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.8",
+      "version_number": "21.1.8",
+      "changelog": "- Change publication settings.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T07:50:21.508446Z",
+      "downloads": 4803,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "RYHoLbyK",
+          "hashes": {
+            "sha1": "e485db286ef71412668abfd4ca21aff7e7669b94",
+            "sha512": "891806e3a7e33e0a2be7c4fa4c8b1ebcba06a885aea73e8485584dc3c2dcc23caadca0ea204a869160d919cace6f3a4cb3422e4a922bce1c870f59b1abc7d9e5"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/AD8XMDqK/PrickleMC-forge-1.21.1-21.1.8.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.8.jar",
+          "primary": true,
+          "size": 83632,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "vHkkdot7",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.8",
+      "version_number": "21.1.8",
+      "changelog": "- Change publication settings.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T07:50:18.121557Z",
+      "downloads": 1282689,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "S6QFgRh4",
+          "hashes": {
+            "sha1": "02307f5bfa24829af9aaa9371107ce49649c3605",
+            "sha512": "f24ae1f8fb806ac508102b012d8f8b8bc8db9d21d3bcab5bb37b72fd660b7b508053a343c1fa3778826cbb9722556813c1e1a33afd6024814367640ec84545e6"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/vHkkdot7/prickle-fabric-1.21.1-21.1.8.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.8.jar",
+          "primary": true,
+          "size": 86155,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "WnFkNHWx",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.7",
+      "version_number": "21.1.7",
+      "changelog": "- Loosen compatibility requirements for some mod loaders\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T07:46:28.844459Z",
+      "downloads": 167,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "jx5XYSc3",
+          "hashes": {
+            "sha512": "fdb68819682805d3d75edc27b48c45659ea0d26e5c3da5b0ca937b7285553e13d15e2c711de151542c93c822668f248c04aed648ef348d7ee42f9b251f164e55",
+            "sha1": "371b262959335cbb857c31e39176b1e0329f43e8"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/WnFkNHWx/prickle-neoforge-1.21.1-21.1.7.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.7.jar",
+          "primary": true,
+          "size": 83725,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "gmlxcQ89",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.7",
+      "version_number": "21.1.7",
+      "changelog": "- Loosen compatibility requirements for some mod loaders\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T07:46:25.557187Z",
+      "downloads": 107,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "aiqRaQGP",
+          "hashes": {
+            "sha1": "199ba683238545381733c9a7aa09318e780f33d2",
+            "sha512": "d5e38858e41652aa069337e0361098120f08cecc7ae8f5f44478bf1d62a26271937ad7cfd311d51dcffdefc8a0da6598adde23086c7a892209e5972c0b70e0a1"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/gmlxcQ89/PrickleMC-forge-1.21.1-21.1.7.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.7.jar",
+          "primary": true,
+          "size": 83633,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "TvVvPKl9",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.7",
+      "version_number": "21.1.7",
+      "changelog": "- Loosen compatibility requirements for some mod loaders\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- Solorah\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2025-05-19T07:46:22.193501Z",
+      "downloads": 173,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "5tCxsbsf",
+          "hashes": {
+            "sha512": "8e6efd93b380b1c6e8d6e44eb51befa34d7f7af2345df53bafc74290e84c373c028daf4dda00b1b64766945aa9caf159e1fa4832809a4c141183ef89eb3d5d00",
+            "sha1": "6edbc4b4d8f0f55e356c255b0004e15d830edd83"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/TvVvPKl9/prickle-fabric-1.21.1-21.1.7.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.7.jar",
+          "primary": true,
+          "size": 86155,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "R9ZWDTuu",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.6",
+      "version_number": "21.1.6",
+      "changelog": "- Fix NaN and Infinity values causing a crash on load.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-23T07:08:52.830594Z",
+      "downloads": 301346,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "Yg9TcXws",
+          "hashes": {
+            "sha512": "f2d3d83b592d0765080bb13f78f61ea5481a79f06797a47684b41d44bce907fc365220aae0e8886e87814a7c95c7c4d07436a65c4e5556b2ea9ed9986c1e09f4",
+            "sha1": "75822ccfb761212b25c0057902e587ac6465f54d"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/R9ZWDTuu/prickle-neoforge-1.21.1-21.1.6.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.6.jar",
+          "primary": true,
+          "size": 83719,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "71uGzL9R",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.6",
+      "version_number": "21.1.6",
+      "changelog": "- Fix NaN and Infinity values causing a crash on load.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-23T07:08:49.422468Z",
+      "downloads": 6764,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TJ7oiFL7",
+          "hashes": {
+            "sha1": "f442de2ce93b6eddee44b63a185add673d62a38b",
+            "sha512": "defd3e436720922bb43d44462114fef4e65cc3c4bc44363d12ede0fb21743cdeb93c108bf36e96a276007d11d036623b4e220c8e3a0913ddf35eec9cd2755319"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/71uGzL9R/PrickleMC-forge-1.21.1-21.1.6.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.6.jar",
+          "primary": true,
+          "size": 83628,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "aGDJh61g",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.6",
+      "version_number": "21.1.6",
+      "changelog": "- Fix NaN and Infinity values causing a crash on load.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-23T07:08:46.260572Z",
+      "downloads": 1931259,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kUjS4yD8",
+          "hashes": {
+            "sha512": "d4cde1cca30cbc112634b0516f4c5693358788d2446628a25f3f5f7424752debd75b9779a84c973d1c10fedab2c5d60ab61737087922a93f74109e22c5de29f9",
+            "sha1": "37a4d086303671e64baf8a2814e8c3e8326d16e2"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/aGDJh61g/prickle-fabric-1.21.1-21.1.6.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.6.jar",
+          "primary": true,
+          "size": 86156,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "RIOedxsd",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.5",
+      "version_number": "21.1.5",
+      "changelog": "- Disable logo blur\n- Fix project validation.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T09:26:20.201930Z",
+      "downloads": 779,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "eQVPrhaJ",
+          "hashes": {
+            "sha1": "cf64bfdd764500d4fa270de578eb0ccabb2706c1",
+            "sha512": "ba302820006c97ccc2dae90684408024b157a890c34b2839595055c3567cb01685944b1b02cd019c82000589d0ec4bf8b987c3ba92fbb35084b592caf2f680ff"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/RIOedxsd/prickle-neoforge-1.21.1-21.1.5.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.5.jar",
+          "primary": true,
+          "size": 83674,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "Yoe0M47k",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.5",
+      "version_number": "21.1.5",
+      "changelog": "- Disable logo blur\n- Fix project validation.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T09:26:15.950644Z",
+      "downloads": 387,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "CmdEql1w",
+          "hashes": {
+            "sha1": "978a0309fd1c8ed723ec95d26fe5f12c2ae191a4",
+            "sha512": "2babd2675b601a727d2efaecf34d6105baba0014102738980d866a7bf1eac4cb5b30be738a5f29a7c0586ba81cbb9dd3cd2413e9fc286a3c19fa5aa53bbcad83"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Yoe0M47k/PrickleMC-forge-1.21.1-21.1.5.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.5.jar",
+          "primary": true,
+          "size": 83581,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "VX5BOYQ8",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.5",
+      "version_number": "21.1.5",
+      "changelog": "- Disable logo blur\n- Fix project validation.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-19T09:26:12.293268Z",
+      "downloads": 11620,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "7Pz2TGU8",
+          "hashes": {
+            "sha1": "5ca0c21270dd1ca307c0c605bbcc51aaa43707b6",
+            "sha512": "56ddc184dbaabf34173fd1daf5a5a4589f2462e876cff8ec7cd53fd2592a902ded1bfac1f4b46c232bdd43b57ec40f6ac54c311ecdd1c1422c2f71e19b5bcaf7"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/VX5BOYQ8/prickle-fabric-1.21.1-21.1.5.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.5.jar",
+          "primary": true,
+          "size": 86103,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "m8OGTxU9",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.4",
+      "version_number": "21.1.4",
+      "changelog": "- Fix config files not generating in subdirectories.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-03T21:29:28.602847Z",
+      "downloads": 18252,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OrGTFkg7",
+          "hashes": {
+            "sha512": "83027e99e22becf8e2ec044bb4bcf17db2be3e709e8913183735f52fb6e23d5999b2c711aa91f2154e1387e9eac3c09c3f3c17e1b5bce56d5873e36df72a7703",
+            "sha1": "2d6e857d2266ebc2dad16999b446e59799369d34"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/m8OGTxU9/prickle-neoforge-1.21.1-21.1.4.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.4.jar",
+          "primary": true,
+          "size": 83664,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "LfVoY8QX",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.4",
+      "version_number": "21.1.4",
+      "changelog": "- Fix config files not generating in subdirectories.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-03T21:29:25.246479Z",
+      "downloads": 845,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "qFRBYxZC",
+          "hashes": {
+            "sha512": "4525dd6422f11f313f152bbbe79d4c5de2e03ea5e66daa4bfe1de67a6cc7da5f26a5362a1778e2f5e70d7ece8898a09da7768087ab6bd3adea7581ae75975b71",
+            "sha1": "147aa37b6d14ec3f81f1ff40365a1451547ceae1"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/LfVoY8QX/PrickleMC-forge-1.21.1-21.1.4.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.4.jar",
+          "primary": true,
+          "size": 83571,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "Eyy6cEfS",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.4",
+      "version_number": "21.1.4",
+      "changelog": "- Fix config files not generating in subdirectories.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-03T21:29:21.989495Z",
+      "downloads": 21055,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "ieXrwFMv",
+          "hashes": {
+            "sha512": "2a4432fa6068d2ab2d1b29e7cfd0ba5e6e12b3cca2035ff3dbdd609c093651d254abbea9417e64f16129956b9888d07a0c85c59da1874036e4d4e00beb9da73e",
+            "sha1": "d6bdba85a65643efb2e3881ef340ce7a97d86969"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Eyy6cEfS/prickle-fabric-1.21.1-21.1.4.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.4.jar",
+          "primary": true,
+          "size": 86102,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "3aKRiOiA",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.3",
+      "version_number": "21.1.3",
+      "changelog": "- Downgrade Fabric Loader requirement to 0.16.4\n- Fix Mixins not applying on some platforms.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-02T08:39:28.646791Z",
+      "downloads": 355,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "BVXY4wZb",
+          "hashes": {
+            "sha1": "6c2455075ca375780d75dee1f5ed5ac8c8e0ae34",
+            "sha512": "528f51fc327d2580a8f42ba38b1165c4bbb47e22a34362e6a67cee86bd0b6e75769579bf558f84460772d7a007f3bd09d07ed7b1fdab30f9ef249359b2ddcff6"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/3aKRiOiA/prickle-neoforge-1.21.1-21.1.3.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.3.jar",
+          "primary": true,
+          "size": 83577,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "Vq5saw6j",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.3",
+      "version_number": "21.1.3",
+      "changelog": "- Downgrade Fabric Loader requirement to 0.16.4\n- Fix Mixins not applying on some platforms.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-02T08:39:24.983423Z",
+      "downloads": 226,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "FWzXjprd",
+          "hashes": {
+            "sha1": "dea3baa3cc2d7be4ca6427faaa7bca207f632aa6",
+            "sha512": "e746b4a8678717fd15dc90d00500a0bd149e96304caa527f2b206991f3c250110551d09ba8add524ac4feb42b231d764cfd8e3a435b88d4354bcebea50d5c11b"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Vq5saw6j/PrickleMC-forge-1.21.1-21.1.3.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.3.jar",
+          "primary": true,
+          "size": 83485,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "pNfgr7Oh",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.3",
+      "version_number": "21.1.3",
+      "changelog": "- Downgrade Fabric Loader requirement to 0.16.4\n- Fix Mixins not applying on some platforms.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-10-02T08:39:21.765474Z",
+      "downloads": 1328,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "9mHTVnuB",
+          "hashes": {
+            "sha1": "3e5e8348e1f2c6051a4dbfed55e8e6d94adda6d5",
+            "sha512": "0a8f3705a56280b53c24f70f18389b523f3448c67f484e479940c5c0df1e624daa8c7537cd07e7bfbad3e749950ac91d64f32e813957f702dedd255a8bd16ed0"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/pNfgr7Oh/prickle-fabric-1.21.1-21.1.3.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.3.jar",
+          "primary": true,
+          "size": 86025,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "2INqAJlG",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.2",
+      "version_number": "21.1.2",
+      "changelog": "- Update version info.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-09-26T05:50:02.202277Z",
+      "downloads": 646,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "KYDDSZ8O",
+          "hashes": {
+            "sha512": "d712a62f9f0bc276c179d5cade00107af212e737197582334a3934bba610de0a2e54588b81099912897f87ffc1caccaf41a7a839911e9883210805c2046c615f",
+            "sha1": "761f278ff3b2343b4e854d9468bf69b7e6cc8d5a"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/2INqAJlG/prickle-neoforge-1.21.1-21.1.2.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.2.jar",
+          "primary": true,
+          "size": 83577,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "UEnsmahs",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.2",
+      "version_number": "21.1.2",
+      "changelog": "- Update version info.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-09-26T05:49:58.790896Z",
+      "downloads": 343,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "C1biFqeV",
+          "hashes": {
+            "sha512": "f0186a4a2e4091389dec6fa89bb5304f2bb3c8ac71d71cd6800f7ac941a4cfd9d8dcb907864bb7428f2e85e05a00491822631fd0e034c26127f80590dcf5b11a",
+            "sha1": "f620325cb861bad9154011783ac0ef8b0e3c1e3a"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/UEnsmahs/PrickleMC-forge-1.21.1-21.1.2.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.2.jar",
+          "primary": true,
+          "size": 83456,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "DEP3I7qX",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.2",
+      "version_number": "21.1.2",
+      "changelog": "- Update version info.\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-09-26T05:49:55.407763Z",
+      "downloads": 7343,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "TeurhXQs",
+          "hashes": {
+            "sha1": "a0663f9515f7bd35c3d2d0635ec0466703d99117",
+            "sha512": "a1adc6dee644fdca18376a5161e1823f344002d4b15a074bc692c728c91f3330f8b78831ec1fdff9724a632ac3c6918cd4a50badc558df421280a43dc137d920"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/DEP3I7qX/prickle-fabric-1.21.1-21.1.2.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.2.jar",
+          "primary": true,
+          "size": 86025,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_and_server",
+      "id": "nyfft2Bq",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-neoforge-1.21.1-21.1.1",
+      "version_number": "21.1.1",
+      "changelog": "- Port to Minecraft 1.21.1\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-09-26T05:48:52.964103Z",
+      "downloads": 553,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "O58lteof",
+          "hashes": {
+            "sha1": "ee796d676a462ac4cc3f4e4a469989604630b1cd",
+            "sha512": "82c751c3b95de11a47fcd13b40c1438d970c3c115316d4ab82d5200971fcf326b9af0b98ca971e26f8125b3fd8d1e54cd7a0ba9c08b11846d78d011615173fa8"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/nyfft2Bq/prickle-neoforge-1.21.1-21.1.1.jar",
+          "filename": "prickle-neoforge-1.21.1-21.1.1.jar",
+          "primary": true,
+          "size": 83576,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge"
+      ],
+      "environment": "client_and_server",
+      "id": "6mRtUYZh",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-forge-1.21.1-21.1.1",
+      "version_number": "21.1.1",
+      "changelog": "- Port to Minecraft 1.21.1\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-09-26T05:48:49.488328Z",
+      "downloads": 409,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "MaVS5KbF",
+          "hashes": {
+            "sha1": "cb2fc5a83037d4c9c490109650d03f394f62f109",
+            "sha512": "4173995fdf9e3ddc2bfc14b38c4678363d2e0288915b38fef2fe8746b763619c7d712974212c03a9335f02205d494a3adbfd908116580c181a8a6619524d3844"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/6mRtUYZh/PrickleMC-forge-1.21.1-21.1.1.jar",
+          "filename": "PrickleMC-forge-1.21.1-21.1.1.jar",
+          "primary": true,
+          "size": 83455,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_and_server",
+      "id": "mJD5MXL4",
+      "project_id": "aaRl8GiW",
+      "author_id": "TiqUUK2E",
+      "featured": false,
+      "name": "PrickleMC-fabric-1.21.1-21.1.1",
+      "version_number": "21.1.1",
+      "changelog": "- Port to Minecraft 1.21.1\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?prickle) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- mums spaghetti\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+      "changelog_url": null,
+      "date_published": "2024-09-26T05:48:45.984802Z",
+      "downloads": 460,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "kqlgo5A7",
+          "hashes": {
+            "sha512": "8828efe7345723efdf0966335dde3365300180b131e93f9e78319fd41d5f4736354ce4202c6c03326851337f5b456123a09fd9974226132f692dc03c2aef3f63",
+            "sha1": "339087898452bf8dea5b1ddd83d36f9d0334270f"
+          },
+          "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/mJD5MXL4/prickle-fabric-1.21.1-21.1.1.jar",
+          "filename": "prickle-fabric-1.21.1-21.1.1.jar",
+          "primary": true,
+          "size": 86024,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

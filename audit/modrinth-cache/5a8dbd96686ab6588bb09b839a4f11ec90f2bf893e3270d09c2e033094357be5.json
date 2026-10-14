@@ -1,0 +1,381 @@
+{
+  "url": "https://api.modrinth.com/v2/project/6avVoBVB/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:12:01.381957+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Zb6dytvm",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.5",
+      "version_number": "0.1.5",
+      "changelog": "## New Features\n- Added Theme Studio in-game tool to edit themes and assign items\n- Add support for optional item frame progress bar\n- Add a data driven way to create custom borders\n- Add support for developers to register their own borders\n- Add support for item/namespace blacklisting (issue #13)\n- Add support for blacklisting tooltip components\n## Compatibility\n- Add ability to handle legacy formatting codes\n- Add support for Simply Swords tooltip cooldowns\n- Added support for Simply Swords weapon implicits\n- Added support for component based tooltip themes, as requested in issue #11\n- Add support for create, and any (hopefully) most other mods that add custom tooltip data (issue #13)\n## Customisation\n- Allow users to use any border with any theme\n## New Themes\n- Added Blood theme\n- Added Corrupted Eye theme\n- Added Spectral theme\n- Added Radiant theme\n- Added Candle theme\n- Added Amethyst theme\n- Added Tome theme\n## Bug Fixes\n- Fixed an issue that resulted in the tooltip gif capture being activated when the player is typing in a text field. Issue #6\n- Potential fix for an issue that resulted in a crash when hovering the mouse over any UI element introduced by JEI",
+      "changelog_url": null,
+      "date_published": "2026-08-23T14:06:10.431669Z",
+      "downloads": 77562,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "XJudT7m4",
+          "hashes": {
+            "sha512": "7be6beb5f72c03b7c9f44568c11577f2ba50aec8d16af34d860294718cd2ab550691a8e82756d96c6f0bdd1111e2de8aa68db970c5762be659ad4aec69940ebd",
+            "sha1": "6227453d5b628b1009d6ec516a0da5b588849744"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Zb6dytvm/SimplyTooltips-neoforge-0.1.5.jar",
+          "filename": "SimplyTooltips-neoforge-0.1.5.jar",
+          "primary": true,
+          "size": 5512986,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "hYykXjDp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "JNwqmYnu",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.5",
+      "version_number": "0.1.5",
+      "changelog": "## New Features\n- Added Theme Studio in-game tool to edit themes and assign items\n- Add support for optional item frame progress bar\n- Add a data driven way to create custom borders\n- Add support for developers to register their own borders\n- Add support for item/namespace blacklisting (issue #13)\n- Add support for blacklisting tooltip components\n## Compatibility\n- Add ability to handle legacy formatting codes\n- Add support for Simply Swords tooltip cooldowns\n- Added support for Simply Swords weapon implicits\n- Added support for component based tooltip themes, as requested in issue #11\n- Add support for create, and any (hopefully) most other mods that add custom tooltip data (issue #13)\n## Customisation\n- Allow users to use any border with any theme\n## New Themes\n- Added Blood theme\n- Added Corrupted Eye theme\n- Added Spectral theme\n- Added Radiant theme\n- Added Candle theme\n- Added Amethyst theme\n- Added Tome theme\n## Bug Fixes\n- Fixed an issue that resulted in the tooltip gif capture being activated when the player is typing in a text field. Issue #6\n- Potential fix for an issue that resulted in a crash when hovering the mouse over any UI element introduced by JEI",
+      "changelog_url": null,
+      "date_published": "2026-08-23T14:05:06.527532Z",
+      "downloads": 199384,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "WxonyL7G",
+          "hashes": {
+            "sha512": "7784a2a39f0dd23c7a50761ae924bd64c4aedeed714af938f6beea46ada54966d89fb382b8ba379bb0e8672ec288b1e05bfc4c097f93cf34d6d6d05e8b877234",
+            "sha1": "2eb686991b9ca32fc9498bc05a9fd3b42f0b60a0"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/JNwqmYnu/SimplyTooltips-fabric-0.1.5.jar",
+          "filename": "SimplyTooltips-fabric-0.1.5.jar",
+          "primary": true,
+          "size": 5513375,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "hYykXjDp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "jrFEfRpA",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.3",
+      "version_number": "0.1.3",
+      "changelog": "- Performance improvements and optimisations",
+      "changelog_url": null,
+      "date_published": "2026-03-06T10:36:14.239584Z",
+      "downloads": 96707,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6pCBBW6n",
+          "hashes": {
+            "sha512": "e4e5797491cf05571baa7ea7824c12201283503221ca51fd62ea006aaff465ccd64de73f5b7b977a8a9ba20a47a5d1c0c38d5a8ace17a8545fbb7ac4ae97e47d",
+            "sha1": "acc69000edb207aaa1745430381945611ca4673f"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/jrFEfRpA/SimplyTooltips-fabric-0.1.3.jar",
+          "filename": "SimplyTooltips-fabric-0.1.3.jar",
+          "primary": true,
+          "size": 5320609,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "Ic73EcJ6",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.3",
+      "version_number": "0.1.3",
+      "changelog": "- Performance improvements and optimisations",
+      "changelog_url": null,
+      "date_published": "2026-03-06T10:35:36.954275Z",
+      "downloads": 207220,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "6nn0lHdh",
+          "hashes": {
+            "sha512": "de69a684be47c7e25e6f8612f4aabe0fbf12816a40a8432eb9176b7f2d766e866dd96efbc0952e9dd683e97747ee15e1fe4d62cec1485c5c8dde9e58eef673ad",
+            "sha1": "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Ic73EcJ6/SimplyTooltips-neoforge-0.1.3.jar",
+          "filename": "SimplyTooltips-neoforge-0.1.3.jar",
+          "primary": true,
+          "size": 5320037,
+          "file_type": null
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "XB8WfWbI",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.2",
+      "version_number": "0.1.2",
+      "changelog": "- Added Apotheosis compatibility.\n- Fixed a bug that caused large loss of FPS when in villager trading screens, and some other specific circumstances.\n- Added easier support for Simply Swords addons (see step 7 of github readme).",
+      "changelog_url": null,
+      "date_published": "2026-03-06T06:12:25.974181Z",
+      "downloads": 314,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "OHNVqQj5",
+          "hashes": {
+            "sha512": "bfadd9f5c1ac42c5c9604ac6d8d0c69097196d06d4ee696814dad6d12c4d6acc21aaa2a4ec99e516e5a01e5d559cc7000b26bf23a4911a2899cf4bd24ac6db21",
+            "sha1": "f3744eec15edc215ef06eb536e4c64bd63877ca4"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/XB8WfWbI/SimplyTooltips-fabric-0.1.2.jar",
+          "filename": "SimplyTooltips-fabric-0.1.2.jar",
+          "primary": true,
+          "size": 5317965,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "hYykXjDp",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "DbElV4TF",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.2",
+      "version_number": "0.1.2",
+      "changelog": "- Added Apotheosis compatibility.\n- Fixed a bug that caused large loss of FPS when in villager trading screens, and some other specific circumstances.\n- Added easier support for Simply Swords addons (see step 7 of github readme).",
+      "changelog_url": null,
+      "date_published": "2026-03-06T06:11:23.992203Z",
+      "downloads": 267,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "SgJkuyCp",
+          "hashes": {
+            "sha1": "228fa0b6b6199a9997de6cc83796198151ed94ed",
+            "sha512": "bd8d1d9d8d1e7996e72400f098145e17d7ffded724cf16c83b8190d4e0360a1ec35c3ec2e421b74ed817164518555a0f740340be14e2ee24b365de0725df676b"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/DbElV4TF/SimplyTooltips-neoforge-0.1.2.jar",
+          "filename": "SimplyTooltips-neoforge-0.1.2.jar",
+          "primary": true,
+          "size": 5317399,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "hYykXjDp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "environment": "client_only",
+      "id": "sqD0VTIY",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.1",
+      "version_number": "0.1.1",
+      "changelog": "Initial release",
+      "changelog_url": null,
+      "date_published": "2026-03-03T05:22:27.401344Z",
+      "downloads": 298,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "uGGMivmp",
+          "hashes": {
+            "sha1": "8cb9f93726124123319da430085dab553526905b",
+            "sha512": "1223e5f1435936cc15b1623d44a0749171f5490824ac4e63f199cc9a67553ed72cde8ee2290a4e5e54ec3fcfc02d6493f276f19cc937709ede437d69686bd354"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/sqD0VTIY/SimplyTooltips-neoforge-0.1.1.jar",
+          "filename": "SimplyTooltips-neoforge-0.1.1.jar",
+          "primary": true,
+          "size": 5296111,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "hYykXjDp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric"
+      ],
+      "environment": "client_only",
+      "id": "5rJISnj8",
+      "project_id": "6avVoBVB",
+      "author_id": "898EzW8v",
+      "featured": false,
+      "name": "Simply Tooltips 0.1.1",
+      "version_number": "0.1.1",
+      "changelog": "Initial release",
+      "changelog_url": null,
+      "date_published": "2026-03-03T05:21:33.046196Z",
+      "downloads": 132,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "PZXthfPB",
+          "hashes": {
+            "sha1": "1c828831af7afa5306d5154995549c07a84d07bf",
+            "sha512": "a251d56fe057e74421fbece725feea4eb100fc44b07aa3aea93247b27d7c36bec21f44721b90dae532013bcf64b129fb47645892b00517095273449fe23b5fe2"
+          },
+          "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/5rJISnj8/SimplyTooltips-fabric-0.1.1.jar",
+          "filename": "SimplyTooltips-fabric-0.1.1.jar",
+          "primary": true,
+          "size": 5296795,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "hYykXjDp",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "lhGA9TYQ",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ]
+}

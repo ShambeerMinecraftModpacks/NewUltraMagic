@@ -1,0 +1,172 @@
+{
+  "url": "https://api.modrinth.com/v2/project/tooltip-scroll",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:11:57.678594+00:00",
+  "response": {
+    "client_side": "required",
+    "server_side": "unsupported",
+    "game_versions": [
+      "1.18.2",
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2",
+      "26.3"
+    ],
+    "environment": [
+      "client_only"
+    ],
+    "id": "wySVd6d8",
+    "slug": "tooltip-scroll",
+    "project_type": "mod",
+    "team": "BWyXRCQP",
+    "organization": null,
+    "title": "Tooltip Scroll",
+    "description": "The premier Fabric mod that allows you to move/scroll tooltips.",
+    "body": "# Tooltip Scroll\n[![Image](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/Provismet/Tooltip-Scroll-Fabric/blob/1.20/LICENSE)\n![Image](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)\n![Image](https://img.shields.io/badge/mod%20loader-fabric/quilt-d64541?style=flat-square)\n\n## Description\nTooltips are now scrollable. With highly-customisable keybinds and settings, you can move tooltips anywhere on or off the screen.\n\n### Movement\nUsing the mouse-wheel, keybinds, or even WASD, tooltips can be moved across the screen.\n\n<img src=\"https://cdn.modrinth.com/data/wySVd6d8/images/cf465a9eb6687ac711a12956f06699c7b35719d8.gif\" alt=\"Tooltips can be moved anywhere on or off the screen.\">\n\n### Smoothness\nSetting a smoothness value lower than 1 will create a gliding visual effect.\n\n![](https://cdn.modrinth.com/data/wySVd6d8/images/d9c3744ff8f902b19858af87240ef21c37a4a986.gif)\n\n## Extras\nTo adjust the settings modmenu and cloth config are required.  \nAlternatively any setting can be adjusted in the `config/tooltipscroll.json` file in your Minecraft profile.",
+    "body_url": null,
+    "published": "2022-11-29T13:18:24.431804Z",
+    "updated": "2026-09-30T15:25:08.473898Z",
+    "approved": "2022-11-29T22:33:52.055464Z",
+    "queued": null,
+    "status": "approved",
+    "requested_status": null,
+    "moderator_message": null,
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": "https://github.com/Provismet/Tooltip-Scroll-Fabric/blob/1.20/LICENSE"
+    },
+    "downloads": 3232836,
+    "followers": 198,
+    "categories": [
+      "utility"
+    ],
+    "additional_categories": [],
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "versions": [
+      "xdHqJ7P0",
+      "iQnm6pzW",
+      "FIN3tl3w",
+      "3aSNcNl3",
+      "CMUPVNBG",
+      "CNNYUl7R",
+      "7H36BjkI",
+      "ZSgfxcE0",
+      "xq09LdXk",
+      "SQPWpcrc",
+      "TeMDldRr",
+      "13mV1C8C",
+      "5ojiSSWq",
+      "M28PFI7a",
+      "uzJqs3bv",
+      "dXCTlhFR",
+      "kfDo2ktt",
+      "MT9Y7ffm",
+      "OxjWqbuz",
+      "frE4xeEM",
+      "mz5TYwct",
+      "c5oNZQPv",
+      "QR031v2k",
+      "3JQ3ZpO1",
+      "vmUmd0NY",
+      "gBczTI9h",
+      "wuLruteM",
+      "CXkFtSPK",
+      "xIlfYF85",
+      "jh31Tayg",
+      "71h0RzwD",
+      "m9jJPsQ6"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/wySVd6d8/e410db2a8ad103ba6d7d16602f7747424fcbb530.png",
+    "raw_icon_url": "https://cdn.modrinth.com/data/wySVd6d8/e410db2a8ad103ba6d7d16602f7747424fcbb530.png",
+    "issues_url": "https://github.com/Provismet/Tooltip-Scroll-Fabric/issues",
+    "source_url": "https://github.com/Provismet/Tooltip-Scroll-Fabric",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [
+      {
+        "id": "ko-fi",
+        "platform": "Ko-fi",
+        "url": "https://ko-fi.com/provismet"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "https://cdn.modrinth.com/data/wySVd6d8/images/034a7a131b9b87b040327bf90da5e5ea058dcb99_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/wySVd6d8/images/034a7a131b9b87b040327bf90da5e5ea058dcb99.png",
+        "featured": false,
+        "title": "Mod Menu Config Screen",
+        "description": "With Mod Menu and Cloth API, you can access a settings menu to change how tooltips are moved and reset.\n\nYou can also edit the config file directly at \"config/tooltipscroll.json\".",
+        "created": "2023-08-15T14:45:41.369035Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/wySVd6d8/images/410c39cba207eef7ceea5863516b0a9d250e9941_350.webp",
+        "raw_url": "https://cdn.modrinth.com/data/wySVd6d8/images/410c39cba207eef7ceea5863516b0a9d250e9941.png",
+        "featured": false,
+        "title": "Moving Tooltips",
+        "description": "Tooltips can be moved anywhere on or off the screen.",
+        "created": "2022-12-09T16:44:21.992116Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/wySVd6d8/images/cf465a9eb6687ac711a12956f06699c7b35719d8.gif",
+        "raw_url": "https://cdn.modrinth.com/data/wySVd6d8/images/cf465a9eb6687ac711a12956f06699c7b35719d8.gif",
+        "featured": true,
+        "title": "Example Scrolling",
+        "description": "Example of using WASD to move a tooltip around the screen.",
+        "created": "2022-12-09T23:35:00.299364Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/wySVd6d8/images/d9c3744ff8f902b19858af87240ef21c37a4a986.gif",
+        "raw_url": "https://cdn.modrinth.com/data/wySVd6d8/images/d9c3744ff8f902b19858af87240ef21c37a4a986.gif",
+        "featured": false,
+        "title": "Smoothness",
+        "description": "Example of mousewheel scrolling with a smoothness of 0.25",
+        "created": "2023-08-15T14:51:26.123220Z",
+        "ordering": 0
+      },
+      {
+        "url": "https://cdn.modrinth.com/data/wySVd6d8/images/aee641b07a7048aca25f27bff07ae44ed9638232.png",
+        "raw_url": "https://cdn.modrinth.com/data/wySVd6d8/images/aee641b07a7048aca25f27bff07ae44ed9638232.png",
+        "featured": false,
+        "title": "Keybinds",
+        "description": "Keybinds can be set to control how you want to move your tooltips around.",
+        "created": "2022-12-09T16:44:23.886086Z",
+        "ordering": 1
+      }
+    ],
+    "color": 1641515,
+    "thread_id": "wySVd6d8",
+    "monetization_status": "monetized"
+  }
+}

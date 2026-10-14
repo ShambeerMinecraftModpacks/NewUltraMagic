@@ -1,0 +1,135 @@
+{
+  "url": "https://api.modrinth.com/v2/project/wySVd6d8/version?game_versions=%5B%221.21.1%22%5D",
+  "request": null,
+  "retrieved_utc": "2026-10-14T12:11:58.504650+00:00",
+  "response": [
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "xIlfYF85",
+      "project_id": "wySVd6d8",
+      "author_id": "RhoX7x9t",
+      "featured": false,
+      "name": "1.5.1+1.21.1",
+      "version_number": "1.5.1+1.21.1",
+      "changelog": "## Additions\r\n- Added compatibility mode.\r\n  - Fixes incompatibilities with mods that use Iceberg's odd tooltip render events.",
+      "changelog_url": null,
+      "date_published": "2025-12-08T01:57:22.168549Z",
+      "downloads": 355733,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "rJFIqg9a",
+          "hashes": {
+            "sha512": "f28b2d838b38f437745a85e944609b06822b513755604cc1a09310bf0790c50b298caca00b7ba143ca5679c676324f18cba1bbbe6de3a73ff75d55790df4a30d",
+            "sha1": "7933cefe9c2f1a45dbfcb2f650e7cb33c4dc5a47"
+          },
+          "url": "https://cdn.modrinth.com/data/wySVd6d8/versions/xIlfYF85/tooltip-scroll-1.5.1%2B1.21.1.jar",
+          "filename": "tooltip-scroll-1.5.1+1.21.1.jar",
+          "primary": true,
+          "size": 81660,
+          "file_type": null
+        },
+        {
+          "id": "3C95II8L",
+          "hashes": {
+            "sha1": "16c20f15ecebe247fffebfccaf9ef6705b86b862",
+            "sha512": "998db6cc8f572b1e6506ab1937782da5609c54fa3d2e644176c81b7d15e215cd6da9e80960ad8a336ef4b665b96b1622eb337721768e56b77dba8139ab888b29"
+          },
+          "url": "https://cdn.modrinth.com/data/wySVd6d8/versions/xIlfYF85/tooltip-scroll-1.5.1%2B1.21.1-sources.jar",
+          "filename": "tooltip-scroll-1.5.1+1.21.1-sources.jar",
+          "primary": false,
+          "size": 21678,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "game_versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "quilt"
+      ],
+      "environment": "client_only",
+      "id": "OxjWqbuz",
+      "project_id": "wySVd6d8",
+      "author_id": "RhoX7x9t",
+      "featured": false,
+      "name": "1.4.0+1.21",
+      "version_number": "1.4.0+1.21",
+      "changelog": "## Additions\n- Added inverted scrolling options. (poqli)\n- Added tooltip for enabling the scrollwheel. (poqli)\n- Added more convenient injection point for mod compatibility.\n\n## Changes\n- Tooltip Scroll now uses LilyLib.\n- Translation keys have become lowercase. (poqli)",
+      "changelog_url": null,
+      "date_published": "2024-08-10T13:17:00.278730Z",
+      "downloads": 1227031,
+      "version_type": "release",
+      "status": "listed",
+      "requested_status": null,
+      "files": [
+        {
+          "id": "zKnCKGSG",
+          "hashes": {
+            "sha512": "df3e51b8408807d6b7dd39cd557c3eaddf94a40a2978499a89a2621ec41703093ef5b610ec045828aae983a6a145e7e95550a437015d8ba28df7f2041677d748",
+            "sha1": "c189e7236f3c5561a32d2887c5ff588692cf894a"
+          },
+          "url": "https://cdn.modrinth.com/data/wySVd6d8/versions/OxjWqbuz/tooltip-scroll-1.4.0%2B1.21.jar",
+          "filename": "tooltip-scroll-1.4.0+1.21.jar",
+          "primary": true,
+          "size": 63497,
+          "file_type": null
+        },
+        {
+          "id": "FV4LdfBU",
+          "hashes": {
+            "sha512": "0b01f2befbe760ce700571a53dbe3f0be989a42e11c53a1d91042cf1fba990b16678f5e79d434915d647662546323be7c3528cfa3041a1040d8868c681a17229",
+            "sha1": "f2ec81b189c8939899a69b87dcdfc049e9d8e102"
+          },
+          "url": "https://cdn.modrinth.com/data/wySVd6d8/versions/OxjWqbuz/tooltip-scroll-1.4.0%2B1.21-sources.jar",
+          "filename": "tooltip-scroll-1.4.0+1.21-sources.jar",
+          "primary": false,
+          "size": 21388,
+          "file_type": null
+        }
+      ],
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "P7dR8mSH",
+          "file_name": null,
+          "dependency_type": "required"
+        },
+        {
+          "version_id": null,
+          "project_id": "mOgUt4GM",
+          "file_name": null,
+          "dependency_type": "optional"
+        },
+        {
+          "version_id": null,
+          "project_id": "9s6osm5g",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    }
+  ]
+}
